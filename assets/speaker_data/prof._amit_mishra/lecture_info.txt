@@ -1,0 +1,2 @@
+From Neuron to Brain
+Past few years have seen unprecedented growth in terms of success of machine learning algorithms. People are talking about singularity more often now a days! How akin are the current developments to actual human brain? This talk will discuss machine learning from a neuromorphic point of view and try to answer 'How has brain inspired the development of deep NN and how can it keep inspiring more breakthrough innovations in the domain of AI'
