@@ -962,3 +962,10 @@ span.schedule-slot-speaker-name{
 .tooltip {
   font-size: 1.25em;
 }
+
+img.crop
+{
+    margin-bottom: -85px;
+    margin-top: -85px;
+}
+
