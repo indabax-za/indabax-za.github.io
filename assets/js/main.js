@@ -32,33 +32,10 @@ ORGANIZERS = {
       link: 'https://elanvb.github.io/CV/' }       
 };
 
-// SPONSORS = [ [ './assets/images/sponsors/deeplearningindaba_com.PNG',
-//     'http://www.deeplearningindaba.com' ],
-//   [ './assets/images/sponsors/stonethree_com.png',
-//     'http://www.stonethree.com' ],
-//   [ './assets/images/sponsors/stonethreemining_com.jpg',
-//     'http://www.stonethreemining.com' ],
-//   [ './assets/images/sponsors/principa_co_za.png',
-//     'http://www.principa.co.za' ],
-//   [ './assets/images/sponsors/rezco_co_za.png',
-//     'http://www.rezco.co.za' ],
-//   [ './assets/images/sponsors/aerobotics_co.png',
-//     'http://www.aerobotics.co' ],
-//   [ './assets/images/sponsors/cortexlogic_com.png',
-//     'http://www.cortexlogic.com' ],
-//   [ './assets/images/sponsors/launchlab_co_za.png',
-//     'http://www.launchlab.co.za' ],
-//   [ './assets/images/sponsors/machineintelligenceafrica_org.png',
-//     'http://www.machineintelligenceafrica.org' ],
-//   [ './assets/images/sponsors/numberboost_com.png',
-//     'http://www.numberboost.com' ],
-//   [ './assets/images/sponsors/stochastic-consulting_com.png',
-//     'http://www.stochastic-consulting.com' ],
-//   [ './assets/images/sponsors/omnisient_com.png',
-//   'http://www.omnisient.com' ],
-//   [ './assets/images/sponsors/ambrite_ch.png',
-//     'http://www.ambrite.ch' ] ]
-// ;
+SPONSORS = [ 
+  [ './assets/images/sponsors/deeplearningindaba_com.PNG',
+    'http://www.deeplearningindaba.com' ]
+];
 /*
  * Change Navbar color while scrolling
  */
