@@ -172,7 +172,7 @@ ul li {
   letter-spacing: 1px;
   margin: 0 0 20px;
   text-transform: uppercase;
-  text-align: center;
+  text-align: left;
 }
 
 /*
@@ -238,8 +238,8 @@ ul li {
 #apply {
   font-weight: bold;
   font-size: 2em;
-  background-color: #62d65e;
-  margin-top: 0.5em;
+  background-color: #5e70d6;
+  margin-top: 0.9em;
 }
 #sponsor {
   font-weight: bold;
@@ -400,7 +400,7 @@ ul.nav.navbar-nav {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(125, 125, 125, 0.3);
 }
 .site-header .intro {
   color: #fff;
@@ -465,6 +465,7 @@ ul.nav.navbar-nav {
  */
 section.about {
   margin-left: 1em;
+  background-color: #ffffff;
 }
 .about .section-title {
   margin: 0 0 25px;
@@ -530,6 +531,28 @@ ul li.UWC:before {
   background-image: url('../images/institutions/UWC.jpg');
 }
 
+ul li.UKZN:before {
+  content: '';
+  display: inline-block;
+  width: 5em;
+  height: 5em;
+  background-size: 5em;
+  background-repeat: no-repeat;
+  transform: translateY(+33%);
+  background-image: url('../images/institutions/UKZN.jpg');
+}
+
+ul li.WITS:before {
+  content: '';
+  display: inline-block;
+  width: 5em;
+  height: 5em;
+  background-size: 5em;
+  background-repeat: no-repeat;
+  transform: translateY(+33%);
+  background-image: url('../images/institutions/WITS.jpg');
+}
+
 /*
  * 6.2 Section: Facts
  */
@@ -551,6 +574,7 @@ ul li.UWC:before {
   color: #313131;
   text-transform: uppercase;
   margin: 25px 0;
+  background-color: #f8f8f8;
 }
 .speaker h4 {
   text-align: center;
@@ -815,7 +839,7 @@ span.schedule-slot-speaker-name{
   min-height: 1px;
  }
 .sponsors {
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 .sponsors .sponsors-box {
   display: block;
@@ -844,7 +868,6 @@ span.schedule-slot-speaker-name{
 }
 #sponsors .logos {
   background: url("../images/spon-back.png") no-repeat center center/cover;
-  height: 44em;
 }
 
 /*
@@ -961,4 +984,30 @@ span.schedule-slot-speaker-name{
 
 .tooltip {
   font-size: 1.25em;
+}
+
+img.crop
+{
+    margin-bottom: -85px;
+    margin-top: -85px;
+}
+
+.coming-soon {
+  text-align: center;
+  color: #313131;
+  text-transform: uppercase;
+  margin: 25px 0;
+}
+
+
+.schedule {
+  background-color: #f8f8f8;
+}
+
+#about {
+  background-color: #ffffff;
+}
+
+#location {
+  background-color: #f8f8f8;
 }
