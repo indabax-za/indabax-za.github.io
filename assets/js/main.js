@@ -545,7 +545,7 @@ function populateOrganizers(organizers) {
 
 }
 
-// populateSponsors(SPONSORS);
+populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
 populatePanelSpeakers(PANEL, INFO);
 populateKeyNote(KEYNOTE, INFO);
