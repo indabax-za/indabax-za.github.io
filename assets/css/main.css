@@ -465,6 +465,7 @@ ul.nav.navbar-nav {
  */
 section.about {
   margin-left: 1em;
+  background-color: #ffffff;
 }
 .about .section-title {
   margin: 0 0 25px;
@@ -551,6 +552,7 @@ ul li.UWC:before {
   color: #313131;
   text-transform: uppercase;
   margin: 25px 0;
+  background-color: #f8f8f8;
 }
 .speaker h4 {
   text-align: center;
@@ -815,7 +817,7 @@ span.schedule-slot-speaker-name{
   min-height: 1px;
  }
 .sponsors {
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 .sponsors .sponsors-box {
   display: block;
@@ -974,4 +976,17 @@ img.crop
   color: #313131;
   text-transform: uppercase;
   margin: 25px 0;
+}
+
+
+.schedule {
+  background-color: #f8f8f8;
+}
+
+#about {
+  background-color: #ffffff;
+}
+
+#location {
+  background-color: #f8f8f8;
 }
