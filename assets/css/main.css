@@ -172,7 +172,7 @@ ul li {
   letter-spacing: 1px;
   margin: 0 0 20px;
   text-transform: uppercase;
-  text-align: center;
+  text-align: left;
 }
 
 /*
@@ -400,7 +400,7 @@ ul.nav.navbar-nav {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(125, 125, 125, 0.3);
 }
 .site-header .intro {
   color: #fff;
