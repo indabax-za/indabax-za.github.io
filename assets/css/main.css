@@ -531,6 +531,28 @@ ul li.UWC:before {
   background-image: url('../images/institutions/UWC.jpg');
 }
 
+ul li.UKZN:before {
+  content: '';
+  display: inline-block;
+  width: 5em;
+  height: 5em;
+  background-size: 5em;
+  background-repeat: no-repeat;
+  transform: translateY(+33%);
+  background-image: url('../images/institutions/UKZN.jpg');
+}
+
+ul li.WITS:before {
+  content: '';
+  display: inline-block;
+  width: 5em;
+  height: 5em;
+  background-size: 5em;
+  background-repeat: no-repeat;
+  transform: translateY(+33%);
+  background-image: url('../images/institutions/WITS.jpg');
+}
+
 /*
  * 6.2 Section: Facts
  */
