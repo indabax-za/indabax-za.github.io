@@ -22,30 +22,14 @@ PANEL = [
 KEYNOTE = "Dr. Jacques Ludik";
 
 ORGANIZERS = {
-  'Lydia De Lange':
-   { imagePath: './assets/organiser_data/lydia_de_lange/image.jpg' },
-  'Elan Van Biljon':
-   { imagePath: './assets/organiser_data/elan_van_biljon/image.jpg',
-     linkInfoPath: './assets/organiser_data/elan_van_biljon/link.txt',
-     link: 'https://elanvb.github.io/CV/' },
-  'Arnu Pretorius':
-   { imagePath: './assets/organiser_data/arnu_pretorius/image.jpg' },
-  'Buri Gershom':
-   { imagePath: './assets/organiser_data/buri_gershom/image.jpg' },
   'Christopher Currin':
    { imagePath: './assets/organiser_data/christopher_currin/image.jpg' },
-  'Cornel Verburgh':
-   { imagePath: './assets/organiser_data/cornel_verburgh/image.jpg' },
-  'Kayode Olaleye':
-   { imagePath: './assets/organiser_data/kayode_olaleye/image.jpg' },
   'Alex Conway':
    { imagePath: './assets/organiser_data/alex_conway/image.jpg' },
-  'Musa Salmamza':
-   { imagePath: './assets/organiser_data/musa_salmamza/image.jpg' },
-  'Philip Goosen':
-   { imagePath: './assets/organiser_data/philip_goosen/image.jpg' },
-  'Samuel Ofosu Mensah':
-   { imagePath: './assets/organiser_data/samuel_ofosu_mensah/image.jpg' }
+    'Elan Van Biljon':
+    { imagePath: './assets/organiser_data/elan_van_biljon/image.jpg',
+      linkInfoPath: './assets/organiser_data/elan_van_biljon/link.txt',
+      link: 'https://elanvb.github.io/CV/' }       
 };
 
 // SPONSORS = [ [ './assets/images/sponsors/deeplearningindaba_com.PNG',
