@@ -851,6 +851,7 @@ span.schedule-slot-speaker-name{
   height: 6em;
   width: 100%;
   margin: 25px auto;
+  position: relative;
 }
 
 .sponsors .sponsors-box:hover {
