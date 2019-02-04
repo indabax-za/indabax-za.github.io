@@ -369,7 +369,7 @@ function populateSponsors(sponsors) {
                     $("<img />").attr({
                         "src": sponsor[0],
                     })
-                    // .addClass("sponsor-logo")
+                    .addClass("sponsor-logo")
                 )
             )
         );
