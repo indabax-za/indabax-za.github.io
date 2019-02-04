@@ -17,14 +17,48 @@ PANEL = [
 KEYNOTE = "Dr. Jacques Ludik";
 
 ORGANIZERS = {
-  'Christopher Currin':
-   { imagePath: './assets/organiser_data/christopher_currin/image.jpg' },
-  'Alex Conway':
-   { imagePath: './assets/organiser_data/alex_conway/image.jpg' },
-    'Elan Van Biljon':
-    { imagePath: './assets/organiser_data/elan_van_biljon/image.jpg',
-      linkInfoPath: './assets/organiser_data/elan_van_biljon/link.txt',
-      link: 'https://elanvb.github.io/CV/' }       
+    'Maria Schuld':
+    {
+        imagePath: './assets/organiser_data/maria_schuld/image.jpg'
+    },
+    'Steve James':
+    {
+        imagePath: './assets/organiser_data/steve_james/image.jpg'
+    },
+    'Christopher Currin':
+    { 
+        imagePath: './assets/organiser_data/christopher_currin/image.jpg'
+    },
+    'James Allingham':
+    { 
+        imagePath: './assets/organiser_data/james_allingham/image.jpg',
+        linkInfoPath: './assets/organiser_data/james_allingham/link.txt',
+        link: 'https://jamesallingham.co.za/'
+    },
+    'Sicelukwanda Zwane':
+    {
+        imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg'
+    },
+    'Amira Abbas':
+    {
+        imagePath: './assets/organiser_data/amira_abbas/image.jpg'
+    },
+    'Sasha Naidoo':
+    {
+        imagePath: './assets/organiser_data/sasha_naidoo/image.jpg'
+    },
+    'Alex Conway':
+    { 
+        imagePath: './assets/organiser_data/alex_conway/image.jpg',
+        linkInfoPath: './assets/organiser_data/alex_conway/link.txt',
+        link: 'https://github.com/alexcnwy'
+    }
+    // 'Elan Van Biljon':
+    // { 
+    //     imagePath: './assets/organiser_data/elan_van_biljon/image.jpg',
+    //     linkInfoPath: './assets/organiser_data/elan_van_biljon/link.txt',
+    //     link: 'https://elanvb.github.io/CV/'
+    // }       
 };
 
 SPONSORS = [ 
@@ -495,7 +529,7 @@ function populateOrganizers(organizers) {
 
     $slot = $("<div />").addClass("col-xs-3")
     .append(
-      $("<div />").addClass("speaker")
+      $("<div />").addClass("speaker").addClass("organizer")
       .append(
         $("<figure />")
         .append(

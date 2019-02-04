@@ -402,7 +402,7 @@ ul.nav.navbar-nav {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(197, 197, 197, 0.5);
+  background-color: rgba(125, 125, 125, 0.5);
 }
 .site-header .intro {
   color: #fff;
@@ -418,30 +418,33 @@ ul.nav.navbar-nav {
 }
 .site-header .intro h1 {
   margin-top: 0px;
-  font-size: 2em;
+  font-size: 2.4em;
 }
 .site-header .intro h2 {
   margin-top: 1em;
-  font-size: 1.5em;
+  font-size: 1.8em;
   font-weight: 600;
 }
 .site-header .intro h3 {
   margin-top: 1em;
-  font-size: 1.25em;
+  font-size: 1.5em;
   font-weight: 600;
 }
 .site-header .intro h4 {
   margin-top: 1em;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: 300;
 }
 .site-header .intro p {
-  font-size: 1em;
+  font-size: 1.1em;
   margin-bottom: 10px;
   font-weight: 300;
 }
 .site-header .intro img {
   width: 50%;
+  min-width: 500px;
+  margin-bottom: -15px;
+  margin-top: -155px;
 }
 
 .site-header .intro ul.social-block {
@@ -985,12 +988,6 @@ span.schedule-slot-speaker-name{
   font-size: 1.25em;
 }
 
-img.crop
-{
-    margin-bottom: -85px;
-    margin-top: -85px;
-}
-
 .coming-soon {
   text-align: center;
   color: #313131;
@@ -1011,6 +1008,6 @@ img.crop
   background-color: #f8f8f8;
 }
 
-.invis {
-  color:rgba(255, 255, 255, 0);
+.speaker {
+  background-color: #ffffff;
 }
