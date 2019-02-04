@@ -1008,3 +1008,7 @@ img.crop
 #location {
   background-color: #f8f8f8;
 }
+
+.invis {
+  color:rgba(255, 255, 255, 0);
+}
