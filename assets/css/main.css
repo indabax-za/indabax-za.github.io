@@ -866,9 +866,6 @@ span.schedule-slot-speaker-name{
   top: 50%;
   transform: translateY(-50%);
 }
-#sponsors .logos {
-  background: url("../images/spon-back.png") no-repeat center center/cover;
-}
 
 /*
  * 6.8 Section: FAQ
