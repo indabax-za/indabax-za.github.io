@@ -487,13 +487,14 @@ section.about {
   margin-bottom: 0px;
 }
 .about ul.institutions {
-  padding-bottom: 1em;
+  padding-bottom: 1.1em;
 }
 .about ul.institutions li {
    list-style: none;
    padding: 0px;
    margin: 0px;
    height: 5.2em;
+   font-size: 0.9em;
 }
 ul li.UCT:before {
    content: '';
@@ -502,7 +503,7 @@ ul li.UCT:before {
    height: 5em;
    background-size: 5em;
    background-repeat: no-repeat;
-   transform: translateY(+33%);
+   transform: translateY(+45%);
    background-image: url('../images/institutions/UCT.jpg');
 }
 ul li.US:before {
@@ -512,7 +513,7 @@ ul li.US:before {
   height: 5em;
   background-size: 5em;
   background-repeat: no-repeat;
-  transform: translateY(+33%);
+  transform: translateY(+45%);
   background-image: url('../images/institutions/US.jpg');
 }
 ul li.AIMS:before {
@@ -522,7 +523,7 @@ ul li.AIMS:before {
   height: 5em;
   background-size: 5em;
   background-repeat: no-repeat;
-  transform: translateY(+33%);
+  transform: translateY(+45%);
   background-image: url('../images/institutions/AIMS.jpg');
 }
 ul li.UWC:before {
@@ -532,7 +533,7 @@ ul li.UWC:before {
   height: 5em;
   background-size: 5em;
   background-repeat: no-repeat;
-  transform: translateY(+33%);
+  transform: translateY(+45%);
   background-image: url('../images/institutions/UWC.jpg');
 }
 
@@ -543,7 +544,7 @@ ul li.UKZN:before {
   height: 5em;
   background-size: 5em;
   background-repeat: no-repeat;
-  transform: translateY(+33%);
+  transform: translateY(+45%);
   background-image: url('../images/institutions/UKZN.jpg');
 }
 
@@ -554,7 +555,7 @@ ul li.WITS:before {
   height: 5em;
   background-size: 5em;
   background-repeat: no-repeat;
-  transform: translateY(+33%);
+  transform: translateY(+45%);
   background-image: url('../images/institutions/WITS.jpg');
 }
 

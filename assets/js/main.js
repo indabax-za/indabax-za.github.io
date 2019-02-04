@@ -27,7 +27,9 @@ ORGANIZERS = {
     },
     'Christopher Currin':
     { 
-        imagePath: './assets/organiser_data/christopher_currin/image.jpg'
+        imagePath: './assets/organiser_data/christopher_currin/image.jpg',
+        linkInfoPath: './assets/organiser_data/christopher_currin/link.txt',
+        link: 'https://github.com/chris-currin'
     },
     'James Allingham':
     { 
@@ -527,7 +529,7 @@ function populateOrganizers(organizers) {
   for(speaker in organizers) {
     $organizerSection = $(".about .container");
 
-    $slot = $("<div />").addClass("col-xs-3")
+    $slot = $("<div />").addClass("col-xs-4")
     .append(
       $("<div />").addClass("speaker").addClass("organizer")
       .append(
@@ -564,7 +566,7 @@ function populateOrganizers(organizers) {
 
     $row_div.append($slot);
 
-    if(count % 4 == 0) {
+    if(count % 3 == 0) {
         $organizerSection.append($row_div);
         $row_div = $("<div />").addClass("row");
     }
