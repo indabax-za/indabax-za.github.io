@@ -11,12 +11,7 @@ INFO = {
 };
 
 PANEL = [
-  "Dr. Alta De Waal",
-  "Ismail Akhalwaya",
-  "Dr. Jacques Ludik",
-  "Dr. Herman Kamper",
-  "Prof. Amit Mishra",
-  "Prof. Sugnet Lubbe"
+
 ];
 
 KEYNOTE = "Dr. Jacques Ludik";
@@ -549,6 +544,6 @@ function populateOrganizers(organizers) {
 
 populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
-populatePanelSpeakers(PANEL, INFO);
-populateKeyNote(KEYNOTE, INFO);
+// populatePanelSpeakers(PANEL, INFO);
+// populateKeyNote(KEYNOTE, INFO);
 populateOrganizers(ORGANIZERS);

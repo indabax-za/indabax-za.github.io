@@ -8,6 +8,7 @@
 html {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
+  height: 100%;
 }
 
 body {
@@ -18,6 +19,7 @@ body {
   line-height: 1.6;
   position: relative;
   -webkit-font-smoothing: antialiased;
+  height: 100%;
 }
 
 a {
@@ -866,9 +868,6 @@ span.schedule-slot-speaker-name{
   top: 50%;
   transform: translateY(-50%);
 }
-#sponsors .logos {
-  background: url("../images/spon-back.png") no-repeat center center/cover;
-}
 
 /*
  * 6.8 Section: FAQ
@@ -1010,4 +1009,8 @@ img.crop
 
 #location {
   background-color: #f8f8f8;
+}
+
+.invis {
+  color:rgba(255, 255, 255, 0);
 }
