@@ -33,8 +33,10 @@ ORGANIZERS = {
 };
 
 SPONSORS = [ 
-  [ './assets/images/sponsors/deeplearningindaba_com.PNG',
-    'http://www.deeplearningindaba.com' ]
+    [ './assets/images/sponsors/deeplearningindaba_com.png',
+        'http://www.deeplearningindaba.com' ],
+    [ './assets/images/sponsors/ukzn_ac_za.png',
+        'http://www.ukzn.ac.za' ]
 ];
 /*
  * Change Navbar color while scrolling
