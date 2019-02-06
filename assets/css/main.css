@@ -291,19 +291,7 @@ a#schedule {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
-@media (min-width: 768px) {
-  .section {
-    padding: 90px 0;
-  }
 
-  .section-title {
-    color: #313131;
-    letter-spacing: 1px;
-    margin: 0 0 60px;
-    text-transform: uppercase;
-    text-align: left;
-  }
-}
 /*
  * 4.0 Navigation
  */
@@ -450,17 +438,7 @@ ul.nav.navbar-nav {
   padding-top: 0.7em;
 }
 
-@media (min-width: 600px) {  /* changed in attempt to fix mobile look */
-  .navbar-custom {
-    background-color: transparent;
-    padding-top: 30px;
-  }
 
-  .site-branding {
-    margin-top: 6px;
-    margin-left: 0;
-  }
-}
 /*
  * 6.0 Section
  */
@@ -489,6 +467,7 @@ section.about {
 /*
  * 6.2 Section: Facts
  */
+
 .facts i {
   color: #fff;
   font-size: 3em;
@@ -864,36 +843,7 @@ span.schedule-slot-speaker-name{
   width: 100%;
 }
 
-@media (min-width: 768px) {
-  .grid-item-sm-6 {
-    width: 50%;
-  }
 
-  .grid-item-sm-3 {
-    width: 25%;
-  }
-
-  .section-title {
-    margin: 0 0 30px;
-  }
-
-  figure {
-    margin-bottom: 0;
-  }
-}
-@media (min-width: 992px) {
-  .schedule-box {
-    margin: 0;
-  }
-
-  .grid-item-md-6 {
-    width: 50%;
-  }
-
-  .grid-item-md-3 {
-    width: 25%;
-  }
-}
 /*
  * 7.0 Site-footer
  */
