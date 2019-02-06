@@ -104,6 +104,7 @@ ul li {
   border: 0;
   border-radius: 0;
   padding: 6px 28px;
+  white-space: normal;
   text-transform: uppercase;
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
@@ -239,7 +240,7 @@ ul li {
 }
 #apply {
   font-weight: bold;
-  font-size: 2em;
+  font-size: 1.5em;
   background-color: #5e70d6;
   margin-top: 0.9em;
 }
@@ -290,19 +291,7 @@ a#schedule {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
-@media (min-width: 768px) {
-  .section {
-    padding: 90px 0;
-  }
 
-  .section-title {
-    color: #313131;
-    letter-spacing: 1px;
-    margin: 0 0 60px;
-    text-transform: uppercase;
-    text-align: left;
-  }
-}
 /*
  * 4.0 Navigation
  */
@@ -388,7 +377,6 @@ ul.nav.navbar-nav {
 .site-header {
   width: 100%;
   height: 100%;
-  max-width: 100%;
   min-height: 70vh; /* changed in attempt to fix mobile look */
   position: relative;
   text-align: center;
@@ -442,7 +430,6 @@ ul.nav.navbar-nav {
 }
 .site-header .intro img {
   width: 50%;
-  min-width: 300px;
   margin-bottom: -15px;
   margin-top: -155px;
 }
@@ -451,17 +438,7 @@ ul.nav.navbar-nav {
   padding-top: 0.7em;
 }
 
-@media (min-width: 600px) {  /* changed in attempt to fix mobile look */
-  .navbar-custom {
-    background-color: transparent;
-    padding-top: 30px;
-  }
 
-  .site-branding {
-    margin-top: 6px;
-    margin-left: 0;
-  }
-}
 /*
  * 6.0 Section
  */
@@ -486,82 +463,11 @@ section.about {
 .about p {
   margin-bottom: 0px;
 }
-.about ul.institutions {
-  padding-bottom: 1.1em;
-}
-.about ul.institutions li {
-   list-style: none;
-   padding: 0px;
-   margin: 0px;
-   height: 5.2em;
-   font-size: 0.9em;
-}
-ul li.UCT:before {
-   content: '';
-   display: inline-block;
-   width: 5em;
-   height: 5em;
-   background-size: 5em;
-   background-repeat: no-repeat;
-   transform: translateY(+45%);
-   background-image: url('../images/institutions/UCT.jpg');
-}
-ul li.US:before {
-  content: '';
-  display: inline-block;
-  width: 5em;
-  height: 5em;
-  background-size: 5em;
-  background-repeat: no-repeat;
-  transform: translateY(+45%);
-  background-image: url('../images/institutions/US.jpg');
-}
-ul li.AIMS:before {
-  content: '';
-  display: inline-block;
-  width: 5em;
-  height: 5em;
-  background-size: 5em;
-  background-repeat: no-repeat;
-  transform: translateY(+45%);
-  background-image: url('../images/institutions/AIMS.jpg');
-}
-ul li.UWC:before {
-  content: '';
-  display: inline-block;
-  width: 5em;
-  height: 5em;
-  background-size: 5em;
-  background-repeat: no-repeat;
-  transform: translateY(+45%);
-  background-image: url('../images/institutions/UWC.jpg');
-}
-
-ul li.UKZN:before {
-  content: '';
-  display: inline-block;
-  width: 5em;
-  height: 5em;
-  background-size: 5em;
-  background-repeat: no-repeat;
-  transform: translateY(+45%);
-  background-image: url('../images/institutions/UKZN.jpg');
-}
-
-ul li.WITS:before {
-  content: '';
-  display: inline-block;
-  width: 5em;
-  height: 5em;
-  background-size: 5em;
-  background-repeat: no-repeat;
-  transform: translateY(+45%);
-  background-image: url('../images/institutions/WITS.jpg');
-}
 
 /*
  * 6.2 Section: Facts
  */
+
 .facts i {
   color: #fff;
   font-size: 3em;
@@ -584,9 +490,12 @@ ul li.WITS:before {
 }
 .speaker h4 {
   text-align: center;
-  margin-left: 0.7em;
+  margin-left: 0.0em;
   margin-top: 15px;
   margin-bottom: 5px;
+  word-wrap: break-word;
+  text-transform: none;
+  font-size: 90%;
 }
 .speaker h5 {
   text-align: center;
@@ -602,13 +511,13 @@ ul li.WITS:before {
   text-transform: capitalize;
 }
 .speaker img {
-  width: 60%;
+  width: 70%;
   border-radius: 50%;
-  border: 0.5em solid #dadada;
-  box-shadow: 0.25em 0.25em 0.25em grey
+  border: 0.25em solid #dadada;
+  box-shadow: 0.2em 0.2em 0.2em grey
 }
 .speaker img:hover {
-  border: 0.5em solid #62d65e;
+  border: 0.25em solid #62d65e;
   cursor: pointer;
   -webkit-transition: all 0.3s;
    -moz-transition: all 0.3s;
@@ -848,12 +757,9 @@ span.schedule-slot-speaker-name{
   background-color: #ffffff;
   text-align: center;
 }
+
 .sponsors .sponsors-box {
   display: block;
-  height: 6em;
-  width: 100%;
-  margin: 25px auto;
-  position: relative;
 }
 
 .sponsors .sponsors-box:hover {
@@ -872,7 +778,10 @@ span.schedule-slot-speaker-name{
 .sponsors .sponsor-logo {
   width: 80%;
   top: 50%;
-  transform: translateY(-50%);
+}
+
+.sponsors .logos {
+  padding-top: 15px;
 }
 
 /*
@@ -934,36 +843,7 @@ span.schedule-slot-speaker-name{
   width: 100%;
 }
 
-@media (min-width: 768px) {
-  .grid-item-sm-6 {
-    width: 50%;
-  }
 
-  .grid-item-sm-3 {
-    width: 25%;
-  }
-
-  .section-title {
-    margin: 0 0 30px;
-  }
-
-  figure {
-    margin-bottom: 0;
-  }
-}
-@media (min-width: 992px) {
-  .schedule-box {
-    margin: 0;
-  }
-
-  .grid-item-md-6 {
-    width: 50%;
-  }
-
-  .grid-item-md-3 {
-    width: 25%;
-  }
-}
 /*
  * 7.0 Site-footer
  */
