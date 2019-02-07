@@ -372,8 +372,7 @@ function populateSponsors(sponsors) {
             .append(
                 $("<a />").attr({
                     "href":sponsor[1],
-                    "target": "_blank"})    
-                .addClass("sponsors-box")           
+                    "target": "_blank"})              
                 .append(
                     $("<img />").attr({
                         "src": sponsor[0],
