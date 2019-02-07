@@ -65,9 +65,9 @@ ORGANIZERS = {
 
 SPONSORS = [ 
     [ './assets/images/sponsors/deeplearningindaba_com.png',
-        'http://www.deeplearningindaba.com' ],
+        'http://www.deeplearningindaba.com', 'Deep Learning Indaba'],
     [ './assets/images/sponsors/ukzn_ac_za.png',
-        'http://www.ukzn.ac.za' ]
+        'http://www.ukzn.ac.za', 'University of Kwazulu-Natal' ]
 ];
 /*
  * Change Navbar color while scrolling
@@ -364,7 +364,16 @@ function populateSponsors(sponsors) {
                 $("<a />").attr({
                     "href":sponsor[1],
                     "target": "_blank"})
-                .addClass("sponsors-box")
+                    .append(
+                        $("<h4 />")
+                        .text(sponsor[2])        
+                    )
+            )           
+            .append(
+                $("<a />").attr({
+                    "href":sponsor[1],
+                    "target": "_blank"})
+                .addClass("sponsors-box")               
                 .append(
                     $("<img />").attr({
                         "src": sponsor[0],
