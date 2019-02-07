@@ -376,8 +376,9 @@ function populateSponsors(sponsors) {
                 .append(
                     $("<img />").attr({
                         "src": sponsor[0],
+                        "width": "80%",
+                        "top": "50%"
                     })
-                    .addClass("sponsor-logo")
                 )
             )
         );
