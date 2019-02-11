@@ -801,8 +801,9 @@ span.schedule-slot-speaker-name{
   top: 50%;
 }
 
-.sponsors .logos {
-  padding-top: 15px;
+.sponsors .col-sm-3 {
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 /*
