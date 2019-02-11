@@ -74,11 +74,13 @@ ul li {
   display: inline-block;
   height: 5em;
   width: 5em;
-  color: #4e4e4e;
+  color: #e6e6e6;
 }
+
 .intro .social-block li a i {
   font-size: 3.5em;
 }
+
 .intro .social-block li a:hover, .social-block li a:focus {
   color: #4c90ff;
 }
@@ -88,7 +90,7 @@ ul li {
 }
 
 .speaker a i:hover {
-  color: #4c90ff;
+  color: #ffed4c;
 }
 
 .btn.active.focus,
@@ -241,7 +243,7 @@ ul li {
 #apply {
   font-weight: bold;
   font-size: 1.5em;
-  background-color: #5e70d6;
+  background-color: #d6ca5e;
   margin-top: 0.9em;
 }
 #sponsor {
@@ -433,8 +435,9 @@ ul.nav.navbar-nav {
 .site-header .intro h4 {
   margin-top: 0.25em;
   margin-bottom: 0.25em;
-  font-size: 1.2em;
-  font-weight: 300;
+  font-size: 1.5em;
+  font-weight: 600;
+  text-decoration: underline;
 }
 .site-header .intro p {
   font-size: 1.1em;
@@ -442,8 +445,9 @@ ul.nav.navbar-nav {
   font-weight: 300;
 }
 .site-header .intro img {
-  width: 50%;
-  margin-bottom: -50px;
+  width: 100%;
+  max-width: 900px;
+  margin-bottom: -40px;
   margin-top: -160px;
 }
 
