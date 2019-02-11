@@ -447,8 +447,8 @@ ul.nav.navbar-nav {
 .site-header .intro img {
   width: 100%;
   max-width: 900px;
-  margin-bottom: -40px;
-  margin-top: -160px;
+  margin-bottom: -4%;
+  margin-top: -10%;
 }
 
 .site-header .intro ul.social-block {
