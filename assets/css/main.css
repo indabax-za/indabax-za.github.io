@@ -140,7 +140,12 @@ ul li {
 .btn.btn-primary.Hahn-4 {
   background: #fdc086;
 }
-
+.btn.btn-primary.Hahn-3 {
+  background: #2c7fb8;
+}
+.btn.btn-primary.Hahn-5 {
+  background: #7fcdbb;
+}
 .form-control {
   border-radius: 0;
   box-shadow: none;
@@ -695,6 +700,48 @@ section.about {
 #tab_zero .schedule-listing .col-md-4 {
   /*border-right: 1px solid #dadada;*/
   padding: 0px;
+}
+
+#tab_one .schedule-listing .schedule-slot-info-content {
+  margin-left: 0;
+}
+
+#tab_one .schedule-listing .col-md-10 {
+  border-left: 1px solid #dadada;
+}
+
+#tab_one .schedule-listing .col-md-4 {
+  /*border-right: 1px solid #dadada;*/
+  padding: 0px;
+}
+
+#tab_two .schedule-listing .schedule-slot-info-content {
+  margin-left: 0;
+}
+
+#tab_two .schedule-listing .col-md-10 {
+  border-left: 1px solid #dadada;
+}
+
+#tab_two .schedule-listing .col-md-4 {
+  /*border-right: 1px solid #dadada;*/
+  padding: 0px;
+}
+#tab_three .schedule-listing .schedule-slot-info-content {
+  margin-left: 0;
+}
+
+#tab_three .schedule-listing .col-md-10 {
+  border-left: 1px solid #dadada;
+}
+
+#tab_three .schedule-listing .col-md-4 {
+  /*border-right: 1px solid #dadada;*/
+  padding: 0px;
+}
+
+.tab-pane {
+  padding-bottom: 20px;
 }
 
 .schedule-slot-time{
