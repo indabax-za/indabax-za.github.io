@@ -143,10 +143,13 @@ ul li {
   background: #fdc086;
 }
 .btn.btn-primary.Hahn-3 {
-  background: #2c7fb8;
+  background: #8cb2cc;
 }
 .btn.btn-primary.Hahn-5 {
   background: #7fcdbb;
+}
+.btn.btn-primary.Hahn-6 {
+  background: #f2a4a4;
 }
 .form-control {
   border-radius: 0;
@@ -796,6 +799,8 @@ section.about {
 
 .schedule-slot-info-content{
 	 margin-left: 100px;
+   padding-top: 0.2em;
+   padding-bottom: 0.5em;
 }
 
 .schedule-slot-title{
