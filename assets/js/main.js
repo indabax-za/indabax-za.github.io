@@ -23,47 +23,53 @@ ORGANIZERS = {
     },
     'Steve James':
     {
-        imagePath: './assets/organiser_data/steve_james/image.jpg'
+        imagePath: './assets/organiser_data/steve_james/image.jpg',
+        linkInfoPath: './assets/organiser_data/steve_james/link.txt',
+        link: 'https://sdjames.me/'
     },
     'Christopher Currin':
-    { 
+    {
         imagePath: './assets/organiser_data/christopher_currin/image.jpg',
         linkInfoPath: './assets/organiser_data/christopher_currin/link.txt',
         link: 'https://github.com/chris-currin'
     },
     'James Allingham':
-    { 
+    {
         imagePath: './assets/organiser_data/james_allingham/image.jpg',
         linkInfoPath: './assets/organiser_data/james_allingham/link.txt',
         link: 'https://jamesallingham.co.za/'
     },
     'Sicelukwanda Zwane':
     {
-        imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg'
+        imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg',
+        linkInfoPath: './assets/organiser_data/sicelukwanda_zwane/link.txt',
+        link: 'https://www.linkedin.com/in/sicelukwanda-zwane-54873398'
     },
     'Amira Abbas':
     {
-        imagePath: './assets/organiser_data/amira_abbas/image.jpg'
+        imagePath: './assets/organiser_data/amira_abbas/image.jpg',
+        linkInfoPath: './assets/organiser_data/amira_abbas/link.txt',
+        link: 'https://www.linkedin.com/in/amira-abbas/'
     },
     'Sasha Naidoo':
     {
         imagePath: './assets/organiser_data/sasha_naidoo/image.jpg'
     },
     'Alex Conway':
-    { 
+    {
         imagePath: './assets/organiser_data/alex_conway/image.jpg',
         linkInfoPath: './assets/organiser_data/alex_conway/link.txt',
         link: 'https://github.com/alexcnwy'
     }
     // 'Elan Van Biljon':
-    // { 
+    // {
     //     imagePath: './assets/organiser_data/elan_van_biljon/image.jpg',
     //     linkInfoPath: './assets/organiser_data/elan_van_biljon/link.txt',
     //     link: 'https://elanvb.github.io/CV/'
-    // }       
+    // }
 };
 
-SPONSORS = [ 
+SPONSORS = [
     [ './assets/images/sponsors/deeplearningindaba_com.png',
         'http://www.deeplearningindaba.com', 'Deep Learning Indaba'],
     [ './assets/images/sponsors/ukzn_ac_za.png',
@@ -370,13 +376,13 @@ function populateSponsors(sponsors) {
                     "target": "_blank"})
                     .append(
                         $("<h4 />")
-                        .text(sponsor[2])        
+                        .text(sponsor[2])
                     )
-            )          
+            )
             .append(
                 $("<a />").attr({
                     "href":sponsor[1],
-                    "target": "_blank"})              
+                    "target": "_blank"})
                 .append(
                     $("<img />").attr({
                         "src": sponsor[0],
@@ -384,7 +390,7 @@ function populateSponsors(sponsors) {
                         "top": "50%"
                     })
                 )
-            )            
+            )
         );
 
         if(count % 4 == 3) {
