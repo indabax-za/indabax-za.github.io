@@ -78,6 +78,8 @@ SPONSORS = [
         'http://www.nrf.ac.za', 'National Research Foundation' ],
     [ './assets/images/sponsors/wits_ac_za_coe-mass.png',
         'http://www.wits.ac.za/coe-mass', 'CoE-MaSS' ],
+    [ './assets/images/sponsors/stanlib_com.png',
+    'http://www.stanlib.com', 'STANLIB' ]
 ];
 /*
  * Change Navbar color while scrolling
@@ -595,7 +597,8 @@ function populateOrganizers(organizers) {
           ) // append to a
         ) // append to figure
         .append(
-          $("<div />").addClass("col-xs-12")
+          $("<div />")
+          .addClass("col-xs-12")
           .append(
               $("<h4 />").text(speaker)
           ) // heading div
@@ -617,7 +620,7 @@ function populateOrganizers(organizers) {
 
 }
 
-populateSponsors(SPONSORS);
+// populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
 // populatePanelSpeakers(PANEL, INFO);
 // populateKeyNote(KEYNOTE, INFO);

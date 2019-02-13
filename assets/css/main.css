@@ -311,7 +311,6 @@ a#schedule {
     letter-spacing: 1px;
     margin: 0 0 60px;
     text-transform: uppercase;
-    text-align: left;
   }
 }
 /*
@@ -448,13 +447,13 @@ ul.nav.navbar-nav {
   text-decoration: underline;
 }
 .site-header .intro p {
-  font-size: 1.1em;
+  font-size: 1.0em;
   margin-bottom: 10px;
-  font-weight: 300;
+  font-weight: 525;
 }
 .site-header .intro img {
   width: 100%;
-  max-width: 900px;
+  max-width: 700px;
   margin-bottom: -4%;
   margin-top: -10%;
 }
@@ -565,6 +564,13 @@ section.about {
 
 .speaker a i {
   color: #888888;
+}
+
+.coming-soon {
+  text-align: center;
+  color: #313131;
+  text-transform: uppercase;
+  margin: 25px 0;
 }
 
 /*
@@ -831,6 +837,7 @@ span.schedule-slot-speaker-name{
  .col-sm-3 {
   min-height: 1px;
  }
+
 .sponsors {
   background-color: #ffffff;
   text-align: center;
@@ -858,9 +865,17 @@ span.schedule-slot-speaker-name{
   top: 50%;
 }
 
-.sponsors .col-sm-3 {
-  padding-top: 25px;
-  padding-bottom: 25px;
+.sponsors .col-sm-4 {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.sponsors .row {
+  margin-bottom: 2em;
+}
+
+.sponsors h3 {
+  text-transform: uppercase
 }
 
 /*
@@ -979,13 +994,6 @@ span.schedule-slot-speaker-name{
   font-size: 1.25em;
 }
 
-.coming-soon {
-  text-align: center;
-  color: #313131;
-  text-transform: uppercase;
-  margin: 25px 0;
-}
-
 
 .schedule {
   background-color: #f8f8f8;
@@ -1001,4 +1009,9 @@ span.schedule-slot-speaker-name{
 
 .speaker {
   background-color: #ffffff;
+}
+
+.about .col-xs-12 {
+  padding-left: 1px;
+  padding-right: 1px;
 }
