@@ -59,7 +59,7 @@ ORGANIZERS = {
     {
         imagePath: './assets/organiser_data/alex_conway/image.jpg',
         linkInfoPath: './assets/organiser_data/alex_conway/link.txt',
-        link: 'https://github.com/alexcnwy'
+        link: 'https://www.linkedin.com/in/alex-conway-042666105/'
     }
     // 'Elan Van Biljon':
     // {
