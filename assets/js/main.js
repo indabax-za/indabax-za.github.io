@@ -178,11 +178,13 @@ function populateSpeakerInfo(info) {
                             "data-toggle": "modal"
                         })
                         .append(
-                            $("<img />").attr({
+                            $("<img />").attr(info[speaker].bio?
+                                {
                                 "src": info[speaker].imagePath,
                                 "data-toggle": "tooltip",
-                                "title": "Click for more info"
-                            })
+                                  "title": "click me!"
+                                }
+                                :{"src": info[speaker].imagePath})
                         ) // append to a
                     ) // append to figure
                     .append(
@@ -215,6 +217,7 @@ function populateSpeakerInfo(info) {
                         ) // paragraph div
                     ) // append to figure
                     .append(
+                        info[speaker].bio?(
                         $("<div />").addClass("modal fade").attr({
                             "tabindex": "-1",
                             "id": ("myModal" + id),
@@ -247,7 +250,7 @@ function populateSpeakerInfo(info) {
                                     $("<div />").addClass("modal-body")
                                     .append(
                                         $("<h4 />")
-                                        .text(info[speaker].lectureHeading || "")
+                                        .text(info[speaker].speaker || "")
                                     ) // append to modal body
                                     .append(
                                       (
@@ -265,7 +268,7 @@ function populateSpeakerInfo(info) {
                                       )
                                     )
                                     .append(
-                                        ((info[speaker].lectureAbstract || []).join("<br><br>") || "Self-explanatory :)")
+                                        (info[speaker].bio  || "Self-explanatory :)")
                                     )
                                 ) // append to modal content
                                 .append(
@@ -280,6 +283,7 @@ function populateSpeakerInfo(info) {
                                 ) // append to modal content
                             ) // append to modal dialog
                         ) // append to modal div
+                        ):("")
                     ) // append to figure
                 ) // append to speaker div
             ) // append to col div
