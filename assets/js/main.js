@@ -5,6 +5,41 @@ CATEGORY_TO_ICON = {
 };
 
 INFO = {
+    'Dr. Ashley Gritzman':
+    { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg',
+        lectureHeading: 'Will Capsule Networks Replace CNNs?',
+        category: 'Research',
+        affiliation: 'IBM',
+        bio: 'Ashley is a research scientist at IBM Research in South Africa, where his primary research interest is deep learning for computer vision. He obtained undergrad degrees in electrical and biomedical engineering, and completed his PhD at Wits University, which focused on image processing algorithms for automatic lip-reading.'
+    },
+    'Dr. Justine Nasejje':
+    { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg',
+        lectureHeading: 'Using conditional inference forests to model time to event data',
+        category: 'Research',
+        affiliation: 'University of the Witwatersrand',
+        bio: ''
+    },
+    'Dr. Nick Bradshaw':
+    { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
+        lectureHeading: 'Community development as an avenue to career growth',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Cortex Logix / MIIA',
+        bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey."
+    },
+    'Dr. Benjamin Rosman':
+    { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg',
+        lectureHeading: 'Exploiting Structure for Accelerating Reinforcement Learning',
+        category: 'Research',
+        affiliation: 'University of the Witwatersrand / CSIR',
+        bio: ''
+    },
+    'Dr. Terence van Zyl':
+    { imagePath: './assets/speaker_data/dr._terence_van_zyl/image.jpg',
+        lectureHeading: 'Random Neural Networks',
+        category: 'Research',
+        affiliation: 'University of the Witwatersrand',
+        bio: ''
+    }
 };
 
 PANEL = [
