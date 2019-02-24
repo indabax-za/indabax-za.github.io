@@ -154,7 +154,7 @@ function populateSpeakerInfo(info) {
     var $row_div;
 
     // add info to speakers section
-    for(speaker in info) {
+    for(speaker of shuffle(Object.keys(info))) {
         if(info[speaker].imagePath == null || speaker.toUpperCase() == "MORE SPEAKERS TBC") {
           continue;
         }
