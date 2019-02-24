@@ -520,12 +520,14 @@ section.about {
   text-transform: uppercase;
   margin: 25px 0;
   background-color: #f8f8f8;
+  margin-bottom: 175px;
 }
 .speaker h4 {
   text-align: center;
   margin-left: 0.0em;
   margin-top: 15px;
   margin-bottom: 5px;
+  margin-left: 24px;
   word-wrap: break-word;
   text-transform: none;
   font-size: 90%;
