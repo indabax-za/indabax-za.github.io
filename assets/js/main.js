@@ -1,10 +1,7 @@
 CATEGORY_TO_ICON = {
-    'Theory': "ion-ios-book",
-    "Natural language processing": "ion-android-chat",
-    "Lightning talk": "ion-flash",
-    "Vision": "ion-eye",
-    "Speech": "ion-mic-a",
-    "Application": "ion-settings"
+    'Research': "ion-ios-book",
+    "Foundations": "ion-hammer",
+    "Industry/Ethics/Policy": "ion-bowtie"
 };
 
 INFO = {
