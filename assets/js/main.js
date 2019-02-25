@@ -10,6 +10,7 @@ INFO = {
         lectureHeading: 'Will Capsule Networks Replace CNNs?',
         category: 'Research',
         affiliation: 'IBM',
+        abstract: '',
         bio: 'Ashley is a research scientist at IBM Research in South Africa, where his primary research interest is deep learning for computer vision. He obtained undergrad degrees in electrical and biomedical engineering, and completed his PhD at Wits University, which focused on image processing algorithms for automatic lip-reading.'
     },
     'Dr. Justine Nasejje':
@@ -17,6 +18,7 @@ INFO = {
         lectureHeading: 'Using conditional inference forests to model time to event data',
         category: 'Research',
         affiliation: 'University of the Witwatersrand',
+        abstract: '',
         bio: ''
     },
     'Dr. Nick Bradshaw':
@@ -24,6 +26,7 @@ INFO = {
         lectureHeading: 'Community development as an avenue to career growth',
         category: 'Industry/Ethics/Policy',
         affiliation: 'Cortex Logix / MIIA',
+        abstract: '',
         bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey."
     },
     'Dr. Benjamin Rosman':
@@ -31,6 +34,7 @@ INFO = {
         lectureHeading: 'Exploiting Structure for Accelerating Reinforcement Learning',
         category: 'Research',
         affiliation: 'University of the Witwatersrand / CSIR',
+        abstract: '',
         bio: ''
     },
     'Dr. Terence van Zyl':
@@ -38,8 +42,25 @@ INFO = {
         lectureHeading: 'Random Neural Networks',
         category: 'Research',
         affiliation: 'University of the Witwatersrand',
+        abstract: '',
         bio: ''
-    }
+    },
+    'Alex Conway':
+    { imagePath: './assets/speaker_data/alex_conway/image.jpg',
+        lectureHeading: 'Deep Neural Networks for Video Applications',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'NumberBoost',
+        abstract: "Most CCTV video cameras exist as a sort of insurance policy time machine. Deep learning presents an approach to deploy complex business intelligence on top of video streams to trigger real-time anomaly alerts and business process optimization. This talk will present some theory of deep neural networks for video applications as well as several real-world examples of how deep learning can be used to drive business value by making video cameras more intelligent.",
+        bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups."
+    },
+    'Ndivhuwo Makondo':
+    { imagePath: './assets/speaker_data/ndivhuwo_makondo/image.jpg',
+        lectureHeading: 'Machine Learning for Robot Control',
+        category: 'Research',
+        affiliation: 'IBM',
+        abstract: '',
+        bio: ''
+    },
 };
 
 PANEL = [
@@ -178,7 +199,7 @@ function populateSpeakerInfo(info) {
                             "data-toggle": "modal"
                         })
                         .append(
-                            $("<img />").attr(info[speaker].bio?
+                            $("<img />").attr(info[speaker].bio||info[speaker].abstract?
                                 {
                                   "src": info[speaker].imagePath,
                                   "data-toggle": "tooltip",
@@ -217,7 +238,7 @@ function populateSpeakerInfo(info) {
                         ) // paragraph div
                     ) // append to figure
                     .append(
-                        info[speaker].bio?(
+                        info[speaker].bio||info[speaker].bio?(
                         $("<div />").addClass("modal fade").attr({
                             "tabindex": "-1",
                             "id": ("myModal" + id),
@@ -267,8 +288,17 @@ function populateSpeakerInfo(info) {
                                         :""
                                       )
                                     )
+                                    .append( 
+                                        $("<h4 />").text(info[speaker].bio?"Speaker Bio":"")
+                                    )
                                     .append(
-                                        (info[speaker].bio  || "Self-explanatory :)")
+                                        info[speaker].bio
+                                    )
+                                    .append( 
+                                        $("<h4 />").text(info[speaker].abstract?"Talk Abstract":"")
+                                    )
+                                    .append(
+                                        info[speaker].abstract
                                     )
                                 ) // append to modal content
                                 .append(
