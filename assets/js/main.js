@@ -53,7 +53,7 @@ INFO = {
         abstract: "Most CCTV video cameras exist as a sort of insurance policy time machine. Deep learning presents an approach to deploy complex business intelligence on top of video streams to trigger real-time anomaly alerts and business process optimization. This talk will present some theory of deep neural networks for video applications as well as several real-world examples of how deep learning can be used to drive business value by making video cameras more intelligent.",
         bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups."
     },
-    'Ndivhuwo Makondo':
+    'Dr. Ndivhuwo Makondo':
     { imagePath: './assets/speaker_data/ndivhuwo_makondo/image.jpg',
         lectureHeading: 'Machine Learning for Robot Control',
         category: 'Research',
