@@ -15,7 +15,7 @@ INFO = {
     },
     'Dr. Justine Nasejje':
     { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg',
-        lectureHeading: 'Using conditional inference forests to model time to event data',
+        lectureHeading: 'Using Conditional Inference Forests to Model Time to Event Data',
         category: 'Research',
         affiliation: 'University of the Witwatersrand',
         abstract: '',
@@ -23,7 +23,7 @@ INFO = {
     },
     'Dr. Nick Bradshaw':
     { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
-        lectureHeading: 'Community development as an avenue to career growth',
+        lectureHeading: 'Community development as an Avenue to Career Growth',
         category: 'Industry/Ethics/Policy',
         affiliation: 'Cortex Logix / MIIA',
         abstract: '',
@@ -61,6 +61,14 @@ INFO = {
         abstract: '',
         bio: ''
     },
+    'Sebastian Bodenstein and Taliesin Beynon':
+    { imagePath: './assets/speaker_data/sebastian_bodenstein_and_taliesin_beynon/image.jpg',
+        lectureHeading: 'Deep Learning vs The Brain',
+        category: 'Research',
+        affiliation: '',
+        abstract: 'In this talk, Sebastian and Taliesin, core developers of the Wolfram Mathematica Deep Learning framework, will be presenting existing work from neuroscientists and machine learning researchers that attempt to reconcile the mechanism of backpropogation used in Deep Learning with what is known about circuits in the brain.',
+        bio: 'Sebastian Bodenstein and Taliesin Beynon were architects of the deep learning framework that has been part of the Wolfram Language since Mathematica 11, as well as the Neural Network repository that gives free and easy access to dozens of pre-trained neural networks across many domains.'
+    }
 };
 
 PANEL = [
@@ -261,7 +269,7 @@ function populateSpeakerInfo(info) {
                                         .text("x")
                                     ) // append to modal header
                                     .append(
-                                        $("<h4 />").attr({
+                                        $("<h3 />").attr({
                                             "id": "myModalLabel"
                                         })
                                         .text(speaker)
@@ -289,13 +297,13 @@ function populateSpeakerInfo(info) {
                                       )
                                     )
                                     .append( 
-                                        $("<h4 />").text(info[speaker].bio?"Speaker Bio":"")
+                                        $("<h3 />").text(info[speaker].bio?"Short Bio":"")
                                     )
                                     .append(
                                         info[speaker].bio
                                     )
                                     .append( 
-                                        $("<h4 />").text(info[speaker].abstract?"Talk Abstract":"")
+                                        $("<h3 />").text(info[speaker].abstract?"Talk Abstract":"")
                                     )
                                     .append(
                                         info[speaker].abstract
