@@ -25,7 +25,7 @@ INFO = {
     { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
         lectureHeading: 'Community development as an Avenue to Career Growth',
         category: 'Industry/Ethics/Policy',
-        affiliation: 'Cortex Logix / MIIA',
+        affiliation: 'Cortex Logic / MIIA',
         abstract: '',
         bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey."
     },
@@ -65,7 +65,7 @@ INFO = {
     { imagePath: './assets/speaker_data/sebastian_bodenstein_and_taliesin_beynon/image.jpg',
         lectureHeading: 'Deep Learning vs The Brain',
         category: 'Research',
-        affiliation: '',
+        affiliation: 'Wolfram Research',
         abstract: 'In this talk, Sebastian and Taliesin, core developers of the Wolfram Mathematica Deep Learning framework, will be presenting existing work from neuroscientists and machine learning researchers that attempt to reconcile the mechanism of backpropogation used in Deep Learning with what is known about circuits in the brain.',
         bio: 'Sebastian Bodenstein and Taliesin Beynon were architects of the deep learning framework that has been part of the Wolfram Language since Mathematica 11, as well as the Neural Network repository that gives free and easy access to dozens of pre-trained neural networks across many domains.'
     }
