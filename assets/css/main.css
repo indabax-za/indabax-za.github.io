@@ -532,6 +532,11 @@ section.about {
   text-transform: none;
   font-size: 90%;
 }
+
+#about .speaker h4 {
+  margin-left: 0px;
+}
+
 .speaker h5 {
   text-align: center;
   margin-left: 0.7em;
