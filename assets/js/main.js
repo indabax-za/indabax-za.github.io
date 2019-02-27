@@ -165,6 +165,8 @@ SPONSORS = [
         'http://www.wits.ac.za/coe-mass', 'CoE-MaSS' ],
     [ './assets/images/sponsors/stanlib_com.png',
     'http://www.stanlib.com', 'STANLIB' ]
+    [ './assets/images/sponsors/alis_fund.png',
+    'https://alis.fund/', 'alis_' ]
 ];
 /*
  * Change Navbar color while scrolling
