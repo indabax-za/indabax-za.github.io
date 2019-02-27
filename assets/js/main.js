@@ -68,7 +68,23 @@ INFO = {
         affiliation: 'Wolfram Research',
         abstract: 'In this talk, Sebastian and Taliesin, core developers of the Wolfram Mathematica Deep Learning framework, will be presenting existing work from neuroscientists and machine learning researchers that attempt to reconcile the mechanism of backpropogation used in Deep Learning with what is known about circuits in the brain.',
         bio: 'Sebastian Bodenstein and Taliesin Beynon were architects of the deep learning framework that has been part of the Wolfram Language since Mathematica 11, as well as the Neural Network repository that gives free and easy access to dozens of pre-trained neural networks across many domains.'
-    }
+    },
+    'Dr. Emli-Mari Nel':
+    { imagePath: './assets/speaker_data/emli-mari_nel/image.jpg',
+        lectureHeading: 'Ticker: An Adaptive Single-Switch Text Entry Method for Visually Impaired Users',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Empiric Capital',
+        abstract: '',
+        bio: ''
+    },
+    'Wiebke Toussaint':
+    { imagePath: './assets/speaker_data/wiebke-toussaint/image.jpg',
+        lectureHeading: 'Unsupervised Machine Learning 101',
+        category: 'Foundations',
+        affiliation: 'Centre for Artificial Intelligence Research',
+        abstract: 'The goal of unsupervised machine learning is to discover structure in data in the absence of training labels. It can be used to estimate the distribution of data in the input space, to reduce high dimensional data to lower dimensions for the purpose of visualisation or to discover groups of similar observations in the data. This talk is an introduction to unsupervised machine learning.',
+        bio: ''
+    },
 };
 
 PANEL = [
