@@ -85,6 +85,14 @@ INFO = {
         abstract: 'The goal of unsupervised machine learning is to discover structure in data in the absence of training labels. It can be used to estimate the distribution of data in the input space, to reduce high dimensional data to lower dimensions for the purpose of visualisation or to discover groups of similar observations in the data. This talk is an introduction to unsupervised machine learning.',
         bio: ''
     },
+    'James Allingham':
+    { imagePath: './assets/speaker_data/james_allingham/image.jpg',
+        lectureHeading: 'Missing Data Imputation (ML in Practice)',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Wolfram Research',
+        abstract: 'In the real world datasets are often messy – it is common for values to be missing or corrupt. Examples include empty cells in spreadsheets, unanswered survey questions, or readings from faulty sensors. Unfortunately, despite the frequent occurrence of such defects, software engineers tend not to develop algorithms that are robust to missing values. As a result, many common algorithms fail on such datasets. This talk will briefly discuss the theory of missing data and discuss practical appraoches for dealing with missingness in real-world machine learning.',
+        bio: "James is a consultant for Wolfram Research, developing the Mathematica Deep Learning framework. Prior to this James completed a master's in computer science focusing on machine learning. James's dissertation investigated automatic and unsupervised approaches to missing data imputation."
+    },
 };
 
 PANEL = [
