@@ -246,7 +246,7 @@ function populateSpeakerInfo(info) {
                         ) // paragraph div
                     ) // append to figure
                     .append(
-                        info[speaker].bio||info[speaker].bio?(
+                        info[speaker].bio||info[speaker].abstract?(
                         $("<div />").addClass("modal fade").attr({
                             "tabindex": "-1",
                             "id": ("myModal" + id),
