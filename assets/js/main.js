@@ -10,7 +10,7 @@ INFO = {
      { imagePath: './assets/speaker_data/prof._bruce_bassett/image.jpg',
         lectureHeading: 'Title TBD',
         category: 'Keynote',
-        affiliation: 'The University of Cape Town',
+        affiliation: 'University of Cape Town',
         abstract: '',
         bio: '' 
     },
