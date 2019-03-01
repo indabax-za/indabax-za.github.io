@@ -1,10 +1,19 @@
 CATEGORY_TO_ICON = {
     'Research': "ion-ios-book",
     "Foundations": "ion-hammer",
-    "Industry/Ethics/Policy": "ion-bowtie"
+    "Industry/Ethics/Policy": "ion-bowtie",
+    "Keynote": "ion-key"
 };
 
 INFO = {
+    'Prof. Bruce Bassett' :
+     { imagePath: './assets/speaker_data/prof._bruce_bassett/image.jpg',
+        lectureHeading: 'Title TBD',
+        category: 'Keynote',
+        affiliation: 'The University of Cape Town',
+        abstract: '',
+        bio: '' 
+    },
     'Dr. Ashley Gritzman':
     { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg',
         lectureHeading: 'Will Capsule Networks Replace CNNs?',
@@ -209,7 +218,14 @@ function populateSpeakerInfo(info) {
     var $row_div;
 
     // add info to speakers section
-    for(speaker of shuffle(Object.keys(info))) {
+    speakers = shuffle(Object.keys(info));
+
+    speakers = speakers.filter(function(item) { 
+        return item !== 'Prof. Bruce Bassett'
+    });
+    speakers.unshift('Prof. Bruce Bassett');
+
+    for(speaker of speakers) {
         if(info[speaker].imagePath == null || speaker.toUpperCase() == "MORE SPEAKERS TBC") {
           continue;
         }
