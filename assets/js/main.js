@@ -113,7 +113,7 @@ INFO = {
     'Stuart Reid':
     { imagePath: './assets/speaker_data/stuart_reid/image.jpg',
         lectureHeading: 'Saying Goodbye to Guesswork, Automatic Architecture Refinement',
-        category: 'Industry',
+        category: 'Industry/Ethics/Policy',
         affiliation: 'Aerobotics',
         abstract: "Data science is neither data-driven nor scientific. Given how young the field is, this shouldn't come as a surprise. But as the field matures and machine learning models move out of research labs and into the hands of real people, every effort should be taken to remove as much of the guesswork from machine learning as we possibly can. AutoML, but more specifically automatic architecture refinement, offers an easy solution to this problem without discarding our lessons learned so far.",
         bio: "Stuart is the Head of Data Science at Aerobotics, a startup which uses deep learning to extract insights from drone and satellite imagery of tree crops. Prior to that, he spent 7 years in the finance industry working as a Quantitative Analyst. He holds an Honours Degree in Computer Science from the University of Pretoria and is currently working towards a Masters in Applied Mathematics through Stellenbosch University."
