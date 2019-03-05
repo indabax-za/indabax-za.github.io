@@ -102,7 +102,7 @@ INFO = {
         abstract: 'In the real world datasets are often messy – it is common for values to be missing or corrupt. Examples include empty cells in spreadsheets, unanswered survey questions, or readings from faulty sensors. Unfortunately, despite the frequent occurrence of such defects, software engineers tend not to develop algorithms that are robust to missing values. As a result, many common algorithms fail on such datasets. This talk will briefly discuss the theory of missing data and discuss practical appraoches for dealing with missingness in real-world machine learning.',
         bio: "James is a consultant for Wolfram Research, developing the Mathematica Deep Learning framework. Prior to this James completed a master's in computer science focusing on machine learning. James's dissertation investigated automatic and unsupervised approaches to missing data imputation."
     },
-    'Dr. Chris Cleghorn':
+    'Dr. Christopher Cleghorn':
     { imagePath: './assets/speaker_data/dr._chris_cleghorn/image.jpg',
         lectureHeading: 'Black-Box Optimization and its Role in Machine Learning',
         category: 'Research',
