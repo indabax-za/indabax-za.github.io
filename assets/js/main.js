@@ -14,6 +14,14 @@ INFO = {
         abstract: '',
         bio: '' 
     },
+    'Prof. Tshilidzi Marwala':
+     { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg',
+        lectureHeading: 'Title TBD',
+        category: 'Keynote',
+        affiliation: 'University of Johannesburg',
+        abstract: '',
+        bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.' 
+    },
     'Dr. Ashley Gritzman':
     { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg',
         lectureHeading: 'Will Capsule Networks Replace CNNs?',
@@ -234,12 +242,15 @@ function populateSpeakerInfo(info) {
     var $row_div;
 
     // add info to speakers section
+    keynotes = shuffle(['Prof. Bruce Bassett', 'Prof. Tshilidzi Marwala']);
     speakers = shuffle(Object.keys(info));
 
     speakers = speakers.filter(function(item) { 
-        return item !== 'Prof. Bruce Bassett'
+        return keynotes.indexOf(item) < 0
     });
-    speakers.unshift('Prof. Bruce Bassett');
+    for(keynote of keynotes){
+        speakers.unshift(keynote);
+    }
 
     for(speaker of speakers) {
         if(info[speaker].imagePath == null || speaker.toUpperCase() == "MORE SPEAKERS TBC") {
