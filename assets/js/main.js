@@ -67,7 +67,7 @@ INFO = {
         lectureHeading: 'Deep Neural Networks for Video Applications',
         category: 'Industry/Ethics/Policy',
         affiliation: 'NumberBoost',
-        abstract: "Most CCTV video cameras exist as a sort of insurance policy time machine. Deep learning presents an approach to deploy complex business intelligence on top of video streams to trigger real-time anomaly alerts and business process optimization. This talk will present some theory of deep neural networks for video applications as well as several real-world examples of how deep learning can be used to drive business value by making video cameras more intelligent.",
+        abstract: "Most CCTV video cameras exist as a sort of time machine for insurance purposes. Deep neural networks make it easy to convert video into data which can then be used to trigger real-time anomaly alerts and optimize complex business processes. Deep learning can also be used in academic research to speed up labeling of video recorded from the point of view of animals wearing go-pros. This talk will present some theory of deep neural networks for video applications as well as academic research and several applied real-world industrial examples.",
         bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups."
     },
     'Dr. Ndivhuwo Makondo':
