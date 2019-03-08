@@ -126,6 +126,14 @@ INFO = {
         abstract: "Data science is neither data-driven nor scientific. Given how young the field is, this shouldn't come as a surprise. But as the field matures and machine learning models move out of research labs and into the hands of real people, every effort should be taken to remove as much of the guesswork from machine learning as we possibly can. AutoML, but more specifically automatic architecture refinement, offers an easy solution to this problem without discarding our lessons learned so far.",
         bio: "Stuart is the Head of Data Science at Aerobotics, a startup which uses deep learning to extract insights from drone and satellite imagery of tree crops. Prior to that, he spent 7 years in the finance industry working as a Quantitative Analyst. He holds an Honours Degree in Computer Science from the University of Pretoria and is currently working towards a Masters in Applied Mathematics through Stellenbosch University."
     },
+    'Pelonomi Moiloa':
+    { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg',
+        lectureHeading: 'Protecting machines from us - ethics and bias',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Tohoku University, Japan / Nedbank ',
+        abstract: "The possibilities of machine learning and neural networks in particular are ever expanding. With increased opportunities to do good however there are just as many opportunities to do harm and even in the case that good intentions are at the helm, evidence suggests that opportunities for good may eventually prove to be the opposite. The greatest threat to what machine learning is able to achieve and to us as humans is twofold: Machine learning created with harmful biases built into its core with intent, and machine learning that does not reflect the diversity of the users it is meant to serve. It is important that we are not so pre-occupied with advancing technology into the future that we have not taken the time to invest the energy into engineering the security measures this future requires. It is important to investigate now, as thoroughly as we investigate differing deep neural network architectures, the complex questions regarding the fact that humans are inherently biased and loaded with prejudice and that these traits find themselves in the machines we create (and increasingly allow to run our lives) unless we take active steps to ensure they do not.",
+        bio: "Pelonomi is a recent Biomedical Engineering Masters Graduate with a specialisation in neural networks for neural cell video segmentation now serving as a Junior Data Scientist at Nedbank. She is also a tree hugger."
+    },
 };
 
 PANEL = [
