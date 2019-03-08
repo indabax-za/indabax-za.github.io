@@ -442,9 +442,8 @@ ul.nav.navbar-nav {
 .site-header .intro h4 {
   margin-top: 0.25em;
   margin-bottom: 0.25em;
-  font-size: 1.5em;
+  font-size: 1.em;
   font-weight: 600;
-  text-decoration: underline;
 }
 .site-header .intro p {
   font-size: 1.0em;
