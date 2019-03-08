@@ -178,6 +178,12 @@ ORGANIZERS = {
         imagePath: './assets/organiser_data/alex_conway/image.jpg',
         linkInfoPath: './assets/organiser_data/alex_conway/link.txt',
         link: 'https://www.linkedin.com/in/alex-conway-042666105/'
+    },
+    'Annika Brundyn':
+    {
+        imagePath: './assets/organiser_data/annika_brundyn/image.jpg',
+        linkInfoPath: './assets/organiser_data/annika_brundyn/link.txt',
+        link: 'https://www.linkedin.com/in/annika-brundyn-930898103/'
     }
     // 'Elan Van Biljon':
     // {
