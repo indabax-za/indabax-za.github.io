@@ -130,9 +130,17 @@ INFO = {
     { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg',
         lectureHeading: 'Protecting machines from us - ethics and bias',
         category: 'Industry/Ethics/Policy',
-        affiliation: 'Tohoku University, Japan / Nedbank ',
+        affiliation: 'Tohoku University, Japan / Nedbank',
         abstract: "The possibilities of machine learning and neural networks in particular are ever expanding. With increased opportunities to do good however there are just as many opportunities to do harm and even in the case that good intentions are at the helm, evidence suggests that opportunities for good may eventually prove to be the opposite. The greatest threat to what machine learning is able to achieve and to us as humans is twofold: Machine learning created with harmful biases built into its core with intent, and machine learning that does not reflect the diversity of the users it is meant to serve. It is important that we are not so pre-occupied with advancing technology into the future that we have not taken the time to invest the energy into engineering the security measures this future requires. It is important to investigate now, as thoroughly as we investigate differing deep neural network architectures, the complex questions regarding the fact that humans are inherently biased and loaded with prejudice and that these traits find themselves in the machines we create (and increasingly allow to run our lives) unless we take active steps to ensure they do not.",
         bio: "Pelonomi is a recent Biomedical Engineering Masters Graduate with a specialisation in neural networks for neural cell video segmentation now serving as a Junior Data Scientist at Nedbank. She is also a tree hugger."
+    },
+    'Jade Abbott':
+    { imagePath: './assets/speaker_data/jade_abbott/image.jpg',
+        lectureHeading: 'Machine Learning in Real Life',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Retro Rabbit',
+        abstract: "Thanks to the openness of the machine learning community, anyone with a serious interest in machine learning these days, can get up a model to recognise characters or generate Trump-like tweets in a couple of hours. But what happens when we need to train a model to do a customer facing task, that we trust enough to deploy to a production system? And how do we get that model into production and maintain it  once it is there? My talk aims to share some of the struggles, trade-offs and strategies from the trenches of training and building the infrastructure for a complex deep  learning model for production use.",
+        bio: "Jade Abbott is a Machine Learning engineer at Retro Rabbit. She's built software for every field from social upliftment to banking, working on projects throughout Africa and considers herself a polyglot. Her current project involves training and deploying deep learning system to perform a variety of NLP tasks for real life systems - from training the models, to scaling them in production. In her free time, she does ML research on Machine Translation for African languages."
     },
 };
 
