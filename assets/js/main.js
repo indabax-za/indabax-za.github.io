@@ -142,6 +142,14 @@ INFO = {
         abstract: "Thanks to the openness of the machine learning community, anyone with a serious interest in machine learning these days, can get up a model to recognise characters or generate Trump-like tweets in a couple of hours. But what happens when we need to train a model to do a customer facing task, that we trust enough to deploy to a production system? And how do we get that model into production and maintain it  once it is there? My talk aims to share some of the struggles, trade-offs and strategies from the trenches of training and building the infrastructure for a complex deep  learning model for production use.",
         bio: "Jade Abbott is a Machine Learning engineer at Retro Rabbit. She's built software for every field from social upliftment to banking, working on projects throughout Africa and considers herself a polyglot. Her current project involves training and deploying deep learning system to perform a variety of NLP tasks for real life systems - from training the models, to scaling them in production. In her free time, she does ML research on Machine Translation for African languages."
     },
+    'Jan Krynauw and Zander Lee':
+    { imagePath: './assets/speaker_data/jan_krynauw_and_zander_lee/image.jpg',
+        lectureHeading: 'Humans in the loop - New ways of working a deep learning world',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'alis_',
+        abstract: "",
+        bio: "Jan Krynauw is the Chief Executive Officer of alis_ (an ai driven investment manager) and a director of Rezco Asset Management (~ USD 500M AUM). Prior to alis_, Jan co-led the investment consulting team at Old Mutual (at the time the largest investment consultancy in South Africa with a client base of USD 10B). Under Jan’s leadership the team was recognized with the prestigious group-wide ‘Innovation Award’. In his spare time Jan is an avid pianist and enjoys building Lego robotics with two sons. Jan is a qualified Actuary with 14 years industry experience and has a B.Sc Honours from University of Stellenbosch in Actuarial Science with a Computer Science overlay.<br><br>Zander obtained a Masters (cum laude) in Theoretical Physics from Stellenbosch University, specializing in particle physics. Before joining alis_ as a machine learning engineer, Zander worked as a web developer at Jini Guru and then as a data scientist at BCX Insights. In his spare time he enjoys video games, board games and reading."
+    },
 };
 
 PANEL = [
