@@ -150,6 +150,38 @@ INFO = {
         abstract: "",
         bio: "Jan Krynauw is the Chief Executive Officer of alis_ (an ai driven investment manager) and a director of Rezco Asset Management (~ USD 500M AUM). Prior to alis_, Jan co-led the investment consulting team at Old Mutual (at the time the largest investment consultancy in South Africa with a client base of USD 10B). Under Jan’s leadership the team was recognized with the prestigious group-wide ‘Innovation Award’. In his spare time Jan is an avid pianist and enjoys building Lego robotics with two sons. Jan is a qualified Actuary with 14 years industry experience and has a B.Sc Honours from University of Stellenbosch in Actuarial Science with a Computer Science overlay.<br><br>Zander obtained a Masters (cum laude) in Theoretical Physics from Stellenbosch University, specializing in particle physics. Before joining alis_ as a machine learning engineer, Zander worked as a web developer at Jini Guru and then as a data scientist at BCX Insights. In his spare time he enjoys video games, board games and reading."
     },
+    'Dr. Jonathan Shock':
+    { imagePath: './assets/speaker_data/jonathan_shock/image.jpg',
+        lectureHeading: 'A guided tour through the landscape of reinforcement learning',
+        category: 'Foundations',
+        affiliation: 'University of Cape Town',
+        abstract: "We will look at the fundamental ideas of reinforcement learning, from the underlying mathematics to the basic principles of a reinforcement learning system. We will look at some of the ways that RL has been used to solve interesting problems, as well as where the basic ideas break down and how we can overcome these hurdles. This will be a very theoretical tour, but links to code will be made available.",
+        bio: "Originally from the UK, Dr Jonathan Shock completed his PhD in string theory at the university of Southampton. Since then he has completed postdoctoral positions in Beijing, Santiago de Compostela and Munich before becoming a lecturer at the University of Cape Town. While his background is in theoretical physics, he also publishes on neuroscience and runs a reinforcement learning discussion group at UCT."
+    },
+    'Kerryn Gammie':
+    { imagePath: './assets/speaker_data/kerryn_gammie/image.jpg',
+        lectureHeading: 'Animated Intro to Machine Learning',
+        category: 'Foundations',
+        affiliation: 'Absa (Home Loans)',
+        abstract: "An animated introduction to Machine Learning covering supervised (classification and regression techniques) and unsupervised learning (clustering). I’ll also briefly discuss what ML looks like in corporate, as well as resources/tips/tricks.",
+        bio: "Keen learner and unlearner who spends a lot of time thinking about the intersection between AI and society; specifically how the former can change the latter."
+    },
+    'Dr. Richard Klein':
+    { imagePath: './assets/speaker_data/richard_klein/image.jpg',
+        lectureHeading: 'Introduction to Deep Learning',
+        category: 'Foundations',
+        affiliation: 'University of the Witwatersrand',
+        abstract: "",
+        bio: ""
+    },
+    'Dr. Quentin Williams':
+    { imagePath: './assets/speaker_data/quentin_williams/image.jpg',
+        lectureHeading: 'AI + humans in business: Progeny or Friendship',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Deloitte',
+        abstract: "As AI is increasingly replacing humans for tasks both in business processes and business innovation; a new community/partnership is being formed where humans and AI is being used collaboratively and interchangeably to perform jobs and functions. The talk by Dr Williams will focus on what is required from researchers and business operatives to first understand what the relationship between AI and humans mean for business and secondly how AI can be used proactively for operational efficiency; market effectiveness and innovation. AI therefore moves beyond the world of algorithms and code; becomes much more than just a tool incorporated into a platform; but an essential partner in all business strategy and processes",
+        bio: "Dr Quentin Williams completed his Phd in Engineering in 2005 from the University of Oxford, focusing on Medical Image Processing and Pattern Recognition. The research involved an extensive patient study of the techniques at the John Radcliffe Research Hospital in Oxford. Dr Williams started working at the CSIR in March 2006. He was involved in setting up a research team and focus for the Meraka Institute’s 'Intelligent Environment for Independent Living' group. Here his work concentrated on using machine intelligence techniques in technologies that aid persons with disabilities and using cognitive algorithms to analyse clinical data and develop computational techniques that will assist medical doctors. He established the World Wide Web Consortium (W3C) Southern African office and the Data Science for Impact and Decision Enablement (DSIDE) programme through which over 200 students have been trained in AI and data analytics. He is currently an Associate Director at Deloitte Analytics focussing on AI fueled organisations."
+    },
 };
 
 PANEL = [
