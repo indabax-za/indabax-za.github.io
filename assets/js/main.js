@@ -120,10 +120,10 @@ INFO = {
     },
     'Stuart Reid':
     { imagePath: './assets/speaker_data/stuart_reid/image.jpg',
-        lectureHeading: 'Saying Goodbye to Guesswork, Automatic Architecture Refinement',
+        lectureHeading: 'The Temporal Turing Test: Sampling Real-Valued Multivariate Time Series from Deep Generative Models',
         category: 'Industry/Ethics/Policy',
         affiliation: 'Aerobotics',
-        abstract: "Data science is neither data-driven nor scientific. Given how young the field is, this shouldn't come as a surprise. But as the field matures and machine learning models move out of research labs and into the hands of real people, every effort should be taken to remove as much of the guesswork from machine learning as we possibly can. AutoML, but more specifically automatic architecture refinement, offers an easy solution to this problem without discarding our lessons learned so far.",
+        abstract: "The ability to synthesize realistic, real-valued, multivariate time series with complex correlation and auto-correlation structures is an important goal. With better methods available to them, medical practitioners could be trained to better respond to rare events that occur in EEG and ECG data including fits, seizures, asthma attacks, and heart arrhythmias; engineers could simulate complex manufacturing processes to identify inefficiencies early on; and risk managers could stress asset and liability models more realistically using fewer assumptions, therefore, leading to fewer insolvencies. In this talk, I will discuss various parametric, non-parametric and generative machine learning techniques for synthesizing realistic, real-values, multivariate time series.",
         bio: "Stuart is the Head of Data Science at Aerobotics, a startup which uses deep learning to extract insights from drone and satellite imagery of tree crops. Prior to that, he spent 7 years in the finance industry working as a Quantitative Analyst. He holds an Honours Degree in Computer Science from the University of Pretoria and is currently working towards a Masters in Applied Mathematics through Stellenbosch University."
     },
     'Pelonomi Moiloa':
