@@ -240,7 +240,11 @@ ORGANIZERS = {
         imagePath: './assets/organiser_data/annika_brundyn/image.jpg',
         linkInfoPath: './assets/organiser_data/annika_brundyn/link.txt',
         link: 'https://www.linkedin.com/in/annika-brundyn-930898103/'
-    }
+    },
+    'Andrew Paskaramoorthy':
+    {
+        imagePath: './assets/organiser_data/andrew_paskaramoorthy/image.jpg'
+    },
     // 'Elan Van Biljon':
     // {
     //     imagePath: './assets/organiser_data/elan_van_biljon/image.jpg',
