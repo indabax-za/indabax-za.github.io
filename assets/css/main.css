@@ -519,8 +519,12 @@ section.about {
   text-transform: uppercase;
   margin: 25px 0;
   background-color: #f8f8f8;
+}
+
+#speakers .speaker {
   margin-bottom: 175px;
 }
+
 .speaker h4 {
   text-align: center;
   margin-left: 0.0em;
@@ -921,6 +925,44 @@ span.schedule-slot-speaker-name{
   padding: 15px 15px 15px 35px;
 }
 
+.faq .panel-body a {
+  color: #4286f4
+}
+
+.faq .panel-body ul li {
+  font-weight: 300;
+}
+
+
+.faqHeader {
+  font-size: 27px;
+  margin: 20px;
+}
+
+.panel-heading [data-toggle="collapse"]:after {
+  content:"➤"; 
+  float: right;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 20px;
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+
+.panel-heading [data-toggle="collapse"].collapsed:after {
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  color: #ffffff;
+}
+
+
+
 /*
  * 6.9 Section: photos
  */
@@ -1005,10 +1047,6 @@ span.schedule-slot-speaker-name{
   background-color: #f8f8f8;
 }
 
-#about {
-  background-color: #ffffff;
-}
-
 #location {
   background-color: #f8f8f8;
 }
@@ -1017,7 +1055,19 @@ span.schedule-slot-speaker-name{
   background-color: #ffffff;
 }
 
+#about {
+  background-color: #ffffff;
+}
+
+#faq {
+  background-color: #ffffff;
+}
+
 .about .col-xs-12 {
   padding-left: 1px;
   padding-right: 1px;
+}
+
+#about .speaker {
+  padding-bottom: 25px;
 }
