@@ -190,6 +190,22 @@ INFO = {
         abstract: "The common perception of applying deep learning is that you take an open source or research algorithm, train it on raw data, and deploy the resulting model. The reality is far more complex. <br> <br> For the training phase, users face an array of challenges including handling varied deep learning frameworks, hardware requirements and configurations, not to mention code quality, consistency, and packaging. For the deployment phase, they face another set of challenges, ranging from custom requirements for data pre- and post-processing, to inconsistencies across frameworks, to lack of standardization in serving APIs. <br> <br> The goal of the IBM Developer Model Asset Exchange (MAX) is to remove these barriers to entry for developers to obtain, train, and deploy open source deep learning models for their business applications. In building the exchange, we encountered all these challenges and more. <br> <br> For the training phase, MAX uses the Fabric for Deep Learning (FfDL), an open source project providing framework-independent training of deep learning models on Kubernetes. For the deployment phase, MAX provides standardized container-based, fully self-contained model artefacts, using Python web and DL frameworks and encompassing the end-to-end deep learning predictive pipeline. <br> <br> This talk introduces MAX, walks through the process of building MAX and shares the challenges and problems encountered, the solutions developed, and the lessons learned. The talk will also include live demos showing how to use MAX to deploy deep learning models in seconds and incorporate them into real-world applications.",
         bio: ""
     },
+    'Dario Fanucchi':
+    { imagePath: './assets/speaker_data/dario_fanucchi/image.jpg',
+        lectureHeading: 'A tour of Machine Learning in the African business context: 5 years of awesome ideas, dramatic flops and big wins',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Isazi Consulting / Envisionit Deep AI',
+        abstract: "In 2012, machine learning was not an easy technology to sell to clients in Africa. In this talk I'll discuss some of the challenges I faced in building a profitable business over 5 years whose core competency is machine learning, data science and optimisation. Along the way we'll meet some interesting business problems, a few fancy algorithms, and some wild shots. We'll look at the ingredients of successful problem solving in business, and how new algorithms are changing the way business is done. We'll also take a glimpse at what the future holds for AI in Africa, and where there might be big opportunities to make a real, sustainable difference.",
+        bio: "Dario Fanucchi is a South African entrepreneur and technologist with a passion for algorithm design and machine learning. He is interested in the transformative potential of data in the third world and his goal is to solve Africa's most challenging problems by getting creative with modern technology, AI and optimisation. Dario co-founded Isazi Consulting in 2012, and has helped grow the company to one of the most respected data science houses in Africa. He is also the co-founder and CTO of Envisionit Deep AI, which was founded in 2019 to deliver high quality, affordable AI driven radiology to children in Africa."
+    },
+    'Dr. Willie Brink':
+    { imagePath: './assets/speaker_data/willie_brink/image.jpg',
+        lectureHeading: 'Visual-semantic embeddings: an introduction and applications',
+        category: 'Research',
+        affiliation: 'University of Stellenbosch',
+        abstract: "This talk will introduce the concept of visual-semantic embedding, as a means to combine the powers of Computer Vision and Natural Language Processing, and discuss a few of its applications such as zero- or few-shot image classification, fine-grained classification, visual relation prediction, image captioning, and visual grounding of natural language.",
+        bio: "Willie is a senior lecturer in Applied Mathematics at Stellenbosch University. He works on representation learning and reasoning in Computer Vision, and visual-semantic embeddings. He is a co-founder of the Deep Learning Indaba movement, and passionate about growing Machine Learning and AI research excellence in Africa."
+    },
 };
 
 PANEL = [
