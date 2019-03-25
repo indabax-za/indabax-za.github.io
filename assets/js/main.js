@@ -35,8 +35,8 @@ INFO = {
         lectureHeading: 'Using Conditional Inference Forests to Model Time to Event Data',
         category: 'Research',
         affiliation: 'University of the Witwatersrand',
-        abstract: '',
-        bio: ''
+        abstract: 'Random survival forests have been identified as alternative methods to standard survival analysis methods like the Weibull and Cox proportional hazards model. These methods have a good predictive performance in handling survival data. It has also been established that random survival forest models handle covariate interactions naturally. The random survival forest algorithm, however, has been criticised for possible bias when possible split variables have different entropy. They favour covariates with many split-points to those with fewer split-points. In this study, we explore the predictive performance of Conditional inference forest (CIF) which is known to correct the bias for random survival forest models using a simulation study.',
+        bio: 'Justine Nasejje is a lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where she has worked since June 2018. She attained her Doctorate in Statistics from the University of KwaZulu-Natal in April 2018. Her Thesis, which investigated the properties of random survival forests, won her the  prestigious Kambule Dissertation Award in the same year. She is a published DAAD Scholar with special interest in, Time-to-event data analysis, Biostatistics and Machine  learning techniques. She has presented at numerous conferences both locally and internationally. Justine is also a wife and proud mother of seven-month-old twin daughters.'
     },
     'Dr. Nick Bradshaw':
     { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
