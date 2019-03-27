@@ -8,11 +8,11 @@ CATEGORY_TO_ICON = {
 INFO = {
     'Prof. Bruce Bassett' :
      { imagePath: './assets/speaker_data/prof._bruce_bassett/image.jpg',
-        lectureHeading: 'Title TBD',
+        lectureHeading: 'An AI Play in 3 Parts: Jacuzzis, Research and AGI',
         category: 'Keynote',
         affiliation: 'University of Cape Town',
         abstract: '',
-        bio: '' 
+        bio: 'Bruce is currently head of data science at SKA, head of cosmology at AIMS, Professor of mathematics at UCT and an astronomer at SAAO.' 
     },
     'Prof. Tshilidzi Marwala':
      { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg',
