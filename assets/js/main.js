@@ -27,7 +27,7 @@ INFO = {
         lectureHeading: 'Will Capsule Networks Replace CNNs?',
         category: 'Research',
         affiliation: 'IBM',
-        abstract: '',
+        abstract: 'Convolutional Neural Networks (CNNs) are the state-of-the-art approach in most computer vision tasks, and work by accumulating sets of features in each layer. CNNs starts off by finding edges, then shapes, then actual objects. However, the spatial relationship information of all these features is lost. Capsule Networks are Geoffrey Hinton’s latest idea, which aim to preserve the spatial relationships within an image, allowing the network to better understand  translation, rotation, and scaling. Capsule Networks have achieved state-of-the-art performance on MNIST, and even beat CNNs by 45% at the task of recognising objects from different viewpoints. But, this approach has not yet been proven on a large-scale dataset like ImageNet. In this talk we will unpack Hinton’s ideas on Capsule Networks and gain an intuitive understanding of how Capsule Networks work.',
         bio: 'Ashley is a research scientist at IBM Research in South Africa, where his primary research interest is deep learning for computer vision. He obtained undergrad degrees in electrical and biomedical engineering, and completed his PhD at Wits University, which focused on image processing algorithms for automatic lip-reading.'
     },
     'Dr. Justine Nasejje':
