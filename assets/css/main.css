@@ -265,7 +265,7 @@ ul li {
   background-color: #4286f4;
 }
 
-a#schedule {
+#schedule {
   font-weight: bold;
   font-size: 1.4em;
   background-color: #62d65e;
@@ -765,6 +765,10 @@ section.about {
 
 .tab-pane {
   padding-bottom: 20px;
+}
+
+.tabcontent {
+  animation: fadeEffect 1s; /* Fading effect takes 1 second */
 }
 
 .schedule-slot-time{
