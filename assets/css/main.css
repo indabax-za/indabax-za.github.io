@@ -572,6 +572,10 @@ section.about {
   text-transform: none;
 }
 
+.speaker .modal ul li {
+  font-weight: 100;
+}
+
 .speaker a i {
   color: #888888;
 }
