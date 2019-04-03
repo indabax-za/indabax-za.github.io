@@ -224,9 +224,20 @@ INFO = {
     },
 };
 
-PANEL = [
-
-];
+PANEL = {
+    'Prof. Tshilidzi Marwala':
+     { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg'},
+     'Dr. Justine Nasejje':
+     { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg'},
+    'Pelonomi Moiloa':
+    { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg'},
+    'Sicelukwanda Zwane':
+    { imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg'},
+    'Dr. Benjamin Rosman':
+    { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg'},
+    'Jade Abbott':
+    { imagePath: './assets/speaker_data/jade_abbott/image.jpg'}
+};
 
 KEYNOTE = "";
 
@@ -503,13 +514,13 @@ function populateSpeakerInfo(info) {
         );
 
         if(count % 3 == 2) {
-            $("#speakers div.container").append($row_div);
+            $("#speakers div.container.speakers").append($row_div);
         }
 
 
     }
 
-    $("#speakers div.container").append($row_div);
+    $("#speakers div.container.speakers").append($row_div);
 }
 
 function populateSponsors(sponsors) {
@@ -774,8 +785,57 @@ function populateOrganizers(organizers) {
 
 }
 
+function populatePanel(panellists) {
+    var $row_div = $("<div />").addClass("row");
+  
+    for(panellist of shuffle(Object.keys(panellists))) {
+      $organizerSection = $(".panel.container");
+  
+      $slot = $("<div />").addClass("col-md-2")
+      .append(
+        $("<div />").addClass("speaker").addClass("panellist")
+        .append(
+          $("<figure />")
+          .append(
+            $("<a />").attr({
+              "href": panellists[panellist].link,
+              "target": "_blank"
+            })
+            .append(
+              $("<img />").attr({
+                "src": panellists[panellist].imagePath
+              })
+              .attr(
+                (
+                    panellists[panellist].link?
+                  {
+                    "data-toggle": "tooltip",
+                    "title": "click me!"
+                  }
+                  :{}
+                )
+              )
+            ) // append to a
+          ) // append to figure
+          .append(
+            $("<div />")
+            .addClass("col-xs-12")
+            .append(
+                $("<h4 />").text(panellist)
+            ) // heading div
+          ) // append to figure
+        )
+      );
+  
+      $row_div.append($slot);
+    
+    }
+  
+    $organizerSection.append($row_div);
+  
+  }
+
 // populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
-// populatePanelSpeakers(PANEL, INFO);
-// populateKeyNote(KEYNOTE, INFO);
+populatePanel(PANEL);
 populateOrganizers(ORGANIZERS);

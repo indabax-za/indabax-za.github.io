@@ -275,7 +275,7 @@ a#schedule {
 /*
  * 3.5 Helper Class: background
  */
-.bg-image, .bg-image-1, .bg-image-2 {
+.bg-image, .bg-image-1, .bg-image-2 .bg-image-panel{
   position: relative;
 }
 .bg-image::before, .bg-image-1::before, .bg-image-2::before {
@@ -291,13 +291,6 @@ a#schedule {
   background: url(../images/backgrounds/bg-1.jpg) no-repeat center center/cover;
 }
 .bg-image-1::before {
-  background-color: rgba(0, 0, 0, 0.7);
-}
-
-.bg-image-2 {
-  background: url(../images/backgrounds/bg-2.jpg) no-repeat center bottom/cover;
-}
-.bg-image-2::before {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -485,6 +478,10 @@ section.about {
 .about .section-title {
   margin: 0 0 25px;
 }
+.panel figure {
+  margin-bottom: 25px;
+}
+
 .about figure {
   margin-bottom: 25px;
 }
@@ -523,6 +520,10 @@ section.about {
 
 #speakers .speaker {
   margin-bottom: 175px;
+}
+
+#speakers .speaker.panellist {
+  margin-bottom: 50px;
 }
 
 .speaker h4 {
@@ -586,6 +587,20 @@ section.about {
   text-transform: uppercase;
   margin: 25px 0;
 }
+
+.panel h1, .panel h2, .panel h3, .panel h4 {
+  margin-left: 25px;
+}
+
+.panel h4 {
+  margin-left: 0px;
+}
+
+.panel p {
+  margin-left: 25px;
+  font-weight: 300;
+}
+
 
 /*
  * 6.4 Section: Registration & Pricing
