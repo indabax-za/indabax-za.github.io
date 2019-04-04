@@ -1090,7 +1090,7 @@ span.schedule-slot-speaker-name{
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .accordion:hover {
+.ac_active, .accordion:hover {
   background-color: #ccc;
 }
 
