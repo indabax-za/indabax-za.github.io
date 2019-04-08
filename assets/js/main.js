@@ -489,6 +489,59 @@ function populateSpeakerInfo(info) {
         if(count % 3 == 2) {
             $("#speakers div.container").append($row_div);
         }
+		
+		//##########################################################################
+
+
+        if(speaker == KEYNOTE) {
+          continue;
+        }
+
+        // add info to schedule
+        $scheduleSection = $(".schedule .accordion_panel");
+        // find title of this speaker and insert information (if not in tab zero)
+        $scheduleSlot = $scheduleSection.find("p.schedule-slot-desc:containsi('" + info[speaker].lectureHeading + "')").closest(".schedule-slot-info");
+		
+		/**
+		var str = 'It iS a 5r&e@@t Day.'
+		var array = str.split(": ");
+		print(array);
+		console.log($scheduleSlot)
+		**/
+        if($scheduleSlot.length > 0) {
+            $slotInfo = $scheduleSlot.find("div.schedule-slot-info-content");
+
+            $slotInfo.wrap($("<div />").addClass("col-xs-8"))
+            // $scheduleSlot = $scheduleSlot.filter(function(index, $element) {
+            //     return ($element.closest("#tab_zero") == null);
+            // });
+
+            $scheduleSlot.prepend(
+                $("<div />").addClass("col-xs-4")
+                .append(
+                    $("<a />")
+                    .append(
+                        $("<img />").addClass("schedule-slot-speakers").attr({
+                            "src": info[speaker].imagePath
+                        })
+                    )
+                )
+            );
+
+            $slotInfo.append(
+                $("<h4 />").addClass("schedule-slot-speaker-name").text(speaker)
+            );
+		
+		}
+		
+		
+		
+		
+		//##########################################################################
+		
+		
+		
+		
 
 
     }
@@ -759,7 +812,7 @@ function populateOrganizers(organizers) {
 }
 
 // javascript for accordion buttons
-var acc = document.getElementsByClassName("accordion");
+var acc = document.getElementsByClassName("accordion_button");
 var i;
 
 for (i = 0; i < acc.length; i++) {

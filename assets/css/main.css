@@ -1077,7 +1077,7 @@ span.schedule-slot-speaker-name{
 }
 
  /* Style the buttons that are used to open and close the accordion panel */
-.accordion {
+.accordion_button {
   background-color: #eee;
   color: #444;
   cursor: pointer;
@@ -1089,11 +1089,6 @@ span.schedule-slot-speaker-name{
   transition: 0.4s;
 }
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.ac_active, .accordion:hover {
-  background-color: #ccc;
-}
-
 /* Style the accordion panel. Note: hidden by default */
 .accordion_panel {
   padding: 0 18px;
@@ -1101,3 +1096,9 @@ span.schedule-slot-speaker-name{
   display: none;
   overflow: hidden;
 } 
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.ac_active, .accordion_button:hover {
+  background-color: white;
+}
+
