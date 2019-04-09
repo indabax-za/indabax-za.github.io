@@ -12,7 +12,7 @@ INFO = {
         category: 'Keynote',
         affiliation: 'University of Cape Town',
         abstract: '',
-        bio: 'Bruce is currently head of data science at SKA, head of cosmology at AIMS, Professor of mathematics at UCT and an astronomer at SAAO.' 
+        bio: 'Bruce is currently head of data science at SKA, head of cosmology at AIMS, Professor of mathematics at UCT and an astronomer at SAAO.'
     },
     'Prof. Tshilidzi Marwala':
      { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg',
@@ -20,7 +20,7 @@ INFO = {
         category: 'Keynote',
         affiliation: 'University of Johannesburg',
         abstract: 'Rational decision making in its linguistic description means making logical decisions. In essence, a rational agent optimally processes all relevant information to achieve its goal. Rationality has two elements and these are the use of relevant information and the efficient processing of such information. In reality, relevant information is incomplete and imperfect and the processing engine, which is a brain for humans, is suboptimal. Kahneman in his classic book “Thinking fast and slow” observed that humans are risk averse rather than utility maximizers. Furthermore, many optimization procedures at best identify local rather than global optimum solutions. The types of problems that we know if we have identified global solutions are convex problems. In the real world, problems are predominantly non-convex and this makes the idea of rational decision-making fundamentally unachievable, and Herbert Simon called this bounded rationality. This talk explores big questions around rationality and these are: (1) Are AI machines more rational than humans? (2) Is rationality subjective? (3) Is group rational decision-making more rational than individual decision making? (4) Can we measure rationality? On answering these questions, we explore the use of artificial intelligence in engineering, finance, social sciences and medicine.',
-        bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.' 
+        bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.'
     },
     'Dr. Ashley Gritzman':
     { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg',
@@ -36,7 +36,7 @@ INFO = {
         category: 'Research',
         affiliation: 'University of the Witwatersrand',
         abstract: 'Random survival forests have been identified as alternative methods to standard survival analysis methods like the Weibull and Cox proportional hazards model. These methods have a good predictive performance in handling survival data. It has also been established that random survival forest models handle covariate interactions naturally. The random survival forest algorithm, however, has been criticised for possible bias when possible split variables have different entropy. They favour covariates with many split-points to those with fewer split-points. In this study, we explore the predictive performance of Conditional inference forest (CIF) which is known to correct the bias for random survival forest models using a simulation study.',
-        bio: 'Justine Nasejje is a lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where she has worked since June 2018. She attained her Doctorate in Statistics from the University of KwaZulu-Natal in April 2018. Her Thesis, which investigated the properties of random survival forests, won her the  prestigious Kambule Dissertation Award in the same year. She is a published DAAD Scholar with special interest in, Time-to-event data analysis, Biostatistics and Machine  learning techniques. She has presented at numerous conferences both locally and internationally. Justine is also a wife and proud mother of seven-month-old twin daughters.'
+        bio: 'Justine Nasejje is a lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where she has worked since June 2018. She attained her Doctorate in Statistics from the University of KwaZulu-Natal in April 2018. Her Thesis, which investigated the properties of random survival forests, won her the  prestigious Kambule Dissertation Award in the same year. She is a published DAAD Scholar with special interest in, Time-to-event data analysis, Biostatistics and Machine  learning techniques. She has presented at numerous conferences both locally and internationally. Justine is also a wife and proud mother of seven-month-old twin daughters.'
     },
     'Dr. Nick Bradshaw':
     { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
@@ -370,7 +370,7 @@ function populateSpeakerInfo(info) {
     keynotes = shuffle(['Prof. Bruce Bassett', 'Prof. Tshilidzi Marwala']);
     speakers = shuffle(Object.keys(info));
 
-    speakers = speakers.filter(function(item) { 
+    speakers = speakers.filter(function(item) {
         return keynotes.indexOf(item) < 0
     });
     for(keynote of keynotes){
@@ -490,13 +490,13 @@ function populateSpeakerInfo(info) {
                                         :""
                                       )
                                     )
-                                    .append( 
+                                    .append(
                                         $("<h3 />").text(info[speaker].bio?"Short Bio":"")
                                     )
                                     .append(
                                         info[speaker].bio
                                     )
-                                    .append( 
+                                    .append(
                                         $("<h3 />").text(info[speaker].abstract?"Talk Abstract":"")
                                     )
                                     .append(
@@ -524,6 +524,60 @@ function populateSpeakerInfo(info) {
         if(count % 3 == 2) {
             $("#speakers div.container.speakers").append($row_div);
         }
+
+		//##########################################################################
+
+
+        if(speaker == KEYNOTE) {
+          continue;
+        }
+
+        // add info to schedule
+        $scheduleSection = $(".schedule .accordion_panel");
+        // find title of this speaker and insert information (if not in tab zero)
+        $scheduleSlot = $scheduleSection.find("p.schedule-slot-desc:containsi('" + info[speaker].lectureHeading + "')").closest(".schedule-slot-info");
+
+		/**
+		var str = 'It iS a 5r&e@@t Day.'
+		var array = str.split(": ");
+		print(array);
+		console.log($scheduleSlot)
+		**/
+        if($scheduleSlot.length > 0) {
+            $slotInfo = $scheduleSlot.find("div.schedule-slot-info-content");
+			$slotInfoName = $scheduleSlot.find("p.schedule-slot-desc");
+
+            $slotInfo.wrap($("<div />").addClass("col-xs-8"))
+            // $scheduleSlot = $scheduleSlot.filter(function(index, $element) {
+            //     return ($element.closest("#tab_zero") == null);
+            // });
+
+            $scheduleSlot.prepend(
+                $("<div />").addClass("col-xs-4")
+                .append(
+                    $("<a />")
+                    .append(
+                        $("<img />").addClass("schedule-slot-speakers").attr({
+                            "src": info[speaker].imagePath
+                        })
+                    )
+                )
+            );
+
+            $slotInfoName.append(
+                $("<h4 />").addClass("schedule-slot-speaker-name").text(speaker)
+            );
+
+		}
+
+
+
+
+		//##########################################################################
+
+
+
+
 
 
     }
@@ -793,12 +847,32 @@ function populateOrganizers(organizers) {
 
 }
 
+// javascript for accordion buttons
+var acc = document.getElementsByClassName("accordion_button");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("ac_active");
+
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+
 function populatePanel(panellists) {
     var $row_div = $("<div />").addClass("row");
-  
+
     for(panellist of shuffle(Object.keys(panellists))) {
       $organizerSection = $(".panel.container");
-  
+
       $slot = $("<div />").addClass("col-md-2")
       .append(
         $("<div />").addClass("speaker").addClass("panellist")
@@ -834,15 +908,14 @@ function populatePanel(panellists) {
           ) // append to figure
         )
       );
-  
-      $row_div.append($slot);
-    
-    }
-  
-    $organizerSection.append($row_div);
-  
-  }
 
+      $row_div.append($slot);
+
+    }
+
+    $organizerSection.append($row_div);
+
+  }
 // populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
 populatePanel(PANEL);

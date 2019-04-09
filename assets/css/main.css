@@ -125,7 +125,7 @@ ul li {
 }
 
 .btn.btn-primary {
-  border-radius: 0.5em;
+  border-radius: 0;
 }
 .btn.btn-primary:hover {
   cursor: default;
@@ -134,22 +134,22 @@ ul li {
           transform: scale(1.0);
 }
 .btn.btn-primary.Hahn-1 {
-  background: #7fc97f;
+  background: #618d2e;
 }
 .btn.btn-primary.Hahn-2 {
-  background: #beaed4;
+  background: #9c27b0;
 }
 .btn.btn-primary.Hahn-4 {
-  background: #fdc086;
+  background: #729ea1;
 }
 .btn.btn-primary.Hahn-3 {
-  background: #8cb2cc;
+  background: #ea4b4b;
 }
 .btn.btn-primary.Hahn-5 {
-  background: #7fcdbb;
+  background: #2196f3;
 }
 .btn.btn-primary.Hahn-6 {
-  background: #f2a4a4;
+  background: #e64a18;
 }
 .form-control {
   border-radius: 0;
@@ -265,7 +265,7 @@ ul li {
   background-color: #4286f4;
 }
 
-a#schedule {
+#schedule {
   font-weight: bold;
   font-size: 1.4em;
   background-color: #62d65e;
@@ -627,10 +627,18 @@ section.about {
   display: inline;
   font-size: 0.8em;
   font-weight: 1000;
+  margin-bottom: 20px;
+}
+
+.schedule-slot-info-content-keynote-b button {
+  display: inline;
+  font-size: 0.8em;
+  font-weight: 1000;
+  margin-bottom: 20px;
 }
 
 .schedule-tab, .schedule-content .container{
-	 max-width: 960px;
+	 /*max-width: 960px;*/
 	 margin: 0 auto;
 }
 
@@ -720,7 +728,13 @@ section.about {
    font-size: 0.8em;
 }
 
-.schedule-listing h3.schedule-slot-title {
+.schedule-listing h3.schedule-slot-title{
+  font-size: 18px;
+  font-weight: 700;
+  /*color: black;*/
+}
+
+p.schedule-slot-desc {
   font-size: 1em;
   font-weight: 400;
   color: black;
@@ -786,6 +800,10 @@ section.about {
   padding-bottom: 20px;
 }
 
+.tabcontent {
+  animation: fadeEffect 1s; /* Fading effect takes 1 second */
+}
+
 .schedule-slot-time{
 	 /*width: 20%;*/
 	 float: left;
@@ -837,6 +855,12 @@ section.about {
    padding-top: 0.2em;
    padding-bottom: 0.5em;
 }
+.schedule-slot-info-content-keynote{
+	 margin-left: 100px;
+   padding-top: 0.2em;
+   padding-bottom: 0.5em;
+}
+
 
 .schedule-slot-title{
 	 margin: 0 0 3px 0;
@@ -1090,3 +1114,32 @@ span.schedule-slot-speaker-name{
 #about .speaker {
   padding-bottom: 25px;
 }
+
+ /* Style the buttons that are used to open and close the accordion panel */
+.accordion_button {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.accordion_panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+} 
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover)
+.ac_active
+*/
+.accordion_button:hover {
+  background-color: #ccc;
+}
+
