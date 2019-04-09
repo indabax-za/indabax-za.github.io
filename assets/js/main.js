@@ -235,7 +235,7 @@ INFO = {
         lectureHeading: 'Machine Learning with Quantum Computers',
         category: 'Research',
         affiliation: 'University of KwaZulu-Natal',
-        abstract: "",
+        abstract: "Machine Learning algorithms are usually executed on hardware such as CPUs and GPUs. But what if we use an entirely different type of physical device, such as a quantum computer? Can we speed up learning and optimisation with the quantum laws of information processing? Can we develop entirely different classes of models? Quantum Machine Learning is an emerging discipline that tries to answer such questions. I will give an overview of the latest research in Quantum Machine Learning, with a focus on near-term quantum devices that are actually available today. At the end of this talk, you should have all the means to train a quantum computer via the cloud yourself.",
         bio: ""
     }
 };
@@ -311,6 +311,14 @@ ORGANIZERS = {
     'Andrew Paskaramoorthy':
     {
         imagePath: './assets/organiser_data/andrew_paskaramoorthy/image.jpg'
+    },
+    'Francesco Petruccione':
+    {
+        imagePath: './assets/organiser_data/francesco_petruccione/image.jpg'
+    },
+    'Anban Pillay':
+    {
+        imagePath: './assets/organiser_data/anban_pillay/image.jpg'
     },
     // 'Elan Van Biljon':
     // {
