@@ -611,7 +611,7 @@ section.about {
 }
 
 .schedule-tab, .schedule-content .container{
-	 max-width: 960px;
+	 /*max-width: 960px;*/
 	 margin: 0 auto;
 }
 
@@ -1097,8 +1097,10 @@ span.schedule-slot-speaker-name{
   overflow: hidden;
 } 
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.ac_active, .accordion_button:hover {
-  background-color: white;
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover)
+.ac_active
+*/
+.accordion_button:hover {
+  background-color: #ccc;
 }
 
