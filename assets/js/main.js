@@ -224,7 +224,7 @@ INFO = {
     },
     'Edgar Jembere':
     { imagePath: './assets/speaker_data/edgar_jembere/image.jpg',
-        lectureHeading: 'Intro to NLP',
+        lectureHeading: 'Introduction to Natural Language Processing',
         category: 'Foundations',
         affiliation: 'University of KwaZulu-Natal',
         abstract: "Natural Language Processing (NLP) is the application of computational techniques to the analysis and synthesis of human languages. Human languages are constructed to convey meaning. To this end, NLP requires that there be mechanisms for extracting and representing meaning in human language data. Another important aspect of NLP data is that it is inherently sequential. Traditional NLP solutions use classical Distributional Semantics models (e.g. LDA, LSI, etc) and lexicons to recognise and model meaning, and techniques based on Markov chains and Conditional Independence to model the sequential aspects of the data. The emergence of deep learning has led to new techniques for modelling meaning and the sequential nature of NLP data. This foundational talk will discuss deep learning inspired techniques for meaning representation and sequential modelling. The talk will focus on word embeddings for meaning representation and Recurrent Neural Networks (RNNs) for sequential modelling.",
