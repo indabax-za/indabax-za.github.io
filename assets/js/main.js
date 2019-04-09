@@ -526,6 +526,7 @@ function populateSpeakerInfo(info) {
 		**/
         if($scheduleSlot.length > 0) {
             $slotInfo = $scheduleSlot.find("div.schedule-slot-info-content");
+			$slotInfoName = $scheduleSlot.find("p.schedule-slot-desc");
 
             $slotInfo.wrap($("<div />").addClass("col-xs-8"))
             // $scheduleSlot = $scheduleSlot.filter(function(index, $element) {
@@ -544,7 +545,7 @@ function populateSpeakerInfo(info) {
                 )
             );
 
-            $slotInfo.append(
+            $slotInfoName.append(
                 $("<h4 />").addClass("schedule-slot-speaker-name").text(speaker)
             );
 		

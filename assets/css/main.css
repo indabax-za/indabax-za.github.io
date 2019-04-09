@@ -125,7 +125,7 @@ ul li {
 }
 
 .btn.btn-primary {
-  border-radius: 0.5em;
+  border-radius: 0;
 }
 .btn.btn-primary:hover {
   cursor: default;
@@ -134,22 +134,22 @@ ul li {
           transform: scale(1.0);
 }
 .btn.btn-primary.Hahn-1 {
-  background: #7fc97f;
+  background: #618d2e;
 }
 .btn.btn-primary.Hahn-2 {
-  background: #beaed4;
+  background: #9c27b0;
 }
 .btn.btn-primary.Hahn-4 {
-  background: #fdc086;
+  background: #729ea1;
 }
 .btn.btn-primary.Hahn-3 {
-  background: #8cb2cc;
+  background: #ea4b4b;
 }
 .btn.btn-primary.Hahn-5 {
-  background: #7fcdbb;
+  background: #2196f3;
 }
 .btn.btn-primary.Hahn-6 {
-  background: #f2a4a4;
+  background: #e64a18;
 }
 .form-control {
   border-radius: 0;
@@ -608,6 +608,14 @@ section.about {
   display: inline;
   font-size: 0.8em;
   font-weight: 1000;
+  margin-bottom: 20px;
+}
+
+.schedule-slot-info-content-keynote-b button {
+  display: inline;
+  font-size: 0.8em;
+  font-weight: 1000;
+  margin-bottom: 20px;
 }
 
 .schedule-tab, .schedule-content .container{
@@ -701,7 +709,13 @@ section.about {
    font-size: 0.8em;
 }
 
-.schedule-listing h3.schedule-slot-title {
+.schedule-listing h3.schedule-slot-title{
+  font-size: 18px;
+  font-weight: 700;
+  /*color: black;*/
+}
+
+p.schedule-slot-desc {
   font-size: 1em;
   font-weight: 400;
   color: black;
@@ -822,6 +836,12 @@ section.about {
    padding-top: 0.2em;
    padding-bottom: 0.5em;
 }
+.schedule-slot-info-content-keynote{
+	 margin-left: 100px;
+   padding-top: 0.2em;
+   padding-bottom: 0.5em;
+}
+
 
 .schedule-slot-title{
 	 margin: 0 0 3px 0;
