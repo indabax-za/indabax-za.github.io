@@ -12,7 +12,7 @@ INFO = {
         category: 'Keynote',
         affiliation: 'University of Cape Town',
         abstract: '',
-        bio: 'Bruce is currently head of data science at SKA, head of cosmology at AIMS, Professor of mathematics at UCT and an astronomer at SAAO.' 
+        bio: 'Bruce is currently head of data science at SKA, head of cosmology at AIMS, Professor of mathematics at UCT and an astronomer at SAAO.'
     },
     'Prof. Tshilidzi Marwala':
      { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg',
@@ -20,7 +20,7 @@ INFO = {
         category: 'Keynote',
         affiliation: 'University of Johannesburg',
         abstract: 'Rational decision making in its linguistic description means making logical decisions. In essence, a rational agent optimally processes all relevant information to achieve its goal. Rationality has two elements and these are the use of relevant information and the efficient processing of such information. In reality, relevant information is incomplete and imperfect and the processing engine, which is a brain for humans, is suboptimal. Kahneman in his classic book “Thinking fast and slow” observed that humans are risk averse rather than utility maximizers. Furthermore, many optimization procedures at best identify local rather than global optimum solutions. The types of problems that we know if we have identified global solutions are convex problems. In the real world, problems are predominantly non-convex and this makes the idea of rational decision-making fundamentally unachievable, and Herbert Simon called this bounded rationality. This talk explores big questions around rationality and these are: (1) Are AI machines more rational than humans? (2) Is rationality subjective? (3) Is group rational decision-making more rational than individual decision making? (4) Can we measure rationality? On answering these questions, we explore the use of artificial intelligence in engineering, finance, social sciences and medicine.',
-        bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.' 
+        bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.'
     },
     'Dr. Ashley Gritzman':
     { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg',
@@ -222,11 +222,30 @@ INFO = {
         abstract: "The digital age is a challenging one for an unequal society; and algorithmic decision-making fed by the digestion of such a society's data should be assisted by informative measures that help ensure integrity, responsibility, equal representation, and a lack of personal agenda. Such metrics are intrinsically complex, however, and their derivation, calculation, and civic implementation should be handled with due care. At the core of developing such accountability measures is the careful design of mechanisms to ingest, process, analyze, and draw insights from the corpus of information that influences a community's perspectives. At Open Data Durban (ODD), we focus heavily on this process to ensure the democratization of information in South Africa. This talk will present the rationale and analytical frameworks behind a selection of the platforms we have developed at ODD,  followed by a discussion of some of the challenges we have faced, with particular attention to the exciting opportunities that these challenges offer the AI and machine-learning communities.",
         bio: "Matthew completed his BSc(Hons) and MSc in Computational Chemistry at Rhodes University, after which he attended the Massachusetts Institute of Technology on a Fulbright Scholarship, obtaining his PhD in Computational Biophysics in 2016. He is the Lead Technologist and head of the Civic Data Lab at Open Data Durban, a civic technology not-for-profit start-up in Durban, South Africa  that works to realise people-centered participatory democracy through the application of cutting edge data-science, machine-learning, and focused user-engagement. He is also the co-founder of Tenji, a high-performance data-science lab that leverages technology to power compound, evidence-based insights. In his spare time he is an appreciator and brewer of beer."
     },
+    'Edgar Jembere':
+    { imagePath: './assets/speaker_data/edgar_jembere/image.jpg',
+        lectureHeading: 'Intro to NLP',
+        category: 'Foundations',
+        affiliation: 'University of KwaZulu-Natal',
+        abstract: "Natural Language Processing (NLP) is the application of computational techniques to the analysis and synthesis of human languages. Human languages are constructed to convey meaning. To this end, NLP requires that there be mechanisms for extracting and representing meaning in human language data. Another important aspect of NLP data is that it is inherently sequential. Traditional NLP solutions use classical Distributional Semantics models (e.g. LDA, LSI, etc) and lexicons to recognise and model meaning, and techniques based on Markov chains and Conditional Independence to model the sequential aspects of the data. The emergence of deep learning has led to new techniques for modelling meaning and the sequential nature of NLP data. This foundational talk will discuss deep learning inspired techniques for meaning representation and sequential modelling. The talk will focus on word embeddings for meaning representation and Recurrent Neural Networks (RNNs) for sequential modelling.",
+        bio: ""
+    }
 };
 
-PANEL = [
-
-];
+PANEL = {
+    'Prof. Tshilidzi Marwala':
+     { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg'},
+     'Dr. Justine Nasejje':
+     { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg'},
+    'Pelonomi Moiloa':
+    { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg'},
+    'Sicelukwanda Zwane':
+    { imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg'},
+    'Dr. Benjamin Rosman':
+    { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg'},
+    'Jade Abbott':
+    { imagePath: './assets/speaker_data/jade_abbott/image.jpg'}
+};
 
 KEYNOTE = "";
 
@@ -351,7 +370,7 @@ function populateSpeakerInfo(info) {
     keynotes = shuffle(['Prof. Bruce Bassett', 'Prof. Tshilidzi Marwala']);
     speakers = shuffle(Object.keys(info));
 
-    speakers = speakers.filter(function(item) { 
+    speakers = speakers.filter(function(item) {
         return keynotes.indexOf(item) < 0
     });
     for(keynote of keynotes){
@@ -471,13 +490,13 @@ function populateSpeakerInfo(info) {
                                         :""
                                       )
                                     )
-                                    .append( 
+                                    .append(
                                         $("<h3 />").text(info[speaker].bio?"Short Bio":"")
                                     )
                                     .append(
                                         info[speaker].bio
                                     )
-                                    .append( 
+                                    .append(
                                         $("<h3 />").text(info[speaker].abstract?"Talk Abstract":"")
                                     )
                                     .append(
@@ -503,9 +522,9 @@ function populateSpeakerInfo(info) {
         );
 
         if(count % 3 == 2) {
-            $("#speakers div.container").append($row_div);
+            $("#speakers div.container.speakers").append($row_div);
         }
-		
+
 		//##########################################################################
 
 
@@ -517,7 +536,7 @@ function populateSpeakerInfo(info) {
         $scheduleSection = $(".schedule .accordion_panel");
         // find title of this speaker and insert information (if not in tab zero)
         $scheduleSlot = $scheduleSection.find("p.schedule-slot-desc:containsi('" + info[speaker].lectureHeading + "')").closest(".schedule-slot-info");
-		
+
 		/**
 		var str = 'It iS a 5r&e@@t Day.'
 		var array = str.split(": ");
@@ -548,22 +567,22 @@ function populateSpeakerInfo(info) {
             $slotInfoName.append(
                 $("<h4 />").addClass("schedule-slot-speaker-name").text(speaker)
             );
-		
+
 		}
-		
-		
-		
-		
+
+
+
+
 		//##########################################################################
-		
-		
-		
-		
+
+
+
+
 
 
     }
 
-    $("#speakers div.container").append($row_div);
+    $("#speakers div.container.speakers").append($row_div);
 }
 
 function populateSponsors(sponsors) {
@@ -846,10 +865,58 @@ for (i = 0; i < acc.length; i++) {
       panel.style.display = "block";
     }
   });
-} 
+}
 
+function populatePanel(panellists) {
+    var $row_div = $("<div />").addClass("row");
+
+    for(panellist of shuffle(Object.keys(panellists))) {
+      $organizerSection = $(".panel.container");
+
+      $slot = $("<div />").addClass("col-md-2")
+      .append(
+        $("<div />").addClass("speaker").addClass("panellist")
+        .append(
+          $("<figure />")
+          .append(
+            $("<a />").attr({
+              "href": panellists[panellist].link,
+              "target": "_blank"
+            })
+            .append(
+              $("<img />").attr({
+                "src": panellists[panellist].imagePath
+              })
+              .attr(
+                (
+                    panellists[panellist].link?
+                  {
+                    "data-toggle": "tooltip",
+                    "title": "click me!"
+                  }
+                  :{}
+                )
+              )
+            ) // append to a
+          ) // append to figure
+          .append(
+            $("<div />")
+            .addClass("col-xs-12")
+            .append(
+                $("<h4 />").text(panellist)
+            ) // heading div
+          ) // append to figure
+        )
+      );
+
+      $row_div.append($slot);
+
+    }
+
+    $organizerSection.append($row_div);
+
+  }
 // populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
-// populatePanelSpeakers(PANEL, INFO);
-// populateKeyNote(KEYNOTE, INFO);
+populatePanel(PANEL);
 populateOrganizers(ORGANIZERS);
