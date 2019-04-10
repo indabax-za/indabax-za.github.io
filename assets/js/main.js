@@ -105,7 +105,7 @@ INFO = {
     'James Allingham':
     { imagePath: './assets/speaker_data/james_allingham/image.jpg',
         lectureHeading: 'Missing Data Imputation (ML in Practice)',
-        category: 'Industry/Ethics/Policy',
+        category: 'Research',
         affiliation: 'Wolfram Research',
         abstract: 'In the real world datasets are often messy – it is common for values to be missing or corrupt. Examples include empty cells in spreadsheets, unanswered survey questions, or readings from faulty sensors. Unfortunately, despite the frequent occurrence of such defects, software engineers tend not to develop algorithms that are robust to missing values. As a result, many common algorithms fail on such datasets. This talk will briefly discuss the theory of missing data and discuss practical appraoches for dealing with missingness in real-world machine learning.',
         bio: "James is a consultant for Wolfram Research, developing the Mathematica Deep Learning framework. Prior to this James completed a master's in computer science focusing on machine learning. James's dissertation investigated automatic and unsupervised approaches to missing data imputation."
@@ -237,6 +237,14 @@ INFO = {
         affiliation: 'University of KwaZulu-Natal',
         abstract: "Machine Learning algorithms are usually executed on hardware such as CPUs and GPUs. But what if we use an entirely different type of physical device, such as a quantum computer? Can we speed up learning and optimisation with the quantum laws of information processing? Can we develop entirely different classes of models? Quantum Machine Learning is an emerging discipline that tries to answer such questions. I will give an overview of the latest research in Quantum Machine Learning, with a focus on near-term quantum devices that are actually available today. At the end of this talk, you should have all the means to train a quantum computer via the cloud yourself.",
         bio: ""
+    },
+    'Dr. Michelle Hoogenhout':
+    { imagePath: './assets/speaker_data/michelle_hoogenhout/image.jpg',
+        lectureHeading: 'Growing young talent: Selecting and training the next generation of data scientists',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'Umuzi',
+        abstract: "How do you hire the best talent? In an age when experienced tech talent is almost as rare as the mythical unicorns they wish to work for, devs and data scientists find themselves inundated with offers from competing employers. At Umuzi, our aim is to find and develop the next generation of tech, creative, and strategy talent. This talk will focus on our approach to training and selecting the best un(der)employed non-graduate youth for junior data science, data engineering and web development roles. I discuss pitfalls and progress in providing tech learnerships, how companies can benefit from partnering with tech bootcamps, and how data science can improve candidate selection and retention.",
+        bio: "Dr. Michelle Hoogenhout is the head data scientist at Umuzi, a non-profit organisation helping young people to develop the skills to access digital careers. Michelle teaches analytics, programming and database skills. Her work also encompasses helping Umuzi and partner companies leverage their data to improve their business strategy, designing aptitude test to assess talent, and holding workshops on data science, presentation and interpersonal skills. In her previous position, she lectured in statistics and cognitive neuroscience, and researched developmental disorders in African populations. Michelle has published articles and book chapters on displaying data, using clustering to predict developmental disorder severity, and research methodology. Michelle holds a PhD in Psychology from the University of Cape Town and a neuropsychiatric genetics fellowship with the Broad Institute of Harvard and MIT."
     }
 };
 
