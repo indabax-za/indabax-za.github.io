@@ -260,7 +260,11 @@ PANEL = {
     'Dr. Benjamin Rosman':
     { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg'},
     'Jade Abbott':
-    { imagePath: './assets/speaker_data/jade_abbott/image.jpg'}
+    { imagePath: './assets/speaker_data/jade_abbott/image.jpg'},
+    'Prof. Francesco Petruccione':
+    {imagePath: './assets/organiser_data/francesco_petruccione/image.jpg'},
+    'Christopher Currin':
+    {imagePath: './assets/organiser_data/christopher_currin/image.jpg'},
 };
 
 KEYNOTE = "";
@@ -893,11 +897,12 @@ for (i = 0; i < acc.length; i++) {
 
 function populatePanel(panellists) {
     var $row_div = $("<div />").addClass("row");
+    var count = 1;
 
     for(panellist of shuffle(Object.keys(panellists))) {
       $organizerSection = $(".panel.container");
 
-      $slot = $("<div />").addClass("col-md-2")
+      $slot = $("<div />").addClass("col-xs-3")
       .append(
         $("<div />").addClass("speaker").addClass("panellist")
         .append(
@@ -934,6 +939,11 @@ function populatePanel(panellists) {
       );
 
       $row_div.append($slot);
+      if(count % 4 == 0) {
+        $organizerSection.append($row_div);
+        $row_div = $("<div />").addClass("row");
+      }
+      count++;
 
     }
 
