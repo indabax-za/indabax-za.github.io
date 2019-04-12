@@ -72,10 +72,10 @@ INFO = {
     },
     'Alex Conway':
     { imagePath: './assets/speaker_data/alex_conway/image.jpg',
-        lectureHeading: 'Deep Neural Networks for Video Applications',
+        lectureHeading: 'Sebenz.ai - Creating jobs in South Africa using Smartphone Data Labeling',
         category: 'Industry/Ethics/Policy',
         affiliation: 'NumberBoost',
-        abstract: "Most CCTV video cameras exist as a sort of time machine for insurance purposes. Deep neural networks make it easy to convert video into data which can then be used to trigger real-time anomaly alerts and optimize complex business processes. Deep learning can also be used in academic research to speed up labeling of video recorded from the point of view of animals wearing go-pros. This talk will present some theory of deep neural networks for video applications as well as academic research and several applied real-world industrial examples.",
+        abstract: "Sebenz.ai has 2 parts: 1. A machine learning (ML) labeling game that creates jobs for people in South Africa who earn money on their phones by labeling training data for ML models 2. A self-serve interface where customers upload their own unlabelled data and we train a custom ML model for them accessible by API. Sebenza means 'work' in isiXhosa and isiZulu and our mission is to create 1 million jobs in Africa. There is 28% unemployment in South Africa right now. Most of those people have a smartphone and they all have free time.",
         bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups."
     },
     'Dr. Ndivhuwo Makondo':
