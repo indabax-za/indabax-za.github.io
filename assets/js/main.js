@@ -895,6 +895,30 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 
+/*
+var acc = document.getElementsByClassName("accordion_button");
+var panel = document.getElementsByClassName('accordion_panel');
+
+for (var i = 0; i < acc.length; i++) {
+    acc[i].onclick = function() {
+        var setClasses = !this.classList.contains('ac_active');
+        setClass(acc, 'ac_active', 'remove');
+        setClass(panel, 'show', 'remove');
+
+        if (setClasses) {
+            this.classList.toggle("ac_active");
+            this.nextElementSibling.classList.toggle("show");
+        }
+    }
+}
+
+function setClass(els, className, fnName) {
+    for (var i = 0; i < els.length; i++) {
+        els[i].classList[fnName](className);
+    }
+}
+
+*/
 function populatePanel(panellists) {
     var $row_div = $("<div />").addClass("row");
     var count = 1;
