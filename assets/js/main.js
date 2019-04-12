@@ -115,7 +115,7 @@ INFO = {
         lectureHeading: 'Black-Box Optimization and its Role in Machine Learning',
         category: 'Research',
         affiliation: 'University of Pretoria',
-        abstract: '',
+        abstract: 'Much of the success of machine learning has come from the use of gradient based information to optimize models. However, not every problem we try and solve has gradient based information to exploit.  The question is then how do we optimize in the absence of a gradient? This is precisely where we should look to the world of black box optimization for answers. In this talk you will be introduced to black box optimization and the commonly used algorithms in the field. Furthermore, the successful application of these algorithms to a variety of machine learning problems will be covered in the talk.',
         bio: "Christopher Cleghorn received his Masters and PhD degrees in Computer Science from the University of Pretoria, South Africa. He is a senior lecturer in Computer Science at the University of Pretoria, and the leader of the Computational Intelligence Research Group. His research interests include machine learning, swarm intelligence, and evolutionary computation, with a strong focus of theoretical research. Dr Cleghorn annually serves as a reviewer for numerous international journals and conferences in domains ranging from swarm intelligence and neural networks to mathematical optimization."
     },
     'Stuart Reid':
