@@ -825,7 +825,7 @@ function populateOrganizers(organizers) {
   for(speaker of shuffle(Object.keys(organizers))) {
     $organizerSection = $(".about .container");
 
-    $slot = $("<div />").addClass("col-xs-4")
+    $slot = $("<div />").addClass("col-md-3 col-xs-6")
     .append(
       $("<div />").addClass("speaker").addClass("organizer")
       .append(
@@ -863,7 +863,7 @@ function populateOrganizers(organizers) {
 
     $row_div.append($slot);
 
-    if(count % 3 == 0) {
+    if(count % 4 == 0) {
         $organizerSection.append($row_div);
         $row_div = $("<div />").addClass("row");
     }
@@ -902,7 +902,7 @@ function populatePanel(panellists) {
     for(panellist of shuffle(Object.keys(panellists))) {
       $organizerSection = $(".panel.container");
 
-      $slot = $("<div />").addClass("col-xs-3")
+      $slot = $("<div />").addClass("col-md-3 col-xs-6")
       .append(
         $("<div />").addClass("speaker").addClass("panellist")
         .append(

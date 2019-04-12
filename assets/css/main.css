@@ -1143,3 +1143,24 @@ span.schedule-slot-speaker-name{
   background-color: #ccc;
 }
 
+.accordion_button:after {
+  content:"➤"; 
+  color: #000000;
+  font-size: 20px;
+  float: right;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.accordion_button.ac_active:after {
+  color: #000000;
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+
