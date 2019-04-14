@@ -74,7 +74,7 @@ INFO = {
     { imagePath: './assets/speaker_data/alex_conway/image.jpg',
         lectureHeading: 'Sebenz.ai - Creating jobs in South Africa using Smartphone Data Labeling',
         category: 'Industry/Ethics/Policy',
-        affiliation: 'NumberBoost',
+        affiliation: 'Sebenz.ai / NumberBoost',
         abstract: "Sebenz.ai has 2 parts: 1. A machine learning (ML) labeling game that creates jobs for people in South Africa who earn money on their phones by labeling training data for ML models 2. A self-serve interface where customers upload their own unlabelled data and we train a custom ML model for them accessible by API. Sebenza means 'work' in isiXhosa and isiZulu and our mission is to create 1 million jobs in Africa. There is 28% unemployment in South Africa right now. Most of those people have a smartphone and they all have free time.",
         bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups."
     },
@@ -112,7 +112,7 @@ INFO = {
     },
     'James Allingham':
     { imagePath: './assets/speaker_data/james_allingham/image.jpg',
-        lectureHeading: 'Missing Data Imputation (ML in Practice)',
+        lectureHeading: 'Machine Learning in Practice: A Primer on Missing Data',
         category: 'Research',
         affiliation: 'Wolfram Research',
         abstract: 'In the real world datasets are often messy – it is common for values to be missing or corrupt. Examples include empty cells in spreadsheets, unanswered survey questions, or readings from faulty sensors. Unfortunately, despite the frequent occurrence of such defects, software engineers tend not to develop algorithms that are robust to missing values. As a result, many common algorithms fail on such datasets. This talk will briefly discuss the theory of missing data and discuss practical appraoches for dealing with missingness in real-world machine learning.',
