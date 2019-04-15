@@ -254,6 +254,12 @@ ul li {
   background-color: #d6ca5e;
   margin-top: 0.9em;
 }
+#watch {
+  font-weight: bold;
+  font-size: 1.5em;
+  background-color: #5ed6bc;
+  margin-top: 0.9em;
+}
 #sponsor {
   font-weight: bold;
   font-size: 1.5em;
