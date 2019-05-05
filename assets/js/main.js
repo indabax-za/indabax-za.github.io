@@ -983,26 +983,42 @@ function populatePanel(panellists) {
 
   }
 
-// JS for slideshows
-function plusSlides(n, no) {
-  showSlides(slideIndex[no] += n, no);
-}
+/* JS for slideshows*/
+var myIndex = 0;
+slideShow();
 
-function showSlides(n, no) {
+function slideShow() {
   var i;
-  var x = document.getElementsByClassName(slideId[no]);
-  if (n > x.length) {slideIndex[no] = 1}    
-  if (n < 1) {slideIndex[no] = x.length}
+  var x = document.getElementsByClassName("mySlides1");
   for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
+    x[i].style.display = "none";  
   }
-  x[slideIndex[no]-1].style.display = "block";  
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(slideShow, 3000); // Change image every 2 seconds
 }
+var myIndex1 = 0;
+slideShow2();
+var first_run = 1;
 
-var slideIndex = [1,1];
-var slideId = ["mySlides1", "mySlides2"]
-showSlides(1, 0);
-showSlides(1, 1);
+function slideShow2() {
+  var i;
+  var x = document.getElementsByClassName("mySlides2");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex1++;
+  if (myIndex1 > x.length) {myIndex1 = 1}    
+  x[myIndex1-1].style.display = "block";  
+  if(first_run == 1){
+	first_run = 0;
+  	setTimeout(slideShow2, 4000); // Change image every 2 seconds
+  }
+  else{
+  	setTimeout(slideShow2, 3000); // Change image every 2 seconds
+  }
+}
 
 // populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
