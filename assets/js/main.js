@@ -20,7 +20,8 @@ INFO = {
         category: 'Keynote',
         affiliation: 'University of Johannesburg',
         abstract: 'Rational decision making in its linguistic description means making logical decisions. In essence, a rational agent optimally processes all relevant information to achieve its goal. Rationality has two elements and these are the use of relevant information and the efficient processing of such information. In reality, relevant information is incomplete and imperfect and the processing engine, which is a brain for humans, is suboptimal. Kahneman in his classic book “Thinking fast and slow” observed that humans are risk averse rather than utility maximizers. Furthermore, many optimization procedures at best identify local rather than global optimum solutions. The types of problems that we know if we have identified global solutions are convex problems. In the real world, problems are predominantly non-convex and this makes the idea of rational decision-making fundamentally unachievable, and Herbert Simon called this bounded rationality. This talk explores big questions around rationality and these are: (1) Are AI machines more rational than humans? (2) Is rationality subjective? (3) Is group rational decision-making more rational than individual decision making? (4) Can we measure rationality? On answering these questions, we explore the use of artificial intelligence in engineering, finance, social sciences and medicine.',
-        bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.'
+        bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.',
+        vidLink: "https://www.youtube.com/embed/iB-40dsRbTU?start=1"
     },
     'Dr. Andrew Saxe':
      { imagePath: './assets/speaker_data/dr._andrew_saxe/image.jpg',
@@ -36,7 +37,8 @@ INFO = {
         category: 'Research',
         affiliation: 'IBM',
         abstract: 'Convolutional Neural Networks (CNNs) are the state-of-the-art approach in most computer vision tasks, and work by accumulating sets of features in each layer. CNNs starts off by finding edges, then shapes, then actual objects. However, the spatial relationship information of all these features is lost. Capsule Networks are Geoffrey Hinton’s latest idea, which aim to preserve the spatial relationships within an image, allowing the network to better understand  translation, rotation, and scaling. Capsule Networks have achieved state-of-the-art performance on MNIST, and even beat CNNs by 45% at the task of recognising objects from different viewpoints. But, this approach has not yet been proven on a large-scale dataset like ImageNet. In this talk we will unpack Hinton’s ideas on Capsule Networks and gain an intuitive understanding of how Capsule Networks work.',
-        bio: 'Ashley is a research scientist at IBM Research in South Africa, where his primary research interest is deep learning for computer vision. He obtained undergrad degrees in electrical and biomedical engineering, and completed his PhD at Wits University, which focused on image processing algorithms for automatic lip-reading.'
+        bio: 'Ashley is a research scientist at IBM Research in South Africa, where his primary research interest is deep learning for computer vision. He obtained undergrad degrees in electrical and biomedical engineering, and completed his PhD at Wits University, which focused on image processing algorithms for automatic lip-reading.',
+        vidLink: "https://www.youtube.com/embed/O5aPXexvYIs"
     },
     'Dr. Justine Nasejje':
     { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg',
@@ -68,7 +70,8 @@ INFO = {
         category: 'Research',
         affiliation: 'University of the Witwatersrand',
         abstract: '',
-        bio: ''
+        bio: '',
+        vidLink: "https://www.youtube.com/embed/D5au3_xeNqk"
     },
     'Alex Conway':
     { imagePath: './assets/speaker_data/alex_conway/image.jpg',
@@ -84,7 +87,8 @@ INFO = {
         category: 'Research',
         affiliation: 'IBM',
         abstract: 'Machine learning approaches have recently been adopted for robot behavior modeling and control, where robot skills are acquired and adapted from data generated by the robot while interacting with its environment through a trial-and-error process. This talk will provide an overview of work done in machine learning for low-level robot control tasks, such as learning inverse dynamics and kinematics models for robot control. It will then highlight challenges faced in this domain and discuss potential solutions in the literature.',
-        bio: 'Ndivhuwo Makondo is a Research Scientist in Machine Learning at IBM Research | Africa, in the South Africa Lab; and a Visiting Lecturer at the School of Computer Science and Applied Mathematics at the University of the Witwatersrand in Johannesburg, South Africa. He holds a BSc and an MSc in Electical Engineering from the University of Cape Town, South Africa; and a PhD in Computational Intelligence and Systems Science from the Tokyo Institute of Technology, Japan. He began his career on a Masters Studentship at the Council for Scientific and Industrial Research (CSIR) in 2011, South Africa, in the Mobile Intelligent Autonomous Systems (MIAS) group, where he conducted research on stability analysis and path planning for a mobile manipulator as part of the Mining Safety Platform project. He then enrolled for a PhD at the Tokyo Institute of Technology in 2013, conducting research in Machine Learning and Robotics, where investigated the acceleration of robot learning of motor skills with knowledge transfer. Prior to joining IBM Research in 2019, he was research lead of mobile manipulation at CSIR MIAS for a year, where he led a team investigating the deployment of robot manipulators in unstructured and dynamic environments.'
+        bio: 'Ndivhuwo Makondo is a Research Scientist in Machine Learning at IBM Research | Africa, in the South Africa Lab; and a Visiting Lecturer at the School of Computer Science and Applied Mathematics at the University of the Witwatersrand in Johannesburg, South Africa. He holds a BSc and an MSc in Electical Engineering from the University of Cape Town, South Africa; and a PhD in Computational Intelligence and Systems Science from the Tokyo Institute of Technology, Japan. He began his career on a Masters Studentship at the Council for Scientific and Industrial Research (CSIR) in 2011, South Africa, in the Mobile Intelligent Autonomous Systems (MIAS) group, where he conducted research on stability analysis and path planning for a mobile manipulator as part of the Mining Safety Platform project. He then enrolled for a PhD at the Tokyo Institute of Technology in 2013, conducting research in Machine Learning and Robotics, where investigated the acceleration of robot learning of motor skills with knowledge transfer. Prior to joining IBM Research in 2019, he was research lead of mobile manipulation at CSIR MIAS for a year, where he led a team investigating the deployment of robot manipulators in unstructured and dynamic environments.',
+        vidLink: "https://www.youtube.com/embed/Y3tQMpFD9aA"
     },
     'Sebastian Bodenstein and Taliesin Beynon':
     { imagePath: './assets/speaker_data/sebastian_bodenstein_and_taliesin_beynon/image.jpg',
@@ -476,7 +480,7 @@ function populateSpeakerInfo(info) {
                         ) // paragraph div
                     ) // append to figure
                     .append(
-                        info[speaker].bio||info[speaker].abstract?(
+                        info[speaker].bio||info[speaker].abstract||info[speaker].vidLink?(
                         $("<div />").addClass("modal fade").attr({
                             "tabindex": "-1",
                             "id": ("myModal" + id),
@@ -512,14 +516,17 @@ function populateSpeakerInfo(info) {
                                         .text(info[speaker].speaker || "")
                                     ) // append to modal body
                                     .append(
+                                        $("<h3 />")
+                                        .text(info[speaker].lectureHeading || "")
+                                    )
+                                    .append(
                                       (
                                         info[speaker].vidLink?
                                         $("<iframe />").attr({
                                             "src": info[speaker].vidLink,
                                             "frameborder": "0",
-                                            "allow": "autoplay;encrypted-media",
-                                            "allowfullscreen": true
-                                        }).css({
+                                            "allow": "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                                            "allowfullscreen": true,
                                             "width": "100%",
                                             "height": "300"
                                         })
@@ -527,17 +534,17 @@ function populateSpeakerInfo(info) {
                                       )
                                     )
                                     .append(
-                                        $("<h3 />").text(info[speaker].bio?"Short Bio":"")
-                                    )
-                                    .append(
-                                        info[speaker].bio
-                                    )
-                                    .append(
                                         $("<h3 />").text(info[speaker].abstract?"Talk Abstract":"")
                                     )
                                     .append(
                                         info[speaker].abstract
                                     )
+                                    .append(
+                                        $("<h3 />").text(info[speaker].bio?"Short Bio":"")
+                                    )
+                                    .append(
+                                        info[speaker].bio
+                                    )                                    
                                 ) // append to modal content
                                 .append(
                                     $("<div />").addClass("modal-footer")
