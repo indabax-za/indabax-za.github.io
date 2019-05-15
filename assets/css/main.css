@@ -1173,20 +1173,4 @@ span.schedule-slot-speaker-name{
 position: absolute;
 bottom: -5px;
 }
-/*
-.item .active img{
-margin-left: auto;
-margin-right: auto;
-position: relative;
-}
-.carousel-inner .item{
-	margin: 0;
-	position: center;
-}
-
-#myCarousel{
-  width: 80%;
-  margin: 0;
-  position: center;
-}
-*/
+.item img { width: 100%; height: auto; }
