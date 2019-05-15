@@ -983,44 +983,9 @@ function populatePanel(panellists) {
 
   }
 
-/* JS for slideshows*/
-var myIndex = 0;
-slideShow();
-
-function slideShow() {
-  var i;
-  var x = document.getElementsByClassName("mySlides1");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(slideShow, 3000); // Change image every 2 seconds
-}
-var myIndex1 = 0;
-slideShow2();
-var first_run = 1;
-
-function slideShow2() {
-  var i;
-  var x = document.getElementsByClassName("mySlides2");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex1++;
-  if (myIndex1 > x.length) {myIndex1 = 1}    
-  x[myIndex1-1].style.display = "block";  
-  if(first_run == 1){
-	first_run = 0;
-  	setTimeout(slideShow2, 4000); // Change image every 2 seconds
-  }
-  else{
-  	setTimeout(slideShow2, 3000); // Change image every 2 seconds
-  }
-}
 
 // populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
 populatePanel(PANEL);
 populateOrganizers(ORGANIZERS);
+
