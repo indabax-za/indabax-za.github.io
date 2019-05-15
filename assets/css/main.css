@@ -1173,4 +1173,9 @@ span.schedule-slot-speaker-name{
 position: absolute;
 bottom: -5px;
 }
-.item img { width: 100%; height: auto; }
+.item img { 
+	width: 100%;
+	height: auto; 
+}
+	width:90%;
+}
