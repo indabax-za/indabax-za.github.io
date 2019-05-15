@@ -1169,7 +1169,10 @@ span.schedule-slot-speaker-name{
   -o-transform: rotate(-90deg);
   transform: rotate(-90deg);
 }
-
+.carousel-indicators {
+position: absolute;
+bottom: -5px;
+}
 /*
 .item .active img{
 margin-left: auto;
