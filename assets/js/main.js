@@ -21,7 +21,8 @@ INFO = {
         affiliation: 'University of Johannesburg',
         abstract: 'Rational decision making in its linguistic description means making logical decisions. In essence, a rational agent optimally processes all relevant information to achieve its goal. Rationality has two elements and these are the use of relevant information and the efficient processing of such information. In reality, relevant information is incomplete and imperfect and the processing engine, which is a brain for humans, is suboptimal. Kahneman in his classic book “Thinking fast and slow” observed that humans are risk averse rather than utility maximizers. Furthermore, many optimization procedures at best identify local rather than global optimum solutions. The types of problems that we know if we have identified global solutions are convex problems. In the real world, problems are predominantly non-convex and this makes the idea of rational decision-making fundamentally unachievable, and Herbert Simon called this bounded rationality. This talk explores big questions around rationality and these are: (1) Are AI machines more rational than humans? (2) Is rationality subjective? (3) Is group rational decision-making more rational than individual decision making? (4) Can we measure rationality? On answering these questions, we explore the use of artificial intelligence in engineering, finance, social sciences and medicine.',
         bio: 'Tshilidzi Marwala is the Vice-Chancellor and Principal of the University of Johannesburg beginning on 1st January 2018. From 2013 to 2017 he was the Deputy Vice-Chancellor for Research and Internationalization and from 2009 to 2013 he was the Executive Dean of the Faculty of Engineering and the Built Environment both at the University of Johannesburg.  From 2003 to 2008, he progressively held the positions of Associate Professor, Full Professor, the Carl and Emily Fuchs Chair of Systems and Control Engineering as well as the SARChI Chair of Systems Engineering at the Department of Electrical and Information Engineering at the University of the Witwatersrand. From 2001 to 2003, he was the Executive Assistant to the technical director at South African Breweries. From 2000 to 2001 he was a post-doctoral research associate at the Imperial College (then University of London). He holds a Bachelor of Science in Mechanical Engineering (magna cum laude) from Case Western Reserve University (USA) in 1995, a Master of Mechanical Engineering from the University of Pretoria in 1997 and a PhD specializing in Artificial Intelligence and Engineering from the University of Cambridge in 2000. Marwala completed the Advanced Management Program at Columbia University Businesses School in 2017 and completed a Program for Leadership Development at Harvard Business School in 2007. His research interests are multi-disciplinary and they include the theory and application of artificial intelligence to engineering, computer science, finance, social science and medicine. He has published 12 books in artificial intelligence, one of these has been translated into Chinese, over 300 papers in journals, proceedings, book chapters and magazines and holds four international patents. His writings and opinions have appeared in the magazines New Scientist, The Economist and Time Magazine.',
-        vidLink: "https://www.youtube.com/embed/iB-40dsRbTU?start=1"
+        vidLink: "https://www.youtube.com/embed/iB-40dsRbTU?start=1",
+        slidesLink: "https://drive.google.com/open?id=14Yt1iJvIJorAfGG3DYIvfYn80y79WzwN"
     },
     'Dr. Andrew Saxe':
      { imagePath: './assets/speaker_data/dr._andrew_saxe/image.jpg',
@@ -29,7 +30,8 @@ INFO = {
         category: 'Keynote',
         affiliation: 'University of Oxford',
         abstract: 'Anatomically, the brain is deep; and computationally, deep learning is known to be hard. How might depth impact learning in the brain? To understand the specific ramifications of depth, I develop the theory of learning in deep linear neural networks. I give exact solutions to the dynamics of learning which specify how every weight in the network evolves over the course of training. The theory answers fundamental questions such as how learning speed scales with depth, and why unsupervised pretraining accelerates learning. Turning to generalization error, I use random matrix theory to analyze the cognitively-relevant "high-dimensional" regime, where the number of training examples is on the order or even less than the number of adjustable synapses. Consistent with the striking performance of very large deep network models in practice, I show that good generalization is possible in overcomplete networks due to implicit regularization in the dynamics of gradient descent. These results reveal a speed-accuracy trade-off between training speed and generalization performance in deep networks. Drawing on these findings, I then describe an application to human semantic development. From a stream of individual episodes, we abstract our knowledge of the world into categories and overarching structures like trees and hierarchies. I present an exactly solvable model of this process by considering how a deep network will learn about richly structured environments specified as probabilistic graphical models. This scheme illuminates empirical phenomena documented by developmental psychologists, such as transient illusory correlations and changing patterns of inductive generalization. Neurally, the theory suggests that the representation of complex structures resides in the similarity structure of neural population responses, not the detailed activity patterns of individual neurons. Overall, these results suggest that depth may be an important computational principle influencing learning in the brain. Deep linear networks yield a tractable theory of layered learning that interlinks computation, neural representations, and behavior.',
-        bio: 'Dr. Andrew Saxe is a postdoctoral research associate in the Department of Experimental Psychology, University of Oxford where he works with Christopher Summerfield and Timothy Behrens. He was previously a Swartz Postdoctoral Fellow in Theoretical Neuroscience at Harvard University with Haim Sompolinsky, and he completed his PhD in Electrical Engineering at Stanford University, advised by Jay McClelland, Surya Ganguli, Andrew Ng, and Christoph Schreiner. His dissertation received the Robert J. Glushko Dissertation Prize from the Cognitive Science Society. His research focuses on the theory of deep learning and its applications to phenomena in neuroscience and psychology.'
+        bio: 'Dr. Andrew Saxe is a postdoctoral research associate in the Department of Experimental Psychology, University of Oxford where he works with Christopher Summerfield and Timothy Behrens. He was previously a Swartz Postdoctoral Fellow in Theoretical Neuroscience at Harvard University with Haim Sompolinsky, and he completed his PhD in Electrical Engineering at Stanford University, advised by Jay McClelland, Surya Ganguli, Andrew Ng, and Christoph Schreiner. His dissertation received the Robert J. Glushko Dissertation Prize from the Cognitive Science Society. His research focuses on the theory of deep learning and its applications to phenomena in neuroscience and psychology.',
+        slidesLink: "https://drive.google.com/open?id=18oNsMau_LMghydVTgu03w8ZTFrr4UOSw"
     }, 
     'Dr. Ashley Gritzman':
     { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg',
@@ -46,7 +48,8 @@ INFO = {
         category: 'Research',
         affiliation: 'University of the Witwatersrand',
         abstract: 'Random survival forests have been identified as alternative methods to standard survival analysis methods like the Weibull and Cox proportional hazards model. These methods have a good predictive performance in handling survival data. It has also been established that random survival forest models handle covariate interactions naturally. The random survival forest algorithm, however, has been criticised for possible bias when possible split variables have different entropy. They favour covariates with many split-points to those with fewer split-points. In this study, we explore the predictive performance of Conditional inference forest (CIF) which is known to correct the bias for random survival forest models using a simulation study.',
-        bio: 'Justine Nasejje is a lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where she has worked since June 2018. She attained her Doctorate in Statistics from the University of KwaZulu-Natal in April 2018. Her Thesis, which investigated the properties of random survival forests, won her the  prestigious Kambule Dissertation Award in the same year. She is a published DAAD Scholar with special interest in, Time-to-event data analysis, Biostatistics and Machine  learning techniques. She has presented at numerous conferences both locally and internationally. Justine is also a wife and proud mother of seven-month-old twin daughters.'
+        bio: 'Justine Nasejje is a lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where she has worked since June 2018. She attained her Doctorate in Statistics from the University of KwaZulu-Natal in April 2018. Her Thesis, which investigated the properties of random survival forests, won her the  prestigious Kambule Dissertation Award in the same year. She is a published DAAD Scholar with special interest in, Time-to-event data analysis, Biostatistics and Machine  learning techniques. She has presented at numerous conferences both locally and internationally. Justine is also a wife and proud mother of seven-month-old twin daughters.',
+        slidesLink: "https://drive.google.com/open?id=18JdaqGBQhNLWG9doV-wIq5-73R46qQUz"
     },
     'Dr. Nick Bradshaw':
     { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
@@ -54,7 +57,9 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Cortex Logic / MIIA',
         abstract: '',
-        bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey."
+        bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey.",
+        vidLink: "https://www.youtube.com/embed/QH4IpE44NYc",
+        slidesLink: "https://drive.google.com/open?id=1pq26AyxWOlUcA8M3p7Z1oOUHTEiO-Z_b"
     },
     'Dr. Benjamin Rosman':
     { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg',
@@ -62,7 +67,8 @@ INFO = {
         category: 'Research',
         affiliation: 'University of the Witwatersrand / CSIR',
         abstract: '',
-        bio: ''
+        bio: '',
+        slidesLink: "https://drive.google.com/open?id=1oELmhoICeslZgGmtV6yZ0B8E9s5_XQlc"
     },
     'Dr. Terence van Zyl':
     { imagePath: './assets/speaker_data/dr._terence_van_zyl/image.jpg',
@@ -71,7 +77,8 @@ INFO = {
         affiliation: 'University of the Witwatersrand',
         abstract: '',
         bio: '',
-        vidLink: "https://www.youtube.com/embed/D5au3_xeNqk"
+        vidLink: "https://www.youtube.com/embed/D5au3_xeNqk",
+        slidesLink: "https://drive.google.com/open?id=1wSJBQlaUFhqfjQI53IVTnWhL26s1i71s"
     },
     'Alex Conway':
     { imagePath: './assets/speaker_data/alex_conway/image.jpg',
@@ -79,7 +86,8 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Sebenz.ai / NumberBoost',
         abstract: "Sebenz.ai has 2 parts: 1. A machine learning (ML) labeling game that creates jobs for people in South Africa who earn money on their phones by labeling training data for ML models 2. A self-serve interface where customers upload their own unlabelled data and we train a custom ML model for them accessible by API. Sebenza means 'work' in isiXhosa and isiZulu and our mission is to create 1 million jobs in Africa. There is 28% unemployment in South Africa right now. Most of those people have a smartphone and they all have free time.",
-        bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups."
+        bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups.",
+        slidesLink: "https://drive.google.com/open?id=1S6yqhp6AJ5aPVC826PyOu0y1FpKpZc22"
     },
     'Dr. Ndivhuwo Makondo':
     { imagePath: './assets/speaker_data/ndivhuwo_makondo/image.jpg',
@@ -88,7 +96,8 @@ INFO = {
         affiliation: 'IBM',
         abstract: 'Machine learning approaches have recently been adopted for robot behavior modeling and control, where robot skills are acquired and adapted from data generated by the robot while interacting with its environment through a trial-and-error process. This talk will provide an overview of work done in machine learning for low-level robot control tasks, such as learning inverse dynamics and kinematics models for robot control. It will then highlight challenges faced in this domain and discuss potential solutions in the literature.',
         bio: 'Ndivhuwo Makondo is a Research Scientist in Machine Learning at IBM Research | Africa, in the South Africa Lab; and a Visiting Lecturer at the School of Computer Science and Applied Mathematics at the University of the Witwatersrand in Johannesburg, South Africa. He holds a BSc and an MSc in Electical Engineering from the University of Cape Town, South Africa; and a PhD in Computational Intelligence and Systems Science from the Tokyo Institute of Technology, Japan. He began his career on a Masters Studentship at the Council for Scientific and Industrial Research (CSIR) in 2011, South Africa, in the Mobile Intelligent Autonomous Systems (MIAS) group, where he conducted research on stability analysis and path planning for a mobile manipulator as part of the Mining Safety Platform project. He then enrolled for a PhD at the Tokyo Institute of Technology in 2013, conducting research in Machine Learning and Robotics, where investigated the acceleration of robot learning of motor skills with knowledge transfer. Prior to joining IBM Research in 2019, he was research lead of mobile manipulation at CSIR MIAS for a year, where he led a team investigating the deployment of robot manipulators in unstructured and dynamic environments.',
-        vidLink: "https://www.youtube.com/embed/Y3tQMpFD9aA"
+        vidLink: "https://www.youtube.com/embed/Y3tQMpFD9aA",
+        slidesLink: "https://drive.google.com/open?id=1fAITAZ6CZS1QXfLJfIi7narYXjf-6RDY"
     },
     'Sebastian Bodenstein and Taliesin Beynon':
     { imagePath: './assets/speaker_data/sebastian_bodenstein_and_taliesin_beynon/image.jpg',
@@ -96,7 +105,8 @@ INFO = {
         category: 'Research',
         affiliation: 'Wolfram Research',
         abstract: 'In this talk, Sebastian and Taliesin, core developers of the Wolfram Mathematica Deep Learning framework, will be presenting existing work from neuroscientists and machine learning researchers that attempt to reconcile the mechanism of backpropogation used in Deep Learning with what is known about circuits in the brain.',
-        bio: 'Sebastian Bodenstein and Taliesin Beynon were architects of the deep learning framework that has been part of the Wolfram Language since Mathematica 11, as well as the Neural Network repository that gives free and easy access to dozens of pre-trained neural networks across many domains.'
+        bio: 'Sebastian Bodenstein and Taliesin Beynon were architects of the deep learning framework that has been part of the Wolfram Language since Mathematica 11, as well as the Neural Network repository that gives free and easy access to dozens of pre-trained neural networks across many domains.',
+        slidesLink: "https://drive.google.com/open?id=1kJkBagN093-9dTvKl-PpFpIH9MltPRi8"
     },
     'Dr. Emli-Mari Nel':
     { imagePath: './assets/speaker_data/emli-mari_nel/image.jpg',
@@ -104,7 +114,8 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Empiric Capital',
         abstract: 'This presentation will outline Ticker, a probabilistic stereophonic single-switch text entry method for visually-impaired users with motor disabilities who rely on single-switch scanning systems to communicate. Traditional scanning systems are sensitive to a variety of noise sources, which are inevitably introduced in practical use of single-switch systems. Ticker uses an interaction model based on stereophonic sound coupled with statistical models for robust inference of the user’s intended text in the presence of noise. Ticker builds on Nomon, a visual text-entry method developed by Prof. Tamara Broderick (currently based at MIT). The Nomon project has recently been revived, and a short description of this open source project will be given. Ticker also builds on some concepts dating back to Dasher, a text-entry method developed by Prof. David MacKay and his group (at the University of Cambridge). Dasher, Nomon and Ticker rely heavily on the important link between probability theory and information theory. Dasher is, for example, linked to arithmetic coding, and Ticker finds its foundations in Shannon\'s noisy coding theorem. All three of the aforementioned methods can achieve better information rates by improving their respective language models. If time permits, the relevance of information theory in these applications will be discussed in more detail.',
-        bio: 'Emli-Mari completed her PhD in Electronic Engineering in 2005 after which she spent 3 years in Oxford working in the domain of markerless motion capture and other computer vision applications related to multiple view geometry. She then spent 5 years as a postdoctoral research associate in Prof. David MacKay\'s group at the University of Cambridge working on probabilistic assistive technology.  Her work focused on using computer vision, (probabilistic) machine learning and information theory to assist users with motor disabilities to communicate. She is currently the head of research at the hedge fund Empiric Capital, where statistical modelling and  machine learning are used to construct a diverse investment portfolio.'
+        bio: 'Emli-Mari completed her PhD in Electronic Engineering in 2005 after which she spent 3 years in Oxford working in the domain of markerless motion capture and other computer vision applications related to multiple view geometry. She then spent 5 years as a postdoctoral research associate in Prof. David MacKay\'s group at the University of Cambridge working on probabilistic assistive technology.  Her work focused on using computer vision, (probabilistic) machine learning and information theory to assist users with motor disabilities to communicate. She is currently the head of research at the hedge fund Empiric Capital, where statistical modelling and  machine learning are used to construct a diverse investment portfolio.',
+        slidesLink: "https://drive.google.com/open?id=1q2LXBIpmLkfjDUBET34oTkV7ecCOtzhN"
     },
     'Wiebke Toussaint':
     { imagePath: './assets/speaker_data/wiebke-toussaint/image.jpg',
@@ -112,7 +123,8 @@ INFO = {
         category: 'Foundations',
         affiliation: 'Centre for Artificial Intelligence Research',
         abstract: 'The goal of unsupervised machine learning is to discover structure in data in the absence of training labels. It can be used to estimate the distribution of data in the input space, to reduce high dimensional data to lower dimensions for the purpose of visualisation or to discover groups of similar observations in the data. This talk is an introduction to unsupervised machine learning.',
-        bio: ''
+        bio: '',
+        vidLink: "https://www.youtube.com/embed/E-Q9PWs2SCk"
     },
     'James Allingham':
     { imagePath: './assets/speaker_data/james_allingham/image.jpg',
@@ -120,7 +132,8 @@ INFO = {
         category: 'Research',
         affiliation: 'Wolfram Research',
         abstract: 'In the real world datasets are often messy – it is common for values to be missing or corrupt. Examples include empty cells in spreadsheets, unanswered survey questions, or readings from faulty sensors. Unfortunately, despite the frequent occurrence of such defects, software engineers tend not to develop algorithms that are robust to missing values. As a result, many common algorithms fail on such datasets. This talk will briefly discuss the theory of missing data and discuss practical appraoches for dealing with missingness in real-world machine learning.',
-        bio: "James is a consultant for Wolfram Research, developing the Mathematica Deep Learning framework. Prior to this James completed a master's in computer science focusing on machine learning. James's dissertation investigated automatic and unsupervised approaches to missing data imputation."
+        bio: "James is a consultant at Wolfram Research, developing the Mathematica Deep Learning framework. Prior to this James completed a master's in computer science focusing on machine learning. James's dissertation investigated automatic and unsupervised approaches to missing data imputation.",
+        slidesLink: "https://drive.google.com/open?id=1f18byLAA3Yr2cScwUc-dgnNs9Hg0yGds"
     },
     'Dr. Christopher Cleghorn':
     { imagePath: './assets/speaker_data/dr._chris_cleghorn/image.jpg',
@@ -128,7 +141,8 @@ INFO = {
         category: 'Research',
         affiliation: 'University of Pretoria',
         abstract: 'Much of the success of machine learning has come from the use of gradient based information to optimize models. However, not every problem we try and solve has gradient based information to exploit.  The question is then how do we optimize in the absence of a gradient? This is precisely where we should look to the world of black box optimization for answers. In this talk you will be introduced to black box optimization and the commonly used algorithms in the field. Furthermore, the successful application of these algorithms to a variety of machine learning problems will be covered in the talk.',
-        bio: "Christopher Cleghorn received his Masters and PhD degrees in Computer Science from the University of Pretoria, South Africa. He is a senior lecturer in Computer Science at the University of Pretoria, and the leader of the Computational Intelligence Research Group. His research interests include machine learning, swarm intelligence, and evolutionary computation, with a strong focus of theoretical research. Dr Cleghorn annually serves as a reviewer for numerous international journals and conferences in domains ranging from swarm intelligence and neural networks to mathematical optimization."
+        bio: "Christopher Cleghorn received his Masters and PhD degrees in Computer Science from the University of Pretoria, South Africa. He is a senior lecturer in Computer Science at the University of Pretoria, and the leader of the Computational Intelligence Research Group. His research interests include machine learning, swarm intelligence, and evolutionary computation, with a strong focus of theoretical research. Dr Cleghorn annually serves as a reviewer for numerous international journals and conferences in domains ranging from swarm intelligence and neural networks to mathematical optimization.",
+        slidesLink: "https://drive.google.com/open?id=1ZDQyzhxT8xdB2IiGPz0XumG0mIiEIVkc"
     },
     'Stuart Reid':
     { imagePath: './assets/speaker_data/stuart_reid/image.jpg',
@@ -136,7 +150,9 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Aerobotics',
         abstract: "The ability to synthesize realistic, real-valued, multivariate time series with complex correlation and auto-correlation structures is an important goal. With better methods available to them, medical practitioners could be trained to better respond to rare events that occur in EEG and ECG data including fits, seizures, asthma attacks, and heart arrhythmias; engineers could simulate complex manufacturing processes to identify inefficiencies early on; and risk managers could stress asset and liability models more realistically using fewer assumptions, therefore, leading to fewer insolvencies. In this talk, I will discuss various parametric, non-parametric and generative machine learning techniques for synthesizing realistic, real-values, multivariate time series.",
-        bio: "Stuart is the Head of Data Science at Aerobotics, a startup which uses deep learning to extract insights from drone and satellite imagery of tree crops. Prior to that, he spent 7 years in the finance industry working as a Quantitative Analyst. He holds an Honours Degree in Computer Science from the University of Pretoria and is currently working towards a Masters in Applied Mathematics through Stellenbosch University."
+        bio: "Stuart is the Head of Data Science at Aerobotics, a startup which uses deep learning to extract insights from drone and satellite imagery of tree crops. Prior to that, he spent 7 years in the finance industry working as a Quantitative Analyst. He holds an Honours Degree in Computer Science from the University of Pretoria and is currently working towards a Masters in Applied Mathematics through Stellenbosch University.",
+        vidLink: "https://www.youtube.com/embed/sFjUNxPNeuA",
+        slidesLink: "https://drive.google.com/open?id=1sF_NdVklKssNnL0cxdlgkB_MHpG93HjG"
     },
     'Pelonomi Moiloa':
     { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg',
@@ -144,7 +160,8 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Tohoku University, Japan / Nedbank',
         abstract: "The possibilities of machine learning and neural networks in particular are ever expanding. With increased opportunities to do good however there are just as many opportunities to do harm and even in the case that good intentions are at the helm, evidence suggests that opportunities for good may eventually prove to be the opposite. The greatest threat to what machine learning is able to achieve and to us as humans is twofold: Machine learning created with harmful biases built into its core with intent, and machine learning that does not reflect the diversity of the users it is meant to serve. It is important that we are not so pre-occupied with advancing technology into the future that we have not taken the time to invest the energy into engineering the security measures this future requires. It is important to investigate now, as thoroughly as we investigate differing deep neural network architectures, the complex questions regarding the fact that humans are inherently biased and loaded with prejudice and that these traits find themselves in the machines we create (and increasingly allow to run our lives) unless we take active steps to ensure they do not.",
-        bio: "Pelonomi is a recent Biomedical Engineering Masters Graduate with a specialisation in neural networks for neural cell video segmentation now serving as a Junior Data Scientist at Nedbank. She is also a tree hugger."
+        bio: "Pelonomi is a recent Biomedical Engineering Masters Graduate with a specialisation in neural networks for neural cell video segmentation now serving as a Junior Data Scientist at Nedbank. She is also a tree hugger.",
+        vidLink: "https://www.youtube.com/embed/J4ZNp92kEUM"
     },
     'Jade Abbott':
     { imagePath: './assets/speaker_data/jade_abbott/image.jpg',
@@ -152,7 +169,9 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Retro Rabbit',
         abstract: "Thanks to the openness of the machine learning community, anyone with a serious interest in machine learning these days, can get up a model to recognise characters or generate Trump-like tweets in a couple of hours. But what happens when we need to train a model to do a customer facing task, that we trust enough to deploy to a production system? And how do we get that model into production and maintain it  once it is there? My talk aims to share some of the struggles, trade-offs and strategies from the trenches of training and building the infrastructure for a complex deep  learning model for production use.",
-        bio: "Jade Abbott is a Machine Learning engineer at Retro Rabbit. She's built software for every field from social upliftment to banking, working on projects throughout Africa and considers herself a polyglot. Her current project involves training and deploying deep learning system to perform a variety of NLP tasks for real life systems - from training the models, to scaling them in production. In her free time, she does ML research on Machine Translation for African languages."
+        bio: "Jade Abbott is a Machine Learning engineer at Retro Rabbit. She's built software for every field from social upliftment to banking, working on projects throughout Africa and considers herself a polyglot. Her current project involves training and deploying deep learning system to perform a variety of NLP tasks for real life systems - from training the models, to scaling them in production. In her free time, she does ML research on Machine Translation for African languages.",
+        vidLink: "https://www.youtube.com/embed/ZDVrQ3AoZ08",
+        slidesLink: "https://drive.google.com/open?id=1VDteUh2WGxsKbgUh3oT3HRVYZBd2an_X"
     },
     'Jan Krynauw and Zander Lee':
     { imagePath: './assets/speaker_data/jan_krynauw_and_zander_lee/image.jpg',
@@ -160,7 +179,9 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'alis_',
         abstract: "",
-        bio: "Jan Krynauw is the Chief Executive Officer of alis_ (an ai driven investment manager) and a director of Rezco Asset Management (~ USD 500M AUM). Prior to alis_, Jan co-led the investment consulting team at Old Mutual (at the time the largest investment consultancy in South Africa with a client base of USD 10B). Under Jan’s leadership the team was recognized with the prestigious group-wide ‘Innovation Award’. In his spare time Jan is an avid pianist and enjoys building Lego robotics with two sons. Jan is a qualified Actuary with 14 years industry experience and has a B.Sc Honours from University of Stellenbosch in Actuarial Science with a Computer Science overlay.<br><br>Zander obtained a Masters (cum laude) in Theoretical Physics from Stellenbosch University, specializing in particle physics. Before joining alis_ as a machine learning engineer, Zander worked as a web developer at Jini Guru and then as a data scientist at BCX Insights. In his spare time he enjoys video games, board games and reading."
+        bio: "Jan Krynauw is the Chief Executive Officer of alis_ (an ai driven investment manager) and a director of Rezco Asset Management (~ USD 500M AUM). Prior to alis_, Jan co-led the investment consulting team at Old Mutual (at the time the largest investment consultancy in South Africa with a client base of USD 10B). Under Jan’s leadership the team was recognized with the prestigious group-wide ‘Innovation Award’. In his spare time Jan is an avid pianist and enjoys building Lego robotics with two sons. Jan is a qualified Actuary with 14 years industry experience and has a B.Sc Honours from University of Stellenbosch in Actuarial Science with a Computer Science overlay.<br><br>Zander obtained a Masters (cum laude) in Theoretical Physics from Stellenbosch University, specializing in particle physics. Before joining alis_ as a machine learning engineer, Zander worked as a web developer at Jini Guru and then as a data scientist at BCX Insights. In his spare time he enjoys video games, board games and reading.",
+        vidLink: "https://www.youtube.com/embed/bvmmncC_-Ls",
+        slidesLink: "https://drive.google.com/open?id=1_qomD69IRZsVMfqmalCI2OZRPVp-yeBx"
     },
     'Dr. Jonathan Shock':
     { imagePath: './assets/speaker_data/jonathan_shock/image.jpg',
@@ -168,7 +189,9 @@ INFO = {
         category: 'Foundations',
         affiliation: 'University of Cape Town',
         abstract: "We will look at the fundamental ideas of reinforcement learning, from the underlying mathematics to the basic principles of a reinforcement learning system. We will look at some of the ways that RL has been used to solve interesting problems, as well as where the basic ideas break down and how we can overcome these hurdles. This will be a very theoretical tour, but links to code will be made available.",
-        bio: "Originally from the UK, Dr Jonathan Shock completed his PhD in string theory at the university of Southampton. Since then he has completed postdoctoral positions in Beijing, Santiago de Compostela and Munich before becoming a lecturer at the University of Cape Town. While his background is in theoretical physics, he also publishes on neuroscience and runs a reinforcement learning discussion group at UCT."
+        bio: "Originally from the UK, Dr Jonathan Shock completed his PhD in string theory at the university of Southampton. Since then he has completed postdoctoral positions in Beijing, Santiago de Compostela and Munich before becoming a lecturer at the University of Cape Town. While his background is in theoretical physics, he also publishes on neuroscience and runs a reinforcement learning discussion group at UCT.",
+        vidLink: "https://www.youtube.com/embed/wI_2QbIrKZA",
+        slidesLink: "https://drive.google.com/open?id=10vx9dMJzL6tOuV5N17CAu6USK3F1FBwB"
     },
     'Kerryn Gammie':
     { imagePath: './assets/speaker_data/kerryn_gammie/image.jpg',
@@ -176,7 +199,9 @@ INFO = {
         category: 'Foundations',
         affiliation: 'Absa (Home Loans)',
         abstract: "An animated introduction to Machine Learning covering supervised (classification and regression techniques) and unsupervised learning (clustering). I’ll also briefly discuss what ML looks like in corporate, as well as resources/tips/tricks.",
-        bio: "Keen learner and unlearner who spends a lot of time thinking about the intersection between AI and society; specifically how the former can change the latter."
+        bio: "Keen learner and unlearner who spends a lot of time thinking about the intersection between AI and society; specifically how the former can change the latter.",
+        vidLink: "https://www.youtube.com/embed/nRw0p8_njO0",
+        slidesLink: "https://drive.google.com/open?id=1JxttNln-z7E8lmTjG6rQpSoYia_eeGvL"
     },
     'Dr. Richard Klein':
     { imagePath: './assets/speaker_data/richard_klein/image.jpg',
@@ -184,7 +209,9 @@ INFO = {
         category: 'Foundations',
         affiliation: 'University of the Witwatersrand',
         abstract: "",
-        bio: ""
+        bio: "",
+        vidLink: "https://www.youtube.com/embed/7lUVl9Ib0oc",
+        slidesLink: "https://drive.google.com/open?id=1tZBLnB03U2sQY0Nk1CaN_Xzeh-Zf003f"
     },
     'Dr. Quentin Williams':
     { imagePath: './assets/speaker_data/quentin_williams/image.jpg',
@@ -192,7 +219,8 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Deloitte',
         abstract: "As AI is increasingly replacing humans for tasks both in business processes and business innovation; a new community/partnership is being formed where humans and AI is being used collaboratively and interchangeably to perform jobs and functions. The talk by Dr Williams will focus on what is required from researchers and business operatives to first understand what the relationship between AI and humans mean for business and secondly how AI can be used proactively for operational efficiency; market effectiveness and innovation. AI therefore moves beyond the world of algorithms and code; becomes much more than just a tool incorporated into a platform; but an essential partner in all business strategy and processes",
-        bio: "Dr Quentin Williams completed his Phd in Engineering in 2005 from the University of Oxford, focusing on Medical Image Processing and Pattern Recognition. The research involved an extensive patient study of the techniques at the John Radcliffe Research Hospital in Oxford. Dr Williams started working at the CSIR in March 2006. He was involved in setting up a research team and focus for the Meraka Institute’s 'Intelligent Environment for Independent Living' group. Here his work concentrated on using machine intelligence techniques in technologies that aid persons with disabilities and using cognitive algorithms to analyse clinical data and develop computational techniques that will assist medical doctors. He established the World Wide Web Consortium (W3C) Southern African office and the Data Science for Impact and Decision Enablement (DSIDE) programme through which over 200 students have been trained in AI and data analytics. He is currently an Associate Director at Deloitte Analytics focussing on AI fueled organisations."
+        bio: "Dr Quentin Williams completed his Phd in Engineering in 2005 from the University of Oxford, focusing on Medical Image Processing and Pattern Recognition. The research involved an extensive patient study of the techniques at the John Radcliffe Research Hospital in Oxford. Dr Williams started working at the CSIR in March 2006. He was involved in setting up a research team and focus for the Meraka Institute’s 'Intelligent Environment for Independent Living' group. Here his work concentrated on using machine intelligence techniques in technologies that aid persons with disabilities and using cognitive algorithms to analyse clinical data and develop computational techniques that will assist medical doctors. He established the World Wide Web Consortium (W3C) Southern African office and the Data Science for Impact and Decision Enablement (DSIDE) programme through which over 200 students have been trained in AI and data analytics. He is currently an Associate Director at Deloitte Analytics focussing on AI fueled organisations.",
+        vidLink: "https://www.youtube.com/embed/JhtuKVNK8xY"
     },
     'Nick Pentreath':
     { imagePath: './assets/speaker_data/nick_pentreath/image.jpg',
@@ -200,7 +228,9 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'IBM',
         abstract: "The common perception of applying deep learning is that you take an open source or research algorithm, train it on raw data, and deploy the resulting model. The reality is far more complex. <br> <br> For the training phase, users face an array of challenges including handling varied deep learning frameworks, hardware requirements and configurations, not to mention code quality, consistency, and packaging. For the deployment phase, they face another set of challenges, ranging from custom requirements for data pre- and post-processing, to inconsistencies across frameworks, to lack of standardization in serving APIs. <br> <br> The goal of the IBM Developer Model Asset Exchange (MAX) is to remove these barriers to entry for developers to obtain, train, and deploy open source deep learning models for their business applications. In building the exchange, we encountered all these challenges and more. <br> <br> For the training phase, MAX uses the Fabric for Deep Learning (FfDL), an open source project providing framework-independent training of deep learning models on Kubernetes. For the deployment phase, MAX provides standardized container-based, fully self-contained model artefacts, using Python web and DL frameworks and encompassing the end-to-end deep learning predictive pipeline. <br> <br> This talk introduces MAX, walks through the process of building MAX and shares the challenges and problems encountered, the solutions developed, and the lessons learned. The talk will also include live demos showing how to use MAX to deploy deep learning models in seconds and incorporate them into real-world applications.",
-        bio: ""
+        bio: "",
+        vidLink: "https://www.youtube.com/embed/NTyVaE2T_4Q",
+        slidesLink: "https://drive.google.com/open?id=13s6OW0PqxuZ26Nv6UF_yDavyVZ8qsqV5"
     },
     'Dario Fanucchi':
     { imagePath: './assets/speaker_data/dario_fanucchi/image.jpg',
@@ -216,7 +246,8 @@ INFO = {
         category: 'Research',
         affiliation: 'University of Stellenbosch',
         abstract: "This talk will introduce the concept of visual-semantic embedding, as a means to combine the powers of Computer Vision and Natural Language Processing, and discuss a few of its applications such as zero- or few-shot image classification, fine-grained classification, visual relation prediction, image captioning, and visual grounding of natural language.",
-        bio: "Willie is a senior lecturer in Applied Mathematics at Stellenbosch University. He works on representation learning and reasoning in Computer Vision, and visual-semantic embeddings. He is a co-founder of the Deep Learning Indaba movement, and passionate about growing Machine Learning and AI research excellence in Africa."
+        bio: "Willie is a senior lecturer in Applied Mathematics at Stellenbosch University. He works on representation learning and reasoning in Computer Vision, and visual-semantic embeddings. He is a co-founder of the Deep Learning Indaba movement, and passionate about growing Machine Learning and AI research excellence in Africa.",
+        slidesLink: "https://drive.google.com/open?id=1xfZBd1JKjNfYF5uydP74FR5a8M-ALcws"
     },
     'Dr. Jacques Ludik':
     { imagePath: './assets/speaker_data/jacques_ludik/image.jpg',
@@ -224,7 +255,8 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Cortex Logic / MIIA',
         abstract: "For businesses to thrive in the Smart Technology Era, they need to be agile, innovative and adapt quickly to stay relevant given the swift pace of change and disruption to business and society. They need to focus on solving strategic and operationally relevant problems through operationalizing AI-based end-to-end solutions to unlock value from all available structured and unstructured data. AI-based solutions should address business value drivers that leads to an optimized business, a satisfied and growing customer base, productive employees and smart systems to help accelerate decision making, innovation, collaboration, and growth. There are plenty opportunities for automation of tasks and monetization of data that can lead to economic benefit, scalability and productivity; increase operational efficiency, effectiveness and revenue; create strategic value via faster, better and more proactive decisions, enhanced scalability, new business models, and revenue growth opportunities; enhance customer experience via real-time, on demand, digital, personalized service delivery, assistance and advice which is enabled via 360 degree insights about the customer; and enable more targeted sales and marketing. Some key AI solutions categories include: <ul> <\li>Helping people and businesses work smart at scale</li> <li> Smart personalization of customer products and services </li> <li> Smart automation and enhancement of business processes & systems </li> <li> Enabling smart machines to sense and interpret the world around us </li> </ul>",
-        bio: "Dr. Jacques Ludik is a smart technology entrepreneur, Artificial Intelligence (AI) expert, investor, ecosystem builder, and award-winning AI Leader with a Ph.D. in Computer Science (AI) and 25+ years' experience in AI & Data Science and its applications. He recently won the Africa Tech AI Leader of the Year Award and is currently, amongst other roles, the Founder & CEO of Cortex Logic and Founder & President of the Machine Intelligence Institute of Africa (MIIA) and has also founded Bennit.AI, Mosaic, SynerG and CSense Systems (Africa's first AI company that was sold to a multi-national company, specifically General Electric in 2011). Apart from his executive management responsibilities in these companies, he was previously Vice President Data Science & Chief Data Officer at Jumo, Director and Big Data & Analytics Leader at General Electric and Senior Lecturer & Researcher at Stellenbosch University."
+        bio: "Dr. Jacques Ludik is a smart technology entrepreneur, Artificial Intelligence (AI) expert, investor, ecosystem builder, and award-winning AI Leader with a Ph.D. in Computer Science (AI) and 25+ years' experience in AI & Data Science and its applications. He recently won the Africa Tech AI Leader of the Year Award and is currently, amongst other roles, the Founder & CEO of Cortex Logic and Founder & President of the Machine Intelligence Institute of Africa (MIIA) and has also founded Bennit.AI, Mosaic, SynerG and CSense Systems (Africa's first AI company that was sold to a multi-national company, specifically General Electric in 2011). Apart from his executive management responsibilities in these companies, he was previously Vice President Data Science & Chief Data Officer at Jumo, Director and Big Data & Analytics Leader at General Electric and Senior Lecturer & Researcher at Stellenbosch University.",
+        vidLink: "https://www.youtube.com/embed/tPim9kLFIao"
     },
     'Dr. Matthew Adendorff':
     { imagePath: './assets/speaker_data/matthew_adendorff/image.jpg',
@@ -240,7 +272,8 @@ INFO = {
         category: 'Foundations',
         affiliation: 'University of KwaZulu-Natal',
         abstract: "Natural Language Processing (NLP) is the application of computational techniques to the analysis and synthesis of human languages. Human languages are constructed to convey meaning. To this end, NLP requires that there be mechanisms for extracting and representing meaning in human language data. Another important aspect of NLP data is that it is inherently sequential. Traditional NLP solutions use classical Distributional Semantics models (e.g. LDA, LSI, etc) and lexicons to recognise and model meaning, and techniques based on Markov chains and Conditional Independence to model the sequential aspects of the data. The emergence of deep learning has led to new techniques for modelling meaning and the sequential nature of NLP data. This foundational talk will discuss deep learning inspired techniques for meaning representation and sequential modelling. The talk will focus on word embeddings for meaning representation and Recurrent Neural Networks (RNNs) for sequential modelling.",
-        bio: ""
+        bio: "",
+        vidLink: 'https://www.youtube.com/embed/3dJD96ZYf4M'
     },
     'Dr. Maria Schuld':
     { imagePath: './assets/speaker_data/maria_schuld/image.jpg',
@@ -248,7 +281,8 @@ INFO = {
         category: 'Research',
         affiliation: 'University of KwaZulu-Natal',
         abstract: "Machine Learning algorithms are usually executed on hardware such as CPUs and GPUs. But what if we use an entirely different type of physical device, such as a quantum computer? Can we speed up learning and optimisation with the quantum laws of information processing? Can we develop entirely different classes of models? Quantum Machine Learning is an emerging discipline that tries to answer such questions. I will give an overview of the latest research in Quantum Machine Learning, with a focus on near-term quantum devices that are actually available today. At the end of this talk, you should have all the means to train a quantum computer via the cloud yourself.",
-        bio: ""
+        bio: "",
+        slidesLink: "https://drive.google.com/open?id=1-Mt8CO2WUJmk-7d_7nMXqefl1VOba7nn"
     },
     'Dr. Michelle Hoogenhout':
     { imagePath: './assets/speaker_data/michelle_hoogenhout/image.jpg',
@@ -256,7 +290,17 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Umuzi',
         abstract: "How do you hire the best talent? In an age when experienced tech talent is almost as rare as the mythical unicorns they wish to work for, devs and data scientists find themselves inundated with offers from competing employers. At Umuzi, our aim is to find and develop the next generation of tech, creative, and strategy talent. This talk will focus on our approach to training and selecting the best un(der)employed non-graduate youth for junior data science, data engineering and web development roles. I discuss pitfalls and progress in providing tech learnerships, how companies can benefit from partnering with tech bootcamps, and how data science can improve candidate selection and retention.",
-        bio: "Dr. Michelle Hoogenhout is the head data scientist at Umuzi, a non-profit organisation helping young people to develop the skills to access digital careers. Michelle teaches analytics, programming and database skills. Her work also encompasses helping Umuzi and partner companies leverage their data to improve their business strategy, designing aptitude test to assess talent, and holding workshops on data science, presentation and interpersonal skills. In her previous position, she lectured in statistics and cognitive neuroscience, and researched developmental disorders in African populations. Michelle has published articles and book chapters on displaying data, using clustering to predict developmental disorder severity, and research methodology. Michelle holds a PhD in Psychology from the University of Cape Town and a neuropsychiatric genetics fellowship with the Broad Institute of Harvard and MIT."
+        bio: "Dr. Michelle Hoogenhout is the head data scientist at Umuzi, a non-profit organisation helping young people to develop the skills to access digital careers. Michelle teaches analytics, programming and database skills. Her work also encompasses helping Umuzi and partner companies leverage their data to improve their business strategy, designing aptitude test to assess talent, and holding workshops on data science, presentation and interpersonal skills. In her previous position, she lectured in statistics and cognitive neuroscience, and researched developmental disorders in African populations. Michelle has published articles and book chapters on displaying data, using clustering to predict developmental disorder severity, and research methodology. Michelle holds a PhD in Psychology from the University of Cape Town and a neuropsychiatric genetics fellowship with the Broad Institute of Harvard and MIT.",
+        vidLink: "https://www.youtube.com/embed/3--9-gbQoX0"
+    },
+    'John Poole':
+    { imagePath: './assets/speaker_data/john_poole/image.jpg',
+        lectureHeading: 'Resources for Deep Learning at the CHPC',
+        category: 'Industry/Ethics/Policy',
+        affiliation: 'CHPC',
+        abstract: "",
+        bio: "",
+        vidLink: "https://www.youtube.com/embed/9MlULk5330I"
     }
 };
 
@@ -480,7 +524,7 @@ function populateSpeakerInfo(info) {
                         ) // paragraph div
                     ) // append to figure
                     .append(
-                        info[speaker].bio||info[speaker].abstract||info[speaker].vidLink?(
+                        info[speaker].bio||info[speaker].abstract||info[speaker].vidLink||info[speaker].slidesLink?(
                         $("<div />").addClass("modal fade").attr({
                             "tabindex": "-1",
                             "id": ("myModal" + id),
@@ -532,6 +576,10 @@ function populateSpeakerInfo(info) {
                                         })
                                         :""
                                       )
+                                    )
+                                    .append(
+                                        $("<a />").attr({"href": info[speaker].slidesLink})
+                                        .text(info[speaker].slidesLink?"Click Here for the Slides":"")
                                     )
                                     .append(
                                         $("<h3 />").text(info[speaker].abstract?"Talk Abstract":"")
