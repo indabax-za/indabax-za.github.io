@@ -265,6 +265,12 @@ ul li {
   font-size: 1.5em;
   background-color: #e2d300;
 }
+#report {
+  font-weight: bold;
+  font-size: 1.5em;
+  background-color: #3db9f3;
+  margin-top: 0.9em;
+}
 #poster {
   font-weight: bold;
   font-size: 1.5em;
