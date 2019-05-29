@@ -50,7 +50,8 @@ INFO = {
         affiliation: 'University of the Witwatersrand',
         abstract: 'Random survival forests have been identified as alternative methods to standard survival analysis methods like the Weibull and Cox proportional hazards model. These methods have a good predictive performance in handling survival data. It has also been established that random survival forest models handle covariate interactions naturally. The random survival forest algorithm, however, has been criticised for possible bias when possible split variables have different entropy. They favour covariates with many split-points to those with fewer split-points. In this study, we explore the predictive performance of Conditional inference forest (CIF) which is known to correct the bias for random survival forest models using a simulation study.',
         bio: 'Justine Nasejje is a lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where she has worked since June 2018. She attained her Doctorate in Statistics from the University of KwaZulu-Natal in April 2018. Her Thesis, which investigated the properties of random survival forests, won her the  prestigious Kambule Dissertation Award in the same year. She is a published DAAD Scholar with special interest in, Time-to-event data analysis, Biostatistics and Machine  learning techniques. She has presented at numerous conferences both locally and internationally. Justine is also a wife and proud mother of seven-month-old twin daughters.',
-        slidesLink: "https://drive.google.com/open?id=18JdaqGBQhNLWG9doV-wIq5-73R46qQUz"
+        slidesLink: "https://drive.google.com/open?id=18JdaqGBQhNLWG9doV-wIq5-73R46qQUz",
+        vidLink: "https://www.youtube.com/embed/qeEpx6_UST0"
     },
     'Dr. Nick Bradshaw':
     { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
@@ -69,7 +70,8 @@ INFO = {
         affiliation: 'University of the Witwatersrand / CSIR',
         abstract: '',
         bio: '',
-        slidesLink: "https://drive.google.com/open?id=1oELmhoICeslZgGmtV6yZ0B8E9s5_XQlc"
+        slidesLink: "https://drive.google.com/open?id=1oELmhoICeslZgGmtV6yZ0B8E9s5_XQlc",
+        vidLink: "https://www.youtube.com/embed/sgdFbIbLwVE"
     },
     'Dr. Terence van Zyl':
     { imagePath: './assets/speaker_data/dr._terence_van_zyl/image.jpg',
@@ -108,7 +110,8 @@ INFO = {
         affiliation: 'Wolfram Research',
         abstract: 'In this talk, Sebastian and Taliesin, core developers of the Wolfram Mathematica Deep Learning framework, will be presenting existing work from neuroscientists and machine learning researchers that attempt to reconcile the mechanism of backpropogation used in Deep Learning with what is known about circuits in the brain.',
         bio: 'Sebastian Bodenstein and Taliesin Beynon were architects of the deep learning framework that has been part of the Wolfram Language since Mathematica 11, as well as the Neural Network repository that gives free and easy access to dozens of pre-trained neural networks across many domains.',
-        slidesLink: "https://drive.google.com/open?id=1kJkBagN093-9dTvKl-PpFpIH9MltPRi8"
+        slidesLink: "https://drive.google.com/open?id=1kJkBagN093-9dTvKl-PpFpIH9MltPRi8",
+        vidLink: "https://www.youtube.com/embed/c7Wla1nEAQU"
     },
     'Dr. Emli-Mari Nel':
     { imagePath: './assets/speaker_data/emli-mari_nel/image.jpg',
@@ -117,7 +120,8 @@ INFO = {
         affiliation: 'Empiric Capital',
         abstract: 'This presentation will outline Ticker, a probabilistic stereophonic single-switch text entry method for visually-impaired users with motor disabilities who rely on single-switch scanning systems to communicate. Traditional scanning systems are sensitive to a variety of noise sources, which are inevitably introduced in practical use of single-switch systems. Ticker uses an interaction model based on stereophonic sound coupled with statistical models for robust inference of the user’s intended text in the presence of noise. Ticker builds on Nomon, a visual text-entry method developed by Prof. Tamara Broderick (currently based at MIT). The Nomon project has recently been revived, and a short description of this open source project will be given. Ticker also builds on some concepts dating back to Dasher, a text-entry method developed by Prof. David MacKay and his group (at the University of Cambridge). Dasher, Nomon and Ticker rely heavily on the important link between probability theory and information theory. Dasher is, for example, linked to arithmetic coding, and Ticker finds its foundations in Shannon\'s noisy coding theorem. All three of the aforementioned methods can achieve better information rates by improving their respective language models. If time permits, the relevance of information theory in these applications will be discussed in more detail.',
         bio: 'Emli-Mari completed her PhD in Electronic Engineering in 2005 after which she spent 3 years in Oxford working in the domain of markerless motion capture and other computer vision applications related to multiple view geometry. She then spent 5 years as a postdoctoral research associate in Prof. David MacKay\'s group at the University of Cambridge working on probabilistic assistive technology.  Her work focused on using computer vision, (probabilistic) machine learning and information theory to assist users with motor disabilities to communicate. She is currently the head of research at the hedge fund Empiric Capital, where statistical modelling and  machine learning are used to construct a diverse investment portfolio.',
-        slidesLink: "https://drive.google.com/open?id=1q2LXBIpmLkfjDUBET34oTkV7ecCOtzhN"
+        slidesLink: "https://drive.google.com/open?id=1q2LXBIpmLkfjDUBET34oTkV7ecCOtzhN",
+        vidLink: "https://www.youtube.com/embed/s097Pg7p1gA"
     },
     'Wiebke Toussaint':
     { imagePath: './assets/speaker_data/wiebke-toussaint/image.jpg',
@@ -136,7 +140,8 @@ INFO = {
         affiliation: 'Wolfram Research',
         abstract: 'In the real world datasets are often messy – it is common for values to be missing or corrupt. Examples include empty cells in spreadsheets, unanswered survey questions, or readings from faulty sensors. Unfortunately, despite the frequent occurrence of such defects, software engineers tend not to develop algorithms that are robust to missing values. As a result, many common algorithms fail on such datasets. This talk will briefly discuss the theory of missing data and discuss practical appraoches for dealing with missingness in real-world machine learning.',
         bio: "James is a consultant at Wolfram Research, developing the Mathematica Deep Learning framework. Prior to this James completed a master's in computer science focusing on machine learning. James's dissertation investigated automatic and unsupervised approaches to missing data imputation.",
-        slidesLink: "https://drive.google.com/open?id=1f18byLAA3Yr2cScwUc-dgnNs9Hg0yGds"
+        slidesLink: "https://drive.google.com/open?id=1f18byLAA3Yr2cScwUc-dgnNs9Hg0yGds",
+        vidLink: "https://www.youtube.com/embed/OzsH5yi9if4"
     },
     'Dr. Christopher Cleghorn':
     { imagePath: './assets/speaker_data/dr._chris_cleghorn/image.jpg',
@@ -145,7 +150,8 @@ INFO = {
         affiliation: 'University of Pretoria',
         abstract: 'Much of the success of machine learning has come from the use of gradient based information to optimize models. However, not every problem we try and solve has gradient based information to exploit.  The question is then how do we optimize in the absence of a gradient? This is precisely where we should look to the world of black box optimization for answers. In this talk you will be introduced to black box optimization and the commonly used algorithms in the field. Furthermore, the successful application of these algorithms to a variety of machine learning problems will be covered in the talk.',
         bio: "Christopher Cleghorn received his Masters and PhD degrees in Computer Science from the University of Pretoria, South Africa. He is a senior lecturer in Computer Science at the University of Pretoria, and the leader of the Computational Intelligence Research Group. His research interests include machine learning, swarm intelligence, and evolutionary computation, with a strong focus of theoretical research. Dr Cleghorn annually serves as a reviewer for numerous international journals and conferences in domains ranging from swarm intelligence and neural networks to mathematical optimization.",
-        slidesLink: "https://drive.google.com/open?id=1ZDQyzhxT8xdB2IiGPz0XumG0mIiEIVkc"
+        slidesLink: "https://drive.google.com/open?id=1ZDQyzhxT8xdB2IiGPz0XumG0mIiEIVkc",
+        vidLink: "https://www.youtube.com/embed/mWHjrnyXFIE"
     },
     'Stuart Reid':
     { imagePath: './assets/speaker_data/stuart_reid/image.jpg',
@@ -243,7 +249,8 @@ INFO = {
         affiliation: 'Isazi Consulting / Envisionit Deep AI',
         abstract: "In 2012, machine learning was not an easy technology to sell to clients in Africa. In this talk I'll discuss some of the challenges I faced in building a profitable business over 5 years whose core competency is machine learning, data science and optimisation. Along the way we'll meet some interesting business problems, a few fancy algorithms, and some wild shots. We'll look at the ingredients of successful problem solving in business, and how new algorithms are changing the way business is done. We'll also take a glimpse at what the future holds for AI in Africa, and where there might be big opportunities to make a real, sustainable difference.",
         bio: "Dario Fanucchi is a South African entrepreneur and technologist with a passion for algorithm design and machine learning. He is interested in the transformative potential of data in the third world and his goal is to solve Africa's most challenging problems by getting creative with modern technology, AI and optimisation. Dario co-founded Isazi Consulting in 2012, and has helped grow the company to one of the most respected data science houses in Africa. He is also the co-founder and CTO of Envisionit Deep AI, which was founded in 2019 to deliver high quality, affordable AI driven radiology to children in Africa.",
-        slidesLink: "https://drive.google.com/open?id=1orDAWUMzVEoxOk6jumtZU82aCuQbtWwu"
+        slidesLink: "https://drive.google.com/open?id=1orDAWUMzVEoxOk6jumtZU82aCuQbtWwu",
+        vidLink: "https://www.youtube.com/embed/1HZsOsw1Ka0"
     },
     'Dr. Willie Brink':
     { imagePath: './assets/speaker_data/willie_brink/image.jpg',
@@ -272,7 +279,8 @@ INFO = {
         affiliation: 'Open Data Durban',
         abstract: "The digital age is a challenging one for an unequal society; and algorithmic decision-making fed by the digestion of such a society's data should be assisted by informative measures that help ensure integrity, responsibility, equal representation, and a lack of personal agenda. Such metrics are intrinsically complex, however, and their derivation, calculation, and civic implementation should be handled with due care. At the core of developing such accountability measures is the careful design of mechanisms to ingest, process, analyze, and draw insights from the corpus of information that influences a community's perspectives. At Open Data Durban (ODD), we focus heavily on this process to ensure the democratization of information in South Africa. This talk will present the rationale and analytical frameworks behind a selection of the platforms we have developed at ODD,  followed by a discussion of some of the challenges we have faced, with particular attention to the exciting opportunities that these challenges offer the AI and machine-learning communities.",
         bio: "Matthew completed his BSc(Hons) and MSc in Computational Chemistry at Rhodes University, after which he attended the Massachusetts Institute of Technology on a Fulbright Scholarship, obtaining his PhD in Computational Biophysics in 2016. He is the Lead Technologist and head of the Civic Data Lab at Open Data Durban, a civic technology not-for-profit start-up in Durban, South Africa  that works to realise people-centered participatory democracy through the application of cutting edge data-science, machine-learning, and focused user-engagement. He is also the co-founder of Tenji, a high-performance data-science lab that leverages technology to power compound, evidence-based insights. In his spare time he is an appreciator and brewer of beer.",
-        vidLink: "https://www.youtube.com/embed/ttIzsnVlHSM"
+        vidLink: "https://www.youtube.com/embed/ttIzsnVlHSM",
+        slidesLink: "https://drive.google.com/open?id=1rGTT1QraaSxyRVX1k8U390VzGwn7qyEK"
     },
     'Edgar Jembere':
     { imagePath: './assets/speaker_data/edgar_jembere/image.jpg',
@@ -291,7 +299,8 @@ INFO = {
         affiliation: 'University of KwaZulu-Natal',
         abstract: "Machine Learning algorithms are usually executed on hardware such as CPUs and GPUs. But what if we use an entirely different type of physical device, such as a quantum computer? Can we speed up learning and optimisation with the quantum laws of information processing? Can we develop entirely different classes of models? Quantum Machine Learning is an emerging discipline that tries to answer such questions. I will give an overview of the latest research in Quantum Machine Learning, with a focus on near-term quantum devices that are actually available today. At the end of this talk, you should have all the means to train a quantum computer via the cloud yourself.",
         bio: "",
-        slidesLink: "https://drive.google.com/open?id=1-Mt8CO2WUJmk-7d_7nMXqefl1VOba7nn"
+        slidesLink: "https://drive.google.com/open?id=1-Mt8CO2WUJmk-7d_7nMXqefl1VOba7nn",
+        vidLink: "https://www.youtube.com/embed/uf_BRg5ovtg"
     },
     'Dr. Michelle Hoogenhout':
     { imagePath: './assets/speaker_data/michelle_hoogenhout/image.jpg',
