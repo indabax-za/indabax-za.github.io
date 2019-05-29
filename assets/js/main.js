@@ -31,7 +31,8 @@ INFO = {
         affiliation: 'University of Oxford',
         abstract: 'Anatomically, the brain is deep; and computationally, deep learning is known to be hard. How might depth impact learning in the brain? To understand the specific ramifications of depth, I develop the theory of learning in deep linear neural networks. I give exact solutions to the dynamics of learning which specify how every weight in the network evolves over the course of training. The theory answers fundamental questions such as how learning speed scales with depth, and why unsupervised pretraining accelerates learning. Turning to generalization error, I use random matrix theory to analyze the cognitively-relevant "high-dimensional" regime, where the number of training examples is on the order or even less than the number of adjustable synapses. Consistent with the striking performance of very large deep network models in practice, I show that good generalization is possible in overcomplete networks due to implicit regularization in the dynamics of gradient descent. These results reveal a speed-accuracy trade-off between training speed and generalization performance in deep networks. Drawing on these findings, I then describe an application to human semantic development. From a stream of individual episodes, we abstract our knowledge of the world into categories and overarching structures like trees and hierarchies. I present an exactly solvable model of this process by considering how a deep network will learn about richly structured environments specified as probabilistic graphical models. This scheme illuminates empirical phenomena documented by developmental psychologists, such as transient illusory correlations and changing patterns of inductive generalization. Neurally, the theory suggests that the representation of complex structures resides in the similarity structure of neural population responses, not the detailed activity patterns of individual neurons. Overall, these results suggest that depth may be an important computational principle influencing learning in the brain. Deep linear networks yield a tractable theory of layered learning that interlinks computation, neural representations, and behavior.',
         bio: 'Dr. Andrew Saxe is a postdoctoral research associate in the Department of Experimental Psychology, University of Oxford where he works with Christopher Summerfield and Timothy Behrens. He was previously a Swartz Postdoctoral Fellow in Theoretical Neuroscience at Harvard University with Haim Sompolinsky, and he completed his PhD in Electrical Engineering at Stanford University, advised by Jay McClelland, Surya Ganguli, Andrew Ng, and Christoph Schreiner. His dissertation received the Robert J. Glushko Dissertation Prize from the Cognitive Science Society. His research focuses on the theory of deep learning and its applications to phenomena in neuroscience and psychology.',
-        slidesLink: "https://drive.google.com/open?id=18oNsMau_LMghydVTgu03w8ZTFrr4UOSw"
+        slidesLink: "https://drive.google.com/open?id=18oNsMau_LMghydVTgu03w8ZTFrr4UOSw",
+        vidLink: "https://www.youtube.com/embed/DuynTHJ8y8Y"
     }, 
     'Dr. Ashley Gritzman':
     { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg',
@@ -87,7 +88,8 @@ INFO = {
         affiliation: 'Sebenz.ai / NumberBoost',
         abstract: "Sebenz.ai has 2 parts: 1. A machine learning (ML) labeling game that creates jobs for people in South Africa who earn money on their phones by labeling training data for ML models 2. A self-serve interface where customers upload their own unlabelled data and we train a custom ML model for them accessible by API. Sebenza means 'work' in isiXhosa and isiZulu and our mission is to create 1 million jobs in Africa. There is 28% unemployment in South Africa right now. Most of those people have a smartphone and they all have free time.",
         bio: "Alex is the Founder and Head of Data Science at NumberBoost, a startup based in Cape Town that builds custom A.I. solutions focused on real-time computer vision using deep learning, edge computing and privacy-preserving federated machine learning. NumberBoost has won startup competitions with MultiChoice, Mercedes-Benz, Lloyd's Register in London and NTT Data Japan. He organizes the Cape Town Machine Learning and Deep Learning Meetup groups.",
-        slidesLink: "https://drive.google.com/open?id=1S6yqhp6AJ5aPVC826PyOu0y1FpKpZc22"
+        slidesLink: "https://drive.google.com/open?id=1S6yqhp6AJ5aPVC826PyOu0y1FpKpZc22",
+        vidLink: "https://www.youtube.com/embed/5FcbDqkgxx4"
     },
     'Dr. Ndivhuwo Makondo':
     { imagePath: './assets/speaker_data/ndivhuwo_makondo/image.jpg',
@@ -124,7 +126,8 @@ INFO = {
         affiliation: 'Centre for Artificial Intelligence Research',
         abstract: 'The goal of unsupervised machine learning is to discover structure in data in the absence of training labels. It can be used to estimate the distribution of data in the input space, to reduce high dimensional data to lower dimensions for the purpose of visualisation or to discover groups of similar observations in the data. This talk is an introduction to unsupervised machine learning.',
         bio: '',
-        vidLink: "https://www.youtube.com/embed/E-Q9PWs2SCk"
+        vidLink: "https://www.youtube.com/embed/E-Q9PWs2SCk",
+        slidesLink: "https://drive.google.com/open?id=1UWbRQK17bVsozZYraTrjU9oWWRVjC3xR"
     },
     'James Allingham':
     { imagePath: './assets/speaker_data/james_allingham/image.jpg',
@@ -152,7 +155,7 @@ INFO = {
         abstract: "The ability to synthesize realistic, real-valued, multivariate time series with complex correlation and auto-correlation structures is an important goal. With better methods available to them, medical practitioners could be trained to better respond to rare events that occur in EEG and ECG data including fits, seizures, asthma attacks, and heart arrhythmias; engineers could simulate complex manufacturing processes to identify inefficiencies early on; and risk managers could stress asset and liability models more realistically using fewer assumptions, therefore, leading to fewer insolvencies. In this talk, I will discuss various parametric, non-parametric and generative machine learning techniques for synthesizing realistic, real-values, multivariate time series.",
         bio: "Stuart is the Head of Data Science at Aerobotics, a startup which uses deep learning to extract insights from drone and satellite imagery of tree crops. Prior to that, he spent 7 years in the finance industry working as a Quantitative Analyst. He holds an Honours Degree in Computer Science from the University of Pretoria and is currently working towards a Masters in Applied Mathematics through Stellenbosch University.",
         vidLink: "https://www.youtube.com/embed/sFjUNxPNeuA",
-        slidesLink: "https://drive.google.com/open?id=1sF_NdVklKssNnL0cxdlgkB_MHpG93HjG"
+        slidesLink: "https://drive.google.com/open?id=1bA2CuAcGXilsa2BNawN1vKD82RVkb-nd"
     },
     'Pelonomi Moiloa':
     { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg',
@@ -161,7 +164,8 @@ INFO = {
         affiliation: 'Tohoku University, Japan / Nedbank',
         abstract: "The possibilities of machine learning and neural networks in particular are ever expanding. With increased opportunities to do good however there are just as many opportunities to do harm and even in the case that good intentions are at the helm, evidence suggests that opportunities for good may eventually prove to be the opposite. The greatest threat to what machine learning is able to achieve and to us as humans is twofold: Machine learning created with harmful biases built into its core with intent, and machine learning that does not reflect the diversity of the users it is meant to serve. It is important that we are not so pre-occupied with advancing technology into the future that we have not taken the time to invest the energy into engineering the security measures this future requires. It is important to investigate now, as thoroughly as we investigate differing deep neural network architectures, the complex questions regarding the fact that humans are inherently biased and loaded with prejudice and that these traits find themselves in the machines we create (and increasingly allow to run our lives) unless we take active steps to ensure they do not.",
         bio: "Pelonomi is a recent Biomedical Engineering Masters Graduate with a specialisation in neural networks for neural cell video segmentation now serving as a Junior Data Scientist at Nedbank. She is also a tree hugger.",
-        vidLink: "https://www.youtube.com/embed/J4ZNp92kEUM"
+        vidLink: "https://www.youtube.com/embed/J4ZNp92kEUM",
+        slidesLink: "https://drive.google.com/open?id=1G9_5seEN4lYhkv_FtDJP75_qbdWssq51"
     },
     'Jade Abbott':
     { imagePath: './assets/speaker_data/jade_abbott/image.jpg',
@@ -201,7 +205,7 @@ INFO = {
         abstract: "An animated introduction to Machine Learning covering supervised (classification and regression techniques) and unsupervised learning (clustering). I’ll also briefly discuss what ML looks like in corporate, as well as resources/tips/tricks.",
         bio: "Keen learner and unlearner who spends a lot of time thinking about the intersection between AI and society; specifically how the former can change the latter.",
         vidLink: "https://www.youtube.com/embed/nRw0p8_njO0",
-        slidesLink: "https://drive.google.com/open?id=1JxttNln-z7E8lmTjG6rQpSoYia_eeGvL"
+        slidesLink: "https://drive.google.com/open?id=1zFz3G7fhTqbApY41MW6-iDecjYU9dkix"
     },
     'Dr. Richard Klein':
     { imagePath: './assets/speaker_data/richard_klein/image.jpg',
@@ -238,7 +242,8 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Isazi Consulting / Envisionit Deep AI',
         abstract: "In 2012, machine learning was not an easy technology to sell to clients in Africa. In this talk I'll discuss some of the challenges I faced in building a profitable business over 5 years whose core competency is machine learning, data science and optimisation. Along the way we'll meet some interesting business problems, a few fancy algorithms, and some wild shots. We'll look at the ingredients of successful problem solving in business, and how new algorithms are changing the way business is done. We'll also take a glimpse at what the future holds for AI in Africa, and where there might be big opportunities to make a real, sustainable difference.",
-        bio: "Dario Fanucchi is a South African entrepreneur and technologist with a passion for algorithm design and machine learning. He is interested in the transformative potential of data in the third world and his goal is to solve Africa's most challenging problems by getting creative with modern technology, AI and optimisation. Dario co-founded Isazi Consulting in 2012, and has helped grow the company to one of the most respected data science houses in Africa. He is also the co-founder and CTO of Envisionit Deep AI, which was founded in 2019 to deliver high quality, affordable AI driven radiology to children in Africa."
+        bio: "Dario Fanucchi is a South African entrepreneur and technologist with a passion for algorithm design and machine learning. He is interested in the transformative potential of data in the third world and his goal is to solve Africa's most challenging problems by getting creative with modern technology, AI and optimisation. Dario co-founded Isazi Consulting in 2012, and has helped grow the company to one of the most respected data science houses in Africa. He is also the co-founder and CTO of Envisionit Deep AI, which was founded in 2019 to deliver high quality, affordable AI driven radiology to children in Africa.",
+        slidesLink: "https://drive.google.com/open?id=1orDAWUMzVEoxOk6jumtZU82aCuQbtWwu"
     },
     'Dr. Willie Brink':
     { imagePath: './assets/speaker_data/willie_brink/image.jpg',
@@ -247,7 +252,8 @@ INFO = {
         affiliation: 'University of Stellenbosch',
         abstract: "This talk will introduce the concept of visual-semantic embedding, as a means to combine the powers of Computer Vision and Natural Language Processing, and discuss a few of its applications such as zero- or few-shot image classification, fine-grained classification, visual relation prediction, image captioning, and visual grounding of natural language.",
         bio: "Willie is a senior lecturer in Applied Mathematics at Stellenbosch University. He works on representation learning and reasoning in Computer Vision, and visual-semantic embeddings. He is a co-founder of the Deep Learning Indaba movement, and passionate about growing Machine Learning and AI research excellence in Africa.",
-        slidesLink: "https://drive.google.com/open?id=1xfZBd1JKjNfYF5uydP74FR5a8M-ALcws"
+        slidesLink: "https://drive.google.com/open?id=1xfZBd1JKjNfYF5uydP74FR5a8M-ALcws",
+        vidLink: "https://www.youtube.com/embed/TJE76YSui8Y"
     },
     'Dr. Jacques Ludik':
     { imagePath: './assets/speaker_data/jacques_ludik/image.jpg',
@@ -256,7 +262,8 @@ INFO = {
         affiliation: 'Cortex Logic / MIIA',
         abstract: "For businesses to thrive in the Smart Technology Era, they need to be agile, innovative and adapt quickly to stay relevant given the swift pace of change and disruption to business and society. They need to focus on solving strategic and operationally relevant problems through operationalizing AI-based end-to-end solutions to unlock value from all available structured and unstructured data. AI-based solutions should address business value drivers that leads to an optimized business, a satisfied and growing customer base, productive employees and smart systems to help accelerate decision making, innovation, collaboration, and growth. There are plenty opportunities for automation of tasks and monetization of data that can lead to economic benefit, scalability and productivity; increase operational efficiency, effectiveness and revenue; create strategic value via faster, better and more proactive decisions, enhanced scalability, new business models, and revenue growth opportunities; enhance customer experience via real-time, on demand, digital, personalized service delivery, assistance and advice which is enabled via 360 degree insights about the customer; and enable more targeted sales and marketing. Some key AI solutions categories include: <ul> <\li>Helping people and businesses work smart at scale</li> <li> Smart personalization of customer products and services </li> <li> Smart automation and enhancement of business processes & systems </li> <li> Enabling smart machines to sense and interpret the world around us </li> </ul>",
         bio: "Dr. Jacques Ludik is a smart technology entrepreneur, Artificial Intelligence (AI) expert, investor, ecosystem builder, and award-winning AI Leader with a Ph.D. in Computer Science (AI) and 25+ years' experience in AI & Data Science and its applications. He recently won the Africa Tech AI Leader of the Year Award and is currently, amongst other roles, the Founder & CEO of Cortex Logic and Founder & President of the Machine Intelligence Institute of Africa (MIIA) and has also founded Bennit.AI, Mosaic, SynerG and CSense Systems (Africa's first AI company that was sold to a multi-national company, specifically General Electric in 2011). Apart from his executive management responsibilities in these companies, he was previously Vice President Data Science & Chief Data Officer at Jumo, Director and Big Data & Analytics Leader at General Electric and Senior Lecturer & Researcher at Stellenbosch University.",
-        vidLink: "https://www.youtube.com/embed/tPim9kLFIao"
+        vidLink: "https://www.youtube.com/embed/tPim9kLFIao",
+        slidesLink: "https://drive.google.com/open?id=1Cam3Nnwx_4qcUiVyKh2GdXLbaOlSeEZe"
     },
     'Dr. Matthew Adendorff':
     { imagePath: './assets/speaker_data/matthew_adendorff/image.jpg',
@@ -264,7 +271,8 @@ INFO = {
         category: 'Industry/Ethics/Policy',
         affiliation: 'Open Data Durban',
         abstract: "The digital age is a challenging one for an unequal society; and algorithmic decision-making fed by the digestion of such a society's data should be assisted by informative measures that help ensure integrity, responsibility, equal representation, and a lack of personal agenda. Such metrics are intrinsically complex, however, and their derivation, calculation, and civic implementation should be handled with due care. At the core of developing such accountability measures is the careful design of mechanisms to ingest, process, analyze, and draw insights from the corpus of information that influences a community's perspectives. At Open Data Durban (ODD), we focus heavily on this process to ensure the democratization of information in South Africa. This talk will present the rationale and analytical frameworks behind a selection of the platforms we have developed at ODD,  followed by a discussion of some of the challenges we have faced, with particular attention to the exciting opportunities that these challenges offer the AI and machine-learning communities.",
-        bio: "Matthew completed his BSc(Hons) and MSc in Computational Chemistry at Rhodes University, after which he attended the Massachusetts Institute of Technology on a Fulbright Scholarship, obtaining his PhD in Computational Biophysics in 2016. He is the Lead Technologist and head of the Civic Data Lab at Open Data Durban, a civic technology not-for-profit start-up in Durban, South Africa  that works to realise people-centered participatory democracy through the application of cutting edge data-science, machine-learning, and focused user-engagement. He is also the co-founder of Tenji, a high-performance data-science lab that leverages technology to power compound, evidence-based insights. In his spare time he is an appreciator and brewer of beer."
+        bio: "Matthew completed his BSc(Hons) and MSc in Computational Chemistry at Rhodes University, after which he attended the Massachusetts Institute of Technology on a Fulbright Scholarship, obtaining his PhD in Computational Biophysics in 2016. He is the Lead Technologist and head of the Civic Data Lab at Open Data Durban, a civic technology not-for-profit start-up in Durban, South Africa  that works to realise people-centered participatory democracy through the application of cutting edge data-science, machine-learning, and focused user-engagement. He is also the co-founder of Tenji, a high-performance data-science lab that leverages technology to power compound, evidence-based insights. In his spare time he is an appreciator and brewer of beer.",
+        vidLink: "https://www.youtube.com/embed/ttIzsnVlHSM"
     },
     'Edgar Jembere':
     { imagePath: './assets/speaker_data/edgar_jembere/image.jpg',
@@ -273,7 +281,8 @@ INFO = {
         affiliation: 'University of KwaZulu-Natal',
         abstract: "Natural Language Processing (NLP) is the application of computational techniques to the analysis and synthesis of human languages. Human languages are constructed to convey meaning. To this end, NLP requires that there be mechanisms for extracting and representing meaning in human language data. Another important aspect of NLP data is that it is inherently sequential. Traditional NLP solutions use classical Distributional Semantics models (e.g. LDA, LSI, etc) and lexicons to recognise and model meaning, and techniques based on Markov chains and Conditional Independence to model the sequential aspects of the data. The emergence of deep learning has led to new techniques for modelling meaning and the sequential nature of NLP data. This foundational talk will discuss deep learning inspired techniques for meaning representation and sequential modelling. The talk will focus on word embeddings for meaning representation and Recurrent Neural Networks (RNNs) for sequential modelling.",
         bio: "",
-        vidLink: 'https://www.youtube.com/embed/3dJD96ZYf4M'
+        vidLink: 'https://www.youtube.com/embed/3dJD96ZYf4M',
+        slidesLink: "https://drive.google.com/open?id=16uPsL0O80AfgAihFQnG9bdVg12tKtOFK"
     },
     'Dr. Maria Schuld':
     { imagePath: './assets/speaker_data/maria_schuld/image.jpg',
@@ -291,7 +300,8 @@ INFO = {
         affiliation: 'Umuzi',
         abstract: "How do you hire the best talent? In an age when experienced tech talent is almost as rare as the mythical unicorns they wish to work for, devs and data scientists find themselves inundated with offers from competing employers. At Umuzi, our aim is to find and develop the next generation of tech, creative, and strategy talent. This talk will focus on our approach to training and selecting the best un(der)employed non-graduate youth for junior data science, data engineering and web development roles. I discuss pitfalls and progress in providing tech learnerships, how companies can benefit from partnering with tech bootcamps, and how data science can improve candidate selection and retention.",
         bio: "Dr. Michelle Hoogenhout is the head data scientist at Umuzi, a non-profit organisation helping young people to develop the skills to access digital careers. Michelle teaches analytics, programming and database skills. Her work also encompasses helping Umuzi and partner companies leverage their data to improve their business strategy, designing aptitude test to assess talent, and holding workshops on data science, presentation and interpersonal skills. In her previous position, she lectured in statistics and cognitive neuroscience, and researched developmental disorders in African populations. Michelle has published articles and book chapters on displaying data, using clustering to predict developmental disorder severity, and research methodology. Michelle holds a PhD in Psychology from the University of Cape Town and a neuropsychiatric genetics fellowship with the Broad Institute of Harvard and MIT.",
-        vidLink: "https://www.youtube.com/embed/3--9-gbQoX0"
+        vidLink: "https://www.youtube.com/embed/3--9-gbQoX0",
+        slidesLink: "https://drive.google.com/open?id=1AzrWqnL5I6MMoS2QYX3VjykcQLzRNaM_"
     },
     'John Poole':
     { imagePath: './assets/speaker_data/john_poole/image.jpg',
@@ -300,7 +310,8 @@ INFO = {
         affiliation: 'CHPC',
         abstract: "",
         bio: "",
-        vidLink: "https://www.youtube.com/embed/9MlULk5330I"
+        vidLink: "https://www.youtube.com/embed/9MlULk5330I",
+        slidesLink: "https://drive.google.com/open?id=1iYA88JS0KPvFq60jlI7thiZdb4cyD0K1"
     }
 };
 
