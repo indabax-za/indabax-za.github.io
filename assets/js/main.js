@@ -602,13 +602,13 @@ function populateSpeakerInfo(info) {
                                         .text(info[speaker].slidesLink?"Click Here for the Slides":"")
                                     )
                                     .append(
-                                        $("<h3 />").text(info[speaker].abstract?"Talk Abstract":"")
+                                        $("<h4 />").text(info[speaker].abstract?"Talk Abstract":"")
                                     )
                                     .append(
                                         info[speaker].abstract
                                     )
                                     .append(
-                                        $("<h3 />").text(info[speaker].bio?"Short Bio":"")
+                                        $("<h4 />").text(info[speaker].bio?"Short Bio":"")
                                     )
                                     .append(
                                         info[speaker].bio
