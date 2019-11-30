@@ -121,7 +121,9 @@ function getOrganiserData() {
 
 	return info;
 }
-
-// console.log(getSpeakerInfo());
-// console.log(getSponsorInfo());
+console.log("-----------SPEAKER INFORMATION------------");
+console.log(getSpeakerInfo());
+console.log("-----------SPONSOR INFORMATION------------");
+console.log(getSponsorInfo());
+console.log("-----------ORGANISERS INFORMATION------------");
 console.log(getOrganiserData());
