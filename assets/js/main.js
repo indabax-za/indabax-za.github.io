@@ -756,9 +756,8 @@ function populatePanel(panellists) {
 
   }
 
-
-// populateSponsors(SPONSORS);
+//populateSponsors(SPONSORS);
 populateSpeakerInfo(INFO);
-populatePanel(PANEL);
+//populatePanel(PANEL);
 populateOrganizers(ORGANIZERS);
 
