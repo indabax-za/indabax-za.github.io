@@ -350,70 +350,50 @@ ORGANIZERS = {
     {
         imagePath: './assets/organiser_data/maria_schuld/image.jpg'
     },
-    'Steve James':
+    'Anna Bosman':
     {
-        imagePath: './assets/organiser_data/steve_james/image.jpg',
-        linkInfoPath: './assets/organiser_data/steve_james/link.txt',
-        link: 'https://sdjames.me/'
+        imagePath: './assets/organiser_data/Anna_Bosman/image.jpg',
+        linkInfoPath: './assets/organiser_data/Anna_Bosman/link.txt',
+        link: 'https://annabosman.github.io/'
     },
     'Christopher Currin':
     {
-        imagePath: './assets/organiser_data/christopher_currin/image.jpg',
-        linkInfoPath: './assets/organiser_data/christopher_currin/link.txt',
-        link: 'https://github.com/chris-currin'
+        imagePath: './assets/organiser_data/Christopher_Currin/image.jpg',
+        linkInfoPath: './assets/organiser_data/Christopher_Currin/link.txt',
+        link: 'https://chriscurrin.github.io/'
     },
-    'James Allingham':
+    'Avashlin Moodley':
     {
-        imagePath: './assets/organiser_data/james_allingham/image.jpg',
-        linkInfoPath: './assets/organiser_data/james_allingham/link.txt',
-        link: 'https://jamesallingham.co.za/'
+        imagePath: './assets/organiser_data/Avashlin_Moodley/image.jpg',
+        linkInfoPath: './assets/organiser_data/Avashlin_Moodley/link.txt',
+        link: 'https://www.linkedin.com/in/avashlinmoodley/'
     },
-    'Sicelukwanda Zwane':
+    'Chris Cleghorn':
     {
-        imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg',
-        linkInfoPath: './assets/organiser_data/sicelukwanda_zwane/link.txt',
-        link: 'https://www.linkedin.com/in/sicelukwanda-zwane-54873398'
+        imagePath: './assets/organiser_data/Chris_Cleghorn/image.jpg'
     },
     'Amira Abbas':
     {
-        imagePath: './assets/organiser_data/amira_abbas/image.jpg',
-        linkInfoPath: './assets/organiser_data/amira_abbas/link.txt',
+        imagePath: './assets/organiser_data/Amira_Abbas/image.jpeg',
+        linkInfoPath: './assets/organiser_data/Amira_Abbas/link.txt',
         link: 'https://www.linkedin.com/in/amira-abbas/'
     },
-    'Sasha Naidoo':
+    'Naomi Molefe':
     {
-        imagePath: './assets/organiser_data/sasha_naidoo/image.jpg'
+        imagePath: './assets/organiser_data/Naomi_Molefe/image.png'
     },
-    'Alex Conway':
+    'Vongani Maluleke':
     {
-        imagePath: './assets/organiser_data/alex_conway/image.jpg',
-        linkInfoPath: './assets/organiser_data/alex_conway/link.txt',
-        link: 'https://www.linkedin.com/in/alex-conway-042666105/'
+        imagePath: './assets/organiser_data/Vongani_Maluleke/image.jpg',
+        linkInfoPath: './assets/organiser_data/Vongani_Maluleke/link.txt',
+        link: 'https://linkedin.com/in/vongani-hlavutelo-maluleke-3a848787'
     },
-    'Annika Brundyn':
+    'Vukosi Marivate':
     {
-        imagePath: './assets/organiser_data/annika_brundyn/image.jpg',
-        linkInfoPath: './assets/organiser_data/annika_brundyn/link.txt',
-        link: 'https://www.linkedin.com/in/annika-brundyn-930898103/'
-    },
-    'Andrew Paskaramoorthy':
-    {
-        imagePath: './assets/organiser_data/andrew_paskaramoorthy/image.jpg'
-    },
-    'Francesco Petruccione':
-    {
-        imagePath: './assets/organiser_data/francesco_petruccione/image.jpg'
-    },
-    'Anban Pillay':
-    {
-        imagePath: './assets/organiser_data/anban_pillay/image.jpg'
-    },
-    // 'Elan Van Biljon':
-    // {
-    //     imagePath: './assets/organiser_data/elan_van_biljon/image.jpg',
-    //     linkInfoPath: './assets/organiser_data/elan_van_biljon/link.txt',
-    //     link: 'https://elanvb.github.io/CV/'
-    // }
+        imagePath: './assets/organiser_data/Vukosi_Marivate/image.jpg',
+        linkInfoPath: './assets/organiser_data/Vukosi_Marivate/link.txt',
+        link: 'http://vima.co.za/'
+    }
 };
 
 SPONSORS = [
