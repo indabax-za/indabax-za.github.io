@@ -7,91 +7,36 @@ CATEGORY_TO_ICON = {
 
 INFO = 
 
-
 {
-    'Alex Conway': { imagePath: './assets/speaker_data/alex_conway/image.jpg' },
-    'Chris Currin': {
-      imagePath: './assets/speaker_data/chris_currin/image.jpg',
-      lectureInfoPath: './assets/speaker_data/chris_currin/lecture_info.txt',
-      lectureHeading: 'Artificial Assistants: How can I help you?',
-      lectureAbstract: [
-        'Chatbots are not equal; with different forms permeating our lives more and more. Virtual assistants are increasingly relevant for businesses and our day-to-day lives. Chatbots have become ubiquitous for interactions, yet ‘reasonable’ intelligence remains elusive.',
-        'In this talk, we explore and explain their underlying architectures and capabilities to understand what makes them work, their weaknesses, and future improvements.',
-        'Design principles from a technology and human perspective will be disseminated with examples of current production systems and their impact. Furthermore, the audience will have the opportunity to advance these best practices.',
-        'Resources will be made available, so the technology is relevant, practical, and accessible.'
-      ],
-      categoryInfoPath: './assets/speaker_data/chris_currin/category.txt',
-      category: 'Natural language processing',
-      affiliationInfoPath: './assets/speaker_data/chris_currin/affiliation.txt',
-      affiliation: 'The University of Cape Town'
+    'Dr. Benjamin Rosman': {
+      imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg',
+      categoryInfoPath: './assets/speaker_data/dr._benjamin_rosman/category.txt',
+      category: 'Reinforcement Learning\n',
+      affiliationInfoPath: './assets/speaker_data/dr._benjamin_rosman/affiliation.txt',
+      affiliation: 'University of the Witwatersrand\n'
     },
-    'Dario Fanucchi': { imagePath: './assets/speaker_data/dario_fanucchi/image.jpg' },
-    'Dr. Andrew Saxe': { imagePath: './assets/speaker_data/dr._andrew_saxe/image.jpg' },
-    'Dr. Ashley Gritzman': { imagePath: './assets/speaker_data/dr._ashley_gritzman/image.jpg' },
-    'Dr. Benjamin Rosman': { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg' },
-    'Dr. Chris Cleghorn': { imagePath: './assets/speaker_data/dr._chris_cleghorn/image.jpg' },
-    'Dr. Justine Nasejje': { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg' },
-    'Dr. Nick Bradshaw': { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg' },
-    'Dr. Small Pielie': {
-      imagePath: './assets/speaker_data/dr._small_pielie/image.jpg',
-      lectureInfoPath: './assets/speaker_data/dr._small_pielie/lecture_info.txt',
-      lectureHeading: 'How Small Penises Will Affect the Future of Mankind',
-      lectureAbstract: [ 'Long abstract that should extend over a few paragraphs. 0==3' ],
-      categoryInfoPath: './assets/speaker_data/dr._small_pielie/category.txt',
-      category: 'Practical Seeman\n',
-      affiliationInfoPath: './assets/speaker_data/dr._small_pielie/affiliation.txt',
-      affiliation: 'The University of Small Penis\n'
+    'Marcel Atemkeng': {
+      categoryInfoPath: './assets/speaker_data/marcel_atemkeng/category.txt',
+      category: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
     },
-    'Dr. Terence Van Zyl': { imagePath: './assets/speaker_data/dr._terence_van_zyl/image.jpg' },
-    'Dr. Willie Brink': {
-      imagePath: './assets/speaker_data/dr._willie_brink/image.jpg',
-      lectureInfoPath: './assets/speaker_data/dr._willie_brink/lecture_info.txt',
-      lectureHeading: 'Intro to machine (and deep) learning, with a focus on probability and uncertainty',
-      lectureAbstract: [
-        'I will begin by quickly introducing a few basic principles of machine learning, explaining core mathematical concepts through examples, and telling you what I think "deep learning" is. I will then discuss in some depth a fundamentally important (but often neglected) concept in machine learning, which is to view everything in terms of probability distributions. Finally, with this concept in mind, I will talk about recent attempts to inject probability and uncertainty into deep neural networks.'
-      ],
-      categoryInfoPath: './assets/speaker_data/dr._willie_brink/category.txt',
-      category: 'Theory',
-      affiliationInfoPath: './assets/speaker_data/dr._willie_brink/affiliation.txt',
-      affiliation: 'The University of Stellenbosch'
+    'Merelda Woohoo': {
+      categoryInfoPath: './assets/speaker_data/merelda_woohoo/category.txt',
+      category: 'Machine Learning in Production\n'
     },
-    'Edgar Jembere': { imagePath: './assets/speaker_data/edgar_jembere/image.jpg' },
-    'Emli-mari Nel': { imagePath: './assets/speaker_data/emli-mari_nel/image.jpg' },
-    'Jacques Ludik': { imagePath: './assets/speaker_data/jacques_ludik/image.jpg' },
-    'Jade Abbott': { imagePath: './assets/speaker_data/jade_abbott/image.jpg' },
-    'James Allingham': { imagePath: './assets/speaker_data/james_allingham/image.jpg' },
-    'Jan Krynauw And Zander Lee': {
-      imagePath: './assets/speaker_data/jan_krynauw_and_zander_lee/image.jpg'
+    'Quentin Williams': {
+      imagePath: './assets/speaker_data/quentin_williams/image.jpg',
+      categoryInfoPath: './assets/speaker_data/quentin_williams/category.txt',
+      category: 'Data Science\n',
+      affiliationInfoPath: './assets/speaker_data/quentin_williams/affiliation.txt',
+      affiliation: 'Deloitte\n'
     },
-    'John Poole': { imagePath: './assets/speaker_data/john_poole/image.jpg' },
-    'Jonathan Shock': { imagePath: './assets/speaker_data/jonathan_shock/image.jpg' },
-    'Kerryn Gammie': { imagePath: './assets/speaker_data/kerryn_gammie/image.jpg' },
-    'Maria Schuld': { imagePath: './assets/speaker_data/maria_schuld/image.jpg' },
-    'Matthew Adendorff': { imagePath: './assets/speaker_data/matthew_adendorff/image.jpg' },
-    'Michelle Hoogenhout': { imagePath: './assets/speaker_data/michelle_hoogenhout/image.jpg' },
-    'More Speakers TBC': { imagePath: './assets/speaker_data/more_speakers_TBC/image.jpg' },
-    'Ndivhuwo Makondo': { imagePath: './assets/speaker_data/ndivhuwo_makondo/image.jpg' },
-    'Nick Pentreath': { imagePath: './assets/speaker_data/nick_pentreath/image.jpg' },
-    'Pelonomi Moiloa': { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg' },
-    'Prof. Bruce Bassett': { imagePath: './assets/speaker_data/prof._bruce_bassett/image.jpg' },
-    'Prof. Tshilidzi Marwala': {
-      imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg'
-    },
-    'Quentin Williams': { imagePath: './assets/speaker_data/quentin_williams/image.jpg' },
-    'Richard Klein': { imagePath: './assets/speaker_data/richard_klein/image.jpg' },
-    'Sebastian Bodenstein And Taliesin Beynon': {
-      imagePath: './assets/speaker_data/sebastian_bodenstein_and_taliesin_beynon/image.jpg'
-    },
-    'Stuart Reid': { imagePath: './assets/speaker_data/stuart_reid/image.jpg' },
-    'Wiebke-toussaint': { imagePath: './assets/speaker_data/wiebke-toussaint/image.jpg' },
-    'Willie Brink': { imagePath: './assets/speaker_data/willie_brink/image.jpg' }
+    'Ronald Clark': {
+      categoryInfoPath: './assets/speaker_data/ronald_clark/category.txt',
+      category: '3D Vision\n'
+    }
 }
 
-
-
-
-
-  ;
+;
 
 PANEL = {
     'Prof. Tshilidzi Marwala':
