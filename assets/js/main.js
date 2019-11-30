@@ -393,6 +393,10 @@ ORGANIZERS = {
         imagePath: './assets/organiser_data/Vukosi_Marivate/image.jpg',
         linkInfoPath: './assets/organiser_data/Vukosi_Marivate/link.txt',
         link: 'http://vima.co.za/'
+    },
+    'Windy Mokuwe':
+    {
+        imagePath: './assets/organiser_data/Windy_Mokuwe/image.jpg'
     }
 };
 
