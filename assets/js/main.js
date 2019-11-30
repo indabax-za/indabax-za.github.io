@@ -169,15 +169,15 @@ function populateSpeakerInfo(info) {
     var $row_div;
 
     // add info to speakers section
-    keynotes = shuffle(['Prof. Bruce Bassett', 'Prof. Tshilidzi Marwala', 'Dr. Andrew Saxe']);
+    //keynotes = shuffle(['Prof. Bruce Bassett', 'Prof. Tshilidzi Marwala', 'Dr. Andrew Saxe']);
     speakers = shuffle(Object.keys(info));
 
-    speakers = speakers.filter(function(item) {
+    /* speakers = speakers.filter(function(item) {
         return keynotes.indexOf(item) < 0
     });
     for(keynote of keynotes){
         speakers.unshift(keynote);
-    }
+    } */
 
     for(speaker of speakers) {
         if(info[speaker].imagePath == null || speaker.toUpperCase() == "MORE SPEAKERS TBC") {
