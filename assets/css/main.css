@@ -77,7 +77,7 @@ ul li {
   color: #e6e6e6;
 }
 
-.intro .social-block li a i {
+.intro .social-block li a i, .intro .social-block li a ion-icon {
   font-size: 3.5em;
 }
 
@@ -85,11 +85,28 @@ ul li {
   color: #4c90ff;
 }
 
-.speaker a i {
+.intro .social-block li #twitter-icon:hover, .social-block li #youtube-icon:focus {
+  color: #55acee;
+}
+
+.intro .social-block li #instagram-icon:hover, .social-block li #youtube-icon:focus {
+  color: #f09433;
+}
+
+.intro .social-block li #facebook-icon:hover, .social-block li #youtube-icon:focus {
+  color: #3b5998;
+}
+
+.intro .social-block li #youtube-icon:hover, .social-block li #youtube-icon:focus {
+  color: #ff0000;
+}
+
+
+.speaker a i, .speaker a ion-icon {
   font-size: 2em;
 }
 
-.speaker a i:hover {
+.speaker a i:hover, , .speaker a ion-icon:hover {
   color: #ffed4c;
 }
 
@@ -251,7 +268,7 @@ ul li {
 #apply {
   font-weight: bold;
   font-size: 1.5em;
-  background-color: #d6ca5e;
+  background-color: #FFF744;
   margin-top: 0.9em;
 }
 #watch {
@@ -263,7 +280,7 @@ ul li {
 #sponsor {
   font-weight: bold;
   font-size: 1.5em;
-  background-color: #e2d300;
+  background-color: #61FFC0;
 }
 #report {
   font-weight: bold;
@@ -417,12 +434,13 @@ ul.nav.navbar-nav {
   bottom: 0;
   left: 0;
   background-color: rgba(125, 125, 125, 0.5);
+  filter: blur(40px);
 }
 .site-header .intro {
   color: #fff;
   position: relative;
   text-align: center;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   width: 100%;
   z-index: 1;
   padding: 5em 15px 1em 15px;
@@ -432,17 +450,17 @@ ul.nav.navbar-nav {
 }
 .site-header .intro h1 {
   margin-top: 0px;
-  font-size: 2.4em;
+  font-size: 2.8em;
 }
 .site-header .intro h2 {
   margin-top: 0.5em;
-  font-size: 1.8em;
-  font-weight: 600;
+  font-size: 2.4em;
+  font-weight: 300;
 }
 .site-header .intro h3 {
   margin-top: 0.5em;
   font-size: 1.5em;
-  font-weight: 600;
+  font-weight: 500;
 }
 .site-header .intro h4 {
   margin-top: 0.25em;
@@ -459,7 +477,7 @@ ul.nav.navbar-nav {
   width: 100%;
   max-width: 700px;
   margin-bottom: -4%;
-  margin-top: -10%;
+  margin-top: -9%;
 }
 
 .site-header .intro ul.social-block {
@@ -509,7 +527,7 @@ section.about {
 /*
  * 6.2 Section: Facts
  */
-.facts i {
+.facts i, .facts ion-icon {
   color: #fff;
   font-size: 3em;
 }
@@ -531,11 +549,11 @@ section.about {
 }
 
 #speakers .speaker {
-  margin-bottom: 175px;
+  /*margin-bottom: 175px;*/
 }
 
 #speakers .speaker.panellist {
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
 }
 
 .speaker h4 {
@@ -549,7 +567,7 @@ section.about {
   font-size: 90%;
 }
 
-#about .speaker h4 {
+#team .speaker h4 {
   margin-left: 0px;
 }
 
@@ -589,7 +607,7 @@ section.about {
   font-weight: 100;
 }
 
-.speaker a i {
+.speaker a i, .speaker a ion-icon {
   color: #888888;
 }
 
@@ -1019,7 +1037,7 @@ span.schedule-slot-speaker-name{
 
 
 /*
- * 6.9 Section: photos
+ * 6.8 Section: photos
  */
 .grid {
   list-style-type: none;
@@ -1070,6 +1088,33 @@ span.schedule-slot-speaker-name{
     width: 25%;
   }
 }
+
+/*
+  * 6.9 Section: Team;
+*/
+section.team {
+  margin-left: 1em;
+  background-color: #ffffff;
+}
+.team .section-title {
+  margin: 0 0 25px;
+}
+.team figure {
+  margin-bottom: 25px;
+}
+
+.team figure {
+  margin-bottom: 25px;
+}
+
+.team .top-buffer {
+  margin-top: 4em;
+}
+
+.team p {
+  margin-bottom: 0px;
+}
+
 /*
  * 7.0 Site-footer
  */
@@ -1106,11 +1151,11 @@ span.schedule-slot-speaker-name{
   background-color: #f8f8f8;
 }
 
-.speaker {
+#team .speaker {
   background-color: #ffffff;
 }
 
-#about {
+#team {
   background-color: #ffffff;
 }
 
@@ -1123,7 +1168,7 @@ span.schedule-slot-speaker-name{
   padding-right: 1px;
 }
 
-#about .speaker {
+#team .speaker {
   padding-bottom: 25px;
 }
 

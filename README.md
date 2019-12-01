@@ -1,8 +1,10 @@
-# Deep Learning Indaba𝕏 South Africa 2019
+# Deep Learning Indaba𝕏 South Africa
 
 ## Repository for the website
 
 ## Contribute
 - clone
-- create branch
+- checkout Dev branch
+- create <feature name> branch
 - submit pull request
+- delete branch

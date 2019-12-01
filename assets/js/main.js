@@ -1,39 +1,51 @@
 CATEGORY_TO_ICON = {
-    'Research': "ion-ios-book",
-    "Foundations": "ion-hammer",
-    "Industry/Ethics/Policy": "ion-bowtie",
-    "Keynote": "ion-key"
+    'Research': "book",
+    "Foundations": "hammer",
+    "Applied": "bowtie",
+    "Keynote": "key"
 };
+
+// Format
+// 'Speaker Name': { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
+//         lectureHeading: 'Community development as an Avenue to Career Growth',
+//         category: 'Industry/Ethics/Policy',
+//         affiliation: 'Cortex Logic / MIIA',
+//         abstract: '',
+//         bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey.",
+//         vidLink: "https://www.youtube.com/embed/QH4IpE44NYc",
+//         slidesLink: "https://drive.google.com/open?id=1pq26AyxWOlUcA8M3p7Z1oOUHTEiO-Z_b"
+//     },
 
 INFO = 
 
 {
     'Dr. Benjamin Rosman': {
       imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg',
-      categoryInfoPath: './assets/speaker_data/dr._benjamin_rosman/category.txt',
-      category: 'Reinforcement Learning\n',
-      affiliationInfoPath: './assets/speaker_data/dr._benjamin_rosman/affiliation.txt',
-      affiliation: 'University of the Witwatersrand\n'
+      category: 'Research',
+      lectureHeading: 'Reinforcement Learning',
+      affiliation: 'University of the Witwatersrand'
     },
     'Marcel Atemkeng': {
-      categoryInfoPath: './assets/speaker_data/marcel_atemkeng/category.txt',
-      category: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
+      lectureHeading: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
     },
     'Merelda Woohoo': {
-      categoryInfoPath: './assets/speaker_data/merelda_woohoo/category.txt',
-      category: 'Machine Learning in Production\n'
+      lectureHeading: 'Machine Learning in Production\n'
     },
     'Quentin Williams': {
       imagePath: './assets/speaker_data/quentin_williams/image.jpg',
-      categoryInfoPath: './assets/speaker_data/quentin_williams/category.txt',
-      category: 'Data Science\n',
-      affiliationInfoPath: './assets/speaker_data/quentin_williams/affiliation.txt',
+      lectureHeading: 'Data Science',
+      category: 'Applied',
       affiliation: 'Deloitte\n'
     },
     'Ronald Clark': {
-      categoryInfoPath: './assets/speaker_data/ronald_clark/category.txt',
-      category: '3D Vision\n'
-    }
+      lectureHeading: '3D Vision',
+      category: 'Applied',
+    },
+    'John Kamara': {
+      imagePath: './assets/speaker_data/john_kamara/image.jpg',
+      category: 'Applied',
+      affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA, IFERS\n'
+    },
 }
 
 ;
@@ -62,55 +74,58 @@ KEYNOTE = "";
 ORGANIZERS = {
     'Maria Schuld':
     {
-        imagePath: './assets/organiser_data/maria_schuld/image.jpg'
+        imagePath: './assets/organiser_data/maria_schuld/image.jpg',
+        committee: 'Budget'
     },
     'Anna Bosman':
     {
         imagePath: './assets/organiser_data/Anna_Bosman/image.jpg',
         linkInfoPath: './assets/organiser_data/Anna_Bosman/link.txt',
-        link: 'https://annabosman.github.io/'
+        link: 'https://annabosman.github.io/',
+        committee: 'Local organiser'
     },
     'Christopher Currin':
     {
         imagePath: './assets/organiser_data/Christopher_Currin/image.jpg',
         linkInfoPath: './assets/organiser_data/Christopher_Currin/link.txt',
-        link: 'https://chriscurrin.github.io/'
+        link: 'https://chriscurrin.github.io/',
+        committee: 'Sponsors'
     },
     'Avashlin Moodley':
     {
         imagePath: './assets/organiser_data/Avashlin_Moodley/image.jpg',
         linkInfoPath: './assets/organiser_data/Avashlin_Moodley/link.txt',
-        link: 'https://www.linkedin.com/in/avashlinmoodley/'
+        link: 'https://www.linkedin.com/in/avashlinmoodley/',
+        committee: 'Marketing'
     },
     'Chris Cleghorn':
     {
-        imagePath: './assets/organiser_data/Chris_Cleghorn/image.jpg'
-    },
-    'Amira Abbas':
-    {
-        imagePath: './assets/organiser_data/Amira_Abbas/image.jpeg',
-        linkInfoPath: './assets/organiser_data/Amira_Abbas/link.txt',
-        link: 'https://www.linkedin.com/in/amira-abbas/'
+        imagePath: './assets/organiser_data/Chris_Cleghorn/image.jpg',
+        committee: 'Programme'
     },
     'Naomi Molefe':
     {
-        imagePath: './assets/organiser_data/Naomi_Molefe/image.png'
+        imagePath: './assets/organiser_data/Naomi_Molefe/image.png',
+        committee: 'Hackathon'
     },
     'Vongani Maluleke':
     {
         imagePath: './assets/organiser_data/Vongani_Maluleke/image.jpg',
         linkInfoPath: './assets/organiser_data/Vongani_Maluleke/link.txt',
-        link: 'https://linkedin.com/in/vongani-hlavutelo-maluleke-3a848787'
+        link: 'https://linkedin.com/in/vongani-hlavutelo-maluleke-3a848787',
+        committee: 'Programme'
     },
     'Vukosi Marivate':
     {
         imagePath: './assets/organiser_data/Vukosi_Marivate/image.jpg',
         linkInfoPath: './assets/organiser_data/Vukosi_Marivate/link.txt',
-        link: 'http://vima.co.za/'
+        link: 'http://vima.co.za/',
+        committee: 'Local Host'
     },
     'Windy Mokuwe':
     {
-        imagePath: './assets/organiser_data/Windy_Mokuwe/image.jpg'
+        imagePath: './assets/organiser_data/Windy_Mokuwe/image.jpg',
+        committee: 'Social events'
     }
 };
 
@@ -207,7 +222,7 @@ function populateSpeakerInfo(info) {
                                 {
                                   "src": info[speaker].imagePath,
                                   "data-toggle": "tooltip",
-                                  "title": "click me!"
+                                  "title": "speaker bio"
                                 }
                                 :{"src": info[speaker].imagePath})
                         ) // append to a
@@ -223,9 +238,8 @@ function populateSpeakerInfo(info) {
                         .append(
                             $("<a />")
                             .append(
-                                $("<i />").addClass(
-                                    CATEGORY_TO_ICON[info[speaker].category]
-                                ).attr({
+                                $("<ion-icon />").attr({
+                                    "name": CATEGORY_TO_ICON[info[speaker].category],
                                     "data-toggle": "tooltip",
                                     "title": info[speaker].category
                                 })
@@ -604,7 +618,7 @@ function populateOrganizers(organizers) {
   var count = 1;
 
   for(speaker of shuffle(Object.keys(organizers))) {
-    $organizerSection = $(".about .container");
+    $organizerSection = $(".team .container");
 
     $slot = $("<div />").addClass("col-md-3 col-xs-6")
     .append(
@@ -620,16 +634,10 @@ function populateOrganizers(organizers) {
             $("<img />").attr({
               "src": organizers[speaker].imagePath
             })
-            .attr(
-              (
-                organizers[speaker].link?
-                {
-                  "data-toggle": "tooltip",
-                  "title": "click me!"
-                }
-                :{}
-              )
-            )
+            .attr({
+              "data-toggle": "tooltip",
+              "title": organizers[speaker].committee
+            })
           ) // append to a
         ) // append to figure
         .append(
