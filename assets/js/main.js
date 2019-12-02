@@ -79,33 +79,33 @@ ORGANIZERS = {
     },
     'Anna Bosman':
     {
-        imagePath: './assets/organiser_data/Anna_Bosman/image.jpg',
-        linkInfoPath: './assets/organiser_data/Anna_Bosman/link.txt',
+        imagePath: './assets/organiser_data/anna_bosman/image.jpg',
+        linkInfoPath: './assets/organiser_data/anna_bosman/link.txt',
         link: 'https://annabosman.github.io/',
         committee: 'Local organiser'
     },
     'Christopher Currin':
     {
-        imagePath: './assets/organiser_data/Christopher_Currin/image.jpg',
-        linkInfoPath: './assets/organiser_data/Christopher_Currin/link.txt',
+        imagePath: './assets/organiser_data/christopher_currin/image.jpg',
+        linkInfoPath: './assets/organiser_data/christopher_currin/link.txt',
         link: 'https://chriscurrin.github.io/',
         committee: 'Sponsors'
     },
     'Avashlin Moodley':
     {
-        imagePath: './assets/organiser_data/Avashlin_Moodley/image.jpg',
-        linkInfoPath: './assets/organiser_data/Avashlin_Moodley/link.txt',
+        imagePath: './assets/organiser_data/avashlin_moodley/image.jpg',
+        linkInfoPath: './assets/organiser_data/avashlin_moodley/link.txt',
         link: 'https://www.linkedin.com/in/avashlinmoodley/',
         committee: 'Marketing'
     },
     'Chris Cleghorn':
     {
-        imagePath: './assets/organiser_data/Chris_Cleghorn/image.jpg',
+        imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
         committee: 'Programme'
     },
     'Naomi Molefe':
     {
-        imagePath: './assets/organiser_data/Naomi_Molefe/image.png',
+        imagePath: './assets/organiser_data/naomi_molefe/image.PNG',
         committee: 'Hackathon'
     },
     'Vongani Maluleke':
@@ -126,6 +126,13 @@ ORGANIZERS = {
     {
         imagePath: './assets/organiser_data/Windy_Mokuwe/image.jpg',
         committee: 'Social events'
+    },
+    'Raesetje Sefala':
+    {
+        imagePath: './assets/organiser_data/raesetje_sefala/image.jpg',
+        linkInfoPath: './assets/organiser_data/raesetje_sefala/link.txt',
+        link: 'https://sefalab.github.io/',
+        committee: 'Marketing'
     }
 };
 
