@@ -126,6 +126,13 @@ ORGANIZERS = {
     {
         imagePath: './assets/organiser_data/Windy_Mokuwe/image.jpg',
         committee: 'Social events'
+    },
+    'Raesetje Sefala':
+    {
+        imagePath: './assets/organiser_data/raesetje_sefala/image.jpg',
+        linkInfoPath: './assets/organiser_data/raesetje_sefala/link.txt',
+        link: 'https://sefalab.github.io/',
+        committee: 'Marketing'
     }
 };
 
