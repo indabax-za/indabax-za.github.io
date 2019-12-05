@@ -21,32 +21,57 @@ INFO =
 {
     'Dr. Benjamin Rosman': {
       imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg',
-      category: 'Research',
-      lectureHeading: 'Reinforcement Learning',
-      affiliation: 'University of the Witwatersrand'
-    },
-    'Marcel Atemkeng': {
-      lectureHeading: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
-    },
-    'Merelda Woohoo': {
-      lectureHeading: 'Machine Learning in Production\n'
-    },
-    'Quentin Williams': {
-      imagePath: './assets/speaker_data/quentin_williams/image.jpg',
-      lectureHeading: 'Data Science',
-      category: 'Applied',
-      affiliation: 'Deloitte\n'
-    },
-    'Ronald Clark': {
-      lectureHeading: '3D Vision',
-      category: 'Applied',
+      categoryInfoPath: './assets/speaker_data/dr._benjamin_rosman/category.txt',
+      category: 'Reinforcement Learning\n',
+      affiliationInfoPath: './assets/speaker_data/dr._benjamin_rosman/affiliation.txt',
+      affiliation: 'University of the Witwatersrand\n'
     },
     'John Kamara': {
       imagePath: './assets/speaker_data/john_kamara/image.jpg',
-      category: 'Applied',
-      affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA, IFERS\n'
+      categoryInfoPath: './assets/speaker_data/john_kamara/category.txt',
+      category: 'Applied AI\n',
+      affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
+      affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA\n'
     },
-}
+    'Katherine Malan': {
+      categoryInfoPath: './assets/speaker_data/katherine_malan/category.txt',
+      category: 'Introduction to ML\n'
+    },
+    'Kshitij Thorat': {
+      categoryInfoPath: './assets/speaker_data/kshitij_thorat/category.txt',
+      category: 'ML for Astronomy\n'
+    },
+    'Marcel Atemkeng': {
+      categoryInfoPath: './assets/speaker_data/marcel_atemkeng/category.txt',
+      category: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
+    },
+    'Merelda Woohoo': {
+      categoryInfoPath: './assets/speaker_data/merelda_woohoo/category.txt',
+      category: 'Machine Learning in Production\n'
+    },
+    'Nico Wilke': {
+      categoryInfoPath: './assets/speaker_data/nico_wilke/category.txt',
+      category: 'Gradient-Only Optimization\n'
+    },
+    'Quentin Williams': {
+      imagePath: './assets/speaker_data/quentin_williams/image.jpg',
+      categoryInfoPath: './assets/speaker_data/quentin_williams/category.txt',
+      category: 'Data Science\n',
+      affiliationInfoPath: './assets/speaker_data/quentin_williams/affiliation.txt',
+      affiliation: 'Deloitte\n'
+    },
+    'Ronald Clark': {
+      categoryInfoPath: './assets/speaker_data/ronald_clark/category.txt',
+      category: '3D Vision\n'
+    },
+    'Vukosi Marivate': {
+      categoryInfoPath: './assets/speaker_data/vukosi_marivate/category.txt',
+      category: 'NLP or Data Science + Society\n',
+      affiliationInfoPath: './assets/speaker_data/vukosi_marivate/affiliation.txt',
+      affiliation: 'University of the Pretoria\n'
+    }
+  }
+  
 
 ;
 
