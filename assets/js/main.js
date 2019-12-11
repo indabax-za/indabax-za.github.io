@@ -137,18 +137,8 @@ ORGANIZERS = {
 };
 
 SPONSORS = [
-    [ './assets/images/sponsors/deeplearningindaba_com.png',
-        'http://www.deeplearningindaba.com', 'Deep Learning Indaba'],
-    [ './assets/images/sponsors/ukzn_ac_za.png',
-        'http://www.ukzn.ac.za', 'University of Kwazulu-Natal' ],
     [ './assets/images/sponsors/nrf_ac_za.png',
         'http://www.nrf.ac.za', 'National Research Foundation' ],
-    [ './assets/images/sponsors/wits_ac_za_coe-mass.png',
-        'http://www.wits.ac.za/coe-mass', 'CoE-MaSS' ],
-    [ './assets/images/sponsors/stanlib_com.png',
-    'https://knowledgecentre.stanlib.com/', 'STANLIB' ]
-    [ './assets/images/sponsors/alis_fund.png',
-    'https://alis.fund/', 'alis_' ]
 ];
 /*
  * Change Navbar color while scrolling
