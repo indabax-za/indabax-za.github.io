@@ -40,10 +40,11 @@ INFO =
       category: 'Applied',
       affiliation: 'Deloitte\n'
     },
-    'Ronald Clark': {
+    'Dr. Ronald Clark': {
       imagePath: './assets/speaker_data/ronald_clark/image.jpg',
       lectureHeading: '3D Vision',
-      category: 'Applied'
+      category: 'Applied',
+      affiliation: 'Imperial College London\n'
     },
     'John Kamara': {
       imagePath: './assets/speaker_data/john_kamara/image.jpg',
