@@ -163,6 +163,13 @@ ORGANIZERS = {
         linkInfoPath: './assets/organiser_data/raesetje_sefala/link.txt',
         link: 'https://sefalab.github.io/',
         committee: 'Marketing'
+    },
+    'Chris Fourie':
+    {
+        imagePath: './assets/organiser_data/chris_fourie/image.jpg',
+        linkInfoPath: './assets/organiser_data/chris_fourie/link.txt',
+        link: 'https://www.chrisfourie.africa/',
+        committee: 'Sponsors'
     }
 };
 
