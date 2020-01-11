@@ -28,7 +28,7 @@ INFO =
     'John Kamara': {
       imagePath: './assets/speaker_data/john_kamara/image.jpg',
       categoryInfoPath: './assets/speaker_data/john_kamara/category.txt',
-      category: 'Applied AI\n',
+      category: 'Applied',
       affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
       affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA\n'
     },
@@ -59,7 +59,7 @@ INFO =
     'Dr. Quentin Williams': {
       imagePath: './assets/speaker_data/quentin_williams/image.jpg',
       categoryInfoPath: './assets/speaker_data/quentin_williams/category.txt',
-      category: 'Data Science\n',
+      category: 'Applied\n',
       affiliationInfoPath: './assets/speaker_data/quentin_williams/affiliation.txt',
       affiliation: 'Deloitte\n'
     },
