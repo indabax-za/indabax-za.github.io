@@ -19,8 +19,8 @@ CATEGORY_TO_ICON = {
 INFO = 
 
 {
-    'Dr. Benjamin Rosman': {
-      imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg',
+    'Prof. Benjamin Rosman': {
+      imagePath: './assets/speaker_data/benjamin_rosman/image.jpg',
       category: 'Research',
       lectureHeading: 'Reinforcement Learning',
       affiliation: 'University of the Witwatersrand'
@@ -29,17 +29,21 @@ INFO =
       lectureHeading: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
     },
     'Merelda Woohoo': {
-      lectureHeading: 'Machine Learning in Production\n'
+      imagePath: './assets/speaker_data/merelda_woohoo/image.jpg',
+      lectureHeading: 'Machine Learning in Production\n',
+      category: 'Applied',
+      affiliation: 'Melio Consulting\n'
     },
-    'Quentin Williams': {
+    'Dr. Quentin Williams': {
       imagePath: './assets/speaker_data/quentin_williams/image.jpg',
       lectureHeading: 'Data Science',
       category: 'Applied',
       affiliation: 'Deloitte\n'
     },
     'Ronald Clark': {
+      imagePath: './assets/speaker_data/ronald_clark/image.jpg',
       lectureHeading: '3D Vision',
-      category: 'Applied',
+      category: 'Applied'
     },
     'John Kamara': {
       imagePath: './assets/speaker_data/john_kamara/image.jpg',
