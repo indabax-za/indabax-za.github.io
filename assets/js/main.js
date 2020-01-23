@@ -44,12 +44,12 @@ INFO =
       categoryInfoPath: './assets/speaker_data/marcel_atemkeng/category.txt',
       category: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
     },
-    'Merelda Woohoo': {
+    'Merelda Wu': {
 
-      imagePath: './assets/speaker_data/merelda_woohoo/image.jpg',
+      imagePath: './assets/speaker_data/merelda_wu/image.jpg',
       lectureHeading: 'Machine Learning in Production\n',
       category: 'Applied',
-      categoryInfoPath: './assets/speaker_data/merelda_woohoo/category.txt',
+      categoryInfoPath: './assets/speaker_data/merelda_wu/category.txt',
       affiliation: 'Melio Consulting\n'
     },
     'Nico Wilke': {
