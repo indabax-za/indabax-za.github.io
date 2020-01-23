@@ -32,20 +32,30 @@ INFO =
       affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
       affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA\n'
     },
+    'Herman Kamper': {
+      imagePath: './assets/speaker_data/herman_kamper/image.jpg',
+      categoryInfoPath: './assets/speaker_data/herman_kamper/category.txt',
+      affiliation: 'University of Stellenbosch\n',
+      category: 'Foundations'
+    },
     'Katherine Malan': {
+      imagePath: './assets/speaker_data/katherine_malan/image.jpg',
       categoryInfoPath: './assets/speaker_data/katherine_malan/category.txt',
-      category: 'Introduction to ML\n'
+      lectureHeading: 'Introduction to ML\n',
+      affiliation: 'University of South Africa (UNISA)\n',
+      category: 'Foundations'
     },
     'Kshitij Thorat': {
       categoryInfoPath: './assets/speaker_data/kshitij_thorat/category.txt',
-      category: 'ML for Astronomy\n'
+      lectureHeading: 'Machine Learning for Astronomy\n'
     },
     'Marcel Atemkeng': {
+      imagePath: './assets/speaker_data/marcel_atemkeng/image.jpeg',
       categoryInfoPath: './assets/speaker_data/marcel_atemkeng/category.txt',
-      category: 'Rhodes Team: AI and astronomy, help with Intro to CNNs\n'
+      affiliation: 'Rhodes University\n',
+      category: 'Applied'
     },
     'Merelda Wu': {
-
       imagePath: './assets/speaker_data/merelda_wu/image.jpg',
       lectureHeading: 'Machine Learning in Production\n',
       category: 'Applied',
@@ -53,8 +63,11 @@ INFO =
       affiliation: 'Melio Consulting\n'
     },
     'Nico Wilke': {
+      imagePath: './assets/speaker_data/nico_wilke/image.png',
+      category: 'Research',
       categoryInfoPath: './assets/speaker_data/nico_wilke/category.txt',
-      category: 'Gradient-Only Optimization\n'
+      lectureHeading: 'Gradient-Only Optimization\n',
+      affiliation: 'University of Pretoria\n'
     },
     'Dr. Quentin Williams': {
       imagePath: './assets/speaker_data/quentin_williams/image.jpg',
@@ -74,6 +87,47 @@ INFO =
       category: 'NLP or Data Science + Society\n',
       affiliationInfoPath: './assets/speaker_data/vukosi_marivate/affiliation.txt',
       affiliation: 'University of the Pretoria\n'
+    },
+    'Sonali Parbhoo': {
+			imagePath: './assets/speaker_data/sonali_parbhoo/image.jpg',
+      categoryInfoPath: './assets/speaker_data/sonali_parbhoo/category.txt',
+      category: 'Applied',
+      affiliationInfoPath: './assets/speaker_data/sonali_parbhoo/affiliation.txt',
+      affiliation: 'Harvard University\n'
+    },
+    'Malvin Nkomo': {
+			imagePath: './assets/speaker_data/malvin_nkomo/image.png',
+      categoryInfoPath: './assets/speaker_data/malvin_nkomo/category.txt',
+      category: 'Applied',
+      affiliationInfoPath: './assets/speaker_data/malvin_nkomo/affiliation.txt',
+      affiliation: 'Hailer Technologies\n'
+    },
+    'Dario Fanucci': {
+			imagePath: './assets/speaker_data/dario_fanucci/image.jpg',
+      categoryInfoPath: './assets/speaker_data/dario_fanucci/category.txt',
+      category: 'Applied',
+      affiliationInfoPath: './assets/speaker_data/dario_fanucci/affiliation.txt',
+      affiliation: 'Isazi Consulting\n'
+    },
+    'Sicelukwanda Zwane': {
+			imagePath: './assets/speaker_data/sicelukwanda_zwane/image.jpg',
+      categoryInfoPath: './assets/speaker_data/sicelukwanda_zwane/category.txt',
+      category: 'Foundations',
+      affiliationInfoPath: './assets/speaker_data/sicelukwanda_zwane/affiliation.txt',
+      affiliation: 'EXPLORE Data Science Academy\n'
+    },
+    'Jason Webster': {
+			imagePath: './assets/speaker_data/jason_webster/image.png',
+      categoryInfoPath: './assets/speaker_data/jason_webste/category.txt',
+      category: 'Foundations',
+      affiliationInfoPath: './assets/speaker_data/jason_webster/affiliation.txt',
+      affiliation: 'EXPLORE Data Science Academy\n'
+    },
+    'Chris Cleghorn': {
+      imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
+      category: 'Foundations',
+      affiliationInfoPath: './assets/speaker_data/chris_cleghorn/affiliation.txt',
+      affiliation: 'University of Pretoria\n'
     }
   }
   
