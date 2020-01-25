@@ -26,7 +26,6 @@ INFO =
       affiliation: 'University of the Witwatersrand\n'
     },
     'John Kamara': {
-      imagePath: './assets/speaker_data/john_kamara_/image.jpg',
       categoryInfoPath: './assets/speaker_data/john_kamara/category.txt',
       category: 'Applied',
       affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
