@@ -544,7 +544,7 @@ section.about {
   color: #313131;
   text-transform: uppercase;
   margin: 25px 0;
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 
 #speakers .speaker {
@@ -1093,7 +1093,7 @@ span.schedule-slot-speaker-name{
 */
 section.team {
   margin-left: 1em;
-  background-color: #ffffff;
+  background-color: #f8f8f8;
 }
 .team .section-title {
   margin: 0 0 25px;
@@ -1147,15 +1147,15 @@ section.team {
 }
 
 #location {
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 
 #team .speaker {
-  background-color: #ffffff;
+  background-color: #f8f8f8;
 }
 
 #team {
-  background-color: #ffffff;
+  background-color: #f8f8f8;
 }
 
 #faq {
