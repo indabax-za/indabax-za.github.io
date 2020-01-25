@@ -26,19 +26,19 @@ INFO =
       affiliation: 'University of the Witwatersrand\n'
     },
     'John Kamara': {
-      imagePath: './assets/speaker_data/john_kamara/image.jpg',
+      imagePath: './assets/speaker_data/john_kamara_/image.jpg',
       categoryInfoPath: './assets/speaker_data/john_kamara/category.txt',
       category: 'Applied',
       affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
       affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA\n'
     },
-    'Herman Kamper': {
+    'Dr. Herman Kamper': {
       imagePath: './assets/speaker_data/herman_kamper/image.jpg',
       categoryInfoPath: './assets/speaker_data/herman_kamper/category.txt',
       affiliation: 'University of Stellenbosch\n',
       category: 'Foundations'
     },
-    'Katherine Malan': {
+    'Dr. Katherine Malan': {
       imagePath: './assets/speaker_data/katherine_malan/image.jpg',
       categoryInfoPath: './assets/speaker_data/katherine_malan/category.txt',
       lectureHeading: 'Introduction to ML\n',
@@ -62,7 +62,7 @@ INFO =
       categoryInfoPath: './assets/speaker_data/merelda_wu/category.txt',
       affiliation: 'Melio Consulting\n'
     },
-    'Nico Wilke': {
+    'Dr. Nico Wilke': {
       imagePath: './assets/speaker_data/nico_wilke/image.png',
       category: 'Research',
       categoryInfoPath: './assets/speaker_data/nico_wilke/category.txt',
@@ -79,23 +79,23 @@ INFO =
     'Dr. Ronald Clark': {
       imagePath: './assets/speaker_data/ronald_clark/image.jpg',
       lectureHeading: '3D Vision',
-      category: 'Applied',
+      category: 'Research',
       affiliation: 'Imperial College London\n'
     },
-    'Vukosi Marivate': {
+    'Dr. Vukosi Marivate': {
       categoryInfoPath: './assets/speaker_data/vukosi_marivate/category.txt',
       category: 'NLP or Data Science + Society\n',
       affiliationInfoPath: './assets/speaker_data/vukosi_marivate/affiliation.txt',
       affiliation: 'University of the Pretoria\n'
     },
-    'Sonali Parbhoo': {
+    'Dr. Sonali Parbhoo': {
 			imagePath: './assets/speaker_data/sonali_parbhoo/image.jpg',
       categoryInfoPath: './assets/speaker_data/sonali_parbhoo/category.txt',
-      category: 'Applied',
+      category: 'Research',
       affiliationInfoPath: './assets/speaker_data/sonali_parbhoo/affiliation.txt',
       affiliation: 'Harvard University\n'
     },
-    'Malvin Nkomo': {
+    'Dr. Malvin Nkomo': {
 			imagePath: './assets/speaker_data/malvin_nkomo/image.png',
       categoryInfoPath: './assets/speaker_data/malvin_nkomo/category.txt',
       category: 'Applied',
