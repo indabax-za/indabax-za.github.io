@@ -78,7 +78,7 @@ INFO =
     'Dr. Ronald Clark': {
       imagePath: './assets/speaker_data/ronald_clark/image.jpg',
       lectureHeading: '3D Vision',
-      category: 'Research',
+      category: 'Keynote',
       affiliation: 'Imperial College London\n'
     },
     'Dr. Vukosi Marivate': {
@@ -127,7 +127,26 @@ INFO =
       category: 'Foundations',
       affiliationInfoPath: './assets/speaker_data/chris_cleghorn/affiliation.txt',
       affiliation: 'University of Pretoria\n'
+    },
+    'Shakir Mohamend': {
+      imagePath: './assets/speaker_data/shakir_mohamed/image.jpg',
+      category: 'Keynote',
+      affiliationInfoPath: './assets/speaker_data/shakir_mohamed/affiliation.txt',
+      affiliation: 'DeepMind\n'
+    },
+    'Emma Ruttkamp-Bloem': {
+      imagePath: './assets/speaker_data/emma_ruttkamp-bloem/image.jpg',
+      category: 'Keynote',
+      affiliationInfoPath: './assets/speaker_data/emma_ruttkamp-bloem/affiliation.txt',
+      affiliation: 'University of Pretoria\n'
+    },
+    'Charl Muller': {
+      imagePath: './assets/speaker_data/charl_muller/image.jpg',
+      category: 'Applied',
+      affiliationInfoPath: './assets/speaker_data/charl_muller/affiliation.txt',
+      affiliation: 'Standard Bank\n'
     }
+
   }
   
 
