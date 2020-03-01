@@ -26,6 +26,7 @@ INFO =
       affiliation: 'University of the Witwatersrand\n'
     },
     'John Kamara': {
+      imagePath: './assets/speaker_data/john_kamara/image.jpg',
       categoryInfoPath: './assets/speaker_data/john_kamara/category.txt',
       category: 'Applied',
       affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
@@ -45,6 +46,7 @@ INFO =
       category: 'Foundations'
     },
     'Kshitij Thorat': {
+      imagePath: './assets/speaker_data/kshitij_thorat/image.jpg',
       categoryInfoPath: './assets/speaker_data/kshitij_thorat/category.txt',
       lectureHeading: 'Machine Learning for Astronomy\n'
     },
@@ -82,6 +84,7 @@ INFO =
       affiliation: 'Imperial College London\n'
     },
     'Dr. Vukosi Marivate': {
+      imagePath: './assets/speaker_data/vukosi_marivate/image.jpg',
       categoryInfoPath: './assets/speaker_data/vukosi_marivate/category.txt',
       category: 'NLP or Data Science + Society\n',
       affiliationInfoPath: './assets/speaker_data/vukosi_marivate/affiliation.txt',
