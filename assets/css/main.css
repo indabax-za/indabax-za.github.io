@@ -293,6 +293,11 @@ ul li {
   font-size: 1.5em;
   background-color: #61FFC0;
 }
+#roadshow_host_btn {
+  font-weight: bold;
+  font-size: 1.5em;
+  background-color: #D2691E;
+}
 #report {
   font-weight: bold;
   font-size: 1.5em;
