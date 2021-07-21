@@ -874,7 +874,7 @@ function populatePanel(panellists) {
   }
 
 //populateSponsors(SPONSORS);
-populateSpeakerInfo(INFO);
+//populateSpeakerInfo(INFO);
 //populatePanel(PANEL);
 populateOrganizers(ORGANIZERS);
 
