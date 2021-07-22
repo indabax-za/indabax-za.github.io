@@ -208,13 +208,6 @@ ORGANIZERS = {
         imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
         committee: 'Programme'
     },
-    'Vukosi Marivate':
-    {
-        imagePath: './assets/organiser_data/Vukosi_Marivate/image.jpg',
-        linkInfoPath: './assets/organiser_data/Vukosi_Marivate/link.txt',
-        link: 'http://vima.co.za/',
-        committee: 'Local Host'
-    },
     'Chris Fourie':
     {
         imagePath: './assets/organiser_data/chris_fourie/image.jpg',
@@ -228,6 +221,9 @@ ORGANIZERS = {
     },
     'Siobhan Hall': {
 			imagePath: './assets/organiser_data/Siobhan_Hall/image.jpg'
+    },
+    'Jeanne Daniel': {
+			imagePath: './assets/organiser_data/Jeanne_Daniel/image.jpg'
     }
 };
 
