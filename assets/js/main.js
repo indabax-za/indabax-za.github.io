@@ -208,43 +208,22 @@ ORGANIZERS = {
         imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
         committee: 'Programme'
     },
-    'Naomi Molefe':
-    {
-        imagePath: './assets/organiser_data/naomi_molefe/image.PNG',
-        committee: 'Hackathon'
-    },
-    'Vongani Maluleke':
-    {
-        imagePath: './assets/organiser_data/Vongani_Maluleke/image.jpg',
-        linkInfoPath: './assets/organiser_data/Vongani_Maluleke/link.txt',
-        link: 'https://linkedin.com/in/vongani-hlavutelo-maluleke-3a848787',
-        committee: 'Programme'
-    },
-    'Vukosi Marivate':
-    {
-        imagePath: './assets/organiser_data/Vukosi_Marivate/image.jpg',
-        linkInfoPath: './assets/organiser_data/Vukosi_Marivate/link.txt',
-        link: 'http://vima.co.za/',
-        committee: 'Local Host'
-    },
-    'Windy Mokuwe':
-    {
-        imagePath: './assets/organiser_data/Windy_Mokuwe/image.jpg',
-        committee: 'Social events'
-    },
-    'Raesetje Sefala':
-    {
-        imagePath: './assets/organiser_data/raesetje_sefala/image.jpg',
-        linkInfoPath: './assets/organiser_data/raesetje_sefala/link.txt',
-        link: 'https://sefalab.github.io/',
-        committee: 'Marketing'
-    },
     'Chris Fourie':
     {
         imagePath: './assets/organiser_data/chris_fourie/image.jpg',
         linkInfoPath: './assets/organiser_data/chris_fourie/link.txt',
         link: 'https://www.chrisfourie.africa/',
         committee: 'Sponsors'
+    },
+    'Sicelukwanda Zwane': {
+			imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg',
+      link: 'https://www.linkedin.com/in/sicelukwanda-zwane-54873398'
+    },
+    'Siobhan Hall': {
+			imagePath: './assets/organiser_data/Siobhan_Hall/image.jpg'
+    },
+    'Jeanne Daniel': {
+			imagePath: './assets/organiser_data/Jeanne_Daniel/image.jpg'
     }
 };
 
@@ -874,7 +853,7 @@ function populatePanel(panellists) {
   }
 
 //populateSponsors(SPONSORS);
-populateSpeakerInfo(INFO);
+//populateSpeakerInfo(INFO);
 //populatePanel(PANEL);
 populateOrganizers(ORGANIZERS);
 
