@@ -227,6 +227,25 @@ ORGANIZERS = {
     }
 };
 
+
+
+HOSTS = {
+    'NRF':
+    {
+        imagePath: './assets/images/sponsors/nrf_ac_za.png',
+        GroupName: 'NRF',
+        link: 'http://www.nrf.ac.za'
+        
+    },
+    'NRF1':
+    {
+        imagePath: './assets/images/sponsors/nrf_ac_za.png',
+        GroupName: 'NRF',
+        link: 'http://www.nrf.ac.za'
+    }
+};
+
+
 SPONSORS = [
     [ './assets/images/sponsors/nrf_ac_za.png',
         'http://www.nrf.ac.za', 'National Research Foundation' ],
@@ -701,6 +720,59 @@ function shuffle(array) {
     return array;
 }
 
+function populateHosts(hosts) {
+  var $row_div = $("<div />").addClass("row");
+  var count = 1;
+
+  for(host_key of Object.keys(hosts)) {
+    $hostSection = $(".roadshow_host .container");
+
+    $slot = $("<div />").addClass("col-md-3 col-xs-6")
+    .append(
+      $("<div />").addClass("host")
+      .append(
+        $("<figure />")
+        .append(
+          $("<a />").attr({
+            "href": hosts[host_key].link,
+            "target": "_blank"
+          })
+          .append(
+            $("<img />").attr({
+              "src": hosts[host_key].imagePath,
+              "width": "80%",
+              "top": "50%"
+            })
+            .attr({
+              "data-toggle": "tooltip",
+              "title": hosts[host_key].link  //.GroupName
+            })
+          ) // append to a
+        ) // append to figure
+        .append(
+          $("<div />")
+          .addClass("col-xs-12")
+          .append(
+              $("<h4 align='center'/>").text(host_key)
+          ) // heading div
+        ) // append to figure
+      )
+    );
+
+    $row_div.append($slot);
+
+    if(count % 4 == 0) {
+        $hostSection.append($row_div);
+        $row_div = $("<div />").addClass("row");
+    }
+    count++;
+
+  }
+
+  $hostSection.append($row_div);
+
+}
+
 function populateOrganizers(organizers) {
   var $row_div = $("<div />").addClass("row");
   var count = 1;
@@ -855,5 +927,6 @@ function populatePanel(panellists) {
 //populateSponsors(SPONSORS);
 //populateSpeakerInfo(INFO);
 //populatePanel(PANEL);
+populateHosts(HOSTS);
 populateOrganizers(ORGANIZERS);
 
