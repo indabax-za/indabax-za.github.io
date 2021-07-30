@@ -554,6 +554,9 @@ function shuffle(array) {
 }
 
 function populateHosts(hosts) {
+  if(Object.keys(hosts).length==0) 
+    return;
+
   var $row_div = $("<div />").addClass("row");
   var count = 1;
 
