@@ -1,4 +1,43 @@
-CATEGORY_TO_ICON = {
+import GSheetProcessor from './Sheets_package/gsheetsprocessor.js';
+
+function cvtTabledataToDictionary(table_data,key_name)
+{
+  var dictionary_version={};
+  for (let i = 0; i < table_data.length; i++) {
+    var row=table_data[i]
+    var key=row[key_name]
+    delete row[key_name]
+    dictionary_version[key]=row;
+  }
+  return dictionary_version;
+}
+
+
+let HostSheet_data= await GSheetProcessor(
+  {
+    sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
+    sheetNumber: 1,
+    returnAllResults: true
+  },
+  results=>{
+    return results;
+  },
+  error => {console.log('error from sheets API', error); }
+);
+
+let organizersSheet_data= await GSheetProcessor(
+  {
+    sheetId: '1cb2mUDwpOJCu2hwmGt__Ka7u8bDrh6K2eOc2blI248s',
+    sheetNumber: 1,
+    returnAllResults: true
+  },
+  results=>{return results;},
+  error => {console.log('error from sheets API', error); }
+);
+organizersSheet_data=cvtTabledataToDictionary(organizersSheet_data,"Name");
+
+
+let  CATEGORY_TO_ICON = {
     'Research': "book",
     "Foundations": "hammer",
     "Applied": "bowtie",
@@ -16,9 +55,7 @@ CATEGORY_TO_ICON = {
 //         slidesLink: "https://drive.google.com/open?id=1pq26AyxWOlUcA8M3p7Z1oOUHTEiO-Z_b"
 //     },
 
-INFO = 
-
-{
+let  INFO = {
     'Prof. Benjamin Rosman': {
       imagePath: './assets/speaker_data/benjamin_rosman/image.jpg',
       category: 'Research',
@@ -155,7 +192,7 @@ INFO =
 
 ;
 
-PANEL = {
+let  PANEL = {
     'Prof. Tshilidzi Marwala':
      { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg'},
      'Dr. Justine Nasejje':
@@ -174,9 +211,15 @@ PANEL = {
     {imagePath: './assets/organiser_data/christopher_currin/image.jpg'},
 };
 
-KEYNOTE = "";
+let  KEYNOTE = "";
 
-ORGANIZERS = {
+
+
+
+var ORGANIZERS = organizersSheet_data
+
+/*
+{
     'Maria Schuld':
     {
         imagePath: './assets/organiser_data/maria_schuld/image.jpg',
@@ -226,10 +269,12 @@ ORGANIZERS = {
 			imagePath: './assets/organiser_data/Jeanne_Daniel/image.jpg'
     }
 };
+console.log( ORGANIZERS);
+*/
 
 
 
-HOSTS = {
+let  HOSTS = {
     'NRF':
     {
         imagePath: './assets/images/sponsors/nrf_ac_za.png',
@@ -246,7 +291,7 @@ HOSTS = {
 };
 
 
-SPONSORS = [
+let  SPONSORS = [
     [ './assets/images/sponsors/nrf_ac_za.png',
         'http://www.nrf.ac.za', 'National Research Foundation' ],
 ];
@@ -258,7 +303,7 @@ $(window).scroll(function(){
     handleTopNavAnimation();
 });
 
-$(window).load(function(){
+$(window).on('load',function(){
     handleTopNavAnimation();
 });
 
@@ -301,7 +346,7 @@ function populateSpeakerInfo(info) {
         speakers.unshift(keynote);
     } */
 
-    for(speaker of speakers) {
+    for(var speaker of speakers) {
         if(info[speaker].imagePath == null || speaker.toUpperCase() == "MORE SPEAKERS TBC") {
           continue;
         }
@@ -520,7 +565,7 @@ function populateSponsors(sponsors) {
     var count = 0;
     var $logosDiv = $("#sponsors div.container div.logos");
 
-    for(i in sponsors) {
+    for(var i in sponsors) {
         var sponsor = sponsors[i];
 
         if(count % 4 == 0) {
@@ -575,7 +620,7 @@ $.extend($.expr[':'], {
 function populatePanelSpeakers(panel, info) {
   $scheduleSection = $(".schedule .tab-content");
 
-  for(i in panel) {
+  for(var i in panel) {
     var speaker = panel[i];
     var id = "-" + speaker.toLowerCase().replace(".", "").split(" ").join("-");
 
@@ -724,10 +769,10 @@ function populateHosts(hosts) {
   var $row_div = $("<div />").addClass("row");
   var count = 1;
 
-  for(host_key of Object.keys(hosts)) {
-    $hostSection = $(".roadshow_host .container");
+  for(var host_key of Object.keys(hosts)) {
+    var $hostSection = $(".roadshow_host .container");
 
-    $slot = $("<div />").addClass("col-md-3 col-xs-6")
+    var $slot = $("<div />").addClass("col-md-3 col-xs-6")
     .append(
       $("<div />").addClass("host")
       .append(
@@ -776,11 +821,10 @@ function populateHosts(hosts) {
 function populateOrganizers(organizers) {
   var $row_div = $("<div />").addClass("row");
   var count = 1;
+  for(var speaker of shuffle(Object.keys(organizers))) {
+    var $organizerSection = $(".team .container");
 
-  for(speaker of shuffle(Object.keys(organizers))) {
-    $organizerSection = $(".team .container");
-
-    $slot = $("<div />").addClass("col-md-3 col-xs-6")
+    var $slot = $("<div />").addClass("col-md-3 col-xs-6")
     .append(
       $("<div />").addClass("speaker").addClass("organizer")
       .append(
@@ -873,9 +917,9 @@ function populatePanel(panellists) {
     var count = 1;
 
     for(panellist of shuffle(Object.keys(panellists))) {
-      $organizerSection = $(".panel.container");
+      var $organizerSection = $(".panel.container");
 
-      $slot = $("<div />").addClass("col-md-3 col-xs-6")
+      var $slot = $("<div />").addClass("col-md-3 col-xs-6")
       .append(
         $("<div />").addClass("speaker").addClass("panellist")
         .append(
@@ -924,9 +968,11 @@ function populatePanel(panellists) {
 
   }
 
+
 //populateSponsors(SPONSORS);
 //populateSpeakerInfo(INFO);
 //populatePanel(PANEL);
 populateHosts(HOSTS);
 populateOrganizers(ORGANIZERS);
+
 
