@@ -31,7 +31,7 @@ let hostSheet_data= await GSheetProcessor(
   error => {console.log('error from sheets API', error); }
 );
 hostSheet_data=cvtTabledataToDictionary(hostSheet_data,"GroupName");
-console.log( hostSheet_data);
+//console.log( hostSheet_data);
 
 
 let organizersSheet_data= await GSheetProcessor(
