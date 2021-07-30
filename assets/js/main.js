@@ -1,233 +1,85 @@
-CATEGORY_TO_ICON = {
+import GSheetProcessor from './Sheets_package/gsheetsprocessor.js';
+
+function cvtTabledataToDictionary(table_data,key_name)
+{
+  var dictionary_version={};
+  for (let i = 0; i < table_data.length; i++) {
+    var row=table_data[i]
+    var key=row[key_name]
+    delete row[key_name]
+    dictionary_version[key]=row;
+  }
+  return dictionary_version;
+}
+
+/*
+In order to use a new sheet in the google drive.
+1: Under "File" select "Publish to the web"
+2: Make sure you check "automatically republish when changes are made"
+3: The sheetid is the one from the sheet url not the publish link you are given if steps 1-2
+4: The cvtTabledataToDictionary is their to convert the table data to conform to the 
+*/
+let hostSheet_data= await GSheetProcessor(
+  {
+    sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
+    sheetNumber: 1,
+    returnAllResults: true
+  },
+  results=>{
+    return results;
+  },
+  error => {console.log('error from sheets API', error); }
+);
+hostSheet_data=cvtTabledataToDictionary(hostSheet_data,"GroupName");
+console.log( hostSheet_data);
+
+
+let organizersSheet_data= await GSheetProcessor(
+  {
+    sheetId: '1cb2mUDwpOJCu2hwmGt__Ka7u8bDrh6K2eOc2blI248s',
+    sheetNumber: 1,
+    returnAllResults: true
+  },
+  results=>{return results;},
+  error => {console.log('error from sheets API', error); }
+);
+organizersSheet_data=cvtTabledataToDictionary(organizersSheet_data,"Name");
+
+
+let  CATEGORY_TO_ICON = {
     'Research': "book",
     "Foundations": "hammer",
     "Applied": "bowtie",
     "Keynote": "key"
 };
 
-// Format
-// 'Speaker Name': { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
-//         lectureHeading: 'Community development as an Avenue to Career Growth',
-//         category: 'Industry/Ethics/Policy',
-//         affiliation: 'Cortex Logic / MIIA',
-//         abstract: '',
-//         bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey.",
-//         vidLink: "https://www.youtube.com/embed/QH4IpE44NYc",
-//         slidesLink: "https://drive.google.com/open?id=1pq26AyxWOlUcA8M3p7Z1oOUHTEiO-Z_b"
-//     },
+let  PANEL = {};
 
-INFO = 
+let  KEYNOTE = "";
 
-{
-    'Prof. Benjamin Rosman': {
-      imagePath: './assets/speaker_data/benjamin_rosman/image.jpg',
-      category: 'Research',
-      lectureHeading: 'Reinforcement Learning',
-      affiliation: 'University of the Witwatersrand\n'
+var ORGANIZERS = organizersSheet_data
+
+
+// Replace with let  HOSTS=hostSheet_data once the google sheet its is populated
+let  HOSTS = {};
+/*{
+    'NRF':
+    {
+        imagePath: './assets/images/sponsors/nrf_ac_za.png',
+        GroupName: 'NRF',
+        link: 'http://www.nrf.ac.za'
+        
     },
-    'John Kamara': {
-      imagePath: './assets/speaker_data/john_kamara/image.jpg',
-      categoryInfoPath: './assets/speaker_data/john_kamara/category.txt',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
-      affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA\n'
-    },
-    'Dr. Herman Kamper': {
-      imagePath: './assets/speaker_data/herman_kamper/image.jpg',
-      categoryInfoPath: './assets/speaker_data/herman_kamper/category.txt',
-      affiliation: 'University of Stellenbosch\n',
-      category: 'Foundations'
-    },
-    'Dr. Katherine Malan': {
-      imagePath: './assets/speaker_data/katherine_malan/image.jpg',
-      categoryInfoPath: './assets/speaker_data/katherine_malan/category.txt',
-      lectureHeading: 'Introduction to ML\n',
-      affiliation: 'University of South Africa (UNISA)\n',
-      category: 'Foundations'
-    },
-    'Kshitij Thorat': {
-      imagePath: './assets/speaker_data/kshitij_thorat/image.jpg',
-      categoryInfoPath: './assets/speaker_data/kshitij_thorat/category.txt',
-      lectureHeading: 'Machine Learning for Astronomy\n'
-    },
-    'Marcel Atemkeng': {
-      imagePath: './assets/speaker_data/marcel_atemkeng/image.jpeg',
-      categoryInfoPath: './assets/speaker_data/marcel_atemkeng/category.txt',
-      affiliation: 'Rhodes University\n',
-      category: 'Applied'
-    },
-    'Merelda Wu': {
-      imagePath: './assets/speaker_data/merelda_wu/image.jpg',
-      lectureHeading: 'Machine Learning in Production\n',
-      category: 'Applied',
-      categoryInfoPath: './assets/speaker_data/merelda_wu/category.txt',
-      affiliation: 'Melio Consulting\n'
-    },
-    'Dr. Nico Wilke': {
-      imagePath: './assets/speaker_data/nico_wilke/image.png',
-      category: 'Research',
-      categoryInfoPath: './assets/speaker_data/nico_wilke/category.txt',
-      lectureHeading: 'Gradient-Only Optimization\n',
-      affiliation: 'University of Pretoria\n'
-    },
-    'Dr. Quentin Williams': {
-      imagePath: './assets/speaker_data/quentin_williams/image.jpg',
-      categoryInfoPath: './assets/speaker_data/quentin_williams/category.txt',
-      category: 'Applied\n',
-      affiliationInfoPath: './assets/speaker_data/quentin_williams/affiliation.txt',
-      affiliation: 'Deloitte\n'
-    },
-    'Dr. Ronald Clark': {
-      imagePath: './assets/speaker_data/ronald_clark/image.jpg',
-      lectureHeading: '3D Vision',
-      category: 'Keynote',
-      affiliation: 'Imperial College London\n'
-    },
-    'Dr. Vukosi Marivate': {
-      imagePath: './assets/speaker_data/vukosi_marivate/image.jpg',
-      categoryInfoPath: './assets/speaker_data/vukosi_marivate/category.txt',
-      category: 'NLP or Data Science + Society\n',
-      affiliationInfoPath: './assets/speaker_data/vukosi_marivate/affiliation.txt',
-      affiliation: 'University of the Pretoria\n'
-    },
-    'Dr. Sonali Parbhoo': {
-			imagePath: './assets/speaker_data/sonali_parbhoo/image.jpg',
-      categoryInfoPath: './assets/speaker_data/sonali_parbhoo/category.txt',
-      category: 'Research',
-      affiliationInfoPath: './assets/speaker_data/sonali_parbhoo/affiliation.txt',
-      affiliation: 'Harvard University\n'
-    },
-    'Dr. Malvin Nkomo': {
-			imagePath: './assets/speaker_data/malvin_nkomo/image.png',
-      categoryInfoPath: './assets/speaker_data/malvin_nkomo/category.txt',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/malvin_nkomo/affiliation.txt',
-      affiliation: 'Hailer Technologies\n'
-    },
-    'Dario Fanucci': {
-			imagePath: './assets/speaker_data/dario_fanucci/image.jpg',
-      categoryInfoPath: './assets/speaker_data/dario_fanucci/category.txt',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/dario_fanucci/affiliation.txt',
-      affiliation: 'Isazi Consulting\n'
-    },
-    'Sicelukwanda Zwane': {
-			imagePath: './assets/speaker_data/sicelukwanda_zwane/image.jpg',
-      categoryInfoPath: './assets/speaker_data/sicelukwanda_zwane/category.txt',
-      category: 'Foundations',
-      affiliationInfoPath: './assets/speaker_data/sicelukwanda_zwane/affiliation.txt',
-      affiliation: 'EXPLORE Data Science Academy\n'
-    },
-    'Jason Webster': {
-			imagePath: './assets/speaker_data/jason_webster/image.png',
-      categoryInfoPath: './assets/speaker_data/jason_webste/category.txt',
-      category: 'Foundations',
-      affiliationInfoPath: './assets/speaker_data/jason_webster/affiliation.txt',
-      affiliation: 'EXPLORE Data Science Academy\n'
-    },
-    'Chris Cleghorn': {
-      imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
-      category: 'Foundations',
-      affiliationInfoPath: './assets/speaker_data/chris_cleghorn/affiliation.txt',
-      affiliation: 'University of Pretoria\n'
-    },
-    'Shakir Mohamend': {
-      imagePath: './assets/speaker_data/shakir_mohamed/image.jpg',
-      category: 'Keynote',
-      affiliationInfoPath: './assets/speaker_data/shakir_mohamed/affiliation.txt',
-      affiliation: 'DeepMind\n'
-    },
-    'Emma Ruttkamp-Bloem': {
-      imagePath: './assets/speaker_data/emma_ruttkamp-bloem/image.jpg',
-      category: 'Keynote',
-      affiliationInfoPath: './assets/speaker_data/emma_ruttkamp-bloem/affiliation.txt',
-      affiliation: 'University of Pretoria\n'
-    },
-    'Charl Muller': {
-      imagePath: './assets/speaker_data/charl_muller/image.jpg',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/charl_muller/affiliation.txt',
-      affiliation: 'Standard Bank\n'
+    'NRF1':
+    {
+        imagePath: './assets/images/sponsors/nrf_ac_za.png',
+        GroupName: 'NRF',
+        link: 'http://www.nrf.ac.za'
     }
+};*/
 
-  }
-  
 
-;
-
-PANEL = {
-    'Prof. Tshilidzi Marwala':
-     { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg'},
-     'Dr. Justine Nasejje':
-     { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg'},
-    'Pelonomi Moiloa':
-    { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg'},
-    'Sicelukwanda Zwane':
-    { imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg'},
-    'Dr. Benjamin Rosman':
-    { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg'},
-    'Jade Abbott':
-    { imagePath: './assets/speaker_data/jade_abbott/image.jpg'},
-    'Prof. Francesco Petruccione':
-    {imagePath: './assets/organiser_data/francesco_petruccione/image.jpg'},
-    'Christopher Currin':
-    {imagePath: './assets/organiser_data/christopher_currin/image.jpg'},
-};
-
-KEYNOTE = "";
-
-ORGANIZERS = {
-    'Maria Schuld':
-    {
-        imagePath: './assets/organiser_data/maria_schuld/image.jpg',
-        committee: 'Budget'
-    },
-    'Anna Bosman':
-    {
-        imagePath: './assets/organiser_data/anna_bosman/image.jpg',
-        linkInfoPath: './assets/organiser_data/anna_bosman/link.txt',
-        link: 'https://annabosman.github.io/',
-        committee: 'Local organiser'
-    },
-    'Christopher Currin':
-    {
-        imagePath: './assets/organiser_data/christopher_currin/image.jpg',
-        linkInfoPath: './assets/organiser_data/christopher_currin/link.txt',
-        link: 'https://chriscurrin.github.io/',
-        committee: 'Sponsors'
-    },
-    'Avashlin Moodley':
-    {
-        imagePath: './assets/organiser_data/avashlin_moodley/image.jpg',
-        linkInfoPath: './assets/organiser_data/avashlin_moodley/link.txt',
-        link: 'https://www.linkedin.com/in/avashlinmoodley/',
-        committee: 'Marketing'
-    },
-    'Chris Cleghorn':
-    {
-        imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
-        committee: 'Programme'
-    },
-    'Chris Fourie':
-    {
-        imagePath: './assets/organiser_data/chris_fourie/image.jpg',
-        linkInfoPath: './assets/organiser_data/chris_fourie/link.txt',
-        link: 'https://www.chrisfourie.africa/',
-        committee: 'Sponsors'
-    },
-    'Sicelukwanda Zwane': {
-			imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg',
-      link: 'https://www.linkedin.com/in/sicelukwanda-zwane-54873398'
-    },
-    'Siobhan Hall': {
-			imagePath: './assets/organiser_data/Siobhan_Hall/image.jpg'
-    },
-    'Jeanne Daniel': {
-			imagePath: './assets/organiser_data/Jeanne_Daniel/image.jpg'
-    }
-};
-
-SPONSORS = [
+let  SPONSORS = [
     [ './assets/images/sponsors/nrf_ac_za.png',
         'http://www.nrf.ac.za', 'National Research Foundation' ],
 ];
@@ -239,7 +91,7 @@ $(window).scroll(function(){
     handleTopNavAnimation();
 });
 
-$(window).load(function(){
+$(window).on('load',function(){
     handleTopNavAnimation();
 });
 
@@ -282,7 +134,7 @@ function populateSpeakerInfo(info) {
         speakers.unshift(keynote);
     } */
 
-    for(speaker of speakers) {
+    for(var speaker of speakers) {
         if(info[speaker].imagePath == null || speaker.toUpperCase() == "MORE SPEAKERS TBC") {
           continue;
         }
@@ -501,7 +353,7 @@ function populateSponsors(sponsors) {
     var count = 0;
     var $logosDiv = $("#sponsors div.container div.logos");
 
-    for(i in sponsors) {
+    for(var i in sponsors) {
         var sponsor = sponsors[i];
 
         if(count % 4 == 0) {
@@ -556,7 +408,7 @@ $.extend($.expr[':'], {
 function populatePanelSpeakers(panel, info) {
   $scheduleSection = $(".schedule .tab-content");
 
-  for(i in panel) {
+  for(var i in panel) {
     var speaker = panel[i];
     var id = "-" + speaker.toLowerCase().replace(".", "").split(" ").join("-");
 
@@ -701,14 +553,69 @@ function shuffle(array) {
     return array;
 }
 
-function populateOrganizers(organizers) {
+function populateHosts(hosts) {
+  if(Object.keys(hosts).length==0) 
+    return;
+
   var $row_div = $("<div />").addClass("row");
   var count = 1;
 
-  for(speaker of shuffle(Object.keys(organizers))) {
-    $organizerSection = $(".team .container");
+  for(var host_key of Object.keys(hosts)) {
+    var $hostSection = $(".roadshow_host .container");
 
-    $slot = $("<div />").addClass("col-md-3 col-xs-6")
+    var $slot = $("<div />").addClass("col-md-3 col-xs-6")
+    .append(
+      $("<div />").addClass("host")
+      .append(
+        $("<figure />")
+        .append(
+          $("<a />").attr({
+            "href": hosts[host_key].link,
+            "target": "_blank"
+          })
+          .append(
+            $("<img />").attr({
+              "src": hosts[host_key].imagePath,
+              "width": "80%",
+              "top": "50%"
+            })
+            .attr({
+              "data-toggle": "tooltip",
+              "title": hosts[host_key].link  //.GroupName
+            })
+          ) // append to a
+        ) // append to figure
+        .append(
+          $("<div />")
+          .addClass("col-xs-12")
+          .append(
+              $("<h4 align='center'/>").text(host_key)
+          ) // heading div
+        ) // append to figure
+      )
+    );
+
+    $row_div.append($slot);
+
+    if(count % 4 == 0) {
+        $hostSection.append($row_div);
+        $row_div = $("<div />").addClass("row");
+    }
+    count++;
+
+  }
+
+  $hostSection.append($row_div);
+
+}
+
+function populateOrganizers(organizers) {
+  var $row_div = $("<div />").addClass("row");
+  var count = 1;
+  for(var speaker of shuffle(Object.keys(organizers))) {
+    var $organizerSection = $(".team .container");
+
+    var $slot = $("<div />").addClass("col-md-3 col-xs-6")
     .append(
       $("<div />").addClass("speaker").addClass("organizer")
       .append(
@@ -801,9 +708,9 @@ function populatePanel(panellists) {
     var count = 1;
 
     for(panellist of shuffle(Object.keys(panellists))) {
-      $organizerSection = $(".panel.container");
+      var $organizerSection = $(".panel.container");
 
-      $slot = $("<div />").addClass("col-md-3 col-xs-6")
+      var $slot = $("<div />").addClass("col-md-3 col-xs-6")
       .append(
         $("<div />").addClass("speaker").addClass("panellist")
         .append(
@@ -852,8 +759,11 @@ function populatePanel(panellists) {
 
   }
 
+
 //populateSponsors(SPONSORS);
 //populateSpeakerInfo(INFO);
 //populatePanel(PANEL);
+populateHosts(HOSTS);
 populateOrganizers(ORGANIZERS);
+
 
