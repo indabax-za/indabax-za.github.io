@@ -12,8 +12,14 @@ function cvtTabledataToDictionary(table_data,key_name)
   return dictionary_version;
 }
 
-
-let HostSheet_data= await GSheetProcessor(
+/*
+In order to use a new sheet in the google drive.
+1: Under "File" select "Publish to the web"
+2: Make sure you check "automatically republish when changes are made"
+3: The sheetid is the one from the sheet url not the publish link you are given if steps 1-2
+4: The cvtTabledataToDictionary is their to convert the table data to conform to the 
+*/
+let hostSheet_data= await GSheetProcessor(
   {
     sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
     sheetNumber: 1,
@@ -24,6 +30,9 @@ let HostSheet_data= await GSheetProcessor(
   },
   error => {console.log('error from sheets API', error); }
 );
+hostSheet_data=cvtTabledataToDictionary(hostSheet_data,"GroupName");
+console.log( hostSheet_data);
+
 
 let organizersSheet_data= await GSheetProcessor(
   {
@@ -44,237 +53,16 @@ let  CATEGORY_TO_ICON = {
     "Keynote": "key"
 };
 
-// Format
-// 'Speaker Name': { imagePath: './assets/speaker_data/dr._nick_bradshaw/image.jpg',
-//         lectureHeading: 'Community development as an Avenue to Career Growth',
-//         category: 'Industry/Ethics/Policy',
-//         affiliation: 'Cortex Logic / MIIA',
-//         abstract: '',
-//         bio: "South African based Entrepreneur helping clients understand the value of Artificial Intelligence [AI] powered technologies. 20+ years experience in complex software & digital collaboration tooling sector. Launched Africa's largest business focused AI community [AI Expo Africa] and Africa's first AI & Data Science Magazine [Synapse], helping chart Africa's IR4.0 journey.",
-//         vidLink: "https://www.youtube.com/embed/QH4IpE44NYc",
-//         slidesLink: "https://drive.google.com/open?id=1pq26AyxWOlUcA8M3p7Z1oOUHTEiO-Z_b"
-//     },
-
-let  INFO = {
-    'Prof. Benjamin Rosman': {
-      imagePath: './assets/speaker_data/benjamin_rosman/image.jpg',
-      category: 'Research',
-      lectureHeading: 'Reinforcement Learning',
-      affiliation: 'University of the Witwatersrand\n'
-    },
-    'John Kamara': {
-      imagePath: './assets/speaker_data/john_kamara/image.jpg',
-      categoryInfoPath: './assets/speaker_data/john_kamara/category.txt',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/john_kamara/affiliation.txt',
-      affiliation: 'Global Gaming Africa, NM-AIST Arusha, MIIA\n'
-    },
-    'Dr. Herman Kamper': {
-      imagePath: './assets/speaker_data/herman_kamper/image.jpg',
-      categoryInfoPath: './assets/speaker_data/herman_kamper/category.txt',
-      affiliation: 'University of Stellenbosch\n',
-      category: 'Foundations'
-    },
-    'Dr. Katherine Malan': {
-      imagePath: './assets/speaker_data/katherine_malan/image.jpg',
-      categoryInfoPath: './assets/speaker_data/katherine_malan/category.txt',
-      lectureHeading: 'Introduction to ML\n',
-      affiliation: 'University of South Africa (UNISA)\n',
-      category: 'Foundations'
-    },
-    'Kshitij Thorat': {
-      imagePath: './assets/speaker_data/kshitij_thorat/image.jpg',
-      categoryInfoPath: './assets/speaker_data/kshitij_thorat/category.txt',
-      lectureHeading: 'Machine Learning for Astronomy\n'
-    },
-    'Marcel Atemkeng': {
-      imagePath: './assets/speaker_data/marcel_atemkeng/image.jpeg',
-      categoryInfoPath: './assets/speaker_data/marcel_atemkeng/category.txt',
-      affiliation: 'Rhodes University\n',
-      category: 'Applied'
-    },
-    'Merelda Wu': {
-      imagePath: './assets/speaker_data/merelda_wu/image.jpg',
-      lectureHeading: 'Machine Learning in Production\n',
-      category: 'Applied',
-      categoryInfoPath: './assets/speaker_data/merelda_wu/category.txt',
-      affiliation: 'Melio Consulting\n'
-    },
-    'Dr. Nico Wilke': {
-      imagePath: './assets/speaker_data/nico_wilke/image.png',
-      category: 'Research',
-      categoryInfoPath: './assets/speaker_data/nico_wilke/category.txt',
-      lectureHeading: 'Gradient-Only Optimization\n',
-      affiliation: 'University of Pretoria\n'
-    },
-    'Dr. Quentin Williams': {
-      imagePath: './assets/speaker_data/quentin_williams/image.jpg',
-      categoryInfoPath: './assets/speaker_data/quentin_williams/category.txt',
-      category: 'Applied\n',
-      affiliationInfoPath: './assets/speaker_data/quentin_williams/affiliation.txt',
-      affiliation: 'Deloitte\n'
-    },
-    'Dr. Ronald Clark': {
-      imagePath: './assets/speaker_data/ronald_clark/image.jpg',
-      lectureHeading: '3D Vision',
-      category: 'Keynote',
-      affiliation: 'Imperial College London\n'
-    },
-    'Dr. Vukosi Marivate': {
-      imagePath: './assets/speaker_data/vukosi_marivate/image.jpg',
-      categoryInfoPath: './assets/speaker_data/vukosi_marivate/category.txt',
-      category: 'NLP or Data Science + Society\n',
-      affiliationInfoPath: './assets/speaker_data/vukosi_marivate/affiliation.txt',
-      affiliation: 'University of the Pretoria\n'
-    },
-    'Dr. Sonali Parbhoo': {
-			imagePath: './assets/speaker_data/sonali_parbhoo/image.jpg',
-      categoryInfoPath: './assets/speaker_data/sonali_parbhoo/category.txt',
-      category: 'Research',
-      affiliationInfoPath: './assets/speaker_data/sonali_parbhoo/affiliation.txt',
-      affiliation: 'Harvard University\n'
-    },
-    'Dr. Malvin Nkomo': {
-			imagePath: './assets/speaker_data/malvin_nkomo/image.png',
-      categoryInfoPath: './assets/speaker_data/malvin_nkomo/category.txt',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/malvin_nkomo/affiliation.txt',
-      affiliation: 'Hailer Technologies\n'
-    },
-    'Dario Fanucci': {
-			imagePath: './assets/speaker_data/dario_fanucci/image.jpg',
-      categoryInfoPath: './assets/speaker_data/dario_fanucci/category.txt',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/dario_fanucci/affiliation.txt',
-      affiliation: 'Isazi Consulting\n'
-    },
-    'Sicelukwanda Zwane': {
-			imagePath: './assets/speaker_data/sicelukwanda_zwane/image.jpg',
-      categoryInfoPath: './assets/speaker_data/sicelukwanda_zwane/category.txt',
-      category: 'Foundations',
-      affiliationInfoPath: './assets/speaker_data/sicelukwanda_zwane/affiliation.txt',
-      affiliation: 'EXPLORE Data Science Academy\n'
-    },
-    'Jason Webster': {
-			imagePath: './assets/speaker_data/jason_webster/image.png',
-      categoryInfoPath: './assets/speaker_data/jason_webste/category.txt',
-      category: 'Foundations',
-      affiliationInfoPath: './assets/speaker_data/jason_webster/affiliation.txt',
-      affiliation: 'EXPLORE Data Science Academy\n'
-    },
-    'Chris Cleghorn': {
-      imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
-      category: 'Foundations',
-      affiliationInfoPath: './assets/speaker_data/chris_cleghorn/affiliation.txt',
-      affiliation: 'University of Pretoria\n'
-    },
-    'Shakir Mohamend': {
-      imagePath: './assets/speaker_data/shakir_mohamed/image.jpg',
-      category: 'Keynote',
-      affiliationInfoPath: './assets/speaker_data/shakir_mohamed/affiliation.txt',
-      affiliation: 'DeepMind\n'
-    },
-    'Emma Ruttkamp-Bloem': {
-      imagePath: './assets/speaker_data/emma_ruttkamp-bloem/image.jpg',
-      category: 'Keynote',
-      affiliationInfoPath: './assets/speaker_data/emma_ruttkamp-bloem/affiliation.txt',
-      affiliation: 'University of Pretoria\n'
-    },
-    'Charl Muller': {
-      imagePath: './assets/speaker_data/charl_muller/image.jpg',
-      category: 'Applied',
-      affiliationInfoPath: './assets/speaker_data/charl_muller/affiliation.txt',
-      affiliation: 'Standard Bank\n'
-    }
-
-  }
-  
-
-;
-
-let  PANEL = {
-    'Prof. Tshilidzi Marwala':
-     { imagePath: './assets/speaker_data/prof._tshilidzi_marwala/image.jpg'},
-     'Dr. Justine Nasejje':
-     { imagePath: './assets/speaker_data/dr._justine_nasejje/image.jpg'},
-    'Pelonomi Moiloa':
-    { imagePath: './assets/speaker_data/pelonomi_moiloa/image.jpg'},
-    'Sicelukwanda Zwane':
-    { imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg'},
-    'Dr. Benjamin Rosman':
-    { imagePath: './assets/speaker_data/dr._benjamin_rosman/image.jpg'},
-    'Jade Abbott':
-    { imagePath: './assets/speaker_data/jade_abbott/image.jpg'},
-    'Prof. Francesco Petruccione':
-    {imagePath: './assets/organiser_data/francesco_petruccione/image.jpg'},
-    'Christopher Currin':
-    {imagePath: './assets/organiser_data/christopher_currin/image.jpg'},
-};
+let  PANEL = {};
 
 let  KEYNOTE = "";
 
-
-
-
 var ORGANIZERS = organizersSheet_data
 
-/*
-{
-    'Maria Schuld':
-    {
-        imagePath: './assets/organiser_data/maria_schuld/image.jpg',
-        committee: 'Budget'
-    },
-    'Anna Bosman':
-    {
-        imagePath: './assets/organiser_data/anna_bosman/image.jpg',
-        linkInfoPath: './assets/organiser_data/anna_bosman/link.txt',
-        link: 'https://annabosman.github.io/',
-        committee: 'Local organiser'
-    },
-    'Christopher Currin':
-    {
-        imagePath: './assets/organiser_data/christopher_currin/image.jpg',
-        linkInfoPath: './assets/organiser_data/christopher_currin/link.txt',
-        link: 'https://chriscurrin.github.io/',
-        committee: 'Sponsors'
-    },
-    'Avashlin Moodley':
-    {
-        imagePath: './assets/organiser_data/avashlin_moodley/image.jpg',
-        linkInfoPath: './assets/organiser_data/avashlin_moodley/link.txt',
-        link: 'https://www.linkedin.com/in/avashlinmoodley/',
-        committee: 'Marketing'
-    },
-    'Chris Cleghorn':
-    {
-        imagePath: './assets/organiser_data/chris_cleghorn/image.jpg',
-        committee: 'Programme'
-    },
-    'Chris Fourie':
-    {
-        imagePath: './assets/organiser_data/chris_fourie/image.jpg',
-        linkInfoPath: './assets/organiser_data/chris_fourie/link.txt',
-        link: 'https://www.chrisfourie.africa/',
-        committee: 'Sponsors'
-    },
-    'Sicelukwanda Zwane': {
-			imagePath: './assets/organiser_data/sicelukwanda_zwane/image.jpg',
-      link: 'https://www.linkedin.com/in/sicelukwanda-zwane-54873398'
-    },
-    'Siobhan Hall': {
-			imagePath: './assets/organiser_data/Siobhan_Hall/image.jpg'
-    },
-    'Jeanne Daniel': {
-			imagePath: './assets/organiser_data/Jeanne_Daniel/image.jpg'
-    }
-};
-console.log( ORGANIZERS);
-*/
 
-
-
-let  HOSTS = {
+// Replace with let  HOSTS=hostSheet_data once the google sheet its is populated
+let  HOSTS = {};
+/*{
     'NRF':
     {
         imagePath: './assets/images/sponsors/nrf_ac_za.png',
@@ -288,7 +76,7 @@ let  HOSTS = {
         GroupName: 'NRF',
         link: 'http://www.nrf.ac.za'
     }
-};
+};*/
 
 
 let  SPONSORS = [
