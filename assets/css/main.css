@@ -105,7 +105,7 @@ ul li {
   font-size: 2em;
 }
 
-.speaker a i:hover, , .speaker a ion-icon:hover {
+.speaker a i:hover, .speaker a ion-icon:hover {
   color: #ffed4c;
 }
 
@@ -561,7 +561,7 @@ section.about {
   color: #313131;
   text-transform: uppercase;
   margin: 25px 0;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 }
 
 #speakers .speaker {
@@ -1243,5 +1243,4 @@ bottom: -5px;
 	width: 100%;
 	height: auto; 
 }
-	width:90%;
-}
+
