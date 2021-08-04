@@ -57,24 +57,29 @@ let  PANEL = {};
 
 let  KEYNOTE = "";
 
-var ORGANIZERS = organizersSheet_data
+var ORGANIZERS = organizersSheet_data;
 
+var HOSTS = hostSheet_data;
 
 // Replace with let  HOSTS=hostSheet_data once the google sheet its is populated
-let  HOSTS = {};
-/*{
-    'NRF':
+/*let  HOSTS = {
+    'Data Prophet':
     {
-        imagePath: './assets/images/sponsors/nrf_ac_za.png',
-        GroupName: 'NRF',
-        link: 'http://www.nrf.ac.za'
+        imagePath: './assets/images/hosts/dataprophet_com.png',
+        GroupName: 'Data Prophet',
+        link: 'https://dataprophet.com/'
         
     },
-    'NRF1':
+    'Cape AI':
     {
-        imagePath: './assets/images/sponsors/nrf_ac_za.png',
-        GroupName: 'NRF',
-        link: 'http://www.nrf.ac.za'
+        imagePath: './assets/images/hosts/Cape_AI_Logo_Square_Colour.png',
+        GroupName: 'Cape AI',
+        link: 'https://cape-ai.com/'
+    },
+    'Lambda AI':
+    {
+        imagePath: './assets/images/hosts/lambda_ai.png',
+        GroupName: 'Lambda AI'
     }
 };*/
 
@@ -561,13 +566,20 @@ function populateHosts(hosts) {
   var count = 1;
 
   for(var host_key of Object.keys(hosts)) {
-    var $hostSection = $(".roadshow_host .container");
+    var $hostSection = $(".hosts .container");
 
     var $slot = $("<div />").addClass("col-md-3 col-xs-6")
     .append(
       $("<div />").addClass("host")
       .append(
         $("<figure />")
+          .append(
+            $("<div />")
+            .addClass("col-xs-12")
+            .append(
+                $("<h4 />").text(host_key)
+            ) // heading div
+          ) // append to figure
         .append(
           $("<a />").attr({
             "href": hosts[host_key].link,
@@ -585,13 +597,7 @@ function populateHosts(hosts) {
             })
           ) // append to a
         ) // append to figure
-        .append(
-          $("<div />")
-          .addClass("col-xs-12")
-          .append(
-              $("<h4 align='center'/>").text(host_key)
-          ) // heading div
-        ) // append to figure
+        
       )
     );
 
