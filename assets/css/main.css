@@ -499,6 +499,11 @@ ul.nav.navbar-nav {
 .site-header .intro ul.social-block {
   padding-top: 0em;
 }
+.dropdown-menu {
+  background:transparent;
+}
+
+
 
 @media (min-width: 600px) {  /* changed in attempt to fix mobile look */
   .navbar-custom {
