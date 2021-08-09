@@ -61,28 +61,6 @@ var ORGANIZERS = organizersSheet_data;
 
 var HOSTS = hostSheet_data;
 
-// Replace with let  HOSTS=hostSheet_data once the google sheet its is populated
-/*let  HOSTS = {
-    'Data Prophet':
-    {
-        imagePath: './assets/images/hosts/dataprophet_com.png',
-        GroupName: 'Data Prophet',
-        link: 'https://dataprophet.com/'
-        
-    },
-    'Cape AI':
-    {
-        imagePath: './assets/images/hosts/Cape_AI_Logo_Square_Colour.png',
-        GroupName: 'Cape AI',
-        link: 'https://cape-ai.com/'
-    },
-    'Lambda AI':
-    {
-        imagePath: './assets/images/hosts/lambda_ai.png',
-        GroupName: 'Lambda AI'
-    }
-};*/
-
 
 let  SPONSORS = [
     [ './assets/images/sponsors/nrf_ac_za.png',
@@ -292,61 +270,6 @@ function populateSpeakerInfo(info) {
         if(count % 3 == 2) {
             $("#speakers div.container.speakers").append($row_div);
         }
-
-		//##########################################################################
-
-
-        if(speaker == KEYNOTE) {
-          continue;
-        }
-
-        // add info to schedule
-        $scheduleSection = $(".schedule .accordion_panel");
-        // find title of this speaker and insert information (if not in tab zero)
-        $scheduleSlot = $scheduleSection.find("p.schedule-slot-desc:containsi('" + info[speaker].lectureHeading + "')").closest(".schedule-slot-info");
-
-		/**
-		var str = 'It iS a 5r&e@@t Day.'
-		var array = str.split(": ");
-		print(array);
-		console.log($scheduleSlot)
-		**/
-        if($scheduleSlot.length > 0) {
-            $slotInfo = $scheduleSlot.find("div.schedule-slot-info-content");
-			$slotInfoName = $scheduleSlot.find("p.schedule-slot-desc");
-
-            $slotInfo.wrap($("<div />").addClass("col-xs-8"))
-            // $scheduleSlot = $scheduleSlot.filter(function(index, $element) {
-            //     return ($element.closest("#tab_zero") == null);
-            // });
-
-            $scheduleSlot.prepend(
-                $("<div />").addClass("col-xs-4")
-                .append(
-                    $("<a />")
-                    .append(
-                        $("<img />").addClass("schedule-slot-speakers").attr({
-                            "src": info[speaker].imagePath
-                        })
-                    )
-                )
-            );
-
-            $slotInfoName.append(
-                $("<h4 />").addClass("schedule-slot-speaker-name").text(speaker)
-            );
-
-		}
-
-
-
-
-		//##########################################################################
-
-
-
-
-
 
     }
 
@@ -615,6 +538,50 @@ function populateHosts(hosts) {
 
 }
 
+// Populate speakers in upcoming roadshow elements
+function populateHostSpeakers(hostSpeakers) {
+  for (var speaker of hostSpeakers){
+
+    if(speaker == KEYNOTE) {
+      continue;
+    }
+
+    // add info to schedule
+    // TODO: Find appropriate sections by id
+    $scheduleSection = $(".schedule .accordion_panel");
+    // find title of this speaker and insert information (if not in tab zero)
+    $scheduleSlot = $scheduleSection.find("p.schedule-slot-desc:containsi('" + info[speaker].lectureHeading + "')").closest(".schedule-slot-info");
+
+    if($scheduleSlot.length > 0) {
+        $slotInfo = $scheduleSlot.find("div.schedule-slot-info-content");
+        $slotInfoName = $scheduleSlot.find("p.schedule-slot-desc");
+
+        $slotInfo.wrap($("<div />").addClass("col-xs-8"))
+        // $scheduleSlot = $scheduleSlot.filter(function(index, $element) {
+        //     return ($element.closest("#tab_zero") == null);
+        // });
+
+      $scheduleSlot.prepend(
+          $("<div />").addClass("col-xs-4")
+          .append(
+              $("<a />")
+              .append(
+                  $("<img />").addClass("schedule-slot-speakers").attr({
+                      "src": info[speaker].imagePath
+                  })
+              )
+          )
+      );
+
+      $slotInfoName.append(
+          $("<h4 />").addClass("schedule-slot-speaker-name").text(speaker)
+      );
+
+    }
+
+
+  }
+}
 function populateOrganizers(organizers) {
   var $row_div = $("<div />").addClass("row");
   var count = 1;
@@ -685,30 +652,7 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 
-/*
-var acc = document.getElementsByClassName("accordion_button");
-var panel = document.getElementsByClassName('accordion_panel');
 
-for (var i = 0; i < acc.length; i++) {
-    acc[i].onclick = function() {
-        var setClasses = !this.classList.contains('ac_active');
-        setClass(acc, 'ac_active', 'remove');
-        setClass(panel, 'show', 'remove');
-
-        if (setClasses) {
-            this.classList.toggle("ac_active");
-            this.nextElementSibling.classList.toggle("show");
-        }
-    }
-}
-
-function setClass(els, className, fnName) {
-    for (var i = 0; i < els.length; i++) {
-        els[i].classList[fnName](className);
-    }
-}
-
-*/
 function populatePanel(panellists) {
     var $row_div = $("<div />").addClass("row");
     var count = 1;
