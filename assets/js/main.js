@@ -31,7 +31,20 @@ let hostSheet_data= await GSheetProcessor(
   error => {console.log('error from sheets API', error); }
 );
 hostSheet_data=cvtTabledataToDictionary(hostSheet_data,"GroupName");
-//console.log( hostSheet_data);
+
+let eventSheet_data= await GSheetProcessor(
+  {
+    sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
+    sheetNumber: 2,
+    returnAllResults: true
+  },
+  results=>{
+    return results;
+  },
+  error => {console.log('error from sheets API', error); }
+);
+eventSheet_data=cvtTabledataToDictionary(eventSheet_data,"GroupName");
+//console.log( eventSheet_data);
 
 
 let organizersSheet_data= await GSheetProcessor(
@@ -61,6 +74,7 @@ var ORGANIZERS = organizersSheet_data;
 
 var HOSTS = hostSheet_data;
 
+var EVENTS =  eventSheet_data;
 
 let  SPONSORS = [
     [ './assets/images/sponsors/nrf_ac_za.png',
@@ -481,6 +495,33 @@ function shuffle(array) {
     return array;
 }
 
+function populateEvents(events){
+  // if(Object.keys(events).length==0) 
+  //   return;
+  
+  var $row_div = $("<div />").addClass("row");
+  var count = 0;
+  for(var event_key of Object.keys(events)){
+    var $eventSection = $(".events .container");
+    
+    var $slot = $("<div />").addClass("col-md-12 col-xs-12").addClass("event-panel")
+    .append(
+      $("<div />")
+      .append(
+        $("<h3 />").text(event_key)
+      )
+      
+    );
+    
+    $row_div.append($slot);
+    $eventSection.append($row_div);
+    $row_div = $("<div />").addClass("row");
+    count++;
+    console.log(count)
+  }
+
+
+}
 function populateHosts(hosts) {
   if(Object.keys(hosts).length==0) 
     return;
@@ -713,7 +754,8 @@ function populatePanel(panellists) {
 //populateSponsors(SPONSORS);
 //populateSpeakerInfo(INFO);
 //populatePanel(PANEL);
+
 populateHosts(HOSTS);
 populateOrganizers(ORGANIZERS);
 
-
+populateEvents(EVENTS);
