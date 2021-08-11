@@ -509,7 +509,7 @@ function populateEvents(events,hosts){
     }
     var $eventSection = $(".events .container");
     
-    var $slot = $("<div />").addClass("col-md-2 col-xs-4")
+    var $slot = $("<div />").addClass("col-md-2 col-xs-3")
     .append(
         $("<figure />")
           .append(
@@ -534,7 +534,7 @@ function populateEvents(events,hosts){
 
 
     
-    var $slot2 =  $("<div />").addClass("col-md-10 col-xs-12").addClass("box2").addClass("sb6")
+    var $slot2 =  $("<div />").addClass("col-md-10 col-xs-8").addClass("box2").addClass("sb6")
       .append(
         $("<div />")
         .append(

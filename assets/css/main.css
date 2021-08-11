@@ -1301,10 +1301,7 @@ section.team {
 }
 
 .box2 {
-  width: 70%;
   border: 4px solid #428d6d;
   border-radius: 10px 10px 10px 10px;
   color: #8a8a8a;
-  position: relative;
-  margin: 5px;
 }
