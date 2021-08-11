@@ -495,25 +495,65 @@ function shuffle(array) {
     return array;
 }
 
-function populateEvents(events){
+function populateEvents(events,hosts){
   // if(Object.keys(events).length==0) 
   //   return;
   
-  var $row_div = $("<div />").addClass("row");
+  
   var count = 0;
   for(var event_key of Object.keys(events)){
+    var $row_div = $("<div />").addClass("row").addClass("event-row")
+
+    if(events[event_key].EventTitle == undefined){
+      continue;
+    }
     var $eventSection = $(".events .container");
     
-    var $slot = $("<div />").addClass("col-md-12 col-xs-12").addClass("event-panel")
+    var $slot = $("<div />").addClass("col-md-2 col-xs-4")
     .append(
-      $("<div />")
+        $("<figure />")
+          .append(
+            $("<div />")
+            .addClass("col-xs-12").attr({
+              "vertical-align": "middle"
+            })
+          ) // append to figure
+        .append(
+          $("<a />").attr({
+            "href": hosts[event_key].link,
+            "target": "_blank"
+          })
+          .append(
+            $("<img />").attr({
+              "src": hosts[event_key].imagePath,
+              "width": "80%",
+            })
+          )
+        )
+    );
+
+
+    
+    var $slot2 =  $("<div />").addClass("col-md-10 col-xs-12").addClass("box2").addClass("sb6")
       .append(
-        $("<h3 />").text(event_key)
-      )
-      
+        $("<div />")
+        .append(
+          $("<h4 />").attr({
+            "text-align": "center"
+          }).text(events[event_key].EventTitle)
+        )
+        .append(
+          $("<p />").attr({
+            "text-align": "left",
+            "margin-bottom": 0
+          }).text("Date: "+ events[event_key].Date).append("<br/>")
+          .append("Time: "+ events[event_key].Time).append("<br/>")
+        )
+        
     );
     
     $row_div.append($slot);
+    $row_div.append($slot2);
     $eventSection.append($row_div);
     $row_div = $("<div />").addClass("row");
     count++;
@@ -758,4 +798,4 @@ function populatePanel(panellists) {
 populateHosts(HOSTS);
 populateOrganizers(ORGANIZERS);
 
-populateEvents(EVENTS);
+populateEvents(EVENTS,HOSTS);
