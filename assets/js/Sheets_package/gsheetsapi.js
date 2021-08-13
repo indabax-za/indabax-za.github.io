@@ -1,3 +1,11 @@
+function syncDelay(milliseconds){
+  var start = new Date().getTime();
+  var end=0;
+  while( (end-start) < milliseconds){
+      end = new Date().getTime();
+  }
+ }
+ 
 
 
 const gsheetsAPI = function (sheetId, sheetNumber = 1) {
@@ -5,7 +13,9 @@ const gsheetsAPI = function (sheetId, sheetNumber = 1) {
   let fetchFunc;
 
   try {
+
     fetchFunc = window.fetch;
+    
   } catch (err) {
     fetchFunc = nodefetch;
   }
@@ -15,6 +25,7 @@ const gsheetsAPI = function (sheetId, sheetNumber = 1) {
 
     return fetchFunc(sheetsUrl)
       .then(response => {
+        //console.log(response)
         if (!response.ok) {
           console.log('there is an error in the gsheets response');
           throw new Error('Error fetching GSheet');
