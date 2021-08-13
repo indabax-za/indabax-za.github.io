@@ -1305,3 +1305,19 @@ section.team {
   border-radius: 10px 10px 10px 10px;
   color: #8a8a8a;
 }
+.loader {
+  border: 12px solid #8a8a8a7c; 
+  border-top: 12px solid #ffffff; 
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  animation: spin 1s linear infinite;
+  margin:auto;
+  top: 70px;
+  position:relative;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
