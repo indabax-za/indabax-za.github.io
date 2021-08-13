@@ -500,7 +500,10 @@ function shuffle(array) {
 function populateEvents(events,hosts){
   // if(Object.keys(events).length==0) 
   //   return;
-  
+  var $eventSection = $(".events .container");
+
+  var loader = $(".events .container .loader");
+  loader.hide();
   
   var count = 0;
   for(var event_key of Object.keys(events)){
@@ -509,7 +512,6 @@ function populateEvents(events,hosts){
     if(events[event_key].EventTitle == undefined){
       continue;
     }
-    var $eventSection = $(".events .container");
     
     var $slot = $("<div />").addClass("col-md-2 col-xs-3")
     .append(
@@ -571,8 +573,11 @@ function populateHosts(hosts) {
   var $row_div = $("<div />").addClass("row");
   var count = 1;
 
+  var $hostSection = $(".hosts .container");
+  var loader = $(".hosts .container .loader");
+  loader.hide();
+
   for(var host_key of Object.keys(hosts)) {
-    var $hostSection = $(".hosts .container");
 
     var $slot = $("<div />").addClass("col-md-3 col-xs-6")
     .append(
