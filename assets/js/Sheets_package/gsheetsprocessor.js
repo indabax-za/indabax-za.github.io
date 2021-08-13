@@ -123,7 +123,7 @@ function processGSheetResults(
   return filterResults(processedResults, filter, filterOptions);
 }
 
-const gsheetProcessor = function (options, callback, onError) {
+function gsheetProcessor (options, callback, onError) {
   return GSheetsapi(
     options.sheetId,
     options.sheetNumber ? options.sheetNumber : 1
@@ -144,4 +144,15 @@ const gsheetProcessor = function (options, callback, onError) {
     .catch(err => onError(err.message));
 };
 
-export default gsheetProcessor;
+const gsheetProcessor_persitant=async function(options, callback, onError)
+{
+  let sheet_data=null;
+  while(sheet_data==null)
+  { 
+     sheet_data=  await gsheetProcessor(options,callback,onError);
+  }
+  return sheet_data;
+}
+
+
+export default gsheetProcessor_persitant;
