@@ -1,4 +1,6 @@
-import gsheetProcessor_persitant from './Sheets_package/gsheetsprocessor.js';
+import GSheetProcessor from './Sheets_package/GoogleAPV4/gsheetsprocessor.js';
+
+
 
 function cvtTabledataToDictionary(table_data,key_name)
 {
@@ -11,7 +13,6 @@ function cvtTabledataToDictionary(table_data,key_name)
   }
   return dictionary_version;
 }
-
 /*
 In order to use a new sheet in the google drive.
 1: Under "File" select "Publish to the web"
@@ -19,9 +20,10 @@ In order to use a new sheet in the google drive.
 3: The sheetid is the one from the sheet url not the publish link you are given if steps 1-2
 4: The cvtTabledataToDictionary is their to convert the table data to conform to the 
 */
-
-let hostSheet_data= await gsheetProcessor_persitant(
+const apiKey="AIzaSyDZeJjyt8JzGI91VJm8bSMyiyyFbQrdDmQ";
+let hostSheet_data= await GSheetProcessor(
 {
+  apiKey: apiKey,
   sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
   sheetNumber: 1,
   returnAllResults: true
@@ -31,11 +33,12 @@ results=>{
 },
 error => {console.log('Retrying sheet access', error); }
 );
-
 hostSheet_data=cvtTabledataToDictionary(hostSheet_data,"GroupName");
 
-let eventSheet_data= await gsheetProcessor_persitant(
+
+let eventSheet_data= await GSheetProcessor(
   {
+    apiKey: apiKey,
     sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
     sheetNumber: 2,
     returnAllResults: true
@@ -49,8 +52,9 @@ eventSheet_data=cvtTabledataToDictionary(eventSheet_data,"GroupName");
 //console.log( eventSheet_data);
 
 
-let organizersSheet_data= await gsheetProcessor_persitant(
+let organizersSheet_data= await GSheetProcessor(
   {
+    apiKey: apiKey,
     sheetId: '1cb2mUDwpOJCu2hwmGt__Ka7u8bDrh6K2eOc2blI248s',
     sheetNumber: 1,
     returnAllResults: true
@@ -82,37 +86,6 @@ let  SPONSORS = [
     [ './assets/images/sponsors/nrf_ac_za.png',
         'http://www.nrf.ac.za', 'National Research Foundation' ],
 ];
-/*
- * Change Navbar color while scrolling
- */
-
-$(window).scroll(function(){
-    handleTopNavAnimation();
-});
-
-$(window).on('load',function(){
-    handleTopNavAnimation();
-});
-
-function handleTopNavAnimation() {
-	var top=$(window).scrollTop();
-
-    if(top>10){
-        $('#site-nav').addClass('navbar-solid');
-    } else {
-        $('#site-nav').removeClass('navbar-solid');
-    }
-}
-
-$(function () {
-  $('[data-toggle="tooltip"]').tooltip()
-})
-
-/*
- * SmoothScroll
- */
-
-smoothScroll.init();
 
 /*
  * Add Speakers to html
