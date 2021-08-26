@@ -87,6 +87,7 @@ let  SPONSORS = [
         'http://www.nrf.ac.za', 'National Research Foundation' ],
 ];
 
+
 /*
  * Add Speakers to html
  */
@@ -525,6 +526,7 @@ function populateEvents(events,hosts){
             "margin-bottom": 0
           }).text("Date: "+ events[event_key].Date).append("<br/>")
           .append("Time: "+ events[event_key].Time).append("<br/>")
+          .append("Event Link: "+ events[event_key].EventLink).append("<br/>")
         )
         
     );
