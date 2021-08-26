@@ -526,7 +526,9 @@ function populateEvents(events,hosts){
             "margin-bottom": 0
           }).text("Date: "+ events[event_key].Date).append("<br/>")
           .append("Time: "+ events[event_key].Time).append("<br/>")
-          .append("Event Link: "+ events[event_key].EventLink).append("<br/>")
+          .append('Event Link: <a href="'+events[event_key].EventLink+
+            '" target="_blank" rel="external">'
+            + events[event_key].EventLink).append("</a><br/>")
         )
         
     );
