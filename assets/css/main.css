@@ -357,23 +357,28 @@ a.text-white:hover {
 }
 
 .bg-image-1 {
-  background-image: url(../images/backgrounds/bg-1.jpg);
+  background-image: url(../images/backgrounds/bg-1.jpg) !important;
 }
 /* Specific images */
+.bg-image-rewards {
+  background-image: url("https://source.unsplash.com/YeUVDKZWSZ4/1900x1400") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
 .bg-image-hackathon {
-  background-image: url("https://source.unsplash.com/FXFz-sW0uwo/1900x400");
+  background-image: url("https://source.unsplash.com/FXFz-sW0uwo/1900x400") !important;
 }
 .bg-image-coder {
-  background-image: url("https://source.unsplash.com/kFRKvJQtNHg/1000x1000");
+  background-image: url("https://source.unsplash.com/kFRKvJQtNHg/1000x1000") !important;
 }
 .bg-image-researcher {
-  background-image: url("https://source.unsplash.com/lc7xcWebECc/1900x400");
+  background-image: url("https://source.unsplash.com/lc7xcWebECc/1900x400") !important;
 }
 .bg-image-engagement {
-  background-image: url("https://source.unsplash.com/pYWuOMhtc6k/1900x400");
+  background-image: url("https://source.unsplash.com/pYWuOMhtc6k/1900x400") !important;
 }
 .bg-image-passion {
-  background-image: url("https://source.unsplash.com/ZhQCZjr9fHo/1900x400");
+  background-image: url("https://source.unsplash.com/ZhQCZjr9fHo/1900x400") !important;
 }
 
 .btn-gradient {
