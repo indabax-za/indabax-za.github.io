@@ -348,11 +348,11 @@ ul li {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
-.bg-image a.text-white {
+a.text-white {
   color: white;
   text-decoration: underline;
 }
-.bg-image a.text-white:hover {
+a.text-white:hover {
   color: #5ed6bc;
 }
 
