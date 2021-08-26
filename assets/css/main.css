@@ -333,26 +333,61 @@ ul li {
  * 3.5 Helper Class: background
  */
 .bg-image,
-.bg-image-1,
-.bg-image-2 .bg-image-panel {
+.bg-image-panel {
   position: relative;
+  color: white;
+  background: no-repeat center center/cover;
 }
-.bg-image::before,
-.bg-image-1::before,
-.bg-image-2::before {
+.bg-image::before {
   content: "";
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.bg-image a.text-white {
+  color: white;
+  text-decoration: underline;
+}
+.bg-image a.text-white:hover {
+  color: #5ed6bc;
 }
 
 .bg-image-1 {
-  background: url(../images/backgrounds/bg-1.jpg) no-repeat center center/cover;
+  background-image: url(../images/backgrounds/bg-1.jpg);
 }
-.bg-image-1::before {
-  background-color: rgba(0, 0, 0, 0.7);
+/* Specific images */
+.bg-image-hackathon {
+  background-image: url("https://source.unsplash.com/FXFz-sW0uwo/1900x400");
+}
+.bg-image-coder {
+  background-image: url("https://source.unsplash.com/kFRKvJQtNHg/1000x1000");
+}
+.bg-image-researcher {
+  background-image: url("https://source.unsplash.com/lc7xcWebECc/1900x400");
+}
+.bg-image-engagement {
+  background-image: url("https://source.unsplash.com/pYWuOMhtc6k/1900x400");
+}
+.bg-image-passion {
+  background-image: url("https://source.unsplash.com/ZhQCZjr9fHo/1900x400");
+}
+
+.btn-gradient {
+  background: linear-gradient(
+    45deg,
+    #d9e4f2,
+    #d6ecf5 25%,
+    #f5e5d6 51%,
+    #f5e4d6
+  );
+  color: rgba(0, 0, 0, 0.7);
+}
+.btn-gradient:hover {
+  color: rgba(0, 0, 0, 0.9);
 }
 
 @media (min-width: 768px) {
@@ -1271,12 +1306,12 @@ section.team {
 }
 
 /* Roadshow Hosts */
-.event-row{
+.event-row {
   margin-bottom: 2%;
 }
 .sb6:before {
   content: "";
-  width:  0px;
+  width: 0px;
   height: 0px;
   position: absolute;
   border-left: 10px solid transparent;
@@ -1306,18 +1341,22 @@ section.team {
   color: #8a8a8a;
 }
 .loader {
-  border: 12px solid #8a8a8a7c; 
-  border-top: 12px solid #ffffff; 
+  border: 12px solid #8a8a8a7c;
+  border-top: 12px solid #ffffff;
   border-radius: 50%;
   width: 100px;
   height: 100px;
   animation: spin 1s linear infinite;
-  margin:auto;
+  margin: auto;
   top: 70px;
-  position:relative;
+  position: relative;
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
