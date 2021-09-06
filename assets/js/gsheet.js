@@ -3,7 +3,7 @@ import GSheetProcessor from './Sheets_package/GoogleAPV4/gsheetsprocessor.js';
 
 
 function cvtTabledataToDictionary(table_data,key_name)
-{
+{ 
   var dictionary_version={};
   for (let i = 0; i < table_data.length; i++) {
     var row=table_data[i]
@@ -21,7 +21,8 @@ In order to use a new sheet in the google drive.
 4: The cvtTabledataToDictionary is their to convert the table data to conform to the 
 */
 const apiKey="AIzaSyDZeJjyt8JzGI91VJm8bSMyiyyFbQrdDmQ";
-let hostSheet_data= await GSheetProcessor(
+
+GSheetProcessor(
 {
   apiKey: apiKey,
   sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
@@ -29,14 +30,31 @@ let hostSheet_data= await GSheetProcessor(
   returnAllResults: true
 },
 results=>{
-  return results;
+  let hostSheet_data =cvtTabledataToDictionary(results,"GroupName");
+  populateHosts(hostSheet_data);
 },
 error => {console.log('Retrying sheet access', error); }
 );
-hostSheet_data=cvtTabledataToDictionary(hostSheet_data,"GroupName");
 
 
-let eventSheet_data= await GSheetProcessor(
+
+
+GSheetProcessor(
+  {
+    apiKey: apiKey,
+    sheetId: '1cb2mUDwpOJCu2hwmGt__Ka7u8bDrh6K2eOc2blI248s',
+    sheetNumber: 1,
+    returnAllResults: true
+  },
+  results=>{
+    let organizersSheet_data =cvtTabledataToDictionary(results,"Name");
+    populateOrganizers(organizersSheet_data);
+  },
+  error => {console.log('Retrying sheet access', error); }
+);
+
+
+GSheetProcessor(
   {
     apiKey: apiKey,
     sheetId: '1J9F4Ojckm9Wm10GVjdjEFFkZL-49Yzxo2S7S-AfP5Eo',
@@ -44,25 +62,14 @@ let eventSheet_data= await GSheetProcessor(
     returnAllResults: true
   },
   results=>{
+    let eventSheet_data =cvtTabledataToDictionary(results,"GroupName");
+    populateEvents(eventSheet_data);
     return results;
   },
   error => {console.log('Retrying sheet access', error); }
 );
-eventSheet_data=cvtTabledataToDictionary(eventSheet_data,"GroupName");
-//console.log( eventSheet_data);
 
 
-let organizersSheet_data= await GSheetProcessor(
-  {
-    apiKey: apiKey,
-    sheetId: '1cb2mUDwpOJCu2hwmGt__Ka7u8bDrh6K2eOc2blI248s',
-    sheetNumber: 1,
-    returnAllResults: true
-  },
-  results=>{return results;},
-  error => {console.log('Retrying sheet access', error); }
-);
-organizersSheet_data=cvtTabledataToDictionary(organizersSheet_data,"Name");
 
 
 let  CATEGORY_TO_ICON = {
@@ -76,11 +83,11 @@ let  PANEL = {};
 
 let  KEYNOTE = "";
 
-var ORGANIZERS = organizersSheet_data;
+/////var ORGANIZERS = organizersSheet_data;
 
-var HOSTS = hostSheet_data;
+//var HOSTS = hostSheet_data;
 
-var EVENTS =  eventSheet_data;
+/////var EVENTS =  eventSheet_data;
 
 let  SPONSORS = [
     [ './assets/images/sponsors/nrf_ac_za.png',
@@ -471,7 +478,7 @@ function shuffle(array) {
     return array;
 }
 
-function populateEvents(events,hosts){
+function populateEvents(events){
   // if(Object.keys(events).length==0) 
   //   return;
   var $eventSection = $(".events .container");
@@ -498,12 +505,12 @@ function populateEvents(events,hosts){
           ) // append to figure
         .append(
           $("<a />").attr({
-            "href": hosts[event_key].link,
+            "href": events[event_key].link,
             "target": "_blank"
           })
           .append(
             $("<img />").attr({
-              "src": hosts[event_key].imagePath,
+              "src": events[event_key].imagePath,
               "width": "80%",
             })
           )
@@ -779,7 +786,7 @@ function populatePanel(panellists) {
 //populateSpeakerInfo(INFO);
 //populatePanel(PANEL);
 
-populateHosts(HOSTS);
-populateOrganizers(ORGANIZERS);
+//populateHosts(HOSTS);
+//populateOrganizers(ORGANIZERS);
 
-populateEvents(EVENTS,HOSTS);
+//populateEvents(EVENTS,HOSTS);

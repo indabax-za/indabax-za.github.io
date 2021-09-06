@@ -152,7 +152,7 @@ const gsheetProcessor_persitant=async function(options, callback, onError)
      sheet_data=  await gsheetProcessor(options,callback,onError);
   }
   return sheet_data;
-}
+};
 
 
 export default gsheetProcessor_persitant;
