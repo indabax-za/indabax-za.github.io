@@ -510,7 +510,7 @@ function populateEvents(events, event_state="Active"){
         .append(
           $("<a />").attr({
             "href": events[event_key].link,
-            "target": "_blank"
+            "target": "_blank",
           })
           .append(
             $("<img />").attr({
@@ -539,7 +539,7 @@ function populateEvents(events, event_state="Active"){
           .append("Time: "+ events[event_key].Time).append("<br/>")
           .append('Event Link: <a href="'+events[event_key].EventLink+
             '" target="_blank" rel="external">'
-            + events[event_key].EventLink).append("</a><br/>")
+            + "Click Here!").append("</a><br/>")
         )
         
     );
