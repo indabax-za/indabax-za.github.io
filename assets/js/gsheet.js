@@ -20,7 +20,7 @@ In order to use a new sheet in the google drive.
 3: The sheetid is the one from the sheet url not the publish link you are given if steps 1-2
 4: The cvtTabledataToDictionary is their to convert the table data to conform to the 
 */
-const apiKey="AIzaSyBWh-LNBfG5hL5lRiltdS-__F4AFCcAUP0";//"AIzaSyDZeJjyt8JzGI91VJm8bSMyiyyFbQrdDmQ";
+const apiKey="AIzaSyDZeJjyt8JzGI91VJm8bSMyiyyFbQrdDmQ";
 
 GSheetProcessor(
 {
