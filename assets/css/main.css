@@ -758,6 +758,13 @@ section.about {
   margin: 0 auto;
 }
 
+.schedule-tab,
+.schedule-content .container2 {
+  /*max-width: 960px;*/
+  margin: 0 auto;
+}
+
+
 .schedule-tab .nav-tabs {
   text-align: center;
   margin-bottom: 60px;

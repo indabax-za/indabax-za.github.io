@@ -20,7 +20,7 @@ In order to use a new sheet in the google drive.
 3: The sheetid is the one from the sheet url not the publish link you are given if steps 1-2
 4: The cvtTabledataToDictionary is their to convert the table data to conform to the 
 */
-const apiKey="AIzaSyDZeJjyt8JzGI91VJm8bSMyiyyFbQrdDmQ";
+const apiKey="AIzaSyBWh-LNBfG5hL5lRiltdS-__F4AFCcAUP0";//"AIzaSyDZeJjyt8JzGI91VJm8bSMyiyyFbQrdDmQ";
 
 GSheetProcessor(
 {
@@ -64,6 +64,7 @@ GSheetProcessor(
   results=>{
     let eventSheet_data =cvtTabledataToDictionary(results,"GroupName");
     populateEvents(eventSheet_data);
+    populateEvents(eventSheet_data,"Inactive");
     return results;
   },
   error => {console.log('Retrying sheet access', error); }
@@ -478,16 +479,19 @@ function shuffle(array) {
     return array;
 }
 
-function populateEvents(events){
+function populateEvents(events, event_state="Active"){
   // if(Object.keys(events).length==0) 
   //   return;
-  var $eventSection = $(".events .container");
+  var CSS_Class=( event_state=="Active"?".events":".p_events");
+  var $eventSection = $(CSS_Class+" .container");
 
-  var loader = $(".events .container .loader");
+  var loader = $(CSS_Class+" .container .loader");
   loader.hide();
   
   var count = 0;
   for(var event_key of Object.keys(events)){
+    if(events[event_key].State!= event_state)
+      continue;
     var $row_div = $("<div />").addClass("row").addClass("event-row")
 
     if(events[event_key].EventTitle == undefined){
@@ -519,7 +523,7 @@ function populateEvents(events){
 
 
     
-    var $slot2 =  $("<div />").addClass("col-md-10 col-xs-8").addClass("box2").addClass("sb6")
+    var $slot2 =  $("<div />").addClass("col-md-9 col-xs-7").addClass("box2").addClass("sb6")
       .append(
         $("<div />")
         .append(
