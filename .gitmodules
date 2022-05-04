@@ -1,0 +1,3 @@
+[submodule "themes/imbizo-website-base"]
+	path = themes/imbizo-website-base
+	url = git@github.com:isicnimbizo/imbizo-website-base.git

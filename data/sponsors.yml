@@ -1,0 +1,77 @@
+---
+title: Sponsors
+sponsors:
+  - tier: Partners
+    size: 100
+    item:
+      - name: Deep Learning Indaba
+        image: images/partners/deeplearningindaba_com.png
+        link: https://deeplearningindaba.com/
+        background_color: "#fff"
+        current: true
+      - name: DST-NRF Centre of Excellence in Mathematical and Statisical Sciences (CoE-MaSS)
+        image: images/partners/coe-mass.png
+        link: https://www.wits.ac.za/coe-mass/
+        current: true
+        background_color: ""
+      - name: University of Pretoria
+        image: images/partners/UP.png
+        link: https://www.up.ac.za/
+        background_color: "#fff"
+        current: true
+  - tier: Supporters
+    size: 80
+    item:
+      - name: alis_
+        image: images/partners/alis_fund.png
+        link: http://alis.fund/
+        current: true
+        background_color: ""
+      - name: AI Expo Africa
+        image: images/partners/ai_expo.png
+        link: https://aiexpoafrica.com/
+        current: true
+        background_color: ""
+      - name: Zindi
+        image: images/partners/zindi_transparent.png
+        link: https://zindi.africa/
+        current: true
+        background_color: ""
+      - name: InstaDeep
+        image: images/partners/instadeep.png
+        link: https://instadeep.com/
+        current: true
+        background_color: ""
+  - tier: Affiliated institutions
+    size: 100
+    item:
+      - name: NITheCS
+        image: images/partners/nithecs.jpg
+        link: https://nithecs.ac.za/
+        current: true
+        background_color: ""
+      - name: University of Cape Town
+        image: images/partners/UCT.jpg
+        link: https://uct.ac.za
+        current: true
+        background_color: ""
+      - name: University of the Witwatersrand
+        image: images/partners/WITS.jpg
+        link: https://www.wits.ac.za/
+        current: true
+        background_color: ""
+      - name: University College London
+        image: images/partners/UCL.png
+        link: https://www.ucl.ac.uk
+        current: true
+        background_color: ""
+      - name: University of KwaZulu-Natal
+        image: images/partners/UKZN.jpg
+        link: https://www.ukzn.ac.za
+        current: true
+        background_color: ""
+      - name: Insitute of Science and Technology Austria
+        link: https://ista.ac.at
+        current: true
+        image: "/images/partners/ISTA.png"
+        background_color: ""

@@ -1,0 +1,2 @@
+Better Explanations or Better Decisions in Financial Markets?
+Financial markets seem to be highly adaptive and often change faster than we can store data or learn new models from ever larger data-sets. Financial markets appear increasingly defined by the map created by data-informed but weaponised models and increasingly complex niches that regulations nurture and allow agents to asymmetrically exploit.  Should we care about the difference between better explanations or better decisions?

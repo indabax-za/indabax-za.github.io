@@ -1,0 +1,2 @@
+AI challenges arising from the SKA
+The Square Kilometer Array (SKA) will deliver of order one exabyte of data per day, making it the biggest science experiment in the world in the late 2020's. We discuss some of the open challenges and opportunities for AI and the SKA, particularly from an African perspective.

@@ -1,0 +1,2 @@
+Intro to machine (and deep) learning, with a focus on probability and uncertainty
+I will begin by quickly introducing a few basic principles of machine learning, explaining core mathematical concepts through examples, and telling you what I think "deep learning" is. I will then discuss in some depth a fundamentally important (but often neglected) concept in machine learning, which is to view everything in terms of probability distributions. Finally, with this concept in mind, I will talk about recent attempts to inject probability and uncertainty into deep neural networks.
