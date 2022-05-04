@@ -5,7 +5,7 @@ sponsors:
     size: 100
     item:
       - name: Deep Learning Indaba
-        image: images/partners/deeplearningindaba_com.png
+        image: images/partners/deeplearningindaba_com.PNG
         link: https://deeplearningindaba.com/
         background_color: "#fff"
         current: true
