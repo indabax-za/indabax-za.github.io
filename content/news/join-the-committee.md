@@ -9,13 +9,13 @@ image: "https://images.unsplash.com/photo-1556484687-30636164638b?ixlib=rb-1.2.1
 
 Please fill out [**this form**](https://docs.google.com/forms/d/e/1FAIpQLScQSwGTkJUe_bi45eix1HfTAEWViobDKbrtOrvlqc5x3RyO6A/viewform?usp=sf_link) if you want to take on responsibilities in organising the Deep Learning IndabaX conference in South Africa in 2022, which will be held at the University of Pretoria at the end of the year (~ December).
 
-The roles and responsibilities can be found at this link: https://docs.google.com/document/d/1mfRp1R1O8optWsh_HV2VGxFp2wo_ozi64_99Uw9b_Wc/edit?usp=sharing
+The roles and responsibilities can be found at [this link](https://indabax.co.za/about/roles-and-responsibilities/)
 
 In your motivation, please address:
  
 1. what will you bring to the IndabaX (i.e. why does the IndabaX need to have you on the team), 
-1. how have you championed for ML and the ML community in the past, and 
-1. what experience do you have that is relevant to the position(s) above. 
+2. how have you championed for ML and the ML community in the past, and 
+3. what experience do you have that is relevant to the position(s) above. 
 
 Note that we are strongly looking for passion and commitment to the ML community. Experience organising events and involvement in a ML community is a plus. 
 Willingness to learn is a must.
