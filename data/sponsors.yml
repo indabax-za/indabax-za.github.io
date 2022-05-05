@@ -1,13 +1,14 @@
 ---
 title: Sponsors
+show_names: false
 sponsors:
   - tier: Partners
     size: 100
     item:
       - name: Deep Learning Indaba
-        image: images/partners/deeplearningindaba_com.PNG
+        image: images/partners/deeplearningindaba_com.png
         link: https://deeplearningindaba.com/
-        background_color: "#fff"
+        background_color: ""
         current: true
       - name: DST-NRF Centre of Excellence in Mathematical and Statisical Sciences (CoE-MaSS)
         image: images/partners/coe-mass.png
@@ -17,8 +18,13 @@ sponsors:
       - name: University of Pretoria
         image: images/partners/UP.png
         link: https://www.up.ac.za/
-        background_color: "#fff"
+        background_color: ""
         current: true
+      - name: NITheCS
+        image: images/partners/nithecs.png
+        link: https://nithecs.ac.za/
+        current: true
+        background_color: ""
   - tier: Supporters
     size: 80
     item:
@@ -45,18 +51,18 @@ sponsors:
   - tier: Affiliated institutions
     size: 100
     item:
-      - name: NITheCS
-        image: images/partners/nithecs.jpg
-        link: https://nithecs.ac.za/
+      - name: AIMS
+        image: images/partners/AIMS.png
+        link: https://aims.ac.za/
         current: true
         background_color: ""
       - name: University of Cape Town
-        image: images/partners/UCT.jpg
+        image: images/partners/UCT.png
         link: https://uct.ac.za
         current: true
         background_color: ""
       - name: University of the Witwatersrand
-        image: images/partners/WITS.jpg
+        image: images/partners/WITS.png
         link: https://www.wits.ac.za/
         current: true
         background_color: ""
@@ -66,7 +72,7 @@ sponsors:
         current: true
         background_color: ""
       - name: University of KwaZulu-Natal
-        image: images/partners/UKZN.jpg
+        image: images/partners/UKZN.png
         link: https://www.ukzn.ac.za
         current: true
         background_color: ""

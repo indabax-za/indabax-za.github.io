@@ -3,7 +3,8 @@ title: Registration info
 date: 2019-05-12T12:14:34.000+06:00
 description: Registration info
 image: images/photos/indabax2019-photo.jpg
-min_header_height: 0em
+opacity: 80
+min_header_height: 30em
 type: apply
 menu:
   main:

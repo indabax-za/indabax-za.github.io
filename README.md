@@ -6,8 +6,8 @@ developed by Christopher Brian Currin [[🔗GitHub](https://github.com/ChrisCurr
 
 1. clone project to local directory
     ```bash
-    git clone --recurse-submodules <url>
-    cd isicnimbizo.github.io
+    git clone --recurse-submodules git@github.com:indabax-za/indabax-za.github.io.git
+    cd indabax.github.io
     ```
 
 1. start server
@@ -21,3 +21,5 @@ based on [Imbizo website](https://imbizo.africa) and [Kross Hugo theme](https://
 licensed using [MIT](https://github.com/themefisher/kross-hugo/blob/master/LICENSE)
 
 icons by [Themify](https://themify.me/themify-icons)
+
+slideshows by [Slick](https://kenwheeler.github.io/slick/)
