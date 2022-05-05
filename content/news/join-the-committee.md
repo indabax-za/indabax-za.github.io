@@ -25,7 +25,7 @@ You will receive support from the directors of the Deep Learning IndabaX South A
 
 ### APPLICATION PROCESS and IMPORTANT DATES
 
-1. Applications close 13th May 23:59 UTC
+1. Applications close 16th May 23:59 UTC
 2. You may be asked to interview with the executive committee. You don't need to prepare anything other than bringing the passion! This would ideally take place the week of the 23rd May.
 3. Applicants notified by end of May
 4. June onwards: organise the event!
