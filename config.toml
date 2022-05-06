@@ -11,6 +11,7 @@ weight = 2
 [[menu.main]]
 URL = "people"
 name = "People"
+identifier = "people"
 weight = 3
 [[menu.main]]
 URL = "news"
