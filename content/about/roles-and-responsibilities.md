@@ -1,10 +1,10 @@
----
-title: Team Roles and Responsibilities
-date: 2022-05-04T12:14:34.000+06:00
-description: Roles and Responsibilities
-image: https://images.unsplash.com/photo-1508145052393-b0328a3ab751?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=95
-opacity: 80
----
++++
+title = "Team Roles and Responsibilities"
+date = 2022-05-04T12:14:34.000+06:00
+description = "Roles and Responsibilities"
+image = "https://images.unsplash.com/photo-1508145052393-b0328a3ab751?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=95"
+opacity = 80
++++
 
 
 ## 🤝 Shared Expectations

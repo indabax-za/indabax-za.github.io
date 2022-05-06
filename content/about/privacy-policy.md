@@ -1,10 +1,13 @@
----
-title: Privacy policy
-date: 2019-04-12T12:14:34.000+06:00
-description: Privacy policy
-image: https://images.unsplash.com/photo-1599959464432-458179a13352?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1408&q=95
-opacity: 70
----
++++
+title = "Privacy policy"
+date = 2019-04-12T12:14:34.000+06:00
+description = "Privacy policy"
+image = "https://images.unsplash.com/photo-1599959464432-458179a13352?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1408&q=95"
+opacity = 70
+[menu.main]
+parent = "about"
+weight = 2
++++
 
 ## Information Collection, Use and Sharing
 

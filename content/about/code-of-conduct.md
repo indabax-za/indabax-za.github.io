@@ -1,10 +1,13 @@
----
-title: Code of conduct
-date: 2019-04-12T12:14:34.000+06:00
-description: Code of conduct
-image: https://images.unsplash.com/photo-1556484687-30636164638b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=95
-opacity: 70
----
++++
+title = "Code of conduct"
+date = 2019-04-12T12:14:34.000+06:00
+description = "Code of conduct"
+image = "https://images.unsplash.com/photo-1556484687-30636164638b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=95"
+opacity = 70
+[menu.main]
+parent = "about"
+weight = 2
++++
 
 The purpose of this code of conduct is to create a safe, conducive environment for everyone to have a positive experience.
 

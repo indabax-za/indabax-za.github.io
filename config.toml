@@ -4,6 +4,11 @@ summaryLength = "10"
 theme = "imbizo-website-base"
 title = "Deep Learning Indaba𝕏 South Africa"
 [[menu.main]]
+URL = "register"
+name = "Register"
+identifier = "register"
+weight = 2
+[[menu.main]]
 URL = "people"
 name = "People"
 weight = 3
@@ -12,6 +17,16 @@ URL = "news"
 identifier = "news"
 name = "News"
 weight = 2
+[[menu.main]]
+URL = "archive"
+identifier = "archive"
+name = "Archive"
+weight = 8
+[[menu.main]]
+URL = "about"
+identifier = "about"
+name = "About"
+weight = 9
 [params]
 address = "University of Pretoria"
 address_details = "40 minute drive from O.R. Tambo int."

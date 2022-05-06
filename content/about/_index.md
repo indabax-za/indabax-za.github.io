@@ -5,10 +5,6 @@ description: Contact
 image: https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=95
 min_header_height: 0em
 opacity: 70
-menu:
-  main:
-    identifier: about
-    weight: 9
 
 ---
 

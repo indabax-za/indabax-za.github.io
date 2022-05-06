@@ -6,11 +6,6 @@ image: images/photos/indabax2019-photo.jpg
 opacity: 80
 min_header_height: 30em
 type: apply
-menu:
-  main:
-    name: Register
-    identifier: register
-    weight: 1
 
 ---
 
