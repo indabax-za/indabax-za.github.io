@@ -1,0 +1,41 @@
+---
+label: People
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- type: field_group_list
+  name: item
+  label: item
+  fields:
+  - type: text
+    name: name
+    label: name
+    config:
+      required: true
+  - name: years
+    type: tag_list
+    default: []
+    label: years
+    description: Which year(s) did this person teach?<br>One year per line/entry/item
+  - type: text
+    name: affiliation
+    label: affiliation
+  - type: text
+    name: link
+    label: link
+    config:
+      required: false
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: image
+pages:
+- data/faculty.yml
+- data/faculty.yml
+- data/tutors.yml
+- data/tutors.yml

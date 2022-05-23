@@ -1,0 +1,47 @@
+---
+label: isiCNI20XX
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: end_date
+  label: end_date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: list
+  name: categories
+  label: categories
+- name: material_link
+  type: text
+  config:
+    required: false
+  label: material link
+  description: Link to the content for the school
+- name: menu
+  type: include
+  config: {}
+  template: submenu
+  label: menu
+pages:
+- content/archive/isicni2017.md
+- content/archive/isicni2017.md
+- content/archive/isicni2018.md
+- content/archive/isicni2018.md
+- content/archive/isicni2019.md
+- content/archive/isicni2019.md
+- content/archive/isicni2020.md
+- content/archive/isicni2020.md
+- content/archive/isicni2021.md
+- content/archive/isicni2021.md

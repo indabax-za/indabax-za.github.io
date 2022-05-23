@@ -1,0 +1,97 @@
+---
+label: Homepage
+hide_body: true
+fields:
+- type: field_group
+  name: banner
+  label: Banner
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: min_header_height
+    label: min_header_height
+  - name: opacity
+    type: number
+    label: opacity
+    description: ''
+    default: 100
+    required: true
+    config:
+      min: 0
+      max: 100
+      step: 5
+- type: field_group
+  name: about
+  label: About
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: textarea
+    name: content
+    label: content
+  - type: boolean
+    name: show_application_info
+    label: Show application info
+    description: See "Application info" for more
+- type: field_group
+  name: school
+  label: School section
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group
+    name: dates
+    label: dates
+    fields:
+    - type: datetime
+      name: school_start_date
+      label: school_start_date
+    - type: datetime
+      name: school_end_date
+      label: school_end_date
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: height
+      label: height
+    - name: color
+      type: color
+      label: color
+      config:
+        required: true
+        color_format: Hex
+      default: "#26AE60"
+- type: field_group
+  name: faculty
+  label: faculty
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: field_group
+  name: news
+  label: news
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+pages:
+- data/homepage.yml

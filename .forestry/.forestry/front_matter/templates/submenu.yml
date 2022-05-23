@@ -1,0 +1,32 @@
+---
+label: submenu
+hide_body: true
+fields:
+- name: menu
+  type: field_group
+  config: {}
+  fields:
+  - name: main
+    type: field_group
+    config: {}
+    fields:
+    - name: parent
+      type: text
+      config:
+        required: false
+      label: parent
+      default: archive
+      description: parent menu (e.g. archive)
+    - name: weight
+      type: number
+      label: weight
+      description: the ascending order of the item. Higher weights are lower down
+        a list
+      default: 9
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    label: main
+  label: menu

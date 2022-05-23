@@ -1,0 +1,43 @@
+---
+label: Sponsors
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: sponsors
+  label: sponsors
+  fields:
+  - type: text
+    name: tier
+    label: tier
+  - type: number
+    name: size
+    label: size
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: link
+      label: link
+    - name: background_color
+      type: color
+      label: background color
+      config:
+        required: false
+        color_format: Hex
+      default: 
+    - type: boolean
+      name: current
+      label: current
+pages:
+- data/sponsors.yml

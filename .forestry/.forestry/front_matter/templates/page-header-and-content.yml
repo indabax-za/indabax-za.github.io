@@ -1,0 +1,28 @@
+---
+label: Page header and content
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: min_header_height
+  label: min_header_height
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+  description: Header image
+pages:
+- content/archive/_index.md
+- content/archive/_index.md
+- content/code-of-conduct.md
+- content/covid-policy.md
+- content/ta-application.md

@@ -1,0 +1,107 @@
+---
+label: Application info
+hide_body: true
+fields:
+- type: boolean
+  name: applications_open
+  label: applications_open
+- type: text
+  name: label
+  label: label
+- type: text
+  name: closed_message
+  label: closed_message
+- type: text
+  name: info_link_label
+  label: info_link_label
+- type: text
+  name: URL
+  label: URL
+- type: field_group
+  name: dates
+  label: Application Dates
+  fields:
+  - type: text
+    name: applications_open_date
+    label: applications_open_date
+  - type: datetime
+    name: applications_close_date
+    label: applications_close_date
+  - type: text
+    name: acceptance_date
+    label: acceptance_date
+- type: field_group
+  name: target_applicants
+  label: Target applicants
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: text
+    name: preamble
+    label: preamble
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: icon
+      label: icon
+    - type: textarea
+      name: content
+      label: content
+- type: field_group
+  name: team
+  label: Organisers
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: team_member
+    label: team_member
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: designation
+      label: designation
+- type: field_group
+  name: faq
+  label: FAQ
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: question
+      label: question
+    - type: textarea
+      name: answer
+      label: answer
+pages:
+- data/application_info.yml
+- data/application_info.yml
