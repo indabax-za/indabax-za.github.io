@@ -36,7 +36,7 @@ sections:
   label: People page header
 - type: document
   path: data/faculty.yml
-  label: Faculty
+  label: Speakers
 - type: document
   path: data/tutors.yml
   label: Teaching assistants

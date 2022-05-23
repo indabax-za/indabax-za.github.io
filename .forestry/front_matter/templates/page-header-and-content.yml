@@ -22,7 +22,3 @@ fields:
   description: Header image
 pages:
 - content/archive/_index.md
-- content/archive/_index.md
-- content/code-of-conduct.md
-- content/covid-policy.md
-- content/ta-application.md

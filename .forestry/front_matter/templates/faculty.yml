@@ -36,6 +36,3 @@ fields:
     label: image
 pages:
 - data/faculty.yml
-- data/faculty.yml
-- data/tutors.yml
-- data/tutors.yml
