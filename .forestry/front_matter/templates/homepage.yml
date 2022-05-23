@@ -53,6 +53,12 @@ fields:
     - type: datetime
       name: school_end_date
       label: school_end_date
+    - name: estimated_date
+      type: text
+      config:
+        required: false
+      label: Estimated date
+      description: If start and end date aren't defined, this will be used instead
   - type: textarea
     name: content
     label: content
@@ -83,6 +89,12 @@ fields:
   - type: boolean
     name: enable
     label: enable
+  - name: link_text
+    type: text
+    config:
+      required: false
+    label: Link text
+    default: view all
 - type: field_group
   name: news
   label: news
@@ -93,5 +105,54 @@ fields:
   - type: text
     name: title
     label: title
+- name: experience
+  type: field_group
+  config: {}
+  fields:
+  - name: enable
+    type: boolean
+    label: enable
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: item
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Name
+      description: Note that markdown is supported
+    - name: duration
+      type: text
+      config:
+        required: false
+      label: Position in IndabaX
+    - name: company
+      type: text
+      config:
+        required: false
+      label: Affiliation
+      description: Company/University/Institute that you're affiliated with
+    - name: logo
+      type: file
+      config:
+        maxSize: 64
+      label: photo
+    - name: URL
+      type: text
+      config:
+        required: false
+      label: link
+      description: Optional, leave blank if not applicable
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: item
+  label: Organising committee
 pages:
 - data/homepage.yml
