@@ -29,6 +29,18 @@ fields:
     required: false
   label: material link
   description: Link to the content for the school
+- name: playlist
+  type: text
+  config:
+    required: false
+  label: playlist
+  description: Link to (e.g. YouTube) playlist of videos
+- name: report
+  type: text
+  config:
+    required: false
+  label: report
+  description: Link to report (e.g. pdf on Google Drive)
 - name: menu
   type: include
   config: {}
