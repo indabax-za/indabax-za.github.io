@@ -1,81 +1,77 @@
 ---
 banner:
-  title: "Deep Learning Indaba𝕏 <br> <em>South Africa</em>"
-  min_header_height: "0vh"
+  title: "Deep Learning Indaba\U0001D54F <br> <em>South Africa</em>"
+  min_header_height: 0vh
   opacity: 80
   show_date: true
   show_address: true
   cta:
     enable: true
     item:
-      - title: "Join the 2022 committee"
-        URL: "https://docs.google.com/forms/d/e/1FAIpQLScQSwGTkJUe_bi45eix1HfTAEWViobDKbrtOrvlqc5x3RyO6A/viewform?usp=sf_link"
-        color: "#AD2F8C"
-      # - title: "Schedule"
-      #   URL: "https://indabax.co.za"
-      #   color: "#003367"
+    - title: Join the 2022 committee
+      URL: https://docs.google.com/forms/d/e/1FAIpQLScQSwGTkJUe_bi45eix1HfTAEWViobDKbrtOrvlqc5x3RyO6A/viewform?usp=sf_link
+      color: "#AD2F8C"
 about:
   enable: true
-  content: A Deep Learning Indaba𝕏 is a locally-organised "Indaba" or conference
-    that helps ensure that knowledge and capacity in machine learning are spread more widely
-    across the African continent.
+  content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
+    conference that helps ensure that knowledge and capacity in machine learning are
+    spread more widely across the African continent."
   show_application_info: false
 school:
   title: Machine learning and artificial intelligence conference
   dates:
-    # school_start_date: 2022-09-04T07:00:00.000+00:00 # when we know
-    # school_end_date: 2022-09-04T07:00:00.000+00:00
     estimated_date: December 2022
+    school_start_date: 
+    school_end_date: 
   content: The conference will be a multi-day event featuring...
   item:
-    - title: Research
-      content: exchange scientific knowledge amongst researchers
-      height: 15%
-      color: "#AD2F8C"
-    - title: AI applications
-      content: showcase cutting-edge applications from industry partners
-      height: 50%
-      color: "#26AE60"
-    - title: Community
-      content: connect with other researchers and practitioners
-      height: 15%
-      color: "#F5A623"
-    - title: Tutorials
-      content: provide a practical introduction to machine learning for beginners
-      height: 50%
-      color: "#003366"
-    - title: Hackathon
-      content: get your hands dirty and learn from the best
-      height: 50%
-      color: "#F5A623"
-    - title: Poster session
-      content: showcase your work and get feedback from experts
-      height: 15%
-      color: "#26AE60"
-
+  - title: Research
+    content: exchange scientific knowledge amongst researchers
+    height: 15%
+    color: "#AD2F8C"
+  - title: AI applications
+    content: showcase cutting-edge applications from industry partners
+    height: 50%
+    color: "#26AE60"
+  - title: Community
+    content: connect with other researchers and practitioners
+    height: 15%
+    color: "#F5A623"
+  - title: Tutorials
+    content: provide a practical introduction to machine learning for beginners
+    height: 50%
+    color: "#003366"
+  - title: Hackathon
+    content: get your hands dirty and learn from the best
+    height: 50%
+    color: "#F5A623"
+  - title: Poster session
+    content: showcase your work and get feedback from experts
+    height: 15%
+    color: "#26AE60"
 faculty:
   enable: true
-  link_text: "view all"
+  link_text: view all
 news:
   enable: true
+  title: ''
 experience:
   enable: true
   title: Organising committee
   item:
-    - title: "[Click here to add your name](https://docs.google.com/forms/d/e/1FAIpQLScQSwGTkJUe_bi45eix1HfTAEWViobDKbrtOrvlqc5x3RyO6A/viewform?usp=sf_link)"
-      duration: "Join the committee to help us plan the 2022 IndabaX conference."
-      logo: "/images/people/avatar.jpg"
-      URL: "https://docs.google.com/forms/d/e/1FAIpQLScQSwGTkJUe_bi45eix1HfTAEWViobDKbrtOrvlqc5x3RyO6A/viewform?usp=sf_link"
-    - title: "Maria Schuld"
-      duration: "Executive committee member"
-      company: "Xanadu and Part-Time Researcher at the University of KwaZulu-Natal"
-      logo: "/images/people/schuld.jpg"
-    - title: "Anna Bosman"
-      duration: "Executive committee member"
-      company: "University of Pretoria"
-      logo: "/images/people/bosman.jpg"
-    - title: "Christopher Currin"
-      duration: "Executive committee member"
-      company: "Institute of Science and Technology Austria <br> [IBRO-Simons Computational Neuroscience Imbizo](https://imbizo.africa)"
-      logo: "/images/people/currin.jpg"
-      URL: "https://chriscurrin.com"
+  - title: Maria Schuld
+    duration: Executive committee member
+    company: Xanadu and Part-Time Researcher at the University of KwaZulu-Natal
+    logo: "/images/people/schuld.jpg"
+    URL: ''
+  - title: Anna Bosman
+    duration: Executive committee member
+    company: University of Pretoria
+    logo: "/images/people/bosman.jpg"
+    URL: ''
+  - title: Christopher Currin
+    duration: Executive committee member
+    company: Institute of Science and Technology Austria <br> [IBRO-Simons Computational
+      Neuroscience Imbizo](https://imbizo.africa)
+    logo: "/images/people/currin.jpg"
+    URL: https://chriscurrin.com
