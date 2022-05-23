@@ -10,6 +10,10 @@ developed by Christopher Brian Currin [[🔗GitHub](https://github.com/ChrisCurr
     cd indabax.github.io
     ```
 
+1. install Hugo
+   https://gohugo.io/getting-started/installing/
+   
+
 1. start server
     ```bash
     hugo server -D -d public  
