@@ -145,9 +145,8 @@ fields:
     - name: URL
       type: text
       config:
-        required: false
+        required: true
       label: link
-      description: Optional, leave blank if not applicable
     config:
       min: 
       max: 
