@@ -2,7 +2,7 @@
 banner:
   title: "Deep Learning Indaba\U0001D54F <br> <em>South Africa</em>"
   min_header_height: 0vh
-  opacity: 80
+  opacity: 60
   show_date: true
   show_address: true
   cta:
