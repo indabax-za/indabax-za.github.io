@@ -7,10 +7,7 @@ banner:
   show_address: true
   cta:
     enable: false
-    item:
-    - title: ''
-      url: ''
-      color: ''
+    item: []
 about:
   enable: true
   content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
