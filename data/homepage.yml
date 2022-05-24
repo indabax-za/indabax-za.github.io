@@ -6,11 +6,8 @@ banner:
   show_date: true
   show_address: true
   cta:
-    enable: False
-    item:
-    - title: Join the 2022 committee
-      URL: https://docs.google.com/forms/d/e/1FAIpQLScQSwGTkJUe_bi45eix1HfTAEWViobDKbrtOrvlqc5x3RyO6A/viewform?usp=sf_link
-      color: "#AD2F8C"
+    enable: true
+    item: []
 about:
   enable: true
   content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
