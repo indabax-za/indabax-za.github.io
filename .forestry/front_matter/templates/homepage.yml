@@ -22,6 +22,48 @@ fields:
       min: 0
       max: 100
       step: 5
+  - name: show_date
+    type: boolean
+    label: show date
+    default: true
+  - name: show_address
+    type: boolean
+    label: show address
+    default: true
+  - name: cta
+    type: field_group
+    config: {}
+    fields:
+    - name: enable
+      type: boolean
+      label: enable
+      default: true
+    - name: item
+      type: field_group_list
+      fields:
+      - name: title
+        type: text
+        config:
+          required: false
+        label: title
+      - name: url
+        type: text
+        config:
+          required: false
+        label: URL
+      - name: color
+        type: color
+        label: color
+        config:
+          required: false
+          color_format: Hex
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: item
+    label: call to actions
+    description: add prominent buttons here
 - type: field_group
   name: about
   label: About
