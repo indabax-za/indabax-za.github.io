@@ -6,7 +6,7 @@ banner:
   show_date: true
   show_address: true
   cta:
-    enable: true
+    enable: False
     item:
     - title: Join the 2022 committee
       URL: https://docs.google.com/forms/d/e/1FAIpQLScQSwGTkJUe_bi45eix1HfTAEWViobDKbrtOrvlqc5x3RyO6A/viewform?usp=sf_link
