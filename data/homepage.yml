@@ -10,7 +10,8 @@ banner:
     item: []
 about:
   enable: true
-  content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
+  content:
+    "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
     conference that helps ensure that knowledge and capacity in machine learning are
     spread more widely across the African continent."
   show_application_info: false
@@ -18,57 +19,123 @@ school:
   title: Machine learning and artificial intelligence conference
   dates:
     estimated_date: December 2022
-    school_start_date: 
-    school_end_date: 
+    school_start_date:
+    school_end_date:
   content: The conference will be a multi-day event featuring...
   item:
-  - title: Research
-    content: exchange scientific knowledge amongst researchers
-    height: 15%
-    color: "#AD2F8C"
-  - title: AI applications
-    content: showcase cutting-edge applications from industry partners
-    height: 50%
-    color: "#26AE60"
-  - title: Community
-    content: connect with other researchers and practitioners
-    height: 15%
-    color: "#F5A623"
-  - title: Tutorials
-    content: provide a practical introduction to machine learning for beginners
-    height: 50%
-    color: "#003366"
-  - title: Hackathon
-    content: get your hands dirty and learn from the best
-    height: 50%
-    color: "#F5A623"
-  - title: Poster session
-    content: showcase your work and get feedback from experts
-    height: 15%
-    color: "#26AE60"
+    - title: Research
+      content: exchange scientific knowledge amongst researchers
+      height: 15%
+      color: "#AD2F8C"
+    - title: AI applications
+      content: showcase cutting-edge applications from industry partners
+      height: 50%
+      color: "#26AE60"
+    - title: Community
+      content: connect with other researchers and practitioners
+      height: 15%
+      color: "#F5A623"
+    - title: Tutorials
+      content: provide a practical introduction to machine learning for beginners
+      height: 50%
+      color: "#003366"
+    - title: Hackathon
+      content: get your hands dirty and learn from the best
+      height: 50%
+      color: "#F5A623"
+    - title: Poster session
+      content: showcase your work and get feedback from experts
+      height: 15%
+      color: "#26AE60"
 faculty:
   enable: true
   link_text: view all
 news:
   enable: true
-  title: ''
+  title: ""
 experience:
   enable: true
   title: Organising committee
   item:
-  - title: Maria Schuld
-    duration: Executive committee member
-    company: Xanadu and Part-Time Researcher at the University of KwaZulu-Natal
-    logo: "/images/people/schuld.jpg"
-    URL: https://za.linkedin.com/in/maria-schuld-7857b070
-  - title: Anna Bosman
-    duration: Executive committee member
-    company: University of Pretoria
-    logo: "/images/people/bosman.jpg"
-    URL: https://annabosman.github.io
-  - title: Christopher Currin
-    duration: Executive committee member
-    company: Institute of Science and Technology Austria <br> [IBRO-Simons Computational
-      Neuroscience Imbizo](https://imbizo.africa)
-    logo: "/images/people/currin.jpg"
-    URL: https://chriscurrin.com
+    - title: Anna Bosman
+      duration: Local organiser | Director
+      company: University of Pretoria
+      logo: "/images/people/bosman.jpg"
+      URL: https://annabosman.github.io
+    - title: Christopher Currin
+      duration: CEO | Director
+      company:
+        Institute of Science and Technology Austria & [IBRO-Simons Computational
+        Neuroscience Imbizo](https://imbizo.africa)
+      logo: "/images/people/currin.jpg"
+      URL: https://chriscurrin.com
+    - title: Maria Schuld
+      duration: Accounting | Director
+      company: Xanadu & Part-Time Researcher at the University of KwaZulu-Natal
+      logo: "/images/people/schuld.jpg"
+      URL: https://www.linkedin.com/in/maria-schuld-7857b070
+    - title: Kerryn Gammie
+      duration: Programme Chair
+      company: Independent
+      logo: "/images/people/gammie.jpg"
+      URL: https://kgamm.medium.com
+    - title: Lydia de Lange
+      duration: Programme Chair
+      company: "[SpatialEdge](https://spatialedge.co.za/)"
+      logo: "/images/people/delange.jpg"
+      URL: https://www.linkedin.com/in/lydia-de-lange-055b87177
+    - title: Windy Mokuwe
+      duration: Catering & Social Events
+      company: Council for Science and Industrial Research
+      logo: "/images/people/mokuwe.jpg"
+      URL: https://www.linkedin.com/in/windy-mokuwe
+    - title: Dinorego Bauba Mphogo
+      duration: Catering & Social Events
+      company: Tshwane University of Technology
+      logo: "/images/people/mphogo.jpg"
+      URL: https://www.linkedin.com/in/dinorego-mphogo-134594101
+    - title: Devin Taylor
+      duration: Accounting
+      company: "[WovenLight, London](https://www.wovenlight.com/)"
+      logo: "/images/people/taylor.jpg"
+      URL: https://www.linkedin.com/in/devin-taylor03
+    # - title: Sabathile Ndlovu
+    #   duration: Marketing & Communications
+    #   company:
+    #   logo: "/images/people/ndlovu.jpg"
+    #   URL:
+    - title: Guillaume Odendaal
+      duration: Hackathon
+      company: "[Chisl](https://www.chislgroup.com/)"
+      logo: "/images/people/odendaal.jpg"
+      URL: https://www.linkedin.com/in/guillaume-odendaal-001/
+    - title: Chris Fourie
+      duration: Fundraising
+      company: "[LifeQ](https://www.lifeq.com/)"
+      logo: "/images/people/fourie.jpg"
+      URL: https://www.chrisfourie.africa
+    # - title: Stacey Baror
+    #   duration: Fundraising
+    #   company:
+    #   logo: "/images/people/baror.jpg"
+    #   URL:
+    # - title: Laing Lourens
+    #   duration: Hackathon
+    #   company:
+    #   logo: "/images/people/lourens.jpg"
+    #   URL:
+    # - title: Temitope Kekere
+    #   duration: Fundraising
+    #   company:
+    #   logo: "/images/people/kekere.jpg"
+    #   URL:
+    # - title: Aboubacar Diallo
+    #   duration: Hackathon
+    #   company:
+    #   logo: "/images/people/diallo.jpg"
+    #   URL:
+    - title: Sicelukwanda Zwane
+      duration: Marketing & Communications
+      company: University College London
+      logo: "/images/people/zwane.jpg"
+      URL: https://www.linkedin.com/in/sicelukwanda-zwane-54873398
