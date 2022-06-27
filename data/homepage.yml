@@ -84,6 +84,11 @@ experience:
       company: "[SpatialEdge](https://spatialedge.co.za/)"
       logo: "/images/people/delange.jpg"
       URL: https://www.linkedin.com/in/lydia-de-lange-055b87177
+    - title: Chris Fourie
+      duration: Fundraising
+      company: "[LifeQ](https://www.lifeq.com/)"
+      logo: "/images/people/fourie.jpg"
+      URL: https://www.chrisfourie.africa
     - title: Windy Mokuwe
       duration: Catering & Social Events
       company: Council for Science and Industrial Research
@@ -99,21 +104,26 @@ experience:
       company: "[WovenLight, London](https://www.wovenlight.com/)"
       logo: "/images/people/taylor.jpg"
       URL: https://www.linkedin.com/in/devin-taylor03
-    # - title: Sabathile Ndlovu
-    #   duration: Marketing & Communications
-    #   company:
-    #   logo: "/images/people/ndlovu.jpg"
-    #   URL:
+    - title: Sabathile Ndlovu
+      duration: Marketing & Communications
+      company: University of KwaZulu-Natal
+      logo: "/images/people/ndlovu.jpg"
+      URL: https://www.linkedin.com/in/sabathile-ndlovu-6614191a5/
+    - title: Sicelukwanda Zwane
+      duration: Marketing & Communications
+      company: University College London
+      logo: "/images/people/zwane.jpg"
+      URL: https://www.linkedin.com/in/sicelukwanda-zwane-54873398
     - title: Guillaume Odendaal
       duration: Hackathon
       company: "[Chisl](https://www.chislgroup.com/)"
       logo: "/images/people/odendaal.jpg"
       URL: https://www.linkedin.com/in/guillaume-odendaal-001/
-    - title: Chris Fourie
-      duration: Fundraising
-      company: "[LifeQ](https://www.lifeq.com/)"
-      logo: "/images/people/fourie.jpg"
-      URL: https://www.chrisfourie.africa
+    - title: Aboubacar Diallo
+      duration: Hackathon
+      company: Senior Data Analytics Consultant | AI/ML Applied in Healthcare (Independent)
+      logo: "/images/people/diallo.jpg"
+      URL: https://www.linkedin.com/in/daboubacar/
     # - title: Stacey Baror
     #   duration: Fundraising
     #   company:
@@ -129,13 +139,3 @@ experience:
     #   company:
     #   logo: "/images/people/kekere.jpg"
     #   URL:
-    # - title: Aboubacar Diallo
-    #   duration: Hackathon
-    #   company:
-    #   logo: "/images/people/diallo.jpg"
-    #   URL:
-    - title: Sicelukwanda Zwane
-      duration: Marketing & Communications
-      company: University College London
-      logo: "/images/people/zwane.jpg"
-      URL: https://www.linkedin.com/in/sicelukwanda-zwane-54873398
