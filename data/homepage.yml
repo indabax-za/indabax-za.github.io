@@ -84,6 +84,11 @@ experience:
       company: "[SpatialEdge](https://spatialedge.co.za/)"
       logo: "/images/people/delange.jpg"
       URL: https://www.linkedin.com/in/lydia-de-lange-055b87177
+    - title: Temitope Kekere
+      duration: Fundraising
+      company: University of Pretoria
+      logo: "/images/people/kekere.jpg"
+      URL: https://www.linkedin.com/in/tope-kekere-9418991b
     - title: Chris Fourie
       duration: Fundraising
       company: "[LifeQ](https://www.lifeq.com/)"
@@ -133,9 +138,4 @@ experience:
     #   duration: Hackathon
     #   company:
     #   logo: "/images/people/lourens.jpg"
-    #   URL:
-    # - title: Temitope Kekere
-    #   duration: Fundraising
-    #   company:
-    #   logo: "/images/people/kekere.jpg"
     #   URL:
