@@ -80,6 +80,16 @@ people:
     affiliation: Senior Data Analytics Consultant | AI/ML Applied in Healthcare (Independent)
     image: "/images/people/diallo.jpg"
     link: https://www.linkedin.com/in/daboubacar/
+  - name: Stacey Baror
+    position: Fundraising
+    affiliation: University of Pretoria
+    image: "/images/people/baror.jpg"
+    link: https://www.cs.up.ac.za/user/someleze/
+  - name: Laing Lourens
+    position: Local organiser, Programme Chair, Catering & Social Events
+    affiliation: CSIR
+    image: "/images/people/lourens.jpg"
+    link: https://www.linkedin.com/in/laing-lourens-561a33173
 
 ---
 

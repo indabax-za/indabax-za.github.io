@@ -19,8 +19,8 @@ school:
   title: Machine learning and artificial intelligence conference
   dates:
     estimated_date: December 2022
-    school_start_date:
-    school_end_date:
+    school_start_date: 2021-12-13
+    school_end_date: 2021-12-15
   content: The conference will be a multi-day event featuring...
   item:
     - title: Research
@@ -55,87 +55,3 @@ news:
   title: ""
 experience:
   enable: true
-  title: Organising committee
-  item:
-    - title: Anna Bosman
-      duration: Local organiser | Director
-      company: University of Pretoria
-      logo: "/images/people/bosman.jpg"
-      URL: https://annabosman.github.io
-    - title: Christopher Currin
-      duration: CEO | Director
-      company:
-        Institute of Science and Technology Austria & [IBRO-Simons Computational
-        Neuroscience Imbizo](https://imbizo.africa)
-      logo: "/images/people/currin.jpg"
-      URL: https://chriscurrin.com
-    - title: Maria Schuld
-      duration: Accounting | Director
-      company: Xanadu & Part-Time Researcher at the University of KwaZulu-Natal
-      logo: "/images/people/schuld.jpg"
-      URL: https://www.linkedin.com/in/maria-schuld-7857b070
-    - title: Kerryn Gammie
-      duration: Programme Chair
-      company: Independent
-      logo: "/images/people/gammie.jpg"
-      URL: https://kgamm.medium.com
-    - title: Lydia de Lange
-      duration: Programme Chair
-      company: "[SpatialEdge](https://spatialedge.co.za/)"
-      logo: "/images/people/delange.jpg"
-      URL: https://www.linkedin.com/in/lydia-de-lange-055b87177
-    - title: Temitope Kekere
-      duration: Fundraising
-      company: University of Pretoria
-      logo: "/images/people/kekere.jpg"
-      URL: https://www.linkedin.com/in/tope-kekere-9418991b
-    - title: Chris Fourie
-      duration: Fundraising
-      company: "[LifeQ](https://www.lifeq.com/)"
-      logo: "/images/people/fourie.jpg"
-      URL: https://www.chrisfourie.africa
-    - title: Windy Mokuwe
-      duration: Catering & Social Events
-      company: Council for Science and Industrial Research
-      logo: "/images/people/mokuwe.jpg"
-      URL: https://www.linkedin.com/in/windy-mokuwe
-    - title: Dinorego Bauba Mphogo
-      duration: Catering & Social Events
-      company: Tshwane University of Technology
-      logo: "/images/people/mphogo.jpg"
-      URL: https://www.linkedin.com/in/dinorego-mphogo-134594101
-    - title: Devin Taylor
-      duration: Accounting
-      company: "[WovenLight, London](https://www.wovenlight.com/)"
-      logo: "/images/people/taylor.jpg"
-      URL: https://www.linkedin.com/in/devin-taylor03
-    - title: Sabathile Ndlovu
-      duration: Marketing & Communications
-      company: University of KwaZulu-Natal
-      logo: "/images/people/ndlovu.jpg"
-      URL: https://www.linkedin.com/in/sabathile-ndlovu-6614191a5/
-    - title: Sicelukwanda Zwane
-      duration: Marketing & Communications
-      company: University College London
-      logo: "/images/people/zwane.jpg"
-      URL: https://www.linkedin.com/in/sicelukwanda-zwane-54873398
-    - title: Guillaume Odendaal
-      duration: Hackathon
-      company: "[Chisl](https://www.chislgroup.com/)"
-      logo: "/images/people/odendaal.jpg"
-      URL: https://www.linkedin.com/in/guillaume-odendaal-001/
-    - title: Aboubacar Diallo
-      duration: Hackathon
-      company: Senior Data Analytics Consultant | AI/ML Applied in Healthcare (Independent)
-      logo: "/images/people/diallo.jpg"
-      URL: https://www.linkedin.com/in/daboubacar/
-    # - title: Stacey Baror
-    #   duration: Fundraising
-    #   company:
-    #   logo: "/images/people/baror.jpg"
-    #   URL:
-    # - title: Laing Lourens
-    #   duration: Hackathon
-    #   company:
-    #   logo: "/images/people/lourens.jpg"
-    #   URL:
