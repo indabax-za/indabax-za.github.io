@@ -21,4 +21,5 @@ fields:
   label: image
   description: Header image
 pages:
+- content/about/media-pack.md
 - content/archive/_index.md
