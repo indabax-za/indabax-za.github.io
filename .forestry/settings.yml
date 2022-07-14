@@ -10,6 +10,17 @@ sections:
 - type: document
   path: data/sponsors.yml
   label: Sponsors
+- type: directory
+  path: content/news
+  label: News
+  create: all
+  match: "**/*"
+  templates:
+  - post
+  - post-with-people
+- type: document
+  path: config.toml
+  label: Site configuration
 - type: heading
   label: Application
 - type: document
@@ -35,32 +46,34 @@ sections:
   path: content/people/_index.md
   label: People page header
 - type: document
+  path: data/experience.yml
+  label: Organising committee
+  match: "**/*"
+- type: document
   path: data/faculty.yml
   label: Speakers
 - type: document
   path: data/tutors.yml
   label: Teaching assistants
 - type: heading
-  label: Other
-- type: directory
-  path: content/news
-  label: News
-  create: all
-  match: "*"
-  exclude: _index.md
-  templates:
-  - post
+  label: About
 - type: directory
   path: content/contact
   label: Contact
   create: none
   match: "*"
-- type: document
-  path: config.toml
-  label: Configuration
+- type: directory
+  path: content/about
+  label: about pages
+  create: all
+  match: "**/*"
+  templates:
+  - page-header-and-content
+- type: heading
+  label: Other
 - type: directory
   path: content
-  label: Content
+  label: All Content
   create: all
   match: "**/*"
   templates:
