@@ -78,14 +78,18 @@ enable = false
 preloader = ""
 [[params.social]]
 URL = "http://eepurl.com/hCE_C5"
-icon = "ti-email"
+icon = "ti-comments"
+text = "join our community and mailing list"
 [[params.social]]
 URL = "https://www.youtube.com/c/deeplearningindabax"
 icon = "ti-youtube"
+text = "watch our videos"
 [[params.social]]
 URL = "https://twitter.com/DeepIndabaX_ZA"
 embed_url = "https://twitter.com/DeepIndabaX_ZA?ref_src=twsrc%5Etfw"
 icon = "ti-twitter-alt"
+text="follow us on twitter"
 [[params.social]]
 URL = "https://www.instagram.com/indabax_za/"
 icon = "ti-instagram"
+text = "follow us on instagram"
