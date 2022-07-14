@@ -14,7 +14,7 @@ sections:
   path: content/news
   label: News
   create: all
-  match: "*"
+  match: "**/*"
   templates:
   - post
   - post-with-people
