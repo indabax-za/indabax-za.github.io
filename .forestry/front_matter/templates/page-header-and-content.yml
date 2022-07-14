@@ -20,6 +20,12 @@ fields:
     maxSize: 64
   label: image
   description: Header image
+- name: link
+  type: text
+  config:
+    required: false
+  label: link
 pages:
+- content/about/media-pack.md
 - content/about/media-pack.md
 - content/archive/_index.md
