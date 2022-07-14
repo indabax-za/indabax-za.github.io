@@ -48,7 +48,6 @@ sections:
 - type: document
   path: data/experience.yml
   label: Organising committee
-  match: "**/*"
 - type: document
   path: data/faculty.yml
   label: Speakers
