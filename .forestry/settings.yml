@@ -46,6 +46,10 @@ sections:
   path: content/people/_index.md
   label: People page header
 - type: document
+  path: data/experience.yml
+  label: Organising committee
+  match: "**/*"
+- type: document
   path: data/faculty.yml
   label: Speakers
 - type: document
