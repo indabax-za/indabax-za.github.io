@@ -10,8 +10,7 @@ banner:
     item: []
 about:
   enable: true
-  content:
-    "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
+  content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
     conference that helps ensure that knowledge and capacity in machine learning are
     spread more widely across the African continent."
   show_application_info: false
@@ -19,39 +18,39 @@ school:
   title: Machine learning and artificial intelligence conference
   dates:
     estimated_date: December 2022
-    school_start_date: 2021-12-13
-    school_end_date: 2021-12-15
+    school_start_date: 2022-12-13T07:00:00+00:00
+    school_end_date: 2022-12-15T14:00:00+00:00
   content: The conference will be a multi-day event featuring...
   item:
-    - title: Research
-      content: exchange scientific knowledge amongst researchers
-      height: 15%
-      color: "#AD2F8C"
-    - title: AI applications
-      content: showcase cutting-edge applications from industry partners
-      height: 50%
-      color: "#26AE60"
-    - title: Community
-      content: connect with other researchers and practitioners
-      height: 15%
-      color: "#F5A623"
-    - title: Tutorials
-      content: provide a practical introduction to machine learning for beginners
-      height: 50%
-      color: "#003366"
-    - title: Hackathon
-      content: get your hands dirty and learn from the best
-      height: 50%
-      color: "#F5A623"
-    - title: Poster session
-      content: showcase your work and get feedback from experts
-      height: 15%
-      color: "#26AE60"
+  - title: Research
+    content: exchange scientific knowledge amongst researchers
+    height: 15%
+    color: "#AD2F8C"
+  - title: AI applications
+    content: showcase cutting-edge applications from industry partners
+    height: 50%
+    color: "#26AE60"
+  - title: Community
+    content: connect with other researchers and practitioners
+    height: 15%
+    color: "#F5A623"
+  - title: Tutorials
+    content: provide a practical introduction to machine learning for beginners
+    height: 50%
+    color: "#003366"
+  - title: Hackathon
+    content: get your hands dirty and learn from the best
+    height: 50%
+    color: "#F5A623"
+  - title: Poster session
+    content: showcase your work and get feedback from experts
+    height: 15%
+    color: "#26AE60"
 faculty:
   enable: true
   link_text: view all
 news:
   enable: true
-  title: ""
+  title: ''
 experience:
   enable: true
