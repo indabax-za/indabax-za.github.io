@@ -3,37 +3,38 @@ applications_open: false
 label: Register now
 closed_message: Registration is closed
 info_link_label: Registation info
-URL: ""
+URL: ''
 dates:
-  applications_open_date: July 2022
+  applications_open_date: Sept 2022
   applications_close_date: 2022-09-15T22:00:00.000+00:00
   acceptance_date: October 2022 (approx)
 target_applicants:
   enable: true
   title: Who should register?
-  content:
-    "The aim of the conference is to provide a practical introduction to machine learning for beginners,
-    to exchange scientific knowledge amongst researchers,
-    and showcase cutting-edge applications from industry partners."
+  content: The aim of the conference is to provide a practical introduction to machine
+    learning for beginners, to exchange scientific knowledge amongst researchers,
+    and showcase cutting-edge applications from industry partners.
   preamble: Everyone is invited
   item:
-    - title: Student
-      icon: images/icons/icon-1.png
-      content: Free!
-    - title: Academic
-      icon: images/icons/icon-3.png
-      content: R1250
-    - title: Industry professional
-      icon: images/icons/icon-2.png
-      content: R2500
+  - title: Student
+    icon: images/icons/icon-1.png
+    content: Free!
+  - title: Academic
+    icon: images/icons/icon-3.png
+    content: R1250
+  - title: Industry professional
+    icon: images/icons/icon-2.png
+    content: R2500
 team:
   enable: false
+  title: ''
+  team_member: []
 faq:
   enable: true
   title: Frequently asked questions
   item:
-    - question: I'm not sure if I'm a good fit, should I still apply?
-      answer: |-
-        **Yes!** Give yourself every opportunity to succeed by applying in the first place.
+  - question: I'm not sure if I'm a good fit, should I still apply?
+    answer: |-
+      **Yes!** Give yourself every opportunity to succeed by applying in the first place.
 
-        The IndabaX is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
+      The IndabaX is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
