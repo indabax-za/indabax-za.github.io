@@ -9,10 +9,15 @@ identifier = "register"
 name = "Register"
 weight = 2
 [[menu.main]]
-URL = "people"
-identifier = "people"
-name = "People"
+URL = "speakers"
+identifier = "speakers"
+name = "Speakers"
 weight = 3
+[[menu.main]]
+URL = "sponsors"
+identifier = "sponsors"
+name = "Sponsors"
+weight = 4
 [[menu.main]]
 URL = "news"
 identifier = "news"

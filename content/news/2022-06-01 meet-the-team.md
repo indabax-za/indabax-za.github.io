@@ -3,7 +3,7 @@ title: "Meet the Indaba𝕏 2022 organising committee"
 date: 2022-06-01T12:14:34+02:00
 description: "Meet the Indaba𝕏 2022 organising committee"
 image: "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=770&q=95"
-draft: true
+draft: false
 layout: "wide"
 people: 
   title: Indaba𝕏 2022 organising committee
