@@ -14,9 +14,9 @@ identifier = "speakers"
 name = "Speakers"
 weight = 3
 [[menu.main]]
-URL = "sponsors"
-identifier = "sponsors"
-name = "Sponsors"
+URL = "partners"
+identifier = "partners"
+name = "Partners"
 weight = 4
 [[menu.main]]
 URL = "news"

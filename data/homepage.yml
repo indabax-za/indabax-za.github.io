@@ -13,7 +13,7 @@ about:
   content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
     conference that helps ensure that knowledge and capacity in machine learning are
     spread more widely across the African continent."
-  show_application_info: false
+  show_application_info: true
 school:
   title: Machine learning and artificial intelligence conference
   dates:
@@ -46,8 +46,14 @@ school:
     content: showcase your work and get feedback from experts
     height: 15%
     color: "#26AE60"
+sponsors:
+  enable: true
+  link: partners
+  link_text: view all
 faculty:
   enable: true
+  link: speakers
+  ta_link: speakers
   link_text: view all
 news:
   enable: true

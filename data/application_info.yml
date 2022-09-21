@@ -1,40 +1,139 @@
 ---
-applications_open: false
-label: Register now
-closed_message: Registration is closed
+link: /register # link to the registration page within IndabaX (e.g. /register)
 info_link_label: Registation info
-URL: ''
-dates:
-  applications_open_date: Sept 2022
-  applications_close_date: 2022-10-16T21:00:00+00:00
-  acceptance_date: early November 2022 (approx.)
+applications:
+  - heading: >-
+      Studying\
+       🧑🏼‍🎓\
+       Free!
+    label: Apply to attend for free
+    open: true
+    closed_message: Registration is closed
+    URL: "https://docs.google.com/forms/d/e/1FAIpQLSf5QALjK4Ql_MDX3XGhbhPbSfXdVYgbXZJ8zwcdPrWHDE9RjA/viewform?usp=sf_link"
+    color: "#5AA136"
+    open_date: Sept 2022
+    close_date: 2022-10-31T23:00:00+02:00
+    acceptance_date: 14th November (approx.)
+  - heading: |-
+      Academia\
+      🧑🏽‍🔬\
+      R1500
+    label: Register as an academic
+    open: false
+    closed_message: Opening soon!
+    URL: ""
+    color: "#9A5BD4"
+    open_date: soon! Tickets released in mutliple waves on a first come, first serve basis
+    close_date: 2022-11-30T23:00:00+02:00
+    acceptance_date: tickets released in mutliple waves on a first come, first serve basis
+  - heading: |-
+      Industry\
+      🧑🏾‍💻\
+      R3000
+    label: Register as an industry professional
+    open: false
+    closed_message: Opening soon!
+    URL: ""
+    color: "#228EE3"
+    open_date: soon! Tickets released in mutliple waves on a first come, first serve basis
+    close_date: 2022-11-30T23:00:00+02:00
+    acceptance_date: tickets released in mutliple waves on a first come, first serve basis
+  - heading: >-
+      Abstract
+    label: Submit abstract
+    col_size: 8
+    open: true
+    closed_message: Registration is closed
+    URL: "https://docs.google.com/forms/d/e/1FAIpQLSfeV1mqqj4cyqDmCAyBj835KK27vy56DbN4Z-a2Bf8mHvuzKw/viewform?usp=sf_link"
+    color: "orange"
+    open_date: Sept 2022
+    close_date: 2022-10-31T23:00:00+02:00
+    acceptance_date: 30th November (approx.)
+show_period: false # show the period of the conference (these dates will be used to display the period on the homepage)
+period_text: Registration period
+applications_open_date: Sept 2022
+applications_close_date: 2022-10-31T23:00:00+02:00
+acceptance_date: 14th November (approx.)
 target_applicants:
   enable: true
   title: Who should register?
-  content: The aim of the conference is to provide a practical introduction to machine
-    learning for beginners, to exchange scientific knowledge amongst researchers,
-    and showcase cutting-edge applications from industry partners.
-  preamble: Everyone is invited
+  content: |-
+    We welcome students, academics, and industry professionals to attend the Deep Learning Indaba𝕏 South Africa - one of South Africa's premier Machine Learning gatherings and community-building spaces 🤝. 
+
+    _"Indaba" is a Zulu and Xhosa word meaning "discussion" or "conference"_
+    
+    **All backgrounds are welcome!**
+
+  preamble: Everyone is invited to join the community and experience...
   item:
-  - title: Student
-    icon: images/icons/icon-1.png
-    content: Free!
-  - title: Academic
-    icon: images/icons/icon-3.png
-    content: R1250
-  - title: Industry professional
-    icon: images/icons/icon-2.png
-    content: R2500
+    - title: Practical knowledge
+      icon: images/icons/icon-1.png
+      content: |-
+        Learn the latest techniques and tools for deep learning, and get hands-on experience with them.
+        
+        Experience tutorials and workshops, which set the stage for the conference and 
+        provide practical skills that you can apply to your own work or research.
+        
+    - title: Scientific exchange
+      icon: images/icons/icon-3.png
+      content: |-
+        Network with researchers from across the country and continent, and learn about the latest research in deep learning.
+        
+        Catch up with friends to discuss their latest results and meet future collaborators for discovering what's next.
+    - title: Cutting-edge applications
+      icon: images/icons/icon-2.png
+      content: |-
+        Interact with cutting-edge applications from industry and community researchers making an impact.
+
+        See a showcase of the latest research and applications in deep learning, and learn how to implement it to your work.
 team:
   enable: false
-  title: ''
+  title: "Team"
   team_member: []
 faq:
   enable: true
   title: Frequently asked questions
   item:
-  - question: I'm not sure if I'm a good fit, should I still apply?
-    answer: |-
-      **Yes!** Give yourself every opportunity to succeed by applying in the first place.
+    - question: How many people from a single group or company should attend?
+      answer: |-
+        This is highly dependent on the nature of group's research and the individuals within. 
 
-      The IndabaX is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
+        We highly encourage everyone to (apply to) attend, but there are of course limitations in terms of space and costs.
+        We cannot guarantee everyone from a group will be able to attend, and we will be prioritising diversity of attendees from multiple
+        institutes and groups, where possible. However, we encourage those that _do_ attend to showcase a summary of what 
+        they learnt to their groups; our community extends beyond the confines of who can attend a single event!
+
+        If you would like to guarantee multiple spots and support a good cause (we're a non-profit by the way!), 
+         consider [**supporting us**](/partners) as the packages come with awesome perks!
+    - question: How do I imporve my application?
+      icon: ti-angle-double-up
+      answer: |-
+        Here are some tips to strengthen your next application
+          - Keep spelling and grammar in mind; it’s one of the first thing reviewers notice. Did you notice "imporve" above.
+          - Show that you are committed to learning more about machine learning. For example, if you've taken an online course (such as Andrew Ng's Coursera course) you should mention it (and if you haven't we would highly recommend doing so).
+          - Talk about how you are already using, or how you plan to use, machine learning for your work or research.
+          - Talk about how you are contributing to your local machine learning community. For example, do you organize meetup events, run lectures, or lead a study group?
+          - Make sure you put plenty of effort into the application since this is one way for us to judge your interest in attending.
+
+        **See more tips [in this doc](https://docs.google.com/document/d/1P3wQKzu3p8wxfSwX7YoePSCHZea4B4ctkSlzF_JXkis/edit?usp=sharing)**
+    
+    - question: I'm a postdoc, where do I fit in?
+      icon: ti-key
+      answer: |-
+        It depends on contract. If you're a lecturer, you should apply as an academic. 
+        If you're mainly a postdoc researcher but struggling with funds, apply as a student (there's no harm in trying). 
+        If you're a postdoc researcher and have a strong stable income, you should apply as an academic.
+    - question: I'm not sure if I'm a good fit, should I still attend?
+      icon: ti-hand-open
+      answer: |-
+        **Yes!** Give yourself every opportunity to succeed by applying in the first place.
+
+        The IndabaX is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
+    - question: I'm not from South Africa, can I still attend?
+      icon: ti-flag-alt-2
+      answer: |-
+        **Yes!** The IndabaX is open to anyone from anywhere in the world.
+
+        We are committed to making the IndabaX accessible to everyone, and we will do our best to accommodate your needs. 
+        **However, please note that we are unable to provide travel or accommodation assistance.**
+        If you have any questions or concerns, please contact us.
