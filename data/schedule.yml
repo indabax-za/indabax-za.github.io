@@ -1,0 +1,154 @@
+title: Schedule
+tracks:
+  - title: Keynote
+    color: "#c9492c"
+  - title: Research
+    color: "#18A8C9"
+  - title: Industry, Ethics, & Policy
+    color: "#C92260"
+  - title: Foundations
+    color: "#18C989"
+  - title: Hackathon
+    color: "#f5a623"
+  - title: Unconference
+    color: "#40C94A"
+  - title: "Poster Session"
+    color: "#ebb493"
+  - title: Social
+    color: "#29af8c"
+  - title: Tutorials
+    color: "#003366"
+  - title: Workshops
+    color: "#7c60c6"
+# days:
+#   - title: Day X
+#     date: 2022-12-12
+#     content: "Day 0 is a day of tutorials and workshops for beginners. It is also a day
+#       for the hackathon."
+#     sessions:
+#       - time: 08:00 - 12:00
+#         columns:
+#           - title: Tutorials
+#             track: "" # leave blank if not track
+#             content: "Tutorials are a great way to learn about machine learning and artificial
+#               intelligence. They are also a great way to meet other researchers and practitioners."
+#             location: UNITE Building, University of KwaZulu-Natal
+#             sessions:
+#               - title: Introduction to machine learning
+#                 time: 9:00 - 12:00
+#                 speaker_name: Vukosi Marivate
+#   - title: Day Y
+#     date: 2022-12-12
+#     content: "Day 0 is a day of tutorials and workshops for beginners. It is also a day
+#       for the hackathon."
+#     sessions:
+#       - time: 08:00 - 09:00
+#         columns:
+#           - title: Keynote I
+#             track: "Keynote" # leave blank if not track
+#             content: "Tutorials are a great way to learn about machine learning and artificial
+#               intelligence. They are also a great way to meet other researchers and practitioners."
+#             location: UNITE Building, University of KwaZulu-Natal
+#             sessions:
+#               - title: The best keynote ever
+#                 speaker_name: Vukosi Marivate
+#       - time: 08:00 - 12:00
+#         columns:
+#           - title: Foundations I
+#             track: "Foundations"
+#             content: ""
+#             sessions:
+#               - title: Animated Intro to Machine Learning
+#                 time: 9:00 - 12:00
+#                 speaker_name: Kerryn Gammie
+#               - title: Introduction to machine learning
+#                 time: 12:00 - 13:00
+#                 speaker_name: Vukosi Marivate
+#           - title: Research I
+#             track: "Research"
+#             content: ""
+#             location: Lecture 2
+#             sessions:
+#               - title: Machine Learning For Robot Control
+#                 speaker_name: Dr. Ndivhuwo Makondo
+#               - title: Will Capsule Networks Replace CNNs?
+#                 time: 10:00 - 11:00
+#                 speaker_name: Dr. Ashley Gritzman
+#           - title: Industry, Ethics, & Policy I
+#             track: "Industry, Ethics, & Policy"
+#             content: ""
+#             location: Lecture 3
+#             sessions:
+#               - title: Machine Learning in Real Life
+#                 time: 9:00 - 10:00
+#                 speaker_name: Jade Abbott
+#       - time: 08:00 - 12:00
+#         columns:
+#           - title: Hackathon
+#             track: "Hackathon"
+#             content: ""
+#             location: UNITE Building, University of KwaZulu-Natal
+#             sessions:
+#               - title: Animated Intro to Machine Learning
+#                 time: 9:00 - 12:00
+#                 speaker_name: Kerryn Gammie
+#               - title: Introduction to machine learning
+#                 time: 12:00 - 13:00
+#                 speaker_name: Vukosi Marivate
+#           - title: Unconference
+#             track: "Unconference"
+#             content: ""
+#             location: Lecture 2
+#             sessions:
+#               - title: Machine Learning For Robot Control
+#                 speaker_name: Dr. Ndivhuwo Makondo
+#               - title: Will Capsule Networks Replace CNNs?
+#                 time: 10:00 - 11:00
+#                 speaker_name: Dr. Ashley Gritzman
+#       - time: 08:00 - 12:00
+#         columns:
+#           - title: Workshop 
+#             track: "Workshops"
+#             content: ""
+#             location: UNITE Building, University of KwaZulu-Natal
+#             number: ""
+#             sessions:
+#               - title: Animated Intro to Machine Learning
+#                 time: 9:00 - 12:00
+#                 speaker_name: Kerryn Gammie
+#               - title: Introduction to machine learning
+#                 time: 12:00 - 13:00
+#                 speaker_name: Vukosi Marivate
+#           - title: Tutorial
+#             track: "Tutorials"
+#             content: ""
+#             location: Lecture 2
+#             sessions:
+#               - title: Machine Learning For Robot Control
+#                 speaker_name: Dr. Ndivhuwo Makondo
+#               - title: Will Capsule Networks Replace CNNs?
+#                 time: 10:00 - 11:00
+#                 speaker_name: Dr. Ashley Gritzman
+#           - title: Closing event
+#             track: "Social"
+#             content: "Yay"
+#             location: Lecture 2
+#             sessions:
+#               - title: Machine Learning For Robot Control
+#                 speaker_name: Dr. Ndivhuwo Makondo
+#               - title: Will Capsule Networks Replace CNNs?
+#                 time: 10:00 - 11:00
+#                 speaker_name: Dr. Ashley Gritzman
+#       - time: 08:00 - 12:00
+#         columns:
+#           - title: Poster session
+#             track: "Poster Session"
+#             content: "Posters!"
+#             location: UNITE Building, University of KwaZulu-Natal
+#             number: "50+"
+        
+                    
+                
+
+    
+

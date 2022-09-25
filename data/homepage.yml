@@ -52,9 +52,16 @@ sponsors:
   link_text: view all
 faculty:
   enable: true
+  show_all: true
+  slider: false
   link: speakers
   ta_link: speakers
   link_text: view all
+schedule:
+  enable: false
+  link: /schedule
+  link_text: download
+  link_icon: download
 news:
   enable: true
   title: ''
