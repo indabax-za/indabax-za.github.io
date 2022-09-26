@@ -6,8 +6,11 @@ banner:
   show_date: true
   show_address: true
   cta:
-    enable: false
-    item: []
+    enable: true
+    item: 
+      - title: Register now
+        URL: /register
+        color: "#10793b"
 about:
   enable: true
   content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
@@ -58,10 +61,10 @@ faculty:
   ta_link: speakers
   link_text: view all
 schedule:
-  enable: false
+  enable: true
   link: /schedule
-  link_text: download
-  link_icon: download
+  # link_text: download
+  # link_icon: download
 news:
   enable: true
   title: ''
