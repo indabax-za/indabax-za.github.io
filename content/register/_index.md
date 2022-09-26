@@ -24,9 +24,9 @@ As much as we want everyone to join us, there is limited space available so we c
 
 | Date | Event |
 |:-----|:------|
-| 2021-09-21 📜 | Abstract submissions **open** |
-| 2021-09-21 📝 | Applications for free attendance (e.g. for students) **open** |
-| 2021-09-27 🎗| 1st wave of paid registrations (e.g. for academics) **open** |
+| 2021-09-26 📜 | Abstract submissions **open** |
+| 2021-09-26 📝 | Applications for free attendance (e.g. for students) **open** |
+| 2021-09-30 🎗| 1st wave of paid registrations (e.g. for academics) **open** |
 | 2021-10-31 👻 | Abstract submissions **close** |
 | 2021-10-31 👻 | Applications for free attendance **close** |
 | 2021-11-14 📢 | Notification of application **acceptance** |
