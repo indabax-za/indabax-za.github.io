@@ -47,15 +47,15 @@ sponsors:
     link: https://www.linkedin.com/company/alisx/
     current: true
     background_color: ''
-  - name: AI Expo Africa
-    image: images/partners/ai_expo.png
-    link: https://aiexpoafrica.com/
-    current: true
-    background_color: ''
   - name: InstaDeep
     image: images/partners/instadeep.png
     link: https://instadeep.com/
     current: false
+    background_color: ''
+  - name: Ashanti AI
+    image: images/partners/ashanti_ai.png
+    link: https://www.ashanti.ai
+    current: true
     background_color: ''
 - tier: Lion (R15 000)
   size: 60
@@ -66,6 +66,16 @@ sponsors:
   - name: Sisonke Biotik
     image: images/partners/sisonke_biotik_wide@8x.png
     link: https://www.sisonkebiotik.africa
+    current: true
+    background_color: ''
+  - name: Masakhane
+    image: images/partners/masakhane.png
+    link: https://www.masakhane.io
+    current: false
+    background_color: ''
+  - name: AI Expo Africa
+    image: images/partners/ai_expo.png
+    link: https://aiexpoafrica.com/
     current: true
     background_color: ''
 - tier: Affiliated institutions
