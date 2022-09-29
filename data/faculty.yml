@@ -1,30 +1,25 @@
 ---
 title: "Invited speakers"
-tracks:
-  - title: Keynote
-    color: "#c9492c"
-  - title: Research
-    color: "#18A8C9"
-  - title: Industry, Ethics, & Policy
-    color: "#C92260"
-  - title: Foundations
-    color: "#18C989"
-  - title: Hackathon
-    color: "#f5a623"
-  - title: Unconference
-    color: "#40C94A"
-  - title: "Poster Session"
-    color: "#ebb493"
-  - title: Social
-    color: "#29af8c"
-  - title: Tutorials
-    color: "#003366"
-  - title: Workshops
-    color: "#7c60c6"
+badges: false
 item: 
 - name: Vukosi Marivate
   years:
   - 'Keynote'
   affiliation: University of Pretoria
   link: https://www.vima.co.za/
-  # image: "images/people/buffalo.jpg"
+- name: Pelonomi Moiloa
+  years:
+  - 'Applied ML & Industry'
+  affiliation: Nedbank
+  link: https://www.linkedin.com/in/pelonomi-moiloa
+- name: Ronald Clark
+  years:
+  - "Applied ML & Industry"
+  affiliation: University of Oxford
+  link: https://www.cs.ox.ac.uk/people/ronald.clark/
+- name: Ashwinee Pandey
+  years:
+  - "Foundations"
+  topic: Intro to reinforcement learning
+  affiliation: Mpesa - Vodacom
+  link: https://www.linkedin.com/in/ashwineepandey/

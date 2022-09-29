@@ -4,7 +4,7 @@ tracks:
     color: "#c9492c"
   - title: Research
     color: "#18A8C9"
-  - title: Industry, Ethics, & Policy
+  - title: "Applied ML & Industry"
     color: "#C92260"
   - title: Foundations
     color: "#18C989"
@@ -31,34 +31,29 @@ days:
         columns:
           - title: Registration
             track: "" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
       - time: 15h30 - 21h00
         columns:
           - title: Opening event
             track: "Social" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Venue TBC"
   - title: Day 1
     date: 2022-12-13
-    content:
-      ""
+    content: ""
     sessions:
       - time: 08h30 - 09h00
         columns:
           - title: "Opening Remarks"
             track: "" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
       - time: 09h00 - 10h00
         columns:
           - title: "Keynote I"
             track: "Keynote" # leave blank if not track
-            content:
-              "Opening talk"
+            content: "Opening talk"
             location: ""
             # number: "0"
             sessions:
@@ -73,8 +68,7 @@ days:
         columns:
           - title: "Foundations I"
             track: "Foundations" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Computer labs"
             sessions:
               - title: "Introduction to Machine Learning"
@@ -82,8 +76,7 @@ days:
                 speaker_name: ""
           - title: "Research I"
             track: "Research" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             sessions:
               - title: "Research talk 1"
@@ -95,10 +88,9 @@ days:
               - title: "Research talk 3"
                 time: "11h30 - 12h00"
                 speaker_name: ""
-          - title: "Industry, Ethics, & Policy I"
-            track: "Industry, Ethics, & Policy" # leave blank if not track
-            content:
-              ""
+          - title: "Applied ML & Industry I"
+            track: "Applied ML & Industry" # leave blank if not track
+            content: ""
             location: ""
             sessions:
               - title: "IEP talk 1"
@@ -115,11 +107,10 @@ days:
           - title: "Lunch"
             track: "" # leave blank if not track
       - time: 13h00 - 14h00
-        columns: 
+        columns:
           - title: "Keynote II"
             track: "Keynote" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             # number: "0"
             sessions:
@@ -135,8 +126,7 @@ days:
         columns:
           - title: "Foundations II"
             track: "Foundations" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Computer labs"
             sessions:
               - title: "Neural network funamentals"
@@ -144,8 +134,7 @@ days:
                 speaker_name: ""
           - title: "Research II"
             track: "Research" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             sessions:
               - title: "Research talk 1"
@@ -157,10 +146,9 @@ days:
               - title: "Research talk 3"
                 time: "15h30 - 16h00"
                 speaker_name: ""
-          - title: "Industry, Ethics, & Policy II"
-            track: "Industry, Ethics, & Policy" # leave blank if not track
-            content:
-              ""
+          - title: "Applied ML & Industry II"
+            track: "Applied ML & Industry" # leave blank if not track
+            content: ""
             location: ""
             sessions:
               - title: "IEP talk 1"
@@ -176,28 +164,24 @@ days:
         columns:
           - title: "Poster session"
             track: "Poster Session" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Distributed"
             number: 50+
   - title: Day 2
     date: 2022-12-14
-    content:
-      ""
+    content: ""
     sessions:
       - time: 08h30 - 09h00
         columns:
           - title: "Opening Remarks"
             track: "" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
       - time: 09h00 - 10h00
         columns:
           - title: "Keynote III"
             track: "Keynote" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             # number: "0"
             sessions:
@@ -212,8 +196,7 @@ days:
         columns:
           - title: "Foundations III"
             track: "Foundations" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Computer labs"
             sessions:
               - title: "Deep generative models"
@@ -221,8 +204,7 @@ days:
                 speaker_name: ""
           - title: "Research III"
             track: "Research" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             sessions:
               - title: "Research talk 1"
@@ -234,10 +216,9 @@ days:
               - title: "Research talk 3"
                 time: "11h30 - 12h00"
                 speaker_name: ""
-          - title: "Industry, Ethics, & Policy III"
-            track: "Industry, Ethics, & Policy" # leave blank if not track
-            content:
-              ""
+          - title: "Applied ML & Industry III"
+            track: "Applied ML & Industry" # leave blank if not track
+            content: ""
             location: ""
             sessions:
               - title: "IEP talk 1"
@@ -254,11 +235,10 @@ days:
           - title: "Lunch"
             track: "" # leave blank if not track
       - time: 13h00 - 14h00
-        columns: 
+        columns:
           - title: "Keynote IV"
             track: "Keynote" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             # number: "0"
             sessions:
@@ -274,8 +254,7 @@ days:
         columns:
           - title: "Foundations IV"
             track: "Foundations" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Computer labs"
             sessions:
               - title: "Basics of reinforcement learning"
@@ -283,8 +262,7 @@ days:
                 speaker_name: ""
           - title: "Research IV"
             track: "Research" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             sessions:
               - title: "Research talk 1"
@@ -296,10 +274,9 @@ days:
               - title: "Research talk 3"
                 time: "15h30 - 16h00"
                 speaker_name: ""
-          - title: "Industry, Ethics, & Policy IV"
-            track: "Industry, Ethics, & Policy" # leave blank if not track
-            content:
-              ""
+          - title: "Applied ML & Industry IV"
+            track: "Applied ML & Industry" # leave blank if not track
+            content: ""
             location: ""
             sessions:
               - title: "IEP talk 1"
@@ -315,28 +292,24 @@ days:
         columns:
           - title: "Hackathon"
             track: "Hackathon" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Computer labs"
             number: 3+
   - title: Day 3
     date: 2022-12-15
-    content:
-      ""
+    content: ""
     sessions:
       - time: 08h30 - 09h00
         columns:
           - title: "Morning coffee"
             track: "" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
       - time: 09h00 - 10h00
         columns:
           - title: "Panel discussion"
             track: "Keynote" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             number: "5"
             sessions:
@@ -351,8 +324,7 @@ days:
         columns:
           - title: "Hackathon"
             track: "Hackathon" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: "Computer labs"
             sessions:
               - title: ""
@@ -360,13 +332,11 @@ days:
                 speaker_name: ""
           - title: "Unconference"
             track: "Unconference" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
           - title: "Workshop: AI in Healthcare"
             track: "Workshop" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
             number: 17
             sessions:
@@ -405,14 +375,11 @@ days:
         columns:
           - title: "Closing remarks"
             track: "Keynote" # leave blank if not track
-            content:
-              ""
+            content: ""
             location: ""
       - time: 16h00 -
         columns:
           - title: "Networking"
             track: "Social" # leave blank if not track
-            content:
-              ""
-            location: ""   
-          
+            content: ""
+            location: ""
