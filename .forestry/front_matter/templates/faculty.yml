@@ -34,5 +34,10 @@ fields:
     config:
       maxSize: 64
     label: Photo
+    description: It's generally better to upload images to the github directly. <br><a
+      href="https://github.com/indabax-za/indabax-za.github.io" title="https://github.com/indabax-za/indabax-za.github.io"
+      target="_blank">https://github.com/indabax-za/indabax-za.github.io</a><br><strong>static/images/people/&lt;last
+      name&gt;.jpg<br></strong>image based on the last name is automatically picked
+      up.<br>This makes it a bit cleaner than what forestry allows
 pages:
 - data/faculty.yml
