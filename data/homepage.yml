@@ -58,8 +58,8 @@ faculty:
   show_all: true
   show_track: true
   slider: false
-  link: speakers
-  ta_link: speakers
+  link: /speakers
+  ta_link: /speakers
   link_text: view all
 schedule:
   enable: true

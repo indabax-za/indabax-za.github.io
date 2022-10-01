@@ -59,7 +59,7 @@ days:
             sessions:
               - title: ""
                 time: ""
-                speaker_name: ""
+                name: ""
       - time: 10h00 - 10h30
         columns:
           - title: "Break"
@@ -73,7 +73,7 @@ days:
             sessions:
               - title: "Introduction to Machine Learning"
                 time: ""
-                speaker_name: ""
+                name: ""
           - title: "Research I"
             track: "Research" # leave blank if not track
             content: ""
@@ -81,13 +81,13 @@ days:
             sessions:
               - title: "Research talk 1"
                 time: "10h30 - 11h00"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 2"
                 time: "11h00 - 11h30"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 3"
                 time: "11h30 - 12h00"
-                speaker_name: ""
+                name: ""
           - title: "Applied ML & Industry I"
             track: "Applied ML & Industry" # leave blank if not track
             content: ""
@@ -95,13 +95,13 @@ days:
             sessions:
               - title: "IEP talk 1"
                 time: "10h30 - 11h00"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 2"
                 time: "11h00 - 11h30"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 3"
                 time: "11h30 - 12h00"
-                speaker_name: ""
+                name: ""
       - time: 12h00 - 13h00
         columns:
           - title: "Lunch"
@@ -116,7 +116,7 @@ days:
             sessions:
               - title: ""
                 time: ""
-                speaker_name: ""
+                name: ""
       - time: 14h00 - 14h30
         columns:
           - title: "Break"
@@ -131,7 +131,7 @@ days:
             sessions:
               - title: "Neural network funamentals"
                 time: ""
-                speaker_name: ""
+                name: ""
           - title: "Research II"
             track: "Research" # leave blank if not track
             content: ""
@@ -139,13 +139,13 @@ days:
             sessions:
               - title: "Research talk 1"
                 time: "14h30 - 15h00"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 2"
                 time: "15h00 - 15h30"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 3"
                 time: "15h30 - 16h00"
-                speaker_name: ""
+                name: ""
           - title: "Applied ML & Industry II"
             track: "Applied ML & Industry" # leave blank if not track
             content: ""
@@ -153,13 +153,13 @@ days:
             sessions:
               - title: "IEP talk 1"
                 time: "14h30 - 15h00"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 2"
                 time: "15h00 - 15h30"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 3"
                 time: "15h30 - 16h00"
-                speaker_name: ""
+                name: ""
       - time: 16h00 - 21h00
         columns:
           - title: "Poster session"
@@ -187,7 +187,7 @@ days:
             sessions:
               - title: ""
                 time: ""
-                speaker_name: ""
+                name: ""
       - time: 10h00 - 10h30
         columns:
           - title: "Break"
@@ -201,7 +201,7 @@ days:
             sessions:
               - title: "Deep generative models"
                 time: ""
-                speaker_name: ""
+                name: ""
           - title: "Research III"
             track: "Research" # leave blank if not track
             content: ""
@@ -209,13 +209,13 @@ days:
             sessions:
               - title: "Research talk 1"
                 time: "10h30 - 11h00"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 2"
                 time: "11h00 - 11h30"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 3"
                 time: "11h30 - 12h00"
-                speaker_name: ""
+                name: ""
           - title: "Applied ML & Industry III"
             track: "Applied ML & Industry" # leave blank if not track
             content: ""
@@ -223,13 +223,13 @@ days:
             sessions:
               - title: "IEP talk 1"
                 time: "10h30 - 11h00"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 2"
                 time: "11h00 - 11h30"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 3"
                 time: "11h30 - 12h00"
-                speaker_name: ""
+                name: ""
       - time: 12h00 - 13h00
         columns:
           - title: "Lunch"
@@ -244,7 +244,7 @@ days:
             sessions:
               - title: ""
                 time: ""
-                speaker_name: ""
+                name: ""
       - time: 14h00 - 14h30
         columns:
           - title: "Break"
@@ -259,7 +259,7 @@ days:
             sessions:
               - title: "Basics of reinforcement learning"
                 time: ""
-                speaker_name: ""
+                name: "Ashwinee Pandey"
           - title: "Research IV"
             track: "Research" # leave blank if not track
             content: ""
@@ -267,13 +267,13 @@ days:
             sessions:
               - title: "Research talk 1"
                 time: "14h30 - 15h00"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 2"
                 time: "15h00 - 15h30"
-                speaker_name: ""
+                name: ""
               - title: "Research talk 3"
                 time: "15h30 - 16h00"
-                speaker_name: ""
+                name: ""
           - title: "Applied ML & Industry IV"
             track: "Applied ML & Industry" # leave blank if not track
             content: ""
@@ -281,13 +281,13 @@ days:
             sessions:
               - title: "IEP talk 1"
                 time: "14h30 - 15h00"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 2"
                 time: "15h00 - 15h30"
-                speaker_name: ""
+                name: ""
               - title: "IEP talk 3"
                 time: "15h30 - 16h00"
-                speaker_name: ""
+                name: ""
       - time: 16h00 - 21h00
         columns:
           - title: "Hackathon"
@@ -315,7 +315,7 @@ days:
             sessions:
               - title: ""
                 time: ""
-                speaker_name: ""
+                name: ""
       - time: 10h00 - 10h30
         columns:
           - title: "Break"
@@ -329,7 +329,7 @@ days:
             sessions:
               - title: ""
                 time: ""
-                speaker_name: ""
+                name: ""
           - title: "Unconference"
             track: "Unconference" # leave blank if not track
             content: ""
@@ -342,31 +342,31 @@ days:
             sessions:
               - title: "AI in Healthcare talk 1"
                 time: "10h30 - 10h40"
-                speaker_name: ""
+                name: ""
               - title: "AI in Healthcare talk 2"
                 time: "10h40 - 11h00"
-                speaker_name: ""
+                name: ""
               - title: "6x Lightning talks"
                 time: "11h00 - 11h20"
-                speaker_name: ""
+                name: ""
               - title: "AI in Healthcare talk 3"
                 time: "11h20 - 11h40"
-                speaker_name: ""
+                name: ""
               - title: "Break"
                 time: "11h40 - 12h00"
-                speaker_name: ""
+                name: ""
               - title: "Lunch"
                 time: "12h00 - 13h00"
-                speaker_name: ""
+                name: ""
               - title: "AI in Healthcare talk 4"
                 time: "13h00 - 13h20"
-                speaker_name: ""
+                name: ""
               - title: "6x Lightning talks"
                 time: "13h20 - 13h40"
-                speaker_name: ""
+                name: ""
               - title: "AI in Healthcare talk 5"
                 time: "13h40 - 14h00"
-                speaker_name: ""
+                name: ""
       - time: 15h00 - 15h45
         columns:
           - title: "Hackathon presentations and prizes"
