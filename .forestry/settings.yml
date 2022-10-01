@@ -88,7 +88,7 @@ sections:
   new_doc_ext: yml
 upload_dir: static/images
 public_path: "/images"
-front_matter_path: ''
+front_matter_path: "/images"
 use_front_matter_path: false
 file_template: ":filename:"
 build:
