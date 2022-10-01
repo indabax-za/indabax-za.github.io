@@ -51,7 +51,6 @@ sections:
 - type: document
   path: data/schedule.yml
   label: Schedule
-  match: "**/*"
 - type: document
   path: data/faculty.yml
   label: Speakers
