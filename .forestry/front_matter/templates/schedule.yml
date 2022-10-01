@@ -12,9 +12,12 @@ fields:
   - type: text
     name: title
     label: title
-  - type: text
-    name: color
+  - name: color
+    type: color
     label: color
+    config:
+      required: false
+      color_format: Hex
 - type: field_group_list
   name: days
   label: days
@@ -25,8 +28,14 @@ fields:
   - type: datetime
     name: date
     label: date
-  - type: text
-    name: content
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: content
   - type: field_group_list
     name: sessions
@@ -45,9 +54,55 @@ fields:
       - type: text
         name: track
         label: track
-      - type: text
-        name: content
+      - name: content
+        type: textarea
+        default: ''
+        config:
+          required: false
+          wysiwyg: false
+          schema:
+            format: markdown
         label: content
       - type: text
         name: location
         label: location
+      - name: number
+        type: number
+        label: number
+        description: ''
+        default: 0
+        required: true
+        config:
+          min: 
+          max: 
+          step: 
+      - name: sessions
+        type: field_group_list
+        fields:
+        - name: title
+          type: text
+          config:
+            required: false
+          label: title
+        - name: time
+          type: text
+          config:
+            required: false
+          label: time
+        - name: name
+          type: select
+          default: []
+          config:
+            required: false
+            options: []
+            source:
+              type: documents
+              section: faculty
+              file: data/faculty.yml
+              path: 
+          label: Speaker name
+        config:
+          min: 
+          max: 
+          labelField: 
+        label: talks
