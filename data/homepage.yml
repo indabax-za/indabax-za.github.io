@@ -55,6 +55,7 @@ sponsors:
   link_text: view all
 faculty:
   enable: true
+  title: Invited speakers
   show_all: true
   show_track: true
   slider: false

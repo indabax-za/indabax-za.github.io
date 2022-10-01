@@ -57,6 +57,10 @@ homepage = true
 [params.cookies]
 enable = true
 expire_days = 20
+[params.faculty]
+badges = false
+sortby = "name" # name, max_year, etc.
+order = "asc" # asc, desc
 [[params.footermenu.about]]
 link = "about/code-of-conduct"
 name = "Code of Conduct"
