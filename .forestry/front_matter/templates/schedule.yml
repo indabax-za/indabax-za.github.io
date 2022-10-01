@@ -106,3 +106,5 @@ fields:
           max: 
           labelField: 
         label: talks
+pages:
+- data/schedule.yml
