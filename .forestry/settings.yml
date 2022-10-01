@@ -49,6 +49,10 @@ sections:
   path: data/experience.yml
   label: Organising committee
 - type: document
+  path: data/schedule.yml
+  label: Schedule
+  match: "**/*"
+- type: document
   path: data/faculty.yml
   label: Speakers
 - type: document
