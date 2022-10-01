@@ -1,0 +1,53 @@
+---
+label: Schedule
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: tracks
+  label: tracks
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: color
+    label: color
+- type: field_group_list
+  name: days
+  label: days
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: datetime
+    name: date
+    label: date
+  - type: text
+    name: content
+    label: content
+  - type: field_group_list
+    name: sessions
+    label: sessions
+    fields:
+    - type: text
+      name: time
+      label: time
+    - type: field_group_list
+      name: columns
+      label: columns
+      fields:
+      - type: text
+        name: title
+        label: title
+      - type: text
+        name: track
+        label: track
+      - type: text
+        name: content
+        label: content
+      - type: text
+        name: location
+        label: location
