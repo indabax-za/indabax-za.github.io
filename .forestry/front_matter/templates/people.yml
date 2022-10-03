@@ -58,11 +58,17 @@ fields:
     name: link
     label: link
 - name: people
-  type: list
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: name
   config:
-    use_select: false
     min: 
     max: 
+    labelField: name
   label: people
 pages:
 - data/faculty.yml
