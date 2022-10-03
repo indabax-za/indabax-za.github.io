@@ -1,20 +1,21 @@
-Keynote:
-  color: "#c9492c"
-Research:
-  color: "#18A8C9"
-Applied ML & Industry:
-  color: "#C92260"
-Foundations:
-  color: "#18C989"
-Hackathon:
-  color: "#f5a623"
-Unconference:
-  color: "#40C94A"
-Poster Session:
-  color: "#ebb493"
-Social:
-  color: "#29af8c"
-Tutorials:
-  color: "#003366"
-Workshops:
-  color: "#7c60c6"
+tracks:
+  - name: Keynote
+    color: "#c9492c"
+  - name: Research
+    color: "#18A8C9"
+  - name: Applied ML & Industry
+    color: "#C92260"
+  - name: Foundations
+    color: "#18C989"
+  - name: Hackathon
+    color: "#f5a623"
+  - name: Unconference
+    color: "#40C94A"
+  - name: Poster Session
+    color: "#ebb493"
+  - name: Social
+    color: "#29af8c"
+  - name: Tutorials
+    color: "#003366"
+  - name: Workshops
+    color: "#7c60c6"

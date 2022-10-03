@@ -1,24 +1,23 @@
 ---
-Vukosi Marivate:
-  years:
-  - Keynote
-  affiliation: University of Pretoria
-  link: https://www.vima.co.za/
-Pelonomi Moiloa:
-  years:
-  - Applied ML & Industry
-  affiliation: Nedbank
-  link: https://www.linkedin.com/in/pelonomi-moiloa
-Ronald Clark:
-  years:
-  - Applied ML & Industry
-  affiliation: University of Oxford
-  link: https://www.cs.ox.ac.uk/people/ronald.clark/
-Ashwinee Pandey:
-  years:
-  - Foundations
-  topic: Intro to reinforcement learning
-  affiliation: Mpesa - Vodacom
-  link: https://www.linkedin.com/in/ashwineepandey/
 people:
-- name: Chris Currin
+  - name: Vukosi Marivate
+    years:
+      - Keynote
+    affiliation: University of Pretoria
+    link: https://www.vima.co.za/
+  - name: Pelonomi Moiloa
+    years:
+      - Applied ML & Industry
+    affiliation: Nedbank
+    link: https://www.linkedin.com/in/pelonomi-moiloa
+  - name: Ronald Clark
+    years:
+      - Applied ML & Industry
+    affiliation: University of Oxford
+    link: https://www.cs.ox.ac.uk/people/ronald.clark/
+  - name: Ashwinee Pandey
+    years:
+      - Foundations
+    topic: Intro to reinforcement learning
+    affiliation: Mpesa - Vodacom
+    link: https://www.linkedin.com/in/ashwineepandey/
