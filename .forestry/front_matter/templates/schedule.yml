@@ -96,10 +96,10 @@ fields:
             required: false
             options: []
             source:
-              type: documents
+              type: pages
               section: faculty
               file: data/faculty.yml
-              path: 
+              path: Ronald Clark
           label: Speaker name
         config:
           min: 
