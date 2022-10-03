@@ -13,6 +13,7 @@ tracks:
   color: "#f5a623"
 - title: Unconference
   color: "#40C94A"
+  name: Unconference
 - name: Poster Session
   color: "#ebb493"
 - name: Social
