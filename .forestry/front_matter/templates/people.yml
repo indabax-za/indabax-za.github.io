@@ -3,18 +3,36 @@ label: People
 hide_body: true
 fields:
 - type: field_group_list
-  name: people
-  label: people
+  name: item
+  label: item
   fields:
   - type: text
     name: name
-    label: name
-  - type: list
-    name: years
-    label: years
+    label: Name
+    config:
+      required: true
+  - name: years
+    type: tag_list
+    default: []
+    label: Research Track
+    description: Can be multiple tracks (one per line)
   - type: text
     name: affiliation
-    label: affiliation
+    label: Affiliation
   - type: text
     name: link
-    label: link
+    label: Link to website or talk
+    config:
+      required: false
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+    description: It's generally better to upload images to the github directly. <br><a
+      href="https://github.com/indabax-za/indabax-za.github.io" title="https://github.com/indabax-za/indabax-za.github.io"
+      target="_blank">https://github.com/indabax-za/indabax-za.github.io</a><br><strong>static/images/people/&lt;last
+      name&gt;.jpg<br></strong>image based on the last name is automatically picked
+      up.<br>This makes it a bit cleaner than what forestry allows
+pages:
+- data/faculty.yml
