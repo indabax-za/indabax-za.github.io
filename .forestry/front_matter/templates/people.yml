@@ -2,73 +2,19 @@
 label: People
 hide_body: true
 fields:
-- type: field_group
-  name: Vukosi Marivate
-  label: Vukosi Marivate
-  fields:
-  - type: list
-    name: years
-    label: years
-  - type: text
-    name: affiliation
-    label: affiliation
-  - type: text
-    name: link
-    label: link
-- type: field_group
-  name: Pelonomi Moiloa
-  label: Pelonomi Moiloa
-  fields:
-  - type: list
-    name: years
-    label: years
-  - type: text
-    name: affiliation
-    label: affiliation
-  - type: text
-    name: link
-    label: link
-- type: field_group
-  name: Ronald Clark
-  label: Ronald Clark
-  fields:
-  - type: list
-    name: years
-    label: years
-  - type: text
-    name: affiliation
-    label: affiliation
-  - type: text
-    name: link
-    label: link
-- type: field_group
-  name: Ashwinee Pandey
-  label: Ashwinee Pandey
-  fields:
-  - type: list
-    name: years
-    label: years
-  - type: text
-    name: topic
-    label: topic
-  - type: text
-    name: affiliation
-    label: affiliation
-  - type: text
-    name: link
-    label: link
-- name: people
-  type: field_group_list
-  fields:
-  - name: name
-    type: text
-    config:
-      required: false
-    label: name
-  config:
-    min: 
-    max: 
-    labelField: name
+- type: field_group_list
+  name: people
   label: people
-pages:
-- data/faculty.yml
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: list
+    name: years
+    label: years
+  - type: text
+    name: affiliation
+    label: affiliation
+  - type: text
+    name: link
+    label: link
