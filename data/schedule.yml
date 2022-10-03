@@ -11,9 +11,8 @@ tracks:
   color: "#18C989"
 - name: Hackathon
   color: "#f5a623"
-- title: Unconference
+- name: Unconference
   color: "#40C94A"
-  name: Unconference
 - name: Poster Session
   color: "#ebb493"
 - name: Social
