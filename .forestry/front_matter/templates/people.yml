@@ -3,8 +3,8 @@ label: People
 hide_body: true
 fields:
 - type: field_group_list
-  name: item
-  label: item
+  name: people
+  label: people
   fields:
   - type: text
     name: name
