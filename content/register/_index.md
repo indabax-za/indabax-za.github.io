@@ -24,15 +24,15 @@ As much as we want everyone to join us, there is limited space available so we c
 
 | Date | Event |
 |:-----|:------|
-| 2021-09-26 📜 | Abstract submissions **open** |
-| 2021-09-26 📝 | Applications for free attendance (e.g. for students) **open** |
-| 2021-10-14 🎗| 1st wave of paid registrations (e.g. for academics) **open** |
-| 2021-10-31 👻 | Abstract submissions **close** |
-| 2021-10-31 👻 | Applications for free attendance **close** |
-| 2021-11-14 📢 | Notification of application **acceptance** |
-| 2021-11-18 ☑️ | **RSVP** to secure spot (acceptance +4 days) |
-| 2021-11-30 🎤| Notification of abstract **acceptance** |
-| 2021-11-30 🛑| Final wave of paid registrations **close** |
+| 2022-09-26 📜 | Abstract submissions **open** |
+| 2022-09-26 📝 | Applications for free attendance (e.g. for students) **open** |
+| 2022-10-04 🎗| 1st wave of paid registrations (e.g. for academics) **open** |
+| 2022-10-31 👻 | Abstract submissions **close** |
+| 2022-10-31 👻 | Applications for free attendance **close** |
+| 2022-11-14 📢 | Notification of application **acceptance** |
+| 2022-11-18 ☑️ | **RSVP** to secure spot (acceptance +4 days) |
+| 2022-11-30 🎤| Notification of abstract **acceptance** |
+| 2022-11-30 🛑| Final wave of paid registrations **close** |
 
 > [**Travel grants**](/register/travel-grants) must be applied for _during the application process_. See [Travel grants](/register/travel-grants) for more info.
 
