@@ -10,8 +10,8 @@ fields:
   label: tracks
   fields:
   - type: text
-    name: title
-    label: title
+    name: name
+    label: name
   - name: color
     type: color
     label: color
