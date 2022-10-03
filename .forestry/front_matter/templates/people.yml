@@ -57,5 +57,12 @@ fields:
   - type: text
     name: link
     label: link
+- name: people
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: people
 pages:
 - data/faculty.yml
