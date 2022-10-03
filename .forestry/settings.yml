@@ -54,7 +54,6 @@ sections:
 - type: document
   path: data/tracks.yml
   label: Tracks
-  match: "**/*"
 - type: document
   path: data/faculty.yml
   label: Speakers

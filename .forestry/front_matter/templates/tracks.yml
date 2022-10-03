@@ -1,0 +1,17 @@
+---
+label: Tracks
+hide_body: true
+fields:
+- type: field_group_list
+  name: tracks
+  label: tracks
+  fields:
+  - type: text
+    name: name
+    label: name
+  - name: color
+    type: color
+    label: color
+    config:
+      required: false
+      color_format: Hex
