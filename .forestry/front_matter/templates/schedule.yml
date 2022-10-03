@@ -90,17 +90,11 @@ fields:
             required: false
           label: time
         - name: name
-          type: select
-          default: []
+          type: text
           config:
             required: false
-            options: []
-            source:
-              type: pages
-              section: faculty
-              file: data/faculty.yml
-              path: Ronald Clark
           label: Speaker name
+          description: should be the same that appears in Speakers
         config:
           min: 
           max: 
