@@ -13,9 +13,9 @@ applications:
   acceptance_date: 14th November (approx.)
 - heading: "Academia  \n\U0001F52D  \nR1500"
   label: Register as an academic
-  open: false
+  open: true
   closed_message: Opening soon!
-  URL: 'https://payf.st/sgcvf'
+  URL: 'https://docs.google.com/forms/d/e/1FAIpQLSdKIOv_ZJMQPhPRRQxT5rBkBMK5EUY4YGW4u37rS4-DTQ9vQw/viewform?usp=sf_link'
   color: "#9A5BD4"
   open_date: soon! Tickets released in multiple waves on a first come, first serve
     basis
@@ -24,9 +24,9 @@ applications:
     basis
 - heading: "Industry  \n\U0001F6E0  \nR3000"
   label: Register as an industry professional
-  open: false
+  open: true
   closed_message: Opening soon!
-  URL: 'https://payf.st/xq7wp'
+  URL: 'https://docs.google.com/forms/d/e/1FAIpQLScjgbEbjkommkPcb3BRMIUez7ybD05_km6rqJ6VYqZsQU0U3A/viewform?usp=sf_link'
   color: "#228EE3"
   open_date: soon! Tickets released in multiple waves on a first come, first serve
     basis
