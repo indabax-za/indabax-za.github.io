@@ -15,7 +15,7 @@ applications:
   label: Register as an academic
   open: true
   closed_message: Opening soon!
-  URL: 'https://docs.google.com/forms/d/e/1FAIpQLSdKIOv_ZJMQPhPRRQxT5rBkBMK5EUY4YGW4u37rS4-DTQ9vQw/viewform?usp=sf_link'
+  URL: https://docs.google.com/forms/d/e/1FAIpQLSdKIOv_ZJMQPhPRRQxT5rBkBMK5EUY4YGW4u37rS4-DTQ9vQw/viewform?usp=sf_link
   color: "#9A5BD4"
   open_date: soon! Tickets released in multiple waves on a first come, first serve
     basis
@@ -26,14 +26,17 @@ applications:
   label: Register as an industry professional
   open: true
   closed_message: Opening soon!
-  URL: 'https://docs.google.com/forms/d/e/1FAIpQLScjgbEbjkommkPcb3BRMIUez7ybD05_km6rqJ6VYqZsQU0U3A/viewform?usp=sf_link'
+  URL: https://docs.google.com/forms/d/e/1FAIpQLScjgbEbjkommkPcb3BRMIUez7ybD05_km6rqJ6VYqZsQU0U3A/viewform?usp=sf_link
   color: "#228EE3"
   open_date: soon! Tickets released in multiple waves on a first come, first serve
     basis
   close_date: 2022-11-30T23:00:00.000+02:00
   acceptance_date: tickets released in multiple waves on a first come, first serve
     basis
-- heading: Abstract
+- heading: |-
+    Propose a talk
+
+    Present a poster
   label: Submit abstract
   col_size: 8
   open: true
@@ -46,7 +49,7 @@ applications:
 show_period: false
 period_text: Registration period
 applications_open_date: Sept 2022
-applications_close_date: 2022-10-31T09:00:00+00:00
+applications_close_date: 2022-10-31T09:00:00.000+00:00
 acceptance_date: 14th November (approx.)
 target_applicants:
   enable: true
