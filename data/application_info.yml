@@ -33,7 +33,7 @@ applications:
   close_date: 2022-11-30T23:00:00.000+02:00
   acceptance_date: tickets released in multiple waves on a first come, first serve
     basis
-- heading: "Propose a talk  \n\U0001F3A4 \U0001F5BC️  \nPresent a poster"
+- heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
   label: Submit abstract
   col_size: 8
   open: true
