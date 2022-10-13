@@ -24,11 +24,16 @@ sections:
 - type: heading
   label: Application
 - type: document
-  path: content/register/_index.md
-  label: Application info page header
-- type: document
   path: data/application_info.yml
   label: Application Info
+- type: document
+  path: content/register/_index.md
+  label: Application info page header
+- type: directory
+  path: content/register
+  label: Application info sub pages
+  create: all
+  match: "**/*"
 - type: heading
   label: Archive
 - type: document
