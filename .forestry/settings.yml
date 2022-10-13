@@ -24,7 +24,7 @@ sections:
 - type: heading
   label: Application
 - type: document
-  path: content/apply/_index.md
+  path: content/register/_index.md
   label: Application info page header
 - type: document
   path: data/application_info.yml
