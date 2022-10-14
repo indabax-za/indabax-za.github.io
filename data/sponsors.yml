@@ -31,6 +31,14 @@ sponsors:
 - tier: Black Rhino (R50 000)
   item: []
   size: 
+- tier: White Rhino (Poster session)
+  size: 100
+  item: 
+  - name: AI Expo Africa
+    image: images/partners/ai_expo.png
+    link: https://aiexpoafrica.com/
+    current: true
+    background_color: ''
 - tier: Leopard (Hackathon)
   size: 80
   item:
@@ -71,11 +79,6 @@ sponsors:
   - name: Masakhane
     image: images/partners/masakhane.png
     link: https://www.masakhane.io
-    current: false
-    background_color: ''
-  - name: AI Expo Africa
-    image: images/partners/ai_expo.png
-    link: https://aiexpoafrica.com/
     current: true
     background_color: ''
 - tier: Affiliated institutions
