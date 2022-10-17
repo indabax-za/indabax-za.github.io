@@ -19,7 +19,7 @@ As much as we want everyone to join us, there is limited space available so we c
 
 > **Note:** we will have videographers and photographers at the event 📷, smiles encouraged 😃.
 
-### {{<icon "calendar">}}  Important dates {.project-meta}
+### {{<icon "ti-calendar">}}  Important dates {.project-meta}
 
 | Date | Event |
 | :--- | :--- |
@@ -35,14 +35,14 @@ As much as we want everyone to join us, there is limited space available so we c
 
 > [**Travel grants**](/register/travel-grants) must be applied for _during the application process_. See [Travel grants](/register/travel-grants) for more info.
 
-### {{<icon "star">}}  Support and Sponsors {.project-meta}
+### {{<icon "ti-star">}}  Support and Sponsors {.project-meta}
 
 If you are interested in **supporting us**, please fill out the sponsorship form or email us directly for more information.
 Employees of companies who sponsor the event can attend free of charge, according to the sponsorship agreement.
 [Sponsorship Information](/partners)
 Email: sponsors@indabax.co.za
 
-### {{<icon "microphone">}}  Talks and Posters {.project-meta}
+### {{<icon "ti-microphone">}}  Talks and Posters {.project-meta}
 
 We have some slots available for submitted talks 🎤 , posters 🖼️ , and leading an unconference conversation.
 
@@ -50,7 +50,7 @@ We have some slots available for submitted talks 🎤 , posters 🖼️ , and le
 
 More information can be found on the [abstract details page](/register/abstract)
 
-### {{<icon "check-box">}}  Goals {.project-meta}
+### {{<icon "ti-check-box">}}  Goals {.project-meta}
 
 We want to facilitate the learning of others and give them opportunities.
 
