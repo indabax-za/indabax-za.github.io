@@ -7,10 +7,14 @@ banner:
   show_address: true
   cta:
     enable: true
-    item: 
-      - title: Register now
-        URL: /register
-        color: "#10793b"
+    item:
+    - title: Register now
+      URL: "/register"
+      color: "#10793b"
+      url: ''
+    - title: Donate
+      url: https://www.payfast.co.za/donate/go/deeplearningindabaxsouthafricanpc
+      color: "#B91111"
 about:
   enable: true
   content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
@@ -21,8 +25,8 @@ school:
   title: Machine learning and artificial intelligence conference
   dates:
     estimated_date: December 2022
-    school_start_date: 2022-12-13T07:00:00+00:00
-    school_end_date: 2022-12-15T14:00:00+00:00
+    school_start_date: 2022-12-13T07:00:00.000+00:00
+    school_end_date: 2022-12-15T14:00:00.000+00:00
   content: The conference will be a multi-day event featuring...
   item:
   - title: 300+<br>attendees
@@ -45,7 +49,6 @@ school:
     content: get your hands dirty and learn from the best
     height: 15%
     color: "#F5A623"
-
 sponsors:
   enable: true
   link: partners
@@ -56,14 +59,12 @@ faculty:
   show_all: true
   show_track: true
   slider: false
-  link: /speakers
-  ta_link: /speakers
+  link: "/speakers"
+  ta_link: "/speakers"
   link_text: view all
 schedule:
   enable: true
-  link: /schedule
-  # link_text: download
-  # link_icon: download
+  link: "/schedule"
 news:
   enable: true
   title: ''
