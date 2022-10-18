@@ -11,9 +11,8 @@ banner:
     - title: Register now
       URL: "/register"
       color: "#10793b"
-      url: ''
     - title: Donate
-      url: https://www.payfast.co.za/donate/go/deeplearningindabaxsouthafricanpc
+      URL: https://www.payfast.co.za/donate/go/deeplearningindabaxsouthafricanpc
       color: "#B91111"
 about:
   enable: true

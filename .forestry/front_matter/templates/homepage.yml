@@ -46,7 +46,7 @@ fields:
         config:
           required: false
         label: title
-      - name: url
+      - name: URL
         type: text
         config:
           required: false
