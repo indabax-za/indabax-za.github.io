@@ -297,9 +297,7 @@ days:
       content: ''
       location: Computer labs
       sessions:
-      - title: Basics of reinforcement learning
-        time: ''
-        name: Ashwinee Pandey
+      - name: Ashwinee Pandey
       number: 
     - title: Research IV
       track: Research
