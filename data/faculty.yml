@@ -21,3 +21,31 @@ people:
     topic: Intro to reinforcement learning
     affiliation: Mpesa - Vodacom
     link: https://www.linkedin.com/in/ashwineepandey/
+  - name: Ruan van der Merwe
+    image: /images/people/vandermerwe.jpg
+    years:
+      - Research
+    affiliation: ByteFuse
+    topic: Everything you need to know about transformers
+    talk_description: |-
+      The transformer architecture introduced in 2017 has significantly impacted the deep learning field. 
+      This tutorial will cover the transformer in great detail so that you can: explain it to your CEO, 
+      train a fellow machine learning engineer, maintain a conversation with a seasoned transformer researcher. 
+      We will also do deep dives into the transformer topics that get ignored most often.
+    bio: |- 
+      I am co-founder and a technical lead at ByteFuse, 
+      a new startup focusing on developing multimodal algorithms applied to search and optimisation tasks. 
+      I can claim that I am officially an university dropout that pursued a company, 
+      and I have an unhealthy obsession with cats and llamas.
+    link: modal
+    social_media:
+      - title: Website
+        link: https://ruanvdmerwe.github.io/
+      - title: LinkedIn
+        link: https://za.linkedin.com/in/ruan-van-der-merwe-b87a08111
+      - title: GitHub
+        link: https://github.com/ruanvdmerwe
+      - title: Twitter
+        link: https://twitter.com/ruanvdmerwe1
+
+    
