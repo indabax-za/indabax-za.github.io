@@ -47,6 +47,7 @@ fields:
     label: Link to website or talk
     config:
       required: false
+    description: use "modal" (without quotes) to enable the modal functionality
   - name: image
     type: file
     config:
