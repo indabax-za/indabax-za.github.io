@@ -13,6 +13,9 @@ people:
   link: modal
   image: ''
   social_media:
+  - link: https://twitter.com/wihanbooyse
+    title: Twitter
+    icon: ''
   - link: https://scholar.google.com/citations?user=3FTNUV4AAAAJ&hl=en
     icon: fa-solid fa-graduation-cap
     title: Google Scholar
