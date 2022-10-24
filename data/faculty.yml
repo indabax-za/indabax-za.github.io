@@ -1,7 +1,8 @@
 ---
 people:
 - name: Onalerona Mosimege
-  years: []
+  years:
+  - AI & Health
   talk_description: A mental health talk, using AI principles and themes, goal geared
     towards bringing more awareness about mental health issues in the filed
   bio: "Onalerona’s passion for computer science started at the age of 15, when she
