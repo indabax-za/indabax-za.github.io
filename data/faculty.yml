@@ -1,51 +1,100 @@
 ---
 people:
-  - name: Vukosi Marivate
-    years:
-      - Keynote
-    affiliation: University of Pretoria
-    link: https://www.vima.co.za/
-  - name: Pelonomi Moiloa
-    years:
-      - Applied ML & Industry
-    affiliation: Nedbank
-    link: https://www.linkedin.com/in/pelonomi-moiloa
-  - name: Ronald Clark
-    years:
-      - Applied ML & Industry
-    affiliation: University of Oxford
-    link: https://www.cs.ox.ac.uk/people/ronald.clark/
-  - name: Ashwinee Pandey
-    years:
-      - Foundations
-    topic: Intro to reinforcement learning
-    affiliation: Mpesa - Vodacom
-    link: https://www.linkedin.com/in/ashwineepandey/
-  - name: Ruan van der Merwe
-    image: /images/people/vandermerwe.jpg
-    years:
-      - Research
-    affiliation: ByteFuse
-    topic: Everything you need to know about transformers
-    talk_description: |-
-      The transformer architecture introduced in 2017 has significantly impacted the deep learning field. 
-      This tutorial will cover the transformer in great detail so that you can: explain it to your CEO, 
-      train a fellow machine learning engineer, maintain a conversation with a seasoned transformer researcher. 
-      We will also do deep dives into the transformer topics that get ignored most often.
-    bio: |- 
-      I am co-founder and a technical lead at ByteFuse, 
-      a new startup focusing on developing multimodal algorithms applied to search and optimisation tasks. 
-      I can claim that I am officially an university dropout that pursued a company, 
-      and I have an unhealthy obsession with cats and llamas.
-    link: modal
-    social_media:
-      - title: Website
-        link: https://ruanvdmerwe.github.io/
-      - title: LinkedIn
-        link: https://za.linkedin.com/in/ruan-van-der-merwe-b87a08111
-      - title: GitHub
-        link: https://github.com/ruanvdmerwe
-      - title: Twitter
-        link: https://twitter.com/ruanvdmerwe1
-
-    
+- name: Wihan Booyse
+  years:
+  - Applied ML & Industry
+  talk_description: 'In this talk I will explain the ecosystem that exists of production
+    ML tools, how they interact with the frameworks which we used to build our models,
+    and demonstrate how interoperable various machine learning frameworks really are. '
+  bio: I am the founder and AI lead at Kriterion, a software company taking predictive
+    maintenance planet scale.
+  topic: 'Running PyTorch in production, with tensorflow extended '
+  affiliation: 'Kriterion, TensorflowExtended Special interest group '
+  link: modal
+  image: ''
+  social_media:
+  - link: https://scholar.google.com/citations?user=3FTNUV4AAAAJ&hl=en
+    icon: fa-solid fa-graduation-cap
+    title: Google Scholar
+  - link: https://za.linkedin.com/in/wihanbooyse
+    title: LinkedIn
+    icon: ''
+- name: Vukosi Marivate
+  years:
+  - Keynote
+  affiliation: University of Pretoria
+  link: https://www.vima.co.za/
+  talk_description: ''
+  bio: ''
+  topic: ''
+  image: ''
+  social_media: []
+- name: Pelonomi Moiloa
+  years:
+  - Applied ML & Industry
+  affiliation: Lelapa.AI
+  link: https://www.linkedin.com/in/pelonomi-moiloa
+  talk_description: An introduction to why and how it’s important to keep the bad
+    parts of ourselves from manifesting in the machines we create from an African
+    perspective.
+  bio: 'Moiloa has spent 8 years in the data science domain with 4 of those years
+    spent putting data science solutions into production in the finance industry.
+    She has three engineering degrees, is an active community participant as a director
+    of the NPO The Ungovernable and is Co-Founder of Lelapa.AI, a movement to create
+    AI for Africans, by Africans, solving African problems. '
+  topic: 'Protecting Machines From Us '
+  image: ''
+  social_media:
+  - link: 'https://twitter.com/tamati_biskit '
+    title: Twitter
+    icon: ''
+- name: Ronald Clark
+  years:
+  - Applied ML & Industry
+  affiliation: University of Oxford
+  link: https://www.cs.ox.ac.uk/people/ronald.clark/
+  talk_description: ''
+  bio: ''
+  topic: ''
+  image: ''
+  social_media: []
+- name: Ashwinee Pandey
+  years:
+  - Foundations
+  topic: Intro to reinforcement learning
+  affiliation: Mpesa - Vodacom
+  link: https://www.linkedin.com/in/ashwineepandey/
+  talk_description: ''
+  bio: ''
+  image: ''
+  social_media: []
+- name: Ruan van der Merwe
+  image: "/images/people/vandermerwe.jpg"
+  years:
+  - Research
+  affiliation: ByteFuse
+  topic: Everything you need to know about transformers
+  talk_description: "The transformer architecture introduced in 2017 has significantly
+    impacted the deep learning field. \nThis tutorial will cover the transformer in
+    great detail so that you can: explain it to your CEO, \ntrain a fellow machine
+    learning engineer, maintain a conversation with a seasoned transformer researcher.
+    \nWe will also do deep dives into the transformer topics that get ignored most
+    often."
+  bio: "I am co-founder and a technical lead at ByteFuse, \na new startup focusing
+    on developing multimodal algorithms applied to search and optimisation tasks.
+    \nI can claim that I am officially an university dropout that pursued a company,
+    \nand I have an unhealthy obsession with cats and llamas."
+  link: modal
+  social_media:
+  - title: Website
+    link: https://ruanvdmerwe.github.io/
+    icon: ''
+  - title: LinkedIn
+    link: https://za.linkedin.com/in/ruan-van-der-merwe-b87a08111
+    icon: ''
+  - title: GitHub
+    link: https://github.com/ruanvdmerwe
+    icon: ''
+  - title: Twitter
+    link: https://twitter.com/ruanvdmerwe1
+    icon: ''
