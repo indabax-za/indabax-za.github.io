@@ -1,5 +1,25 @@
 ---
 people:
+- name: Joan Byamugisha
+  years:
+  - Research
+  talk_description: This talk will present a method of verifying a label or class
+    assigned to a document in a corpus using semantics. Specifically, the verification
+    of biomedical document labels using knowledge from the Unified Medical Language
+    System (UMLS) will be presented.
+  bio: Joan Byamugisha is a Research Scientist in computational linguistics at IBM
+    Research Africa in Johannesburg, South Africa. She has a PhD in Computer Science
+    from the University of Cape Town (UCT), where her research focused on Natural
+    Language Generation (NLG) in agglutinating Bantu languages. Her areas of active
+    research include biomedical text processing and Bantu language computational linguistics.
+  topic: Semantic-based Document Label Verification in Biomedical Text Processing
+  affiliation: IBM Research Africa
+  link: modal
+  image: ''
+  social_media:
+  - title: LinkedIn
+    link: https://za.linkedin.com/in/joan-byamugisha-5b643625
+    icon: ''
 - name: Wihan Booyse
   years:
   - Applied ML & Industry
