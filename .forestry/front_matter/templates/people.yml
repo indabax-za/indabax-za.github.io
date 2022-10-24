@@ -60,12 +60,17 @@ fields:
   - name: social_media
     type: field_group_list
     fields:
+    - name: link
+      type: text
+      config:
+        required: false
+      label: link
     - name: title
       type: text
       config:
         required: false
       label: title
-      description: e.g. Website, Twitter, LinkedIn, etc.
+      description: e.g. Website, Twitter, LinkedIn, etc.<br>used for alt text too
     - name: icon
       type: text
       config:
