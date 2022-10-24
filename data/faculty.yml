@@ -1,5 +1,38 @@
 ---
 people:
+- name: Onalerona Mosimege
+  years: []
+  talk_description: A mental health talk, using AI principles and themes, goal geared
+    towards bringing more awareness about mental health issues in the filed
+  bio: "Onalerona’s passion for computer science started at the age of 15, when she
+    ran a successful program for the first time. She has since then dedicated her
+    life to social impact for women in tech. She has previously been a volunteer for
+    Code4CT, an organisation that teaches high school girls how to code. \nShe is
+    a co-founder of Indoni Developers, a nonprofit organisation for African women
+    in ICT.\nShe previously was the chairperson for Women in Computer Science at the
+    University of Cape Town. Within that time period, she was awarded the Entelect
+    Social Responsiveness Award for her impact in the computer science community.\n\nShe
+    also has a medium blog that touches on mental health issues - with a twist from
+    a tech perspective\n\nAside from her community work, she works as a consulting
+    backend software engineer for Tangent Solutions. Her daily work involves designing
+    products and services that address real needs, combining human-centred design
+    and agile development processes, employing a creative approach to problem solving
+    that starts with people.\n\nDuring her free time, she is an abstract artist"
+  topic: Error Logging — Linking Computer Science Principles with how to deal with
+    Depression + Anxiety
+  affiliation: ''
+  link: modal
+  image: ''
+  social_media:
+  - title: Twitter
+    link: https://twitter.com/onnie_mosimege
+    icon: ''
+  - title: Instagram
+    link: https://www.instagram.com/onnie_mosimege
+    icon: ''
+  - title: LinkedIn
+    link: https://www.linkedin.com/in/onalerona-mosimege
+    icon: ''
 - name: Joan Byamugisha
   years:
   - Research
