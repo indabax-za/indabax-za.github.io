@@ -16,6 +16,29 @@ fields:
     default: []
     label: Research Track
     description: Can be multiple tracks (one per line)
+  - name: talk_description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Talk description
+  - name: bio
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Bio
+  - name: topic
+    type: text
+    config:
+      required: false
+    label: Topic
   - type: text
     name: affiliation
     label: Affiliation
@@ -34,5 +57,29 @@ fields:
       target="_blank">https://github.com/indabax-za/indabax-za.github.io</a><br><strong>static/images/people/&lt;last
       name&gt;.jpg<br></strong>image based on the last name is automatically picked
       up.<br>This makes it a bit cleaner than what forestry allows
+  - name: social_media
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: title
+      description: e.g. Website, Twitter, LinkedIn, etc.
+    - name: icon
+      type: text
+      config:
+        required: false
+      label: icon
+      description: can be left blank and tries to find logo in Themify Icons based
+        on title<br>e.g. ti-twitter<br>see <a href="https://themify.me/themify-icons"
+        title="https://themify.me/themify-icons" target="_blank">https://themify.me/themify-icons</a>
+        and <a href="https://fontawesome.com/icons" title="https://fontawesome.com/icons"
+        target="_blank">https://fontawesome.com/icons</a> (free)
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Social Media
 pages:
 - data/faculty.yml
