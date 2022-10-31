@@ -46,7 +46,7 @@ applications:
 show_period: false
 period_text: Registration period
 applications_open_date: Sept 2022
-applications_close_date: 2022-10-31T09:00:00.000+00:00
+applications_close_date: 2022-11-04T01:00:00+00:00
 acceptance_date: 14th November (approx.)
 target_applicants:
   enable: true
