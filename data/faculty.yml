@@ -2,7 +2,7 @@
 people:
 - name: Onalerona Mosimege
   years:
-  - AI & Health
+  - ML Ops
   talk_description: A mental health talk, using AI principles and themes, goal geared
     towards bringing more awareness about mental health issues in the filed
   bio: "Onalerona’s passion for computer science started at the age of 15, when she
@@ -107,7 +107,7 @@ people:
     icon: ''
 - name: Ronald Clark
   years:
-  - Applied ML & Industry
+  - Research
   affiliation: University of Oxford
   link: https://www.cs.ox.ac.uk/people/ronald.clark/
   talk_description: ''
