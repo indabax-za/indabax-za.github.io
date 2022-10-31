@@ -3,7 +3,7 @@ title: Registration info
 date: 2019-05-12T12:14:34.000+06:00
 description: Registration info
 image: images/photos/indabax2019-photo.jpg
-opacity: 80
+opacity: "80"
 min_header_height: 30em
 type: apply
 decor: false
@@ -26,8 +26,8 @@ As much as we want everyone to join us, there is limited space available so we c
 | 2022-09-26 📜 | Abstract submissions open |
 | 2022-09-26 📝 | Applications for free attendance (e.g. for students) open |
 | 2022-10-04 🎗 | 1st wave of paid registrations (e.g. for academics) open |
-| 2022-10-31 👻 | Abstract submissions close |
-| 2022-10-31 👻 | Applications for free attendance close |
+| 2022-11-04 👻 | Abstract submissions close |
+| 2022-11-04 👻 | Applications for free attendance close |
 | 2022-11-14 📢 | Notification of application acceptance |
 | 2022-11-18 ☑️ | RSVP to secure spot (acceptance +4 days) |
 | 2022-11-30 🎤 | Notification of abstract acceptance |
