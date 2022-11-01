@@ -58,8 +58,8 @@ fields:
       required: false
       date_format: ''
       time_format: ''
-      display_utc: false
-      export_format: YYYY-MM-DDThh:mm:ssZ
+      display_utc: true
+      export_format: ''
   - name: acceptance_date
     type: text
     config:
