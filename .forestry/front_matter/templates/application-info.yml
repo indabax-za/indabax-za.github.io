@@ -53,7 +53,7 @@ fields:
   - name: close_date
     type: datetime
     label: close date
-    description: automatically displays appropriate time in SAST
+    description: automatically converts time to SAST on the website
     config:
       required: false
       date_format: YYYY/MM/DD
