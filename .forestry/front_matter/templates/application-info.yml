@@ -53,13 +53,13 @@ fields:
   - name: close_date
     type: datetime
     label: close date
-    description: ''
+    description: automatically displays appropriate time in SAST
     config:
       required: false
       date_format: YYYY/MM/DD
       time_format: h:mm A ZZ
       display_utc: false
-      export_format: YYYY-MM-DDTH:mm:ssZ
+      export_format: YYYY-MM-DDTH:mm:ss
   - name: acceptance_date
     type: text
     config:
