@@ -58,7 +58,7 @@ fields:
       required: false
       date_format: YYYY/MM/DD
       time_format: h:mm A ZZ
-      display_utc: true
+      display_utc: false
       export_format: ''
   - name: acceptance_date
     type: text
