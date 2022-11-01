@@ -59,7 +59,7 @@ fields:
       date_format: YYYY/MM/DD
       time_format: h:mm A ZZ
       display_utc: false
-      export_format: ''
+      export_format: YYYY-MM-DDThh:mm:ssZ
   - name: acceptance_date
     type: text
     config:
