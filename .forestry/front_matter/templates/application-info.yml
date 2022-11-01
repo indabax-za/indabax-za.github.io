@@ -53,11 +53,11 @@ fields:
   - name: close_date
     type: datetime
     label: close date
-    description: automatically converts time to SAST on the website
+    description: "(SAST)"
     config:
       required: false
       date_format: YYYY/MM/DD
-      time_format: h:mm A ZZ
+      time_format: h:mm A
       display_utc: false
       export_format: YYYY-MM-DDTH:mm:ss
   - name: acceptance_date
