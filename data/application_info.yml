@@ -41,7 +41,7 @@ applications:
   URL: https://docs.google.com/forms/d/e/1FAIpQLSfeV1mqqj4cyqDmCAyBj835KK27vy56DbN4Z-a2Bf8mHvuzKw/viewform?usp=sf_link
   color: orange
   open_date: Sept 2022
-  close_date: 2022-10-31T23:00:00.000+02:00
+  close_date: 2022-11-04T13:00:00+00:00
   acceptance_date: 30th November (approx.)
 show_period: false
 period_text: Registration period
