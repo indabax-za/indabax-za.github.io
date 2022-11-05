@@ -4,12 +4,12 @@ info_link_label: Registation info
 applications:
 - heading: "Studying  \n\U0001F393  \nFree!"
   label: Apply to attend for free
-  open: true
+  open: false
   closed_message: Registration is closed
   URL: https://docs.google.com/forms/d/e/1FAIpQLSf5QALjK4Ql_MDX3XGhbhPbSfXdVYgbXZJ8zwcdPrWHDE9RjA/viewform?usp=sf_link
   color: "#5AA136"
   open_date: Sept 2022
-  close_date: 2022-11-04T13:00:00
+  close_date: 2022-11-04T13:00:00.000+00:00
   acceptance_date: 14th November (approx.)
 - heading: "Academia  \n\U0001F52D  \nR1500"
   label: Register as an academic
@@ -19,7 +19,7 @@ applications:
   color: "#9A5BD4"
   open_date: soon! Tickets released in multiple waves on a first come, first serve
     basis
-  close_date: 2022-11-30T23:00:00.000
+  close_date: 2022-11-30T23:00:00.000+00:00
   acceptance_date: tickets released in multiple waves on a first come, first serve
     basis
 - heading: "Industry  \n\U0001F6E0  \nR3000"
@@ -30,23 +30,23 @@ applications:
   color: "#228EE3"
   open_date: soon! Tickets released in multiple waves on a first come, first serve
     basis
-  close_date: 2022-11-30T21:00:00
+  close_date: 2022-11-30T21:00:00.000+00:00
   acceptance_date: tickets released in multiple waves on a first come, first serve
     basis
 - heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
   label: Submit abstract
   col_size: 8
-  open: true
+  open: false
   closed_message: Registration is closed
   URL: https://docs.google.com/forms/d/e/1FAIpQLSfeV1mqqj4cyqDmCAyBj835KK27vy56DbN4Z-a2Bf8mHvuzKw/viewform?usp=sf_link
   color: orange
   open_date: Sept 2022
-  close_date: 2022-11-04T13:00:00
+  close_date: 2022-11-04T13:00:00.000+00:00
   acceptance_date: 30th November (approx.)
 show_period: false
 period_text: Registration period
 applications_open_date: Sept 2022
-applications_close_date: 2022-11-04T13:00:00
+applications_close_date: 2022-11-04T13:00:00.000+00:00
 acceptance_date: 14th November (approx.)
 target_applicants:
   enable: true
