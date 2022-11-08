@@ -14,11 +14,11 @@ weight = 2
 +++
 We welcome submitted talks 🎤 , posters 🖼️ , and leaders of an unconference conversation.
 
-Abstract submission close: **4th November**
+Abstract submissions are **closed**
 
- <!--more-->
+<!--more-->
 
-### [Submit abstract](https://docs.google.com/forms/d/e/1FAIpQLSfeV1mqqj4cyqDmCAyBj835KK27vy56DbN4Z-a2Bf8mHvuzKw/viewform?usp=sf_link){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
+### Submit abstract{.btn .btn-warning .btn-lg .disabled .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
 
 > "What is an Unconference?": https://en.wikipedia.org/wiki/Unconference
 
