@@ -28,8 +28,8 @@ As much as we want everyone to join us, there is limited space available so we c
 | 2022-10-04 🎗 | 1st wave of paid registrations (e.g. for academics) open |
 | 2022-11-04 👻 | Abstract submissions close |
 | 2022-11-04 👻 | Applications for free attendance close |
-| 2022-11-14 📢 | Notification of application acceptance |
-| 2022-11-18 ☑️ | RSVP to secure spot (acceptance +4 days) |
+| 2022-11-21 📢 | Notification of application acceptance |
+| 2022-11-25 ☑️ | RSVP to secure spot (acceptance +4 days) |
 | 2022-11-30 🎤 | Notification of abstract acceptance |
 | 2022-11-30 🛑 | Final wave of paid registrations close |
 
