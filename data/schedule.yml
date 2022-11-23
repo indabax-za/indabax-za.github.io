@@ -27,20 +27,12 @@ days:
   content: Day 0 is a day of tutorials and workshops for beginners. It is also a day
     for the hackathon.
   sessions:
-  - time: 13h00 - 15h30
+  - time: 13h00 - 18h30
     columns:
     - title: Registration
       track: ''
       content: ''
       location: ''
-      number: 
-      sessions: []
-  - time: 15h30 - 21h00
-    columns:
-    - title: Opening event
-      track: Social
-      content: ''
-      location: Venue TBC
       number: 
       sessions: []
 - title: Day 1
@@ -298,6 +290,8 @@ days:
       location: Computer labs
       sessions:
       - name: Ashwinee Pandey
+        title: ''
+        time: ''
       number: 
     - title: Research IV
       track: Research
@@ -434,11 +428,11 @@ days:
       location: ''
       number: 
       sessions: []
-  - time: 16h00 -
+  - time: 17h00 -
     columns:
-    - title: Networking
+    - title: Closing event
       track: Social
       content: ''
-      location: ''
+      location: Summit Sky Bar & Grill
       number: 
       sessions: []
