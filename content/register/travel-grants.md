@@ -30,7 +30,7 @@ Accommodation may be in a shared (single gender) dorm.
  3. Any travel grant money remaining after travel expenses have been paid may be used for sustenance expenses during the IndabaX. Sustenance expenses include food and beverages.
  4. The money may not be used for any other purpose whatsoever.
  5. Any balance remaining after travel and sustenance expenses have been paid shall be repaid to us before 5pm on 23 December 2022.
- 6. **Receipts must be kept for all expenditure and copies of the receipts must be sent to indabax.za@gmail.com before 5pm on 23 December 2022.**
+ 6. **Receipts must be kept for all expenditure and copies of the receipts must be sent to travel@indabax.co.za before 5pm on 23 December 2022.**
  7. If your travel grant is insufficient to cover all of your travel expenses, we will **not provide** further funds unless extraordinary circumstances are present, which shall be determined at our full decision
  8. Accommodation is only provided for the dates specified (check-in 12th Dec, check-out 16th Dec). You are welcome to arrive and leave at different dates but you must organise and pay for your own accommodation outside the specified date range.
  9. **Once funds have been transferred to your account, should you fail to attend the event, you will be required to repay us the travel grant in full before 5pm on 23 December 2022.**
