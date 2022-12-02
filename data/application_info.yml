@@ -2,47 +2,47 @@
 link: "/register"
 info_link_label: Registation info
 applications:
-- heading: "Academia  \n\U0001F52D  \nR1500"
-  label: Register as an academic
-  open: true
-  closed_message: Opening soon!
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSdKIOv_ZJMQPhPRRQxT5rBkBMK5EUY4YGW4u37rS4-DTQ9vQw/viewform?usp=sf_link
-  color: "#9A5BD4"
-  open_date: soon! Tickets released in multiple waves on a first come, first serve
-    basis
-  close_date: 2022-11-30T23:00:00.000+00:00
-  acceptance_date: tickets released in multiple waves on a first come, first serve
-    basis
-- heading: "Industry  \n\U0001F6E0  \nR3000"
-  label: Register as an industry professional
-  open: true
-  closed_message: Opening soon!
-  URL: https://docs.google.com/forms/d/e/1FAIpQLScjgbEbjkommkPcb3BRMIUez7ybD05_km6rqJ6VYqZsQU0U3A/viewform?usp=sf_link
-  color: "#228EE3"
-  open_date: soon! Tickets released in multiple waves on a first come, first serve
-    basis
-  close_date: 2022-11-30T21:00:00.000+00:00
-  acceptance_date: tickets released in multiple waves on a first come, first serve
-    basis
-- heading: "Studying  \n\U0001F393  \nFree!"
-  label: Apply to attend for free
-  open: false
-  closed_message: Applications closed
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSf5QALjK4Ql_MDX3XGhbhPbSfXdVYgbXZJ8zwcdPrWHDE9RjA/viewform?usp=sf_link
-  color: "#5AA136"
-  open_date: Sept 2022
-  close_date: 2022-11-04T13:00:00.000+00:00
-  acceptance_date: 14th November (approx.)
-- heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
-  label: Submit abstract
-  col_size: 8
-  open: false
-  closed_message: Submissions closed
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSfeV1mqqj4cyqDmCAyBj835KK27vy56DbN4Z-a2Bf8mHvuzKw/viewform?usp=sf_link
-  color: orange
-  open_date: Sept 2022
-  close_date: 2022-11-04T13:00:00.000+00:00
-  acceptance_date: 30th November (approx.)
+  - heading: "Academia  \n\U0001F52D  \nR1700"
+    label: Late registration
+    open: true
+    closed_message: Opening soon!
+    URL: https://docs.google.com/forms/d/e/1FAIpQLSdKIOv_ZJMQPhPRRQxT5rBkBMK5EUY4YGW4u37rS4-DTQ9vQw/viewform?usp=sf_link
+    color: "#9A5BD4"
+    open_date:
+      soon! Tickets released in multiple waves on a first come, first serve
+      basis
+    close_date: 2022-12-09T23:00:00.000+00:00
+    acceptance_date: on condition that we may not have your dietary requirements or t-shirt size
+  - heading: "Industry  \n\U0001F6E0  \nR3400"
+    label: Late registration
+    open: true
+    closed_message: Opening soon!
+    URL: https://docs.google.com/forms/d/e/1FAIpQLScjgbEbjkommkPcb3BRMIUez7ybD05_km6rqJ6VYqZsQU0U3A/viewform?usp=sf_link
+    color: "#228EE3"
+    open_date:
+      soon! Tickets released in multiple waves on a first come, first serve
+      basis
+    close_date: 2022-12-09T21:00:00.000+00:00
+    acceptance_date: on condition that we may not have your dietary requirements or t-shirt size
+  - heading: "Studying  \n\U0001F393  \nFree!"
+    label: Apply to attend for free
+    open: false
+    closed_message: Applications closed
+    URL: https://docs.google.com/forms/d/e/1FAIpQLSf5QALjK4Ql_MDX3XGhbhPbSfXdVYgbXZJ8zwcdPrWHDE9RjA/viewform?usp=sf_link
+    color: "#5AA136"
+    open_date: Sept 2022
+    close_date: 2022-11-04T13:00:00.000+00:00
+    acceptance_date: 14th November (approx.)
+  - heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
+    label: Submit abstract
+    col_size: 8
+    open: false
+    closed_message: Submissions closed
+    URL: https://docs.google.com/forms/d/e/1FAIpQLSfeV1mqqj4cyqDmCAyBj835KK27vy56DbN4Z-a2Bf8mHvuzKw/viewform?usp=sf_link
+    color: orange
+    open_date: Sept 2022
+    close_date: 2022-11-04T13:00:00.000+00:00
+    acceptance_date: 30th November (approx.)
 show_period: false
 period_text: Registration period
 applications_open_date: Sept 2022
@@ -51,31 +51,33 @@ acceptance_date: 14th November (approx.)
 target_applicants:
   enable: true
   title: Who should register?
-  content: "We welcome students, academics, and industry professionals to attend the
+  content:
+    "We welcome students, academics, and industry professionals to attend the
     Deep Learning Indaba\U0001D54F South Africa - one of South Africa's premier Machine
     Learning gatherings and community-building spaces \U0001F91D. \n\n_\"Indaba\"
     is a Zulu and Xhosa word meaning \"discussion\" or \"conference\"_\n\n**All backgrounds
     are welcome!**"
   preamble: Everyone is invited to join the community and experience...
   item:
-  - title: Practical knowledge
-    icon: images/icons/icon-1.png
-    content: "Learn the latest techniques and tools for deep learning, and get hands-on
-      experience with them.\n\nExperience tutorials and workshops, which set the stage
-      for the conference and \nprovide practical skills that you can apply to your
-      own work or research."
-  - title: Scientific exchange
-    icon: images/icons/icon-3.png
-    content: |-
-      Network with researchers from across the country and continent, and learn about the latest research in deep learning.
+    - title: Practical knowledge
+      icon: images/icons/icon-1.png
+      content:
+        "Learn the latest techniques and tools for deep learning, and get hands-on
+        experience with them.\n\nExperience tutorials and workshops, which set the stage
+        for the conference and \nprovide practical skills that you can apply to your
+        own work or research."
+    - title: Scientific exchange
+      icon: images/icons/icon-3.png
+      content: |-
+        Network with researchers from across the country and continent, and learn about the latest research in deep learning.
 
-      Catch up with friends to discuss their latest results and meet future collaborators for discovering what's next.
-  - title: Cutting-edge applications
-    icon: images/icons/icon-2.png
-    content: |-
-      Interact with cutting-edge applications from industry and community researchers making an impact.
+        Catch up with friends to discuss their latest results and meet future collaborators for discovering what's next.
+    - title: Cutting-edge applications
+      icon: images/icons/icon-2.png
+      content: |-
+        Interact with cutting-edge applications from industry and community researchers making an impact.
 
-      See a showcase of the latest research and applications in deep learning, and learn how to implement it to your work.
+        See a showcase of the latest research and applications in deep learning, and learn how to implement it to your work.
 team:
   enable: false
   title: Team
@@ -84,45 +86,48 @@ faq:
   enable: true
   title: Frequently asked questions
   item:
-  - question: How many people from a single group or company should attend?
-    answer: "This is highly dependent on the nature of group's research and the individuals
-      within. \n\nWe highly encourage everyone to (apply to) attend, but there are
-      of course limitations in terms of space and costs.\nWe cannot guarantee everyone
-      from a group will be able to attend, and we will be prioritising diversity of
-      attendees from multiple\ninstitutes and groups, where possible. However, we
-      encourage those that _do_ attend to showcase a summary of what \nthey learnt
-      to their groups; our community extends beyond the confines of who can attend
-      a single event!\n\nIf you would like to guarantee multiple spots and support
-      a good cause (we're a non-profit by the way!), \n consider [**supporting us**](/partners)
-      as the packages come with awesome perks!"
-    icon: ''
-  - question: How do I imporve my application?
-    icon: ti-angle-double-up
-    answer: |-
-      Here are some tips to strengthen your next application
-        - Keep spelling and grammar in mind; it’s one of the first thing reviewers notice. Did you notice "imporve" above.
-        - Show that you are committed to learning more about machine learning. For example, if you've taken an online course (such as Andrew Ng's Coursera course) you should mention it (and if you haven't we would highly recommend doing so).
-        - Talk about how you are already using, or how you plan to use, machine learning for your work or research.
-        - Talk about how you are contributing to your local machine learning community. For example, do you organize meetup events, run lectures, or lead a study group?
-        - Make sure you put plenty of effort into the application since this is one way for us to judge your interest in attending.
+    - question: How many people from a single group or company should attend?
+      answer:
+        "This is highly dependent on the nature of group's research and the individuals
+        within. \n\nWe highly encourage everyone to (apply to) attend, but there are
+        of course limitations in terms of space and costs.\nWe cannot guarantee everyone
+        from a group will be able to attend, and we will be prioritising diversity of
+        attendees from multiple\ninstitutes and groups, where possible. However, we
+        encourage those that _do_ attend to showcase a summary of what \nthey learnt
+        to their groups; our community extends beyond the confines of who can attend
+        a single event!\n\nIf you would like to guarantee multiple spots and support
+        a good cause (we're a non-profit by the way!), \n consider [**supporting us**](/partners)
+        as the packages come with awesome perks!"
+      icon: ""
+    - question: How do I imporve my application?
+      icon: ti-angle-double-up
+      answer: |-
+        Here are some tips to strengthen your next application
+          - Keep spelling and grammar in mind; it’s one of the first thing reviewers notice. Did you notice "imporve" above.
+          - Show that you are committed to learning more about machine learning. For example, if you've taken an online course (such as Andrew Ng's Coursera course) you should mention it (and if you haven't we would highly recommend doing so).
+          - Talk about how you are already using, or how you plan to use, machine learning for your work or research.
+          - Talk about how you are contributing to your local machine learning community. For example, do you organize meetup events, run lectures, or lead a study group?
+          - Make sure you put plenty of effort into the application since this is one way for us to judge your interest in attending.
 
-      **See more tips [in this doc](https://docs.google.com/document/d/1P3wQKzu3p8wxfSwX7YoePSCHZea4B4ctkSlzF_JXkis/edit?usp=sharing)**
-  - question: I'm a postdoc, where do I fit in?
-    icon: ti-key
-    answer: "It depends on contract. If you're a lecturer, you should apply as an
-      academic. \nIf you're mainly a postdoc researcher but struggling with funds,
-      apply as a student (there's no harm in trying). \nIf you're a postdoc researcher
-      and have a strong stable income, you should apply as an academic."
-  - question: I'm not sure if I'm a good fit, should I still attend?
-    icon: ti-hand-open
-    answer: |-
-      **Yes!** Give yourself every opportunity to succeed by applying in the first place.
+        **See more tips [in this doc](https://docs.google.com/document/d/1P3wQKzu3p8wxfSwX7YoePSCHZea4B4ctkSlzF_JXkis/edit?usp=sharing)**
+    - question: I'm a postdoc, where do I fit in?
+      icon: ti-key
+      answer:
+        "It depends on contract. If you're a lecturer, you should apply as an
+        academic. \nIf you're mainly a postdoc researcher but struggling with funds,
+        apply as a student (there's no harm in trying). \nIf you're a postdoc researcher
+        and have a strong stable income, you should apply as an academic."
+    - question: I'm not sure if I'm a good fit, should I still attend?
+      icon: ti-hand-open
+      answer: |-
+        **Yes!** Give yourself every opportunity to succeed by applying in the first place.
 
-      The IndabaX is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
-  - question: I'm not from South Africa, can I still attend?
-    icon: ti-flag-alt-2
-    answer: "**Yes!** The IndabaX is open to anyone from anywhere in the world.\n\nWe
-      are committed to making the IndabaX accessible to everyone, and we will do our
-      best to accommodate your needs. \n**However, please note that we are unable
-      to provide travel or accommodation assistance.**\nIf you have any questions
-      or concerns, please contact us."
+        The IndabaX is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
+    - question: I'm not from South Africa, can I still attend?
+      icon: ti-flag-alt-2
+      answer:
+        "**Yes!** The IndabaX is open to anyone from anywhere in the world.\n\nWe
+        are committed to making the IndabaX accessible to everyone, and we will do our
+        best to accommodate your needs. \n**However, please note that we are unable
+        to provide travel or accommodation assistance.**\nIf you have any questions
+        or concerns, please contact us."
