@@ -57,7 +57,7 @@ faculty:
   title: Invited speakers
   show_all: true
   show_track: true
-  slider: false
+  slider: true
   link: "/speakers"
   ta_link: "/speakers"
   link_text: view all

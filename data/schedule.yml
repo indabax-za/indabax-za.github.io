@@ -1,439 +1,480 @@
 ---
 title: Schedule outline
 tracks:
-- name: Keynote
-  color: "#c9492c"
-- name: Research
-  color: "#18A8C9"
-- name: Applied ML & Industry
-  color: "#C92260"
-- name: Foundations
-  color: "#18C989"
-- name: Hackathon
-  color: "#f5a623"
-- name: Unconference
-  color: "#40C94A"
-- name: Poster Session
-  color: "#ebb493"
-- name: Social
-  color: "#29af8c"
-- name: Tutorials
-  color: "#003366"
-- name: Workshops
-  color: "#7c60c6"
+  - name: Keynote
+    color: "#c9492c"
+  - name: Research
+    color: "#18A8C9"
+  - name: Applied ML & Industry
+    color: "#C92260"
+  - name: Foundations
+    color: "#18C989"
+  - name: Hackathon
+    color: "#f5a623"
+  - name: Unconference
+    color: "#40C94A"
+  - name: Poster Session
+    color: "#ebb493"
+  - name: Social
+    color: "#29af8c"
+  - name: Tutorials
+    color: "#003366"
+  - name: Workshops
+    color: "#7c60c6"
 days:
-- title: Day 0
-  date: 2022-12-12
-  content: Day 0 is a day of tutorials and workshops for beginners. It is also a day
-    for the hackathon.
-  sessions:
-  - time: 13h00 - 18h30
-    columns:
-    - title: Registration
-      track: ''
-      content: ''
-      location: Engineering Building 3, Elandspoort 357-Jr, Pretoria, 0002, South
-        Africa
-      number: 
-      sessions: []
-- title: Day 1
-  date: 2022-12-13
-  content: ''
-  sessions:
-  - time: '08h30 - 09h00'
-    columns:
-    - title: Opening Remarks
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: '09h00 - 10h00'
-    columns:
-    - title: Keynote I
-      track: Keynote
-      content: Opening talk
-      location: ''
-      sessions:
-      - title: ''
-        time: ''
-        name: ''
-      number: 
-  - time: 10h00 - 10h30
-    columns:
-    - title: Break
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: 10h30 - 12h00
-    columns:
-    - title: Foundations I
-      track: Foundations
-      content: ''
-      location: Computer labs
-      sessions:
-      - title: Introduction to Machine Learning
-        time: ''
-        name: ''
-      number: 
-    - title: Research I
-      track: Research
-      content: ''
-      location: ''
-      sessions:
-      - title: Research talk 1
-        time: 10h30 - 11h00
-        name: ''
-      - title: Research talk 2
-        time: 11h00 - 11h30
-        name: ''
-      - title: Research talk 3
-        time: 11h30 - 12h00
-        name: ''
-      number: 
-    - title: Applied ML & Industry I
-      track: Applied ML & Industry
-      content: ''
-      location: ''
-      sessions:
-      - title: IEP talk 1
-        time: 10h30 - 11h00
-        name: ''
-      - title: IEP talk 2
-        time: 11h00 - 11h30
-        name: ''
-      - title: IEP talk 3
-        time: 11h30 - 12h00
-        name: ''
-      number: 
-  - time: 12h00 - 13h00
-    columns:
-    - title: Lunch
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: 13h00 - 14h00
-    columns:
-    - title: Keynote II
-      track: Keynote
-      content: ''
-      location: ''
-      sessions:
-      - title: ''
-        time: ''
-        name: ''
-      number: 
-  - time: 14h00 - 14h30
-    columns:
-    - title: Break
-      track: ''
-      content: coffee only
-      location: ''
-      number: 
-      sessions: []
-  - time: 14h30 - 16h00
-    columns:
-    - title: Foundations II
-      track: Foundations
-      content: ''
-      location: Computer labs
-      sessions:
-      - title: Neural network funamentals
-        time: ''
-        name: ''
-      number: 
-    - title: Research II
-      track: Research
-      content: ''
-      location: ''
-      sessions:
-      - title: Research talk 1
-        time: 14h30 - 15h00
-        name: ''
-      - title: Research talk 2
-        time: 15h00 - 15h30
-        name: ''
-      - title: Research talk 3
-        time: 15h30 - 16h00
-        name: ''
-      number: 
-    - title: Applied ML & Industry II
-      track: Applied ML & Industry
-      content: ''
-      location: ''
-      sessions:
-      - title: IEP talk 1
-        time: 14h30 - 15h00
-        name: ''
-      - title: IEP talk 2
-        time: 15h00 - 15h30
-        name: ''
-      - title: IEP talk 3
-        time: 15h30 - 16h00
-        name: ''
-      number: 
-  - time: 16h00 - 21h00
-    columns:
-    - title: Poster session
-      track: Poster Session
-      content: ''
-      location: Distributed
-      number: 50+
-      sessions: []
-- title: Day 2
-  date: 2022-12-14
-  content: ''
-  sessions:
-  - time: '08h30 - 09h00'
-    columns:
-    - title: Opening Remarks
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: '09h00 - 10h00'
-    columns:
-    - title: Keynote III
-      track: Keynote
-      content: ''
-      location: ''
-      sessions:
-      - title: ''
-        time: ''
-        name: ''
-      number: 
-  - time: 10h00 - 10h30
-    columns:
-    - title: Break
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: 10h30 - 12h00
-    columns:
-    - title: Foundations III
-      track: Foundations
-      content: ''
-      location: Computer labs
-      sessions:
-      - title: Deep generative models
-        time: ''
-        name: ''
-      number: 
-    - title: Research III
-      track: Research
-      content: ''
-      location: ''
-      sessions:
-      - title: Research talk 1
-        time: 10h30 - 11h00
-        name: ''
-      - title: Research talk 2
-        time: 11h00 - 11h30
-        name: ''
-      - title: Research talk 3
-        time: 11h30 - 12h00
-        name: ''
-      number: 
-    - title: Applied ML & Industry III
-      track: Applied ML & Industry
-      content: ''
-      location: ''
-      sessions:
-      - title: IEP talk 1
-        time: 10h30 - 11h00
-        name: ''
-      - title: IEP talk 2
-        time: 11h00 - 11h30
-        name: ''
-      - title: IEP talk 3
-        time: 11h30 - 12h00
-        name: ''
-      number: 
-  - time: 12h00 - 13h00
-    columns:
-    - title: Lunch
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: 13h00 - 14h00
-    columns:
-    - title: Keynote IV
-      track: Keynote
-      content: ''
-      location: ''
-      sessions:
-      - title: ''
-        time: ''
-        name: ''
-      number: 
-  - time: 14h00 - 14h30
-    columns:
-    - title: Break
-      track: ''
-      content: coffee only
-      location: ''
-      number: 
-      sessions: []
-  - time: 14h30 - 16h00
-    columns:
-    - title: Foundations IV
-      track: Foundations
-      content: ''
-      location: Computer labs
-      sessions:
-      - name: Ashwinee Pandey
-        title: ''
-        time: ''
-      number: 
-    - title: Research IV
-      track: Research
-      content: ''
-      location: ''
-      sessions:
-      - title: Research talk 1
-        time: 14h30 - 15h00
-        name: ''
-      - title: Research talk 2
-        time: 15h00 - 15h30
-        name: ''
-      - title: Research talk 3
-        time: 15h30 - 16h00
-        name: ''
-      number: 
-    - title: Applied ML & Industry IV
-      track: Applied ML & Industry
-      content: ''
-      location: ''
-      sessions:
-      - title: IEP talk 1
-        time: 14h30 - 15h00
-        name: ''
-      - title: IEP talk 2
-        time: 15h00 - 15h30
-        name: ''
-      - title: IEP talk 3
-        time: 15h30 - 16h00
-        name: ''
-      number: 
-  - time: 16h00 - 21h00
-    columns:
-    - title: Hackathon
-      track: Hackathon
-      content: ''
-      location: Computer labs
-      number: 3+
-      sessions: []
-- title: Day 3
-  date: 2022-12-15
-  content: ''
-  sessions:
-  - time: '08h30 - 09h00'
-    columns:
-    - title: Morning coffee
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: '09h00 - 10h00'
-    columns:
-    - title: Panel discussion
-      track: Keynote
-      content: ''
-      location: ''
-      number: 5
-      sessions:
-      - title: ''
-        time: ''
-        name: ''
-  - time: 10h00 - 10h30
-    columns:
-    - title: Break
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: 10h30 - 12h00
-    columns:
-    - title: Hackathon
-      track: Hackathon
-      content: ''
-      location: Computer labs
-      sessions:
-      - title: ''
-        time: ''
-        name: ''
-      number: 
-    - title: Unconference
-      track: Unconference
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-    - title: 'Workshop: AI in Healthcare'
-      track: Workshop
-      content: ''
-      location: ''
-      number: 17
-      sessions:
-      - title: AI in Healthcare talk 1
-        time: 10h30 - 10h40
-        name: ''
-      - title: AI in Healthcare talk 2
-        time: 10h40 - 11h00
-        name: ''
-      - title: 6x Lightning talks
-        time: 11h00 - 11h20
-        name: ''
-      - title: AI in Healthcare talk 3
-        time: 11h20 - 11h40
-        name: ''
-      - title: Break
-        time: 11h40 - 12h00
-        name: ''
-      - title: Lunch
-        time: 12h00 - 13h00
-        name: ''
-      - title: AI in Healthcare talk 4
-        time: 13h00 - 13h20
-        name: ''
-      - title: 6x Lightning talks
-        time: 13h20 - 13h40
-        name: ''
-      - title: AI in Healthcare talk 5
-        time: 13h40 - 14h00
-        name: ''
-  - time: 15h00 - 15h45
-    columns:
-    - title: Hackathon presentations and prizes
-      track: Keynote
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: 15h45 - 16h00
-    columns:
-    - title: Closing remarks
-      track: Keynote
-      content: ''
-      location: ''
-      number: 
-      sessions: []
-  - time: 17h00 -
-    columns:
-    - title: Closing event
-      track: Social
-      content: ''
-      location: Summit Sky Bar & Grill
-      number: 
-      sessions: []
+  - title: Day 0
+    date: 2022-12-12
+    content:
+      Day 0 is a day of tutorials and workshops for beginners. It is also a day
+      for the hackathon.
+    sessions:
+      - time: 13h00 - 18h30
+        columns:
+          - title: Registration
+            track: ""
+            content: ""
+            location:
+              Engineering Building 3, Elandspoort 357-Jr, Pretoria, 0002, South
+              Africa
+            number:
+            sessions: []
+  - title: Day 1
+    date: 2022-12-13
+    content: ""
+    sessions:
+      - time: "09h00 - 09h30"
+        columns:
+          - title: Opening Remarks
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: "09h30 - 10h30"
+        columns:
+          - title: Keynote I
+            track: Keynote
+            content: Opening talk
+            location: ""
+            sessions:
+              - name: "Vukosi Marivate"
+            number:
+      - time: 10h30 - 12h00
+        columns:
+          - title: Foundations I
+            track: Foundations
+            content: ""
+            location: Computer labs
+            sessions:
+              - name: "Anna Sergeevna Bosman"
+            number:
+          - title: Research I
+            track: Research
+            content: ""
+            location: ""
+            sessions:
+              - time: 10h30 - 11h00
+                name: "Daniel Nico Wilke"
+              - time: 11h00 - 11h30
+                name: "David Bowman"
+              - time: 11h30 - 12h00
+                name: "Raesetje Sefala"
+            number:
+          - title: Applied ML & Industry I
+            track: Applied ML & Industry
+            content: ""
+            location: ""
+            sessions:
+              - time: 10h30 - 11h00
+                name: "Stuart Reid"
+              - time: 11h00 - 11h30
+                name: "Naomi Molefe"
+              - time: 11h30 - 12h00
+                name: "Merelda Wu"
+            number:
+      - time: 12h00 - 13h00
+        columns:
+          - title: Lunch
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 13h00 - 14h00
+        columns:
+          - title: Keynote II
+            track: Keynote
+            content: ""
+            location: ""
+            sessions:
+              - title: "Masakhane: The Unreasonable Effectiveness of Grassroots Research"
+                name: "Jade Abbott"
+            number:
+      - time: 14h00 - 14h30
+        columns:
+          - title: Break
+            track: ""
+            content: coffee only
+            location: ""
+            number:
+            sessions: []
+      - time: 14h30 - 16h00
+        columns:
+          - title: Foundations II
+            track: Foundations
+            content: ""
+            location: Computer labs
+            sessions:
+              - name: "Ashwinee Pandey"
+            number:
+          - title: Research II
+            track: Research
+            content: ""
+            location: ""
+            sessions:
+              - time: 14h30 - 15h00
+                name: "Ronald Clark"
+                title: "TBC"
+              - time: 15h00 - 15h30
+                name: "Greg Newman"
+              - time: 15h30 - 16h00
+                name: "Marcellin Atemkeng"
+            number:
+          - title: Applied ML & Industry II
+            track: Applied ML & Industry
+            content: ""
+            location: ""
+            sessions:
+              - time: 14h30 - 15h00
+                name: "Joanne Moonsamy"
+              - time: 15h00 - 15h30
+                name: "Wihan Booyse"
+              - time: 15h30 - 16h00
+                name: "Pelonomi Moiloa"
+            number:
+      - time: 16h00 - 16h15
+        columns:
+          - title: Break
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 16h15 - 18h00
+        columns:
+          - title: Foundations III
+            track: Foundations
+            content: ""
+            location: Computer labs
+            sessions:
+              - name: "Gemma Dawson"
+            number:
+          - title: Research III
+            track: Research
+            content: ""
+            location: ""
+            sessions:
+              - name: "Febe de Wet"
+              - name: "Greg Newman"
+              - name: "Tamlin Love"
+            number:
+          - title: Applied ML & Industry III
+            track: Applied ML & Industry
+            content: ""
+            location: ""
+            sessions:
+              - name: "Bophelo Makhetha"
+              - name: "Michael Williams"
+              - name: "Nhlakanipho Kwazi Mthembu"
+            number:
+      - time: 18h00 - 21h00
+        columns:
+          - title: Poster session
+            track: Poster Session
+            content: ""
+            location: Distributed
+            number: 50+
+            sessions: []
+  - title: Day 2
+    date: 2022-12-14
+    content: ""
+    sessions:
+      - time: "09h00 - 10h00"
+        columns:
+          - title: Keynote III
+            track: Keynote
+            content: ""
+            location: ""
+            sessions:
+              - name: "Frans Cronje"
+            number:
+      - time: 10h00 - 10h30
+        columns:
+          - title: Break
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 10h30 - 12h00
+        columns:
+          - title: Foundations IV
+            track: Foundations
+            content: ""
+            location: Computer labs
+            sessions:
+              - name: "Stephan Schmidt"
+            number:
+          - title: Research IV
+            track: Research
+            content: ""
+            location: ""
+            sessions:
+              - name: "Wiebke (Toussaint) Hutiri"
+              - name: "Onalerona Mosimege"
+              - name: "Andries Smit"
+            number:
+          - title: Applied ML & Industry IV
+            track: Applied ML & Industry
+            content: ""
+            location: ""
+            sessions:
+              - name: "Cobus Louw & Louwrens Labuschange"
+                title: "Sumogym Traffic Control: Reinforcement Learning From Simulation to Real World"
+                image: "/images/people/louwchange.jpg"
+              - name: "Siddarth Singh"
+              - name: "Elijah Roussos"
+            number:
+      - time: 12h00 - 13h00
+        columns:
+          - title: Lunch
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 13h00 - 14h00
+        columns:
+          - title: Keynote IV
+            track: Keynote
+            content: ""
+            location: ""
+            sessions:
+              - name: "Marelie Hattingh Davel"
+            number:
+      - time: 14h00 - 14h30
+        columns:
+          - title: Break
+            track: ""
+            content: coffee only
+            location: ""
+            number:
+            sessions: []
+      - time: 14h30 - 16h00
+        columns:
+          - title: Foundations V
+            track: Foundations
+            content: ""
+            location: Computer labs
+            sessions:
+              - name: Ruan van der Merwe
+            number:
+          - title: Research V
+            track: Research
+            content: ""
+            location: ""
+            sessions:
+              - name: "Naweed Khan"
+              - name: "Willem Schalk van Heerden"
+              - name: "Francois Meyer"
+            number:
+          - title: Applied ML & Industry V
+            track: Applied ML & Industry
+            content: ""
+            location: ""
+            sessions:
+              - name: "Tiffany Woodley"
+              - title: TBC
+                name: "Reevana Balmahoon"
+              - name: "Mahmood-Ali Parker"
+            number:
+      - time: 16h00 - 16h15
+        columns:
+          - title: Break
+            track: ""
+            content: coffee only
+            location: ""
+            number:
+            sessions: []
+      - time: 16h15 - 18h00
+        columns:
+          - title: Foundations VI
+            track: Foundations
+            content: ""
+            location: Computer labs
+            sessions:
+              - name: Ruan van der Merwe
+            number:
+          - title: Research VI
+            track: Research
+            content: ""
+            location: ""
+            sessions:
+              - name: "Oluwasegun Julius Aroba"
+              - name: "Jason Chalom"
+              - name: "Rirhandzu Jeaneth Novela"
+              - name: "Ruan Spijkerman"
+                title: "Proposed Face Recognition System Based on Immune Inspired Anomaly Detection Using Symbiotic Agents"
+            number:
+          - title: Applied ML & Industry VI
+            track: Applied ML & Industry
+            content: ""
+            location: ""
+            sessions:
+              - name: "Idris Muniru"
+                title: Automatic knowledge extraction of any Chatbot from conversation
+              - name: "Geraud Nangue Tasse"
+              - name: "Michael Beukman"
+              - name: "Anton Lukas"
+            number:
+      - time: 18h00 - 21h00
+        columns:
+          - title: Hackathon
+            track: Hackathon
+            content: ""
+            location: Computer labs
+            number: 3+
+            sessions: []
+  - title: Day 3
+    date: 2022-12-15
+    content: ""
+    sessions:
+      - time: "08h30 - 09h00"
+        columns:
+          - title: Morning coffee
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: "09h00 - 10h00"
+        columns:
+          - title: Panel discussion
+            track: Keynote
+            content: ""
+            location: ""
+            number: 5
+            sessions:
+              - title: ""
+                time: ""
+                name: ""
+      - time: 10h00 - 10h30
+        columns:
+          - title: Break
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 10h30 - 12h00
+        columns:
+          - title: Hackathon
+            track: Hackathon
+            content: ""
+            location: Computer labs
+            sessions:
+              - title: ""
+                time: ""
+                name: ""
+            number:
+          - title: Unconference
+            track: Unconference
+            content: ""
+            location: ""
+            number:
+            sessions: []
+          - title: "Workshop: AI in Healthcare"
+            track: Workshop
+            content: ""
+            location: ""
+            number: 17
+            sessions:
+              - title: AI in Healthcare talk 1
+                time: 10h30 - 10h40
+                name: ""
+              - title: AI in Healthcare talk 2
+                time: 10h40 - 11h00
+                name: ""
+              - title: 6x Lightning talks
+                time: 11h00 - 11h20
+                name: ""
+              - title: AI in Healthcare talk 3
+                time: 11h20 - 11h40
+                name: ""
+              - title: Break
+                time: 11h40 - 12h00
+                name: ""
+              - title: Lunch
+                time: 12h00 - 13h00
+                name: ""
+              - title: AI in Healthcare talk 4
+                time: 13h00 - 13h20
+                name: ""
+              - title: 6x Lightning talks
+                time: 13h20 - 13h40
+                name: ""
+              - title: AI in Healthcare talk 5
+                time: 13h40 - 14h00
+                name: ""
+      - time: 12h00 - 13h00
+        columns:
+          - title: Lunch
+            track: ""
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 13h00 - 15h00
+        columns:
+          - title: Hackathon [continued]
+            track: Hackathon
+            content: ""
+            location: Computer labs
+            sessions:
+              - title: ""
+                time: ""
+                name: ""
+            number:
+          - title: Unconference [continued]
+            track: Unconference
+            content: ""
+            location: ""
+            number:
+            sessions: []
+          - title: "Workshop: AI in Healthcare [continued]"
+            track: Workshop
+            content: ""
+      - time: 15h00 - 15h30
+        columns:
+          - title: Hackathon presentations and prizes
+            track: Keynote
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 15h30 - 16h00
+        columns:
+          - title: Closing remarks & IndabaX Annual General Meeting 
+            track: Keynote
+            content: ""
+            location: ""
+            number:
+            sessions: []
+      - time: 17h00 -
+        columns:
+          - title: Closing event
+            track: Social
+            content: "Transport provided to the event"
+            location: Summit Sky Bar & Grill
+            number:
+            sessions: []
