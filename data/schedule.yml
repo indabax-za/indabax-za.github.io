@@ -61,7 +61,7 @@ days:
             number:
       - time: 10h30 - 12h00
         columns:
-          - title: Foundations I
+          - title: Machine Learning - Foundations I
             track: Foundations
             content: ""
             location: Computer labs
@@ -121,7 +121,7 @@ days:
             sessions: []
       - time: 14h30 - 16h00
         columns:
-          - title: Foundations II
+          - title: Reinforcement Learning - Foundations II
             track: Foundations
             content: ""
             location: Computer labs
@@ -162,7 +162,7 @@ days:
             sessions: []
       - time: 16h15 - 18h00
         columns:
-          - title: Foundations III
+          - title: Quantum Computing - Foundations III
             track: Foundations
             content: ""
             location: Computer labs
@@ -178,7 +178,7 @@ days:
               - name: "Febe de Wet"
               - name: "Francois Meyer"
             number:
-          - title: Applied ML & Industry III - Reinforcement Learning
+          - title: Reinforcement Learning - Applied ML & Industry III
             track: Applied ML & Industry
             content: ""
             location: ""
@@ -220,14 +220,14 @@ days:
             sessions: []
       - time: 10h30 - 12h00
         columns:
-          - title: Foundations IV
+          - title: Probability - Foundations IV
             track: Foundations
             content: ""
             location: Computer labs
             sessions:
               - name: "Stephan Schmidt"
             number:
-          - title: Research IV - Reinforcement Learning
+          - title: Reinforcement Learning - Research IV
             track: Research
             content: ""
             location: ""
@@ -236,7 +236,7 @@ days:
               - name: "Geraud Nangue Tasse"
               - name: "Michael Beukman"
             number:
-          - title: Applied ML & Industry IV - ML Ops
+          - title: ML Ops - Applied ML & Industry IV
             track: Applied ML & Industry
             content: ""
             location: ""
@@ -272,7 +272,7 @@ days:
             sessions: []
       - time: 14h30 - 16h00
         columns:
-          - title: Foundations V
+          - title: Transformers - Foundations V
             track: Foundations
             content: ""
             location: Computer labs
@@ -288,7 +288,7 @@ days:
               - name: "Anton Lukas"
               - name: "Rirhandzu Jeaneth Novela"
             number:
-          - title: Applied ML & Industry V - ML Ops
+          - title: ML Ops - Applied ML & Industry V
             track: Applied ML & Industry
             content: ""
             location: ""
@@ -307,14 +307,14 @@ days:
             sessions: []
       - time: 16h15 - 18h00
         columns:
-          - title: Foundations VI
+          - title: GANs - Foundations VI
             track: Foundations
             content: ""
             location: Computer labs
             sessions:
               - name: Emile Engelbrecht
             number:
-          - title: Research VI - Vision
+          - title: Vision - Research VI
             track: Research
             content: ""
             location: ""
@@ -363,12 +363,12 @@ days:
             number: 5
             sessions:
               - title: "Machine Learning in Research and Industry"
-                panel: 
+                panel:
                   - name: "Daniel Nico Wilke"
                   - name: "Jade Abbott"
                   - name: "Marelie Hattingh Davel"
                   - name: "Joanne Moonsamy"
-                  - name: "Anna Sergeevna Bosman"              
+                  - name: "Anna Sergeevna Bosman"
       - time: 10h00 - 10h30
         columns:
           - title: Break
@@ -379,7 +379,7 @@ days:
             sessions: []
       - time: 10h30 - 12h00
         columns:
-          - title: Hackathon
+          - title: Hackathon with Zindi [continued]
             track: Hackathon
             content: ""
             location: Computer labs
@@ -400,33 +400,14 @@ days:
             location: ""
             number: 17
             sessions:
-              - title: AI in Healthcare talk 1
-                time: 10h30 - 10h40
-                name: ""
-              - title: AI in Healthcare talk 2
-                time: 10h40 - 11h00
-                name: ""
-              - title: 6x Lightning talks
-                time: 11h00 - 11h20
-                name: ""
-              - title: AI in Healthcare talk 3
-                time: 11h20 - 11h40
-                name: ""
-              - title: Break
-                time: 11h40 - 12h00
-                name: ""
-              - title: Lunch
-                time: 12h00 - 13h00
-                name: ""
-              - title: AI in Healthcare talk 4
-                time: 13h00 - 13h20
-                name: ""
-              - title: 6x Lightning talks
-                time: 13h20 - 13h40
-                name: ""
-              - title: AI in Healthcare talk 5
-                time: 13h40 - 14h00
-                name: ""
+              - time: 10h30 - 11h00
+                name: "Joan Byamugisha"
+              - title: Federated learning for healthcare
+                time: 11h00 - 11h30
+                name: "Archie Arakkal"
+              - title: "From paper to practice: The business of AI and healthcare"
+                time: 11h30 - 12h00
+                name: "Ifthakaar Shaik"
       - time: 12h00 - 13h00
         columns:
           - title: Lunch
@@ -437,7 +418,7 @@ days:
             sessions: []
       - time: 13h00 - 15h00
         columns:
-          - title: Hackathon [continued]
+          - title: Hackathon with Zindi [continued]
             track: Hackathon
             content: ""
             location: Computer labs
@@ -455,6 +436,13 @@ days:
           - title: "Workshop: AI in Healthcare [continued]"
             track: Workshop
             content: ""
+            sessions:
+              - name: "Greg Newman"
+              - title: "Ideathon launch + example idea pitch"
+                time: 13h30 - 15h00
+                name: "Sisonke Biotik"
+                image: "/images/partners/sisonke_biotik_square.png"
+                link: https://www.sisonkebiotik.africa
       - time: 15h00 - 15h30
         columns:
           - title: Hackathon presentations and prizes
@@ -465,7 +453,7 @@ days:
             sessions: []
       - time: 15h30 - 16h00
         columns:
-          - title: Closing remarks & IndabaX Annual General Meeting 
+          - title: Closing remarks & IndabaX Annual General Meeting
             track: Keynote
             content: ""
             location: ""
