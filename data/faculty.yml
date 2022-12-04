@@ -727,7 +727,7 @@ people:
       \ Practical Mathematical Optimization, co-authored with the late Prof Jan Snyman.\
       \ Optimization is my Passion, generative modeling my application, and Nvidia GPUs\
       \ my calculator."
-    image: /images/people/n.wilke.jpg
+    image: /images/people/wilke.jpg
     link: modal
     name: Daniel Nico Wilke
     social_media:
@@ -796,7 +796,7 @@ people:
       in action, thus I am always keen to try my hand at real-life applications. In
       particular, I dabble in computer vision and satellite image analysis using convolutional
       neural networks."
-    image: /images/people/sergeevnabosman.jpg
+    image: /images/people/bosman.jpg
     link: modal
     name: Anna Sergeevna Bosman
     social_media:

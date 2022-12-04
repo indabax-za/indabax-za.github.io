@@ -76,9 +76,9 @@ days:
               - time: 10h30 - 11h00
                 name: "Daniel Nico Wilke"
               - time: 11h00 - 11h30
-                name: "David Bowman"
+                name: "Willem Schalk van Heerden"
               - time: 11h30 - 12h00
-                name: "Raesetje Sefala"
+                name: "Jason Chalom"
             number:
           - title: Applied ML & Industry I
             track: Applied ML & Industry
@@ -86,11 +86,12 @@ days:
             location: ""
             sessions:
               - time: 10h30 - 11h00
-                name: "Stuart Reid"
+                name: "Reevana Balmahoon"
+                title: "TBC"
               - time: 11h00 - 11h30
-                name: "Naomi Molefe"
+                name: "Joanne Moonsamy"
               - time: 11h30 - 12h00
-                name: "Merelda Wu"
+                name: "Naomi Molefe"
             number:
       - time: 12h00 - 13h00
         columns:
@@ -133,12 +134,11 @@ days:
             location: ""
             sessions:
               - time: 14h30 - 15h00
-                name: "Ronald Clark"
-                title: "TBC"
+                name: "Naweed Khan"
               - time: 15h00 - 15h30
-                name: "Greg Newman"
+                name: "David Bowman"
               - time: 15h30 - 16h00
-                name: "Marcellin Atemkeng"
+                name: "Raesetje Sefala"
             number:
           - title: Applied ML & Industry II
             track: Applied ML & Industry
@@ -146,11 +146,11 @@ days:
             location: ""
             sessions:
               - time: 14h30 - 15h00
-                name: "Joanne Moonsamy"
-              - time: 15h00 - 15h30
-                name: "Wihan Booyse"
-              - time: 15h30 - 16h00
                 name: "Pelonomi Moiloa"
+              - time: 15h00 - 15h30
+                name: "Stuart Reid"
+              - time: 15h30 - 16h00
+                name: "Mahmood-Ali Parker"
             number:
       - time: 16h00 - 16h15
         columns:
@@ -169,27 +169,29 @@ days:
             sessions:
               - name: "Gemma Dawson"
             number:
-          - title: Research III
+          - title: Research III - Language
             track: Research
             content: ""
             location: ""
             sessions:
+              - name: "Wiebke (Toussaint) Hutiri"
               - name: "Febe de Wet"
-              - name: "Greg Newman"
-              - name: "Tamlin Love"
+              - name: "Francois Meyer"
             number:
-          - title: Applied ML & Industry III
+          - title: Applied ML & Industry III - Reinforcement Learning
             track: Applied ML & Industry
             content: ""
             location: ""
             sessions:
-              - name: "Bophelo Makhetha"
-              - name: "Michael Williams"
-              - name: "Nhlakanipho Kwazi Mthembu"
+              - name: "Cobus Louw & Louwrens Labuschange"
+                title: "Sumogym Traffic Control: Reinforcement Learning From Simulation to Real World"
+                image: "/images/people/louwchange.jpg"
+              - name: "Siddarth Singh"
+              - name: "Tiffany Woodley"
             number:
       - time: 18h00 - 21h00
         columns:
-          - title: Poster session
+          - title: Poster session with AI Expo Africa
             track: Poster Session
             content: ""
             location: Distributed
@@ -225,25 +227,23 @@ days:
             sessions:
               - name: "Stephan Schmidt"
             number:
-          - title: Research IV
+          - title: Research IV - Reinforcement Learning
             track: Research
             content: ""
             location: ""
             sessions:
-              - name: "Wiebke (Toussaint) Hutiri"
-              - name: "Onalerona Mosimege"
-              - name: "Andries Smit"
+              - name: "Tamlin Love"
+              - name: "Geraud Nangue Tasse"
+              - name: "Michael Beukman"
             number:
-          - title: Applied ML & Industry IV
+          - title: Applied ML & Industry IV - ML Ops
             track: Applied ML & Industry
             content: ""
             location: ""
             sessions:
-              - name: "Cobus Louw & Louwrens Labuschange"
-                title: "Sumogym Traffic Control: Reinforcement Learning From Simulation to Real World"
-                image: "/images/people/louwchange.jpg"
-              - name: "Siddarth Singh"
-              - name: "Elijah Roussos"
+              - name: "Merelda Wu"
+              - name: "Michael Williams"
+              - name: "Bophelo Makhetha"
             number:
       - time: 12h00 - 13h00
         columns:
@@ -284,19 +284,18 @@ days:
             content: ""
             location: ""
             sessions:
-              - name: "Naweed Khan"
-              - name: "Willem Schalk van Heerden"
-              - name: "Francois Meyer"
+              - name: "Andries Smit"
+              - name: "Anton Lukas"
+              - name: "Rirhandzu Jeaneth Novela"
             number:
-          - title: Applied ML & Industry V
+          - title: Applied ML & Industry V - ML Ops
             track: Applied ML & Industry
             content: ""
             location: ""
             sessions:
-              - name: "Tiffany Woodley"
-              - title: TBC
-                name: "Reevana Balmahoon"
-              - name: "Mahmood-Ali Parker"
+              - name: "Elijah Roussos"
+              - name: "Wihan Booyse"
+              - name: "Nhlakanipho Kwazi Mthembu"
             number:
       - time: 16h00 - 16h15
         columns:
@@ -313,16 +312,15 @@ days:
             content: ""
             location: Computer labs
             sessions:
-              - name: Ruan van der Merwe
+              - name: Emile Engelbrecht
             number:
-          - title: Research VI
+          - title: Research VI - Vision
             track: Research
             content: ""
             location: ""
             sessions:
-              - name: "Oluwasegun Julius Aroba"
-              - name: "Jason Chalom"
-              - name: "Rirhandzu Jeaneth Novela"
+              - name: "Marcellin Atemkeng"
+              - name: "Liam Carew"
               - name: "Ruan Spijkerman"
                 title: "Proposed Face Recognition System Based on Immune Inspired Anomaly Detection Using Symbiotic Agents"
             number:
@@ -331,15 +329,14 @@ days:
             content: ""
             location: ""
             sessions:
+              - name: "Onalerona Mosimege"
+              - name: "Oluwasegun Julius Aroba"
               - name: "Idris Muniru"
                 title: Automatic knowledge extraction of any Chatbot from conversation
-              - name: "Geraud Nangue Tasse"
-              - name: "Michael Beukman"
-              - name: "Anton Lukas"
             number:
       - time: 18h00 - 21h00
         columns:
-          - title: Hackathon
+          - title: Hackathon with Zindi
             track: Hackathon
             content: ""
             location: Computer labs
@@ -361,13 +358,17 @@ days:
         columns:
           - title: Panel discussion
             track: Keynote
-            content: ""
+            content: "A panel discussion featuring incredible panelists from the AI community"
             location: ""
             number: 5
             sessions:
-              - title: ""
-                time: ""
-                name: ""
+              - title: "Machine Learning in Research and Industry"
+                panel: 
+                  - name: "Daniel Nico Wilke"
+                  - name: "Jade Abbott"
+                  - name: "Marelie Hattingh Davel"
+                  - name: "Joanne Moonsamy"
+                  - name: "Anna Sergeevna Bosman"              
       - time: 10h00 - 10h30
         columns:
           - title: Break
