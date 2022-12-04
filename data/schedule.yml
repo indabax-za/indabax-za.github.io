@@ -49,7 +49,10 @@ days:
             content: ""
             location: ""
             number:
-            sessions: []
+            sessions: 
+              - name: Deep Learning Indaba𝕏 South Africa 2022 organising committee 
+                image: "images/dlxza_logo black.png"
+                link: http://localhost:1313/news/2022-06-01-meet-the-team/
       - time: "09h30 - 10h30"
         columns:
           - title: Keynote I
@@ -458,7 +461,10 @@ days:
             content: ""
             location: ""
             number:
-            sessions: []
+            sessions: 
+              - name: Deep Learning Indaba𝕏 South Africa 2022 organising committee 
+                image: "images/dlxza_logo black.png"
+                link: http://localhost:1313/news/2022-06-01-meet-the-team/
       - time: 17h00 -
         columns:
           - title: Closing event
