@@ -1,1281 +1,1219 @@
 ---
 people:
-  - affiliation: ByteFuse
-    bio:
-      I am co-founder and a technical lead at ByteFuse, a new startup focusing on
-      developing multimodal algorithms applied to search and optimisation tasks. I can
-      claim that I am officially an university dropout that pursued a company, and I
-      have an unhealthy obsession with cats and llamas.
-    image: /images/people/vandermerwe.jpg
-    link: modal
-    name: Ruan van der Merwe
-    social_media:
-      - icon: ""
-        link: https://ruanvdmerwe.github.io/
-        title: Website
-      - icon: ""
-        link: https://za.linkedin.com/in/ruan-van-der-merwe-b87a08111
-        title: LinkedIn
-      - icon: ""
-        link: https://github.com/ruanvdmerwe
-        title: GitHub
-      - icon: ""
-        link: https://twitter.com/ruanvdmerwe1
-        title: Twitter
-    talk_description:
-      "The transformer architecture introduced in 2017 has significantly
-      impacted the deep learning field. This tutorial will cover the transformer in
-      great detail so that you can: explain it to your CEO, train a fellow machine learning
-      engineer, maintain a conversation with a seasoned transformer researcher. We will
-      also do deep dives into the transformer topics that get ignored most often."
-    topic: Everything you need to know about transformers
-    years:
-      - Foundations
-  - affiliation: Kriterion, TensorflowExtended Special interest group
-    bio:
-      I am the founder and AI lead at Kriterion, a software company taking predictive
-      maintenance planet scale.
-    image: /images/people/booyse.jpg
-    link: modal
-    name: Wihan Booyse
-    social_media:
-      - icon: ""
-        link: https://za.linkedin.com/in/wihanbooyse
-        title: LinkedIn
-      - icon: ""
-        link: https://scholar.google.com/citations?user=3ftnuv4aaaaj&hl=en
-        title: Website
-      - icon: ""
-        link: https://twitter.com/wihanbooyse
-        title: Twitter
-    talk_description:
-      In this talk I will explain the ecosystem that exists of production
-      ML tools, how they interact with the frameworks which we used to build our models,
-      and demonstrate how interoperable various machine learning frameworks really are.
-    topic: Running PyTorch in production, with tensorflow extended
-    years:
-      - Applied ML & Industry
-  - affiliation: Lelapa.AI
-    bio:
-      Moiloa has spent 8 years in the data science domain with 4 of those years spent
-      putting data science solutions into production in the finance industry. She has
-      three engineering degrees, is an active community participant as a director of
-      the NPO The Ungovernable and is Co-Founder of Lelapa.AI, a movement to create
-      AI for Africans, by Africans, solving African problems while bringing the benefits
-      of low-resource technology to the world
-    image: /images/people/moiloa.jpg
-    link: modal
-    name: Pelonomi Moiloa
-    social_media:
-      - icon: ""
-        link: https://twitter.com/tamati_biskit
-        title: Twitter
-    talk_description:
-      "An introduction to why and how it\u2019s important to keep the\
-      \ bad parts of ourselves from manifesting in the machines we create from an African\
-      \ perspective"
-    topic: Protecting Machines From Us
-    years:
-      - Applied ML & Industry
-  - affiliation: IBM Research Africa
-    bio:
-      Joan Byamugisha is a Research Scientist in computational linguistics at IBM
-      Research Africa in Johannesburg, South Africa. She has a PhD in Computer Science
-      from the University of Cape Town (UCT), where her research focused on Natural
-      Language Generation (NLG) in agglutinating Bantu languages. Her areas of active
-      research include biomedical text processing and Bantu language computational linguistics.
-    # image: "byamugisha"
-    link: modal
-    name: Joan Byamugisha
-    social_media:
-      - icon: ""
-        link: https://za.linkedin.com/in/joan-byamugisha-5b643625
-        title: LinkedIn
-    talk_description:
-      This talk will present a method of verifying a label or class
-      assigned to a document in a corpus using semantics. Specifically, the verification
-      of biomedical document labels using knowledge from the Unified Medical Language
-      System (UMLS) will be presented.
-    topic: Semantic-based Document Label Verification in Biomedical Text Processing
-    years:
-      - Research
-  - affiliation: ""
-    bio:
-      "Onalerona\u2019s passion for computer science started at the age of 15, when\
-      \ she ran a successful program for the first time. She has since then dedicated\
-      \ her life to social impact for women in tech. She has previously been a volunteer\
-      \ for Code4CT, an organisation that teaches high school girls how to code. \n\
-      She is a co-founder of Indoni Developers, a nonprofit organisation for African\
-      \ women in ICT.\nShe previously was the chairperson for Women in Computer Science\
-      \ at the University of Cape Town. Within that time period, she was awarded the\
-      \ Entelect Social Responsiveness Award for her impact in the computer science\
-      \ community.\n\nShe also has a medium blog that touches on mental health issues\
-      \ - with a twist from a tech perspective\n\nAside from her community work, she\
-      \ works as a consulting backend software engineer for Tangent Solutions. Her daily\
-      \ work involves designing products and services that address real needs, combining\
-      \ human-centred design and agile development processes, employing a creative approach\
-      \ to problem solving that starts with people.\n\nDuring her free time, she is\
-      \ an abstract artist"
-    link: modal
-    name: Onalerona Mosimege
-    social_media:
-      - icon: ""
-        link: "https://www.linkedin.com/in/onalerona-mosimege"
-        title: LinkedIn
-      - icon: ""
-        link: "https://instagram.com/onnie_mosimege"
-        title: Instagram
-      - icon: ""
-        link: "https://twitter.com/onnie_mosimege"
-        title: Twitter
-      - icon: ""
-        link: https://linktr.ee/onnie_mosimege
-        title: Website
-    talk_description:
-      A mental health talk, using AI principles and themes, goal geared
-      towards bringing more awareness about mental health issues in the filed
-    topic:
-      "Error Logging \u2014 Linking Computer Science Principles with how to deal\
-      \ with Depression + Anxiety"
-    years:
-      - Research
-  - affiliation: Co-founder & CEO of Melio AI
-    bio:
-      Merelda is the co-founder and CEO of Melio AI, an MLOps startup helping companies
-      commercialise their AI projects. She is an MLOps evangelist who is deeply frustrated
-      by the slow time-to-value for machine learning projects. Her vision is to create
-      a world where every leader has access to the data that helps them make better
-      decisions. Her mission is to make AI frictionless by building a bridge between
-      business, data science and engineering. She enjoys leading multi-disciplinary
-      teams to build PoCs, deploying them to production and continuously improving them
-      to create transformative values for the business. She holds a BSc and MSc degree
-      in Electrical Engineering from the University of Witwatersrand. Merelda also co-organizes
-      the Cloud Native Computing Foundation's Johannesburg chapter and is an avid meet-up
-      and conference speaker.
-    image: /images/people/wu.jpg
-    link: modal
-    name: Merelda Wu
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/mereldawu
-        title: LinkedIn
-      - icon: ""
-        link: https://merelda.com
-        title: Website
-    talk_description: "A practical talk on showing the following:
+- name: Reevana Balmahoon
+  years:
+  - Applied ML & Industry
+  talk_description: 'A talk exploring the convergence of accelerating technologies,
+    and their impact on the future. Real examples of AI and VR, and VR and blockchain
+    will be provided to demonstrate the power of convergence and the transformation
+    of business. '
+  bio: Reevana Balmahoon is the Artificial Intelligence and Extended Reality lead
+    at the Council for Scientific and Industrial Research. She is an engineer continuously
+    working to ensure an equitable future by developing inclusivity and diversity
+    in technology. Reevana is also a senior leader and tech specialist at WomHub,
+    a global social enterprise. She is a member of the Institute of Directors of SA
+    and is an advisory board member at various startups. She has previously worked
+    in positions to manage innovation across Africa for Vodafone’s subsidiary, Vodacom,
+    and was a senior manager in strategic analytics after her role as a senior data
+    scientist. Reevana holds a Ph.D. in Engineering from University of the Witwatersrand
+    and an MBA from Gordon Institute of Business Science.
+  topic: Technology convergence for business transformation
+  affiliation: CSIR, WomHub
+  link: modal
+  image: ''
+  social_media:
+  - title: LinkedIn
+    link: https://www.linkedin.com/in/reevana-balmahoon-9493a368
+    icon: ''
+  - title: Twitter
+    link: https://twitter.com/reevanab
+    icon: ''
+- name: Idris Muniru
+  years:
+  - Applied ML & Industry
+  talk_description: |-
+    Acquiring knowledge for conversation modelling is an important task in the process of building a Conversational Agent (Chatbot). However, it is a difficult process requiring too much time and effort.
 
-      1. Challenges of deploying ML models today
+    This talk shares a novel methodology for automatic conversational knowledge extraction from an existing Chatbot.
+  bio: |-
+    Idris Munir is a software enthusiast with 10+ years of experience spanning across different sectors including Higher education, IT support, telecoms, Fintech, Healthcare and Research.
+    He is currently a Data Scientist with Classy Advertising, Portugal, a lecturer at the department of Biomedical Engineering, University of Ilorin and a doctoral student at Stellenbosch University, South Africa.
+  topic: Automatic knowledge extraction of any Chatbot through Conversation.
+  affiliation: Stellenbosch University
+  link: modal
+  image: ''
+  social_media:
+  - title: LinkedIn
+    link: www.linkedin.com/in/muniruoladeleidris
+    icon: ''
+  - title: Twitter
+    link: https://twitter.com/idrismunir
+    icon: ''
+- name: Ronald Clark
+  years:
+  - Research
+  talk_description: This talk will cover the latest advances in digitising the 3D
+    world for applications in robotics, virtual reality and beyond.
+  bio: Ronald is an Associate Professor at the University of Oxford. His research
+    interests lie at the intersection of machine learning and computer vision. He
+    received his MSc in Information Engineering from the University of the Witwatersrand
+    and DPhil in Computer Science from the University of Oxford. He was a member of
+    the Dyson Robotics Lab at Imperial College London and subsequently held an Imperial
+    College Research Fellowship. He has received various accolades for his research
+    including a best paper honourable mention at CVPR 2018.
+  topic: Reality Capture for Robotics, Graphics and Beyond
+  affiliation: University of Oxford
+  link: modal
+  image: ''
+  social_media:
+  - title: Website
+    link: https://www.ronnieclark.co.uk
+    icon: ''
+  - title: Twitter
+    link: https://twitter.com/ronnieclark__
+    icon: ''
+- affiliation: ByteFuse
+  bio: I am co-founder and a technical lead at ByteFuse, a new startup focusing on
+    developing multimodal algorithms applied to search and optimisation tasks. I can
+    claim that I am officially an university dropout that pursued a company, and I
+    have an unhealthy obsession with cats and llamas.
+  image: "/images/people/vandermerwe.jpg"
+  link: modal
+  name: Ruan van der Merwe
+  social_media:
+  - icon: ''
+    link: https://ruanvdmerwe.github.io/
+    title: Website
+  - icon: ''
+    link: https://za.linkedin.com/in/ruan-van-der-merwe-b87a08111
+    title: LinkedIn
+  - icon: ''
+    link: https://github.com/ruanvdmerwe
+    title: GitHub
+  - icon: ''
+    link: https://twitter.com/ruanvdmerwe1
+    title: Twitter
+  talk_description: 'The transformer architecture introduced in 2017 has significantly
+    impacted the deep learning field. This tutorial will cover the transformer in
+    great detail so that you can: explain it to your CEO, train a fellow machine learning
+    engineer, maintain a conversation with a seasoned transformer researcher. We will
+    also do deep dives into the transformer topics that get ignored most often.'
+  topic: Everything you need to know about transformers
+  years:
+  - Foundations
+- affiliation: Kriterion, TensorflowExtended Special interest group
+  bio: I am the founder and AI lead at Kriterion, a software company taking predictive
+    maintenance planet scale.
+  image: "/images/people/booyse.jpg"
+  link: modal
+  name: Wihan Booyse
+  social_media:
+  - icon: ''
+    link: https://za.linkedin.com/in/wihanbooyse
+    title: LinkedIn
+  - icon: ''
+    link: https://scholar.google.com/citations?user=3ftnuv4aaaaj&hl=en
+    title: Website
+  - icon: ''
+    link: https://twitter.com/wihanbooyse
+    title: Twitter
+  talk_description: In this talk I will explain the ecosystem that exists of production
+    ML tools, how they interact with the frameworks which we used to build our models,
+    and demonstrate how interoperable various machine learning frameworks really are.
+  topic: Running PyTorch in production, with tensorflow extended
+  years:
+  - Applied ML & Industry
+- affiliation: Lelapa.AI
+  bio: Moiloa has spent 8 years in the data science domain with 4 of those years spent
+    putting data science solutions into production in the finance industry. She has
+    three engineering degrees, is an active community participant as a director of
+    the NPO The Ungovernable and is Co-Founder of Lelapa.AI, a movement to create
+    AI for Africans, by Africans, solving African problems while bringing the benefits
+    of low-resource technology to the world
+  image: "/images/people/moiloa.jpg"
+  link: modal
+  name: Pelonomi Moiloa
+  social_media:
+  - icon: ''
+    link: https://twitter.com/tamati_biskit
+    title: Twitter
+  talk_description: An introduction to why and how it’s important to keep the bad
+    parts of ourselves from manifesting in the machines we create from an African
+    perspective
+  topic: Protecting Machines From Us
+  years:
+  - Applied ML & Industry
+- affiliation: IBM Research Africa
+  bio: Joan Byamugisha is a Research Scientist in computational linguistics at IBM
+    Research Africa in Johannesburg, South Africa. She has a PhD in Computer Science
+    from the University of Cape Town (UCT), where her research focused on Natural
+    Language Generation (NLG) in agglutinating Bantu languages. Her areas of active
+    research include biomedical text processing and Bantu language computational linguistics.
+  link: modal
+  name: Joan Byamugisha
+  social_media:
+  - icon: ''
+    link: https://za.linkedin.com/in/joan-byamugisha-5b643625
+    title: LinkedIn
+  talk_description: This talk will present a method of verifying a label or class
+    assigned to a document in a corpus using semantics. Specifically, the verification
+    of biomedical document labels using knowledge from the Unified Medical Language
+    System (UMLS) will be presented.
+  topic: Semantic-based Document Label Verification in Biomedical Text Processing
+  years:
+  - Research
+  image: ''
+- affiliation: ''
+  bio: "Onalerona’s passion for computer science started at the age of 15, when she
+    ran a successful program for the first time. She has since then dedicated her
+    life to social impact for women in tech. She has previously been a volunteer for
+    Code4CT, an organisation that teaches high school girls how to code. \nShe is
+    a co-founder of Indoni Developers, a nonprofit organisation for African women
+    in ICT.\nShe previously was the chairperson for Women in Computer Science at the
+    University of Cape Town. Within that time period, she was awarded the Entelect
+    Social Responsiveness Award for her impact in the computer science community.\n\nShe
+    also has a medium blog that touches on mental health issues - with a twist from
+    a tech perspective\n\nAside from her community work, she works as a consulting
+    backend software engineer for Tangent Solutions. Her daily work involves designing
+    products and services that address real needs, combining human-centred design
+    and agile development processes, employing a creative approach to problem solving
+    that starts with people.\n\nDuring her free time, she is an abstract artist"
+  link: modal
+  name: Onalerona Mosimege
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/onalerona-mosimege
+    title: LinkedIn
+  - icon: ''
+    link: https://instagram.com/onnie_mosimege
+    title: Instagram
+  - icon: ''
+    link: https://twitter.com/onnie_mosimege
+    title: Twitter
+  - icon: ''
+    link: https://linktr.ee/onnie_mosimege
+    title: Website
+  talk_description: A mental health talk, using AI principles and themes, goal geared
+    towards bringing more awareness about mental health issues in the filed
+  topic: Error Logging — Linking Computer Science Principles with how to deal with
+    Depression + Anxiety
+  years:
+  - Research
+  image: ''
+- affiliation: Co-founder & CEO of Melio AI
+  bio: Merelda is the co-founder and CEO of Melio AI, an MLOps startup helping companies
+    commercialise their AI projects. She is an MLOps evangelist who is deeply frustrated
+    by the slow time-to-value for machine learning projects. Her vision is to create
+    a world where every leader has access to the data that helps them make better
+    decisions. Her mission is to make AI frictionless by building a bridge between
+    business, data science and engineering. She enjoys leading multi-disciplinary
+    teams to build PoCs, deploying them to production and continuously improving them
+    to create transformative values for the business. She holds a BSc and MSc degree
+    in Electrical Engineering from the University of Witwatersrand. Merelda also co-organizes
+    the Cloud Native Computing Foundation's Johannesburg chapter and is an avid meet-up
+    and conference speaker.
+  image: "/images/people/wu.jpg"
+  link: modal
+  name: Merelda Wu
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/mereldawu
+    title: LinkedIn
+  - icon: ''
+    link: https://merelda.com
+    title: Website
+  talk_description: |-
+    A practical talk on showing the following:
+    1. Challenges of deploying ML models today
+    2. What are the different options - batch, real-time, streaming
+    3. What should we look out for in deploying an ML model
+    4. Maybe a 5-10 min walk-through/demo on deploying a small model
+  topic: From Google Collab to deployed endpoints following MLOps principles
+  years:
+  - Applied ML & Industry
+- affiliation: Sybrin
+  bio: During his time completing a B.BusSci (Analytics) degree at the University
+    of Cape Town, Ali developed a keen interest in machine learning and a strong passion
+    for NLP. Whilst working as a machine learning engineer at Sybrin, his role encompasses
+    a vast number of topics related to computer vision and NLP. However, his primary
+    focus is facial authentication research and development. As an ambassador for
+    DeepLearning.AI, he also hosts occasional community events to help further the
+    AI scene in South Africa.
+  image: "/images/people/parker.jpg"
+  link: modal
+  name: Mahmood-Ali Parker
+  social_media:
+  - icon: ''
+    link: https://linkedin.com/in/parker-ali
+    title: LinkedIn
+  talk_description: This talk will provide an introduction to neural facial authentication
+    in the context of the financial services industry. Each key stage of the authentication
+    process will be explained in technical detail before delving into the important
+    ethical considerations which must be considered when developing facial algorithms.
+  topic: An Introduction to Neural Facial Authentication in the Financial Services
+    Sector
+  years:
+  - Applied ML & Industry
+- affiliation: ''
+  bio: https://www.linkedin.com/in/bophelom/
+  image: "/images/people/makhetha.jpg"
+  link: modal
+  name: Bophelo Makhetha
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/bophelom/
+    title: LinkedIn
+  talk_description: 'This talk aims to address the question: "How can we use software
+    best practices, particularly test driven development, to build and deploy good
+    quality models"'
+  topic: Test Driven AI - Lessons from Software Development
+  years:
+  - Applied ML & Industry
+- affiliation: ''
+  bio: |-
+    Joanne is Head of Admissions at ExploreAI Academy.
+    Armed with a business degree, she ventured into the world of media, and then cosmetics, before finding a home in data science. She believes in the power of storytelling with data and is passionate about alternative education, and solving problems in under-serviced communities.
+    Joanne has consulted on projects across various industries, and is excited by the diversity of skills and backgrounds that exist in the tech community.
+  image: "/images/people/moonsamy.jpg"
+  link: modal
+  name: Joanne Moonsamy
+  social_media: []
+  talk_description: Graduates often find themselves at a loss when preparing to enter
+    the working world. There is a lack of education around professional skills that
+    are critical to being successful in any work environment, and more so in interviews.
+    Academia is often ahead of the curve in terms of keeping up with relevant technical
+    tools and skills, but there's a missing piece in developing adequate ways of working,
+    as well as setting realistic expectations around careers that one can pursue.
+    How do we start closing that gap and how can grads better prepare for their debut
+    into a new environment?
+  topic: Bridging the gap between tech education and industry - addressing the missing
+    piece
+  years:
+  - Applied ML & Industry
+- affiliation: DAIR Institute | Mila
+  bio: Raesetje is an AI Research Fellow at the Distributed AI Research(DAIR) institute.
+    Her research focuses on evaluating datasets, creating spatial ground truth datasets
+    and using machine learning and other computational social science techniques to
+    study the effects of spatial apartheid in South Africa, post-Apartheid. Her previous
+    work involved partnering with various stakeholders and using machine learning
+    techniques to study poverty and traffic safety in the urban parts of Nigeria and
+    Jakarta, respectively. She is currently a PhD student at Mila and holds a computer
+    science undergraduate and master's degree from the University of the Witwatersrand,
+    Johannesburg. She has been technically involved in different data science projects
+    from around the world and her expertise range from creating ground-truth datasets,
+    building machine learning models, analyzing and evaluating results for real-world
+    problems with a societal impact.
+  image: "/images/people/sefala.jpg"
+  link: modal
+  name: Raesetje Sefala
+  social_media:
+  - icon: ''
+    link: https://twitter.com/bonjora
+    title: Twitter
+  - icon: ''
+    link: https://www.linkedin.com/in/raesetje-sefala/
+    title: LinkedIn
+  - icon: ''
+    link: https://mastodon.social/@raesetje
+    title: Website
+  talk_description: The insufficiency of ground truth data is usually a barrier when
+    researchers are trying to train machine learning models for real-world applications.
+    In this talk I will be discussing some of the computer vision applications I have
+    worked on in the past, discussing some interesting techniques as well as lessons
+    learnt while creating ground truth labels in order to answer research questions
+    around ways to study the effects of Spatial Apartheid in South Africa, and on
+    improving traffic safety in Jakarta, Indonesia.
+  topic: How else can we think about creating ground truth datasets to answer research
+    questions?
+  years:
+  - Research
+- affiliation: ''
+  bio: "I've been lucky enough to work on challenging projects with great people (sometimes
+    the other way around \U0001F609), found a business, and currently work in the
+    most interesting field of all - AI! \n\nThrough these I've developed a well rounded
+    technical skillset which I love expanding through learning and teaching. \n\nMy
+    approach to work has been much along the lines of Tim Minchin's advice - \"...
+    so I advocate passionate, dedication to the pursuit of short-term goals. Be micro-ambitious.
+    Put your head down and work with pride on whatever is in front of you. You never
+    know where you might end up.\""
+  image: "/images/people/williams.jpg"
+  link: modal
+  name: Michael Williams
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/michaeljohnwilliams/
+    title: LinkedIn
+  talk_description: While MLOps is valuable, getting the fundamentals of Software
+    Engineering right are far more so. This talk will show you which fundamentals
+    have the biggest bang for buck while setting your future MLOps journey up for
+    success.
+  topic: MLOps - You don't need it
+  years:
+  - Applied ML & Industry
+- affiliation: North-West University
+  bio: Febe de Wet is an associate professor within the North-West University's  School
+    of  Electrical, Electronic and Computer Engineering. She also has an affiliation
+    with the Digital Signal Processing group at Stellenbosch University's Department
+    of Electrical and Electronic Engineering. Her research interests include statistical
+    pattern recognition, speech resource development and automatic speech recognition.
+    She is especially interested in developing language technology for South Africa's
+    indigenous languages and in educational applications of speech technology.
+  image: "/images/people/dewet.jpg"
+  link: modal
+  name: Febe de Wet
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/febe-de-wet-1a0445a/
+    title: LinkedIn
+  talk_description: Despite many attempts to address the situation, South Africa's
+    official languages remain under-resourced in terms of the text and speech data
+    required to implement state-of-the-art language technology. To ensure that no
+    language is left behind, resource development should remain a priority until a
+    strong digital presence has been established for all our indigenous languages.
+    The talk will introduce a recent initiative to launch South Africa's languages
+    on the Mozilla Common Voice platform (https://commonvoice.mozilla.org/en).
+  topic: Localising the Mozilla Common Voice platform for South Africa’s official
+    languages
+  years:
+  - Research
+- affiliation: ByteFuse
+  bio: "B.Eng E&E - Stellenbosch \nMSc Data Science - UCT\nData Enthusiast: from data
+    to models to deployment \nPolyglot: from Crypto to ML to UIs to backends"
+  image: "/images/people/labuschange.jpg"
+  link: modal
+  name: Louwrens Labuschange
+  social_media:
+  - icon: ''
+    link: https://github.com/louwjlabuschagne
+    title: GitHub
+  - icon: ''
+    link: https://github.com/louwjlabuschagne
+    title: Website
+  talk_description: "Reinforcement Learning has had many applications within simulation,
+    but only in recent years real-world applications have seen some success in the
+    field of Artificial Intelligence. Applications such as AlphaFold, AlphaTensor
+    and DeepPCB have shown that reinforcement learning can be used to solve complex
+    problems in the real world. \n\nIn this talk, we will discuss how reinforcement
+    learning can be used to solve an everyday problem, traffic signal control. We
+    will showcase our in-house tool called SumoGym - a Python environment combining
+    OpenAi's Gym environment and the open-source microscopic traffic simulation software
+    SUMO. We will discuss the challenges of using reinforcement learning in the real
+    world and how we can overcome them with our university and industry partner to
+    get our agents deployed at a real-world traffic intersection."
+  topic: 'Sumogym Traffic Control: Reinforcement Learning From Simulation to Real
+    World'
+  years:
+  - Applied ML & Industry
+- affiliation: IBM Research - Africa
+  bio: 'Naweed Khan is a Master Inventor and Research Scientist in the AI Science
+    team at IBM Research - Africa. He heads the patent portfolio in the South Africa
+    lab and is a lead open source developer in the global Neuro-Symbolic AI team.
+    He is a recipient of IBM’s Research Accomplishment award, with work focusing on
+    enhancing core machine learning algorithms, computational framework implementation
+    and infrastructure development in projects that look beyond today’s deep learning
+    approaches. He develops tools that push the boundaries in Natural Language Understanding:
+    making machines that reason with knowledge, learn with noisy data and compute
+    in an efficient and symbolically interpretable way. Naweed obtained his MEng in
+    Robotics and Image processing at the University of Johannesburg, where he also
+    holds a BSc in Computer Science.'
+  image: ''
+  link: modal
+  name: Naweed Khan
+  social_media:
+  - icon: ''
+    link: https://za.linkedin.com/in/naweedaghmad
+    title: LinkedIn
+  - icon: ''
+    link: https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Naweed.Khan
+    title: Website
+  talk_description: While deep learning has made some amazing achievements and continues
+    to push AI further each day, there are a few pitfalls that require practitioners
+    to pause. These pitfalls relate to learning with less, reasoning with knowledge,
+    and regulatable interpretability, to mention a few. If much of today’s (pre-ML)
+    infrastructure reasons rigorously with uncertainty, what will the big data paradigm
+    do to communities with less (data)? If the world already runs on distilled knowledge,
+    how do we incorporate those inductive biases unabstractly? If the public cares
+    deeply about ethics and transparency, when is an uninterpretable neural network
+    an acceptable tool? With some reflection, we can innovate beyond today’s limitations.
+  topic: 'Neuro-Symbolic AI: Looking beyond Deep Learning'
+  years:
+  - Research
+- affiliation: Nosible
+  bio: CEO and Founder of Nosible. Quant and Full Stack Software Engineer with 10+
+    years of experience using AI in finance. On a mission to bring AI to all investors.
+  image: "/images/people/reid.jpg"
+  link: modal
+  name: Stuart Reid
+  social_media:
+  - icon: ''
+    link: https://twitter.com/stuartreid1929
+    title: Twitter
+  - icon: ''
+    link: https://www.nosible.com
+    title: Website
+  talk_description: I will be demonstrating how attention networks can be used to
+    learn which words in news headlines are likely to trigger material increases in
+    future volatility. Such articles include mentions of new drug discoveries, lawsuits,
+    executive resignations, trial results, product launches, company spinoffs, buybacks,
+    mergers & acquisitions, regulation changes, etc. The dataset the model is trained
+    on has 2,758,426 news stories covering >36,500 stocks.
+  topic: 'Deep volatility: uncovering material risks across 2,758,426 news stories
+    using attention networks'
+  years:
+  - Applied ML & Industry
+- affiliation: ByteFuse
+  bio: I obtained my BEng Electrical and Electronic degree from Stellenbosch University,
+    followed by an MEng in reinforcement learning. Following graduation, I was employed
+    as a software engineer at ByteFuse, a Stellenbosch-based machine learning startup.
+    I received the opportunity to learn more about machine learning and software.
+    At ByteFuse, I started working on and am currently fully involved in a traffic
+    optimisation project in collaboration with our industry partners. This is an exciting
+    project in which we are challenged to create accurate microsimulations and apply
+    simulation-trained models in the real world. When I'm not training agents to play
+    video games, I enjoy playing them myself. I also like outdoor activities such
+    as jogging and hiking.
+  image: "/images/people/louw.jpg"
+  link: modal
+  name: Cobus Louw
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/cobus-louw-77036a171
+    title: LinkedIn
+  talk_description: "IndabaX Talk Description\nSumogym Traffic Control: Reinforcement
+    Learning from Simulation to Real World\n\nReinforcement Learning has had many
+    applications within simulation, but only in recent years real-world applications
+    have seen some success in the field of Artificial Intelligence. Applications such
+    as AlphaFold, AlphaTensor and DeepPCB have shown that reinforcement learning can
+    be used to solve complex problems in the real world. \n\nIn this talk, we will
+    discuss how reinforcement learning can be used to solve an everyday problem, traffic
+    signal control. We will showcase our in-house tool called SumoGym - a Python environment
+    combining OpenAi's Gym environment and the open-source microscopic traffic simulation
+    software SUMO. We will discuss the challenges of using reinforcement learning
+    in the real world and how we can overcome them with our university and industry
+    partner to get our agents deployed at a real-world traffic intersection."
+  topic: 'Sumogym Traffic Control: Reinforcement Learning from Simulation to Real
+    World'
+  years:
+  - Applied ML & Industry
+- affiliation: Co-founder and CEO of DataProphet
+  bio: |-
+    Inspired by the significant, measurable value that prescriptive AI could bring to local
+    manufacturers as an industry consultant, Frans co-founded DataProphet in 2014. Since then,
+    his mission has been to establish this innovative, results-driven company as the leading
+    global provider of AI-as-a-Service for manufacturing. Frans has been named one of Fast
+    Company SA’s top 20 industry leaders under 30 and is a regular keynote speaker on the
+    international circuit at key manufacturing vertical summits and conferences, as well as other prestigious events. For example, in 2019, he was invited to speak at the WEF's Annual Meeting of the New Champions (AKA the “Summer Davos”) in Dalian, China, in recognition of DataProphet being named a Technology Pioneer. Then in 2021, Frans was invited to join the IFC Manufacturing Conference as a panel speaker to discuss how leaders in global
+    manufacturing benefit from limiting waste and repurposing resources while using leading-edge data-driven solutions.
+  link: modal
+  name: Frans Cronje
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/frans-cronje/
+    title: LinkedIn
+  - icon: ''
+    link: https://dataprophet.com/
+    title: Website
+  talk_description: Frans will deep-dive into how AI-driven solutions can help improve
+    quality targets, reduce scrap and defects, and achieve manufacturing process optimization—ahead
+    of real-time.
+  topic: How is AI changing the face of manufacturing?
+  years:
+  - Keynote
+  image: ''
+- affiliation: Women in Big Data SA
+  bio: People strategist and business researcher with 10 years’ experience in using
+    applied research methodologies to drive strategic decision making. Naomi has consulting
+    experience across industries, financial services, media entertainment, telecommunications,
+    and mining. She has developed capabilities in service management design, business
+    process optimisation and strategic talent sourcing. She is the co-Founder and
+    Chapter Director for women in Big Data SA; a registered NPO.
+  image: "/images/people/molefe.jpg"
+  link: modal
+  name: Naomi Molefe
+  social_media:
+  - icon: ''
+    link: https://twitter.com/datawomensa
+    title: Twitter
+  talk_description: The talk will be touching on the interconnection between building
+    an AI business and the micro & macro economic factors that ensures success and
+    sustainability of the business in the African market
+  topic: AI Business - drive towards inclusion and sustainable AI businesses
+  years:
+  - Applied ML & Industry
+- affiliation: Delft University of Technology (Netherlands)
+  bio: Wiebke Hutiri is a PhD researcher in the Cyber Physical Intelligence Lab at
+    the Technical University of Delft. Wiebke does interdisciplinary research at the
+    intersection of applied machine learning and edge computing, with a focus on designing
+    trustworthy machine learning systems for the Internet of Things.
+  name: Wiebke (Toussaint) Hutiri
+  image: "/images/people/hutiri.jpg"
+  link: modal
+  social_media:
+  - icon: ''
+    link: https://@wiebke@mastodon.social
+    title: Website
+  - icon: ''
+    link: https://twitter.com/wiebkehutiri
+    title: Twitter
+  - icon: ''
+    link: https://www.linkedin.com/in/wiebkehutiri
+    title: LinkedIn
+  talk_description: In an age of surveillance capitalism, anchoring the design of
+    emerging smart services in trustworthiness is urgent and important. Edge Intelligence,
+    which brings together the fields of AI and Edge computing, is a key enabling technology
+    for smart services. Trustworthy Edge Intelligence should thus be a priority research
+    concern. However, determining what makes Edge Intelligence trustworthy is not
+    straight forward. This talk examines requirements for trustworthy Edge Intelligence
+    in voice-activated services, focusing on interactions between bias, privacy and
+    security.
+  topic: 'Towards trustworthy edge intelligence: lessons from voice activated services'
+  years:
+  - Research
+- affiliation: Instadeep Ltd
+  bio: Siddarth Singh is a graduated from the University of the Witwatersrand with
+    an MSc in computer science. The research focused on the field of multi-agent reinforcement
+    learing and multi-agent credit assignment. He is currently a research engineer
+    at Instadeep Ltd working on fairer evaluation protocols in MARL research and applying
+    MARL to solve complex problems.
+  image: "/images/people/singh.jpg"
+  link: modal
+  name: Siddarth Singh
+  social_media: []
+  talk_description: The fields of Reinforcement Learning and Multi-Agent Reinforcement
+    Learning have been popularised through solving problems in simulated video game
+    settings and, these fields are commonly thought of as disciplines where practical
+    use cases will only appear in the future. We show two complex problems which have
+    until now been solved using human-crafted solutions and show how RL has been deployed
+    not only to solve simulated versions of these real-world problems but, is being
+    deployed to solve these tasks in the real world.
+  topic: 'RL in Practice: Solving complex real-world problems with RL'
+  years:
+  - Applied ML & Industry
+- affiliation: University of Pretoria
+  bio: I am a senior lecturer in the Centre of Asset Integrity Management, Department
+    of Mechanical and Aeronautical Engineering, University of Pretoria, Pretoria,
+    South Africa.
+  image: "/images/people/schmidt.jpg"
+  link: modal
+  name: Stephan Schmidt
+  social_media: []
+  talk_description: Bayesian methods form the basis of many learning-based methods.
+    However, learning-based practitioners often do not have formal training in Bayesian
+    methods. This makes the topic arduous for neophytes. The purpose of this talk
+    is to give a brief introduction to Bayesian inference concepts.
+  topic: Introduction to Bayesian inference
+  years:
+  - Foundations
+- affiliation: IBM
+  bio: With degrees in Statistics, Applied Mathematics, and Operations Research, Gemma
+    is a programme manager for two IBM Quantum global programmes (Qiskit Advocates
+    and the Qiskit Developer Certification).  The first ten years of her career was
+    spent in education before changing to a career in tech where she worked in a number
+    of different fields.  What remained consistent was a passion for community building
+    and that is what brought her to IBM and the new and rabidly growing field of quantum
+    computing.
+  image: "/images/people/dawson.jpg"
+  link: modal
+  name: Gemma Dawson
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/gemmadawson
+    title: LinkedIn
+  talk_description: Many believe that quantum advantage, the time where quantum computing
+    is provably superior to classical computers, is not that far off. This talk will
+    not only introduce you to some of the basic concepts of Quantum Computing but
+    also guide you in how to get started in this new and exciting field.
+  topic: A Gentle Introduction to Quantum Computing
+  years:
+  - Foundations
+- affiliation: LifeQ, ByteFuse
+  bio: While completing my MSc in Applied Mathematics at Stellenbosch I joined a small
+    biotech startup called HealthQ (now LifeQ), where I spent several years developing
+    and scaling models for wearable devices. I now lead the Special Projects group
+    within LifeQ. In 2020 I founded ByteFuse with Ruan van der Merwe and Etienne Barnard,
+    ByteFuse is an AI R&D company that explores AI solutions to problems in industry,
+    from digital marketing to transport optimisation.
+  image: "/images/people/newman.jpg"
+  link: modal
+  name: Greg Newman
+  social_media: []
+  talk_description: It has long been difficult to gather data from wearable devices,
+    transporting too much data can compromise battery life and requires good connectivity,
+    while storing and labelling the datasets can be a costly undertaking. New chip
+    and instruction sets are allowing models to run efficiently at the sensor level
+    in wearables, we’ll look at using this new capabilities in a federated setting
+    to learn a model for classifying and monitoring certain pathologies.
+  topic: Self-supervised Federated Learning using Wearables
+  years:
+  - Research
+- affiliation: Cerebrium, Cornell
+  bio: Elijah is currently the Principal Machine Learning Engineer at Cerebrium, and
+    currently works on their simplified ML deployment product. He holds a BSc Honours
+    Degree in Computer Science from UCT and a Masters in Computer Engineering from
+    Cornell University.
+  image: "/images/people/roussos.jpg"
+  link: modal
+  name: Elijah Roussos
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/elijah-roussos/
+    title: LinkedIn
+  talk_description: Large language and generative models have taken the ML community
+    by storm following the results of GPT-3 and Stable Diffusion. Startups and businesses
+    have rushed to include these models in their products such as Notion and Mutiny
+    while others have built billion dollar businesses off the back of the technology.
+    However, traditional methods of training and deploying machine learning models
+    aren't well suited to these types of models. Current methods leads to exorbitant
+    costs, bad user experiences and infrastructure nightmares. Hear how Cerebrium
+    has helped  companies train and deploy these models globally while reducing costs
+    by 10x.
+  topic: Running Large Language models in Production for less than $10 a month
+  years:
+  - Applied ML & Industry
+- affiliation: North-West University
+  bio: "Marelie Davel is a deep learning enthusiast, a professor of Engineering at
+    NWU, \nand the director of the MUST Deep Learning research group. She has published
+    \ ~100 papers on machine learning and its applications. She is also affiliated
+    with the Centre for AI Research (CAIR) and the National Institute for Theoretical
+    and Computational Sciences (NITheCS), coordinating a research programme in each."
+  link: modal
+  image: "/images/people/davel.jpg"
+  name: Marelie Hattingh Davel
+  social_media:
+  - icon: ''
+    link: https://www.nwu.ac.za/must
+    title: Website
+  talk_description: |-
+    Machine learning plays an increasing role in assisting scientists and engineers in knowledge discovery: obtaining novel information from large, possibly complex data sets. Many practically important tasks are modelled using time series information (as sequences of events), and deep learning models are particularly important tools for these tasks.
 
-      2. What are the different options - batch, real-time, streaming
+    Knowledge discovery typically builds on interpretability techniques: techniques that aim to answer {\em why} models make specific predictions. In its simplest form (feature attribution), the link between output and input is traced in order to determine which features influenced the result in which ways. Knowledge discovery in deep time series models is an active field of research, with many open questions remaining.
 
-      3. What should we look out for in deploying an ML model
+    In this talk, I will provide a bird's eye view of the field, get into the nitty-gritty of an approach or two, and focus in on some interesting case studies currently taking place in South Africa.
+  topic: Knowledge Discovery in Time Series Data
+  years:
+  - Keynote
+- affiliation: ''
+  bio: I am a PhD candidate in Electronic Engineering and Data Science at Stellenbosch
+    University. My master's was upgraded 2 years ago and we are planning on finalizing
+    the dissertation in the next 6 months. My project specifically focuses on applying
+    GANs on semi-supervised learning with a twist.
+  link: modal
+  name: Emile Engelbrecht
+  social_media:
+  - icon: ''
+    link: https://@engelreyn (twitter)
+    title: Twitter
+  talk_description: Generative adversarial networks (GANs) are both the future of
+    A.I. and the biggest threat to civil society. In this talk, I will discuss the
+    computational and mathematical details of GANs, after which we will look at some
+    of the awesome and dangerous applications. Sneak-peal - deep fakes are already
+    being used in war-fare.
+  topic: 'Generative adversarial networks: design, applications and dangers'
+  years:
+  - Foundations
+  image: ''
+- affiliation: University of Pretoria
+  bio: "Professor in Mechanical and Aeronautical Engineering at the University of
+    Pretoria, South Africa. Current President of the South African Association for
+    Theoretical and Applied Mechanics, and Chairman of the International Union of
+    Theoretical and Applied Mechanics (IUTAM) National Committee. \n\nColloquially
+    known as that Gradient-Only Optimization Guy with a published Springer book Practical
+    Mathematical Optimization, co-authored with the late Prof Jan Snyman. Optimization
+    is my Passion, generative modeling my application, and Nvidia GPUs my calculator."
+  image: "/images/people/wilke.jpg"
+  link: modal
+  name: Daniel Nico Wilke
+  social_media:
+  - icon: ''
+    link: https://twitter.com/dnwilke
+    title: Twitter
+  - icon: ''
+    link: https://www.linkedin.com/in/daniel-nicolas-wilke-b6203939/
+    title: LinkedIn
+  - icon: ''
+    link: https://www.up.ac.za/mechanical-and-aeronautical-engineering/article/48434/staff-directory
+    title: Website
+  talk_description: Adaptive learning rates are usually resolved by selecting a learning
+    rate or learning rate schedule a priori. Gradient-only optimization provides a
+    perspective on resolving learning rates using line searches. Mini-batch sub-sampling
+    in the context of line searches requires additional care. A decision can be made
+    to keep a mini-batch fixed for the duration of a line search (static mini-batch
+    sampling) or it can be continuously updated (dynamic mini-batch sampling). The
+    latter result in a point-wise discontinuous loss function, while the former result
+    in a continuous and often smooth loss function, depending on the characteristics
+    of the activation functions. Gradient-only optimization provides a perspective
+    on resolving learning rates for point-wise discontinuous dynamic mini-batch sub-sampled
+    loss functions.
+  topic: Gradient-only optimization perspectives on adaptive learning rates
+  years:
+  - Research
+- affiliation: Stellenbosch University, InstaDeep
+  bio: I am a reinforcement learning researcher at InstaDeep and a recent PhD graduate
+    from Stellenbosch University. My main passion is daydreaming about artificial
+    intelligence and what it could unlock for humanity. I also do a bit of research.
+  image: "/images/people/smit.jpg"
+  link: modal
+  name: Andries Smit
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/andries-smit-856901170/
+    title: LinkedIn
+  - icon: ''
+    link: https://twitter.com/driessmit1
+    title: Twitter
+  talk_description: This study investigates how multi-agent reinforcement learning
+    can scale to the full 22 player setting in a 2D simulated environment using only
+    one consumer GPU. This is possible by making various improvements to stabilise
+    and accelerate training.
+  topic: Scaling multi-agent reinforcement learning to 11 vs 11 simulated soccer
+  years:
+  - Research
+- affiliation: University of Pretoria
+  bio: |-
+    I am a senior lecturer of Computer Science at the University of Pretoria. I have completed my M.Sc at the University of Pretoria in 2012, with a thesis focused on using particle swarm optimisation to train feed-forward neural networks in dynamic environments. I have then enrolled for a PhD degree at the same university. The focus of my PhD dissertation was on fitness landscape analysis of neural network loss surfaces. I have completed the PhD degree in 2019.
 
-      4. Maybe a 5-10 min walk-through/demo on deploying a small model"
-    topic: From Google Collab to deployed endpoints following MLOps principles
-    years:
-      - Applied ML & Industry
-  - affiliation: Sybrin
-    bio:
-      During his time completing a B.BusSci (Analytics) degree at the University
-      of Cape Town, Ali developed a keen interest in machine learning and a strong passion
-      for NLP. Whilst working as a machine learning engineer at Sybrin, his role encompasses
-      a vast number of topics related to computer vision and NLP. However, his primary
-      focus is facial authentication research and development. As an ambassador for
-      DeepLearning.AI, he also hosts occasional community events to help further the
-      AI scene in South Africa.
-    image: /images/people/parker.jpg
-    link: modal
-    name: Mahmood-Ali Parker
-    social_media:
-      - icon: ""
-        link: https://linkedin.com/in/parker-ali
-        title: LinkedIn
-    talk_description:
-      This talk will provide an introduction to neural facial authentication
-      in the context of the financial services industry. Each key stage of the authentication
-      process will be explained in technical detail before delving into the important
-      ethical considerations which must be considered when developing facial algorithms.
-    topic:
-      An Introduction to Neural Facial Authentication in the Financial Services
-      Sector
-    years:
-      - Applied ML & Industry
-  - affiliation: ""
-    bio: https://www.linkedin.com/in/bophelom/
-    image: "/images/people/makhetha.jpg"
-    link: modal
-    name: Bophelo Makhetha
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/bophelom/
-        title: LinkedIn
-    talk_description:
-      'This talk aims to address the question: "How can we use software
-      best practices, particularly test driven development, to build and deploy good
-      quality models"'
-    topic: Test Driven AI - Lessons from Software Development
-    years:
-      - Applied ML & Industry
-  - affiliation: ""
-    bio: "Joanne is Head of Admissions at ExploreAI Academy.
-
-      Armed with a business degree, she ventured into the world of media, and then cosmetics,
-      before finding a home in data science. She believes in the power of storytelling
-      with data and is passionate about alternative education, and solving problems
-      in under-serviced communities.
-
-      Joanne has consulted on projects across various industries, and is excited by
-      the diversity of skills and backgrounds that exist in the tech community."
-    image: /images/people/moonsamy.jpg
-    link: modal
-    name: Joanne Moonsamy
-    social_media: []
-    talk_description:
-      Graduates often find themselves at a loss when preparing to enter
-      the working world. There is a lack of education around professional skills that
-      are critical to being successful in any work environment, and more so in interviews.
-      Academia is often ahead of the curve in terms of keeping up with relevant technical
-      tools and skills, but there's a missing piece in developing adequate ways of working,
-      as well as setting realistic expectations around careers that one can pursue.
-      How do we start closing that gap and how can grads better prepare for their debut
-      into a new environment?
-    topic:
-      Bridging the gap between tech education and industry - addressing the missing
-      piece
-    years:
-      - Applied ML & Industry
-  - affiliation: DAIR Institute | Mila
-    bio:
-      Raesetje is an AI Research Fellow at the Distributed AI Research(DAIR) institute.
-      Her research focuses on evaluating datasets, creating spatial ground truth datasets
-      and using machine learning and other computational social science techniques to
-      study the effects of spatial apartheid in South Africa, post-Apartheid. Her previous
-      work involved partnering with various stakeholders and using machine learning
-      techniques to study poverty and traffic safety in the urban parts of Nigeria and
-      Jakarta, respectively. She is currently a PhD student at Mila and holds a computer
-      science undergraduate and master's degree from the University of the Witwatersrand,
-      Johannesburg. She has been technically involved in different data science projects
-      from around the world and her expertise range from creating ground-truth datasets,
-      building machine learning models, analyzing and evaluating results for real-world
-      problems with a societal impact.
-    image: /images/people/sefala.jpg
-    link: modal
-    name: Raesetje Sefala
-    social_media:
-      - icon: ""
-        link: https://twitter.com/bonjora
-        title: Twitter
-      - icon: ""
-        link: https://www.linkedin.com/in/raesetje-sefala/
-        title: LinkedIn
-      - icon: ""
-        link: https://mastodon.social/@raesetje
-        title: Website
-    talk_description:
-      The insufficiency of ground truth data is usually a barrier when
-      researchers are trying to train machine learning models for real-world applications.
-      In this talk I will be discussing some of the computer vision applications I have
-      worked on in the past, discussing some interesting techniques as well as lessons
-      learnt while creating ground truth labels in order to answer research questions
-      around ways to study the effects of Spatial Apartheid in South Africa, and on
-      improving traffic safety in Jakarta, Indonesia.
-    topic:
-      How else can we think about creating ground truth datasets to answer research
-      questions?
-    years:
-      - Research
-  - affiliation: ""
-    bio:
-      "I've been lucky enough to work on challenging projects with great people (sometimes\
-      \ the other way around \U0001F609), found a business, and currently work in the\
-      \ most interesting field of all - AI! \n\nThrough these I've developed a well\
-      \ rounded technical skillset which I love expanding through learning and teaching.\
-      \ \n\nMy approach to work has been much along the lines of Tim Minchin's advice\
-      \ - \"... so I advocate passionate, dedication to the pursuit of short-term goals.\
-      \ Be micro-ambitious. Put your head down and work with pride on whatever is in\
-      \ front of you. You never know where you might end up.\""
-    image: /images/people/williams.jpg
-    link: modal
-    name: Michael Williams
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/michaeljohnwilliams/
-        title: LinkedIn
-    talk_description:
-      While MLOps is valuable, getting the fundamentals of Software
-      Engineering right are far more so. This talk will show you which fundamentals
-      have the biggest bang for buck while setting your future MLOps journey up for
-      success.
-    topic: MLOps - You don't need it
-    years:
-      - Applied ML & Industry
-  - affiliation: North-West University
-    bio:
-      Febe de Wet is an associate professor within the North-West University's  School
-      of  Electrical, Electronic and Computer Engineering. She also has an affiliation
-      with the Digital Signal Processing group at Stellenbosch University's Department
-      of Electrical and Electronic Engineering. Her research interests include statistical
-      pattern recognition, speech resource development and automatic speech recognition.
-      She is especially interested in developing language technology for South Africa's
-      indigenous languages and in educational applications of speech technology.
-    image: "/images/people/dewet.jpg"
-    link: modal
-    name: Febe de Wet
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/febe-de-wet-1a0445a/
-        title: LinkedIn
-    talk_description:
-      Despite many attempts to address the situation, South Africa's
-      official languages remain under-resourced in terms of the text and speech data
-      required to implement state-of-the-art language technology. To ensure that no
-      language is left behind, resource development should remain a priority until a
-      strong digital presence has been established for all our indigenous languages.
-      The talk will introduce a recent initiative to launch South Africa's languages
-      on the Mozilla Common Voice platform (https://commonvoice.mozilla.org/en).
-    topic:
-      "Localising the Mozilla Common Voice platform for South Africa\u2019s official\
-      \ languages"
-    years:
-      - Research
-  - affiliation: ByteFuse
-    bio:
-      "B.Eng E&E - Stellenbosch \nMSc Data Science - UCT\nData Enthusiast: from data\
-      \ to models to deployment \nPolyglot: from Crypto to ML to UIs to backends"
-    image: /images/people/labuschange.jpg
-    link: modal
-    name: Louwrens Labuschange
-    social_media:
-      - icon: ""
-        link: https://github.com/louwjlabuschagne
-        title: GitHub
-      - icon: ""
-        link: https://github.com/louwjlabuschagne
-        title: Website
-    talk_description:
-      "Reinforcement Learning has had many applications within simulation,\
-      \ but only in recent years real-world applications have seen some success in the\
-      \ field of Artificial Intelligence. Applications such as AlphaFold, AlphaTensor\
-      \ and DeepPCB have shown that reinforcement learning can be used to solve complex\
-      \ problems in the real world. \n\nIn this talk, we will discuss how reinforcement\
-      \ learning can be used to solve an everyday problem, traffic signal control. We\
-      \ will showcase our in-house tool called SumoGym - a Python environment combining\
-      \ OpenAi's Gym environment and the open-source microscopic traffic simulation\
-      \ software SUMO. We will discuss the challenges of using reinforcement learning\
-      \ in the real world and how we can overcome them with our university and industry\
-      \ partner to get our agents deployed at a real-world traffic intersection."
-    topic:
-      "Sumogym Traffic Control: Reinforcement Learning From Simulation to Real
-      World"
-    years:
-      - Applied ML & Industry
-  - affiliation: IBM Research - Africa
-    bio:
-      "Naweed Khan is a Master Inventor and Research Scientist in the AI Science\
-      \ team at IBM Research - Africa. He heads the patent portfolio in the South Africa\
-      \ lab and is a lead open source developer in the global Neuro-Symbolic AI team.\
-      \ He is a recipient of IBM\u2019s Research Accomplishment award, with work focusing\
-      \ on enhancing core machine learning algorithms, computational framework implementation\
-      \ and infrastructure development in projects that look beyond today\u2019s deep\
-      \ learning approaches. He develops tools that push the boundaries in Natural Language\
-      \ Understanding: making machines that reason with knowledge, learn with noisy\
-      \ data and compute in an efficient and symbolically interpretable way. Naweed\
-      \ obtained his MEng in Robotics and Image processing at the University of Johannesburg,\
-      \ where he also holds a BSc in Computer Science."
-    image: ""
-    link: modal
-    name: Naweed Khan
-    social_media:
-      - icon: ""
-        link: https://za.linkedin.com/in/naweedaghmad
-        title: LinkedIn
-      - icon: ""
-        link: https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Naweed.Khan
-        title: Website
-    talk_description:
-      "While deep learning has made some amazing achievements and continues\
-      \ to push AI further each day, there are a few pitfalls that require practitioners\
-      \ to pause. These pitfalls relate to learning with less, reasoning with knowledge,\
-      \ and regulatable interpretability, to mention a few. If much of today\u2019s\
-      \ (pre-ML) infrastructure reasons rigorously with uncertainty, what will the big\
-      \ data paradigm do to communities with less (data)? If the world already runs\
-      \ on distilled knowledge, how do we incorporate those inductive biases unabstractly?\
-      \ If the public cares deeply about ethics and transparency, when is an uninterpretable\
-      \ neural network an acceptable tool? With some reflection, we can innovate beyond\
-      \ today\u2019s limitations."
-    topic: "Neuro-Symbolic AI: Looking beyond Deep Learning"
-    years:
-      - Research
-  - affiliation: Nosible
-    bio:
-      CEO and Founder of Nosible. Quant and Full Stack Software Engineer with 10+
-      years of experience using AI in finance. On a mission to bring AI to all investors.
-    image: /images/people/reid.jpg
-    link: modal
-    name: Stuart Reid
-    social_media:
-      - icon: ""
-        link: https://twitter.com/stuartreid1929
-        title: Twitter
-      - icon: ""
-        link: https://www.nosible.com
-        title: Website
-    talk_description:
-      I will be demonstrating how attention networks can be used to
-      learn which words in news headlines are likely to trigger material increases in
-      future volatility. Such articles include mentions of new drug discoveries, lawsuits,
-      executive resignations, trial results, product launches, company spinoffs, buybacks,
-      mergers & acquisitions, regulation changes, etc. The dataset the model is trained
-      on has 2,758,426 news stories covering >36,500 stocks.
-    topic:
-      "Deep volatility: uncovering material risks across 2,758,426 news stories
-      using attention networks"
-    years:
-      - Applied ML & Industry
-  - affiliation: ByteFuse
-    bio:
-      I obtained my BEng Electrical and Electronic degree from Stellenbosch University,
-      followed by an MEng in reinforcement learning. Following graduation, I was employed
-      as a software engineer at ByteFuse, a Stellenbosch-based machine learning startup.
-      I received the opportunity to learn more about machine learning and software.
-      At ByteFuse, I started working on and am currently fully involved in a traffic
-      optimisation project in collaboration with our industry partners. This is an exciting
-      project in which we are challenged to create accurate microsimulations and apply
-      simulation-trained models in the real world. When I'm not training agents to play
-      video games, I enjoy playing them myself. I also like outdoor activities such
-      as jogging and hiking.
-    image: /images/people/louw.jpg
-    link: modal
-    name: Cobus Louw
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/cobus-louw-77036a171
-        title: LinkedIn
-    talk_description:
-      "IndabaX Talk Description\nSumogym Traffic Control: Reinforcement\
-      \ Learning from Simulation to Real World\n\nReinforcement Learning has had many\
-      \ applications within simulation, but only in recent years real-world applications\
-      \ have seen some success in the field of Artificial Intelligence. Applications\
-      \ such as AlphaFold, AlphaTensor and DeepPCB have shown that reinforcement learning\
-      \ can be used to solve complex problems in the real world. \n\nIn this talk, we\
-      \ will discuss how reinforcement learning can be used to solve an everyday problem,\
-      \ traffic signal control. We will showcase our in-house tool called SumoGym -\
-      \ a Python environment combining OpenAi's Gym environment and the open-source\
-      \ microscopic traffic simulation software SUMO. We will discuss the challenges\
-      \ of using reinforcement learning in the real world and how we can overcome them\
-      \ with our university and industry partner to get our agents deployed at a real-world\
-      \ traffic intersection."
-    topic:
-      "Sumogym Traffic Control: Reinforcement Learning from Simulation to Real
-      World"
-    years:
-      - Applied ML & Industry
-  - affiliation: Co-founder and CEO of DataProphet
-    bio:
-      "Inspired by the significant, measurable value that prescriptive AI could bring\
-      \ to local\nmanufacturers as an industry consultant, Frans co-founded DataProphet\
-      \ in 2014. Since then,\nhis mission has been to establish this innovative, results-driven\
-      \ company as the leading\nglobal provider of AI-as-a-Service for manufacturing.\
-      \ Frans has been named one of Fast\nCompany SA\u2019s top 20 industry leaders\
-      \ under 30 and is a regular keynote speaker on the\ninternational circuit at key\
-      \ manufacturing vertical summits and conferences, as well as other prestigious\
-      \ events. For example, in 2019, he was invited to speak at the WEF's Annual Meeting\
-      \ of the New Champions (AKA the \u201CSummer Davos\u201D) in Dalian, China, in\
-      \ recognition of DataProphet being named a Technology Pioneer. Then in 2021, Frans\
-      \ was invited to join the IFC Manufacturing Conference as a panel speaker to discuss\
-      \ how leaders in global\nmanufacturing benefit from limiting waste and repurposing\
-      \ resources while using leading-edge data-driven solutions."
-    link: modal
-    name: Frans Cronje
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/frans-cronje/
-        title: LinkedIn
-      - icon: ""
-        link: https://dataprophet.com/
-        title: Website
-    talk_description:
-      "Frans will deep-dive into how AI-driven solutions can help improve\
-      \ quality targets, reduce scrap and defects, and achieve manufacturing process\
-      \ optimization\u2014ahead of real-time."
-    topic: How is AI changing the face of manufacturing?
-    years:
-      - Keynote
-  - affiliation: Women in Big Data SA
-    bio:
-      "People strategist and business researcher with 10 years\u2019 experience in\
-      \ using applied research methodologies to drive strategic decision making. Naomi\
-      \ has consulting experience across industries, financial services, media entertainment,\
-      \ telecommunications, and mining. She has developed capabilities in service management\
-      \ design, business process optimisation and strategic talent sourcing. She is\
-      \ the co-Founder and Chapter Director for women in Big Data SA; a registered NPO."
-    image: "/images/people/molefe.jpg"
-    link: modal
-    name: Naomi Molefe
-    social_media:
-      - icon: ""
-        link: https://twitter.com/datawomensa
-        title: Twitter
-    talk_description:
-      The talk will be touching on the interconnection between building
-      an AI business and the micro & macro economic factors that ensures success and
-      sustainability of the business in the African market
-    topic: AI Business - drive towards inclusion and sustainable AI businesses
-    years:
-      - Applied ML & Industry
-  - affiliation: Delft University of Technology (Netherlands)
-    bio:
-      Wiebke Hutiri is a PhD researcher in the Cyber Physical Intelligence Lab at
-      the Technical University of Delft. Wiebke does interdisciplinary research at the
-      intersection of applied machine learning and edge computing, with a focus on designing
-      trustworthy machine learning systems for the Internet of Things.
-    name: Wiebke (Toussaint) Hutiri
-    image: "/images/people/hutiri.jpg"
-    link: modal
-    social_media:
-      - icon: ""
-        link: https://@wiebke@mastodon.social
-        title: Website
-      - icon: ""
-        link: https://twitter.com/wiebkehutiri
-        title: Twitter
-      - icon: ""
-        link: https://www.linkedin.com/in/wiebkehutiri
-        title: LinkedIn
-    talk_description:
-      In an age of surveillance capitalism, anchoring the design of
-      emerging smart services in trustworthiness is urgent and important. Edge Intelligence,
-      which brings together the fields of AI and Edge computing, is a key enabling technology
-      for smart services. Trustworthy Edge Intelligence should thus be a priority research
-      concern. However, determining what makes Edge Intelligence trustworthy is not
-      straight forward. This talk examines requirements for trustworthy Edge Intelligence
-      in voice-activated services, focusing on interactions between bias, privacy and
-      security.
-    topic: "Towards trustworthy edge intelligence: lessons from voice activated services"
-    years:
-      - Research
-  - affiliation: Instadeep Ltd
-    bio:
-      Siddarth Singh is a graduated from the University of the Witwatersrand with
-      an MSc in computer science. The research focused on the field of multi-agent reinforcement
-      learing and multi-agent credit assignment. He is currently a research engineer
-      at Instadeep Ltd working on fairer evaluation protocols in MARL research and applying
-      MARL to solve complex problems.
-    image: /images/people/singh.jpg
-    link: modal
-    name: Siddarth Singh
-    social_media: []
-    talk_description:
-      The fields of Reinforcement Learning and Multi-Agent Reinforcement
-      Learning have been popularised through solving problems in simulated video game
-      settings and, these fields are commonly thought of as disciplines where practical
-      use cases will only appear in the future. We show two complex problems which have
-      until now been solved using human-crafted solutions and show how RL has been deployed
-      not only to solve simulated versions of these real-world problems but, is being
-      deployed to solve these tasks in the real world.
-    topic: "RL in Practice: Solving complex real-world problems with RL"
-    years:
-      - Applied ML & Industry
-  - affiliation: University of Pretoria
-    bio:
-      I am a senior lecturer in the Centre of Asset Integrity Management, Department
-      of Mechanical and Aeronautical Engineering, University of Pretoria, Pretoria,
-      South Africa.
-    image: /images/people/schmidt.jpg
-    link: modal
-    name: Stephan Schmidt
-    social_media: []
-    talk_description:
-      Bayesian methods form the basis of many learning-based methods.
-      However, learning-based practitioners often do not have formal training in Bayesian
-      methods. This makes the topic arduous for neophytes. The purpose of this talk
-      is to give a brief introduction to Bayesian inference concepts.
-    topic: Introduction to Bayesian inference
-    years:
-      - Foundations
-  - affiliation: IBM
-    bio:
-      With degrees in Statistics, Applied Mathematics, and Operations Research, Gemma
-      is a programme manager for two IBM Quantum global programmes (Qiskit Advocates
-      and the Qiskit Developer Certification).  The first ten years of her career was
-      spent in education before changing to a career in tech where she worked in a number
-      of different fields.  What remained consistent was a passion for community building
-      and that is what brought her to IBM and the new and rabidly growing field of quantum
-      computing.
-    image: /images/people/dawson.jpg
-    link: modal
-    name: Gemma Dawson
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/gemmadawson
-        title: LinkedIn
-    talk_description:
-      Many believe that quantum advantage, the time where quantum computing
-      is provably superior to classical computers, is not that far off. This talk will
-      not only introduce you to some of the basic concepts of Quantum Computing but
-      also guide you in how to get started in this new and exciting field.
-    topic: A Gentle Introduction to Quantum Computing
-    years:
-      - Foundations
-  - affiliation: LifeQ, ByteFuse
-    bio:
-      While completing my MSc in Applied Mathematics at Stellenbosch I joined a small
-      biotech startup called HealthQ (now LifeQ), where I spent several years developing
-      and scaling models for wearable devices. I now lead the Special Projects group
-      within LifeQ. In 2020 I founded ByteFuse with Ruan van der Merwe and Etienne Barnard,
-      ByteFuse is an AI R&D company that explores AI solutions to problems in industry,
-      from digital marketing to transport optimisation.
-    image: /images/people/newman.jpg
-    link: modal
-    name: Greg Newman
-    social_media: []
-    talk_description:
-      "It has long been difficult to gather data from wearable devices,\
-      \ transporting too much data can compromise battery life and requires good connectivity,\
-      \ while storing and labelling the datasets can be a costly undertaking. New chip\
-      \ and instruction sets are allowing models to run efficiently at the sensor level\
-      \ in wearables, we\u2019ll look at using this new capabilities in a federated\
-      \ setting to learn a model for classifying and monitoring certain pathologies."
-    topic: Self-supervised Federated Learning using Wearables
-    years:
-      - Research
-  - affiliation: Cerebrium, Cornell
-    bio:
-      Elijah is currently the Principal Machine Learning Engineer at Cerebrium, and
-      currently works on their simplified ML deployment product. He holds a BSc Honours
-      Degree in Computer Science from UCT and a Masters in Computer Engineering from
-      Cornell University.
-    image: /images/people/roussos.jpg
-    link: modal
-    name: Elijah Roussos
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/elijah-roussos/
-        title: LinkedIn
-    talk_description:
-      Large language and generative models have taken the ML community
-      by storm following the results of GPT-3 and Stable Diffusion. Startups and businesses
-      have rushed to include these models in their products such as Notion and Mutiny
-      while others have built billion dollar businesses off the back of the technology.
-      However, traditional methods of training and deploying machine learning models
-      aren't well suited to these types of models. Current methods leads to exorbitant
-      costs, bad user experiences and infrastructure nightmares. Hear how Cerebrium
-      has helped  companies train and deploy these models globally while reducing costs
-      by 10x.
-    topic: Running Large Language models in Production for less than $10 a month
-    years:
-      - Applied ML & Industry
-  - affiliation: North-West University
-    bio:
-      "Marelie Davel is a deep learning enthusiast, a professor of Engineering at\
-      \ NWU, \nand the director of the MUST Deep Learning research group. She has published\
-      \  ~100 papers on machine learning and its applications. She is also affiliated\
-      \ with the Centre for AI Research (CAIR) and the National Institute for Theoretical\
-      \ and Computational Sciences (NITheCS), coordinating a research programme in each."
-    link: modal
-    image: "/images/people/davel.jpg"
-    name: Marelie Hattingh Davel
-    social_media:
-      - icon: ""
-        link: https://www.nwu.ac.za/must
-        title: Website
-    talk_description:
-      "Machine learning plays an increasing role in assisting scientists\
-      \ and engineers in knowledge discovery: obtaining novel information from large,\
-      \ possibly complex data sets. Many practically important tasks are modelled using\
-      \ time series information (as sequences of events), and deep learning models are\
-      \ particularly important tools for these tasks.\n\nKnowledge discovery typically\
-      \ builds on interpretability techniques: techniques that aim to answer {\\em why}\
-      \ models make specific predictions. In its simplest form (feature attribution),\
-      \ the link between output and input is traced in order to determine which features\
-      \ influenced the result in which ways.\_Knowledge discovery in deep time series\
-      \ models is an active field of research, with many open questions remaining.\n\
-      \nIn this talk, I will provide a bird's eye view of the field, get into the nitty-gritty\
-      \ of an approach or two, and focus in on some interesting case studies currently\
-      \ taking place in South Africa."
-    topic: Knowledge Discovery in Time Series Data
-    years:
-      - Keynote
-  - affiliation: ""
-    bio:
-      I am a PhD candidate in Electronic Engineering and Data Science at Stellenbosch
-      University. My master's was upgraded 2 years ago and we are planning on finalizing
-      the dissertation in the next 6 months. My project specifically focuses on applying
-      GANs on semi-supervised learning with a twist.
-    link: modal
-    name: Emile Engelbrecht
-    social_media:
-      - icon: ""
-        link: https://@engelreyn (twitter)
-        title: Twitter
-    talk_description:
-      Generative adversarial networks (GANs) are both the future of
-      A.I. and the biggest threat to civil society. In this talk, I will discuss the
-      computational and mathematical details of GANs, after which we will look at some
-      of the awesome and dangerous applications. Sneak-peal - deep fakes are already
-      being used in war-fare.
-    topic: "Generative adversarial networks: design, applications and dangers"
-    years:
-      - Foundations
-  - affiliation: University of Pretoria
-    bio:
-      "Professor in Mechanical and Aeronautical Engineering at the University of\
-      \ Pretoria, South Africa. Current President of the South African Association for\
-      \ Theoretical and Applied Mechanics, and Chairman of the International Union of\
-      \ Theoretical and Applied Mechanics (IUTAM) National Committee. \n\nColloquially\
-      \ known as that Gradient-Only Optimization Guy with a published Springer book\
-      \ Practical Mathematical Optimization, co-authored with the late Prof Jan Snyman.\
-      \ Optimization is my Passion, generative modeling my application, and Nvidia GPUs\
-      \ my calculator."
-    image: /images/people/wilke.jpg
-    link: modal
-    name: Daniel Nico Wilke
-    social_media:
-      - icon: ""
-        link: https://twitter.com/dnwilke
-        title: Twitter
-      - icon: ""
-        link: https://www.linkedin.com/in/daniel-nicolas-wilke-b6203939/
-        title: LinkedIn
-      - icon: ""
-        link: https://www.up.ac.za/mechanical-and-aeronautical-engineering/article/48434/staff-directory
-        title: Website
-    talk_description:
-      Adaptive learning rates are usually resolved by selecting a learning
-      rate or learning rate schedule a priori. Gradient-only optimization provides a
-      perspective on resolving learning rates using line searches. Mini-batch sub-sampling
-      in the context of line searches requires additional care. A decision can be made
-      to keep a mini-batch fixed for the duration of a line search (static mini-batch
-      sampling) or it can be continuously updated (dynamic mini-batch sampling). The
-      latter result in a point-wise discontinuous loss function, while the former result
-      in a continuous and often smooth loss function, depending on the characteristics
-      of the activation functions. Gradient-only optimization provides a perspective
-      on resolving learning rates for point-wise discontinuous dynamic mini-batch sub-sampled
-      loss functions.
-    topic: Gradient-only optimization perspectives on adaptive learning rates
-    years:
-      - Research
-  - affiliation: Stellenbosch University, InstaDeep
-    bio:
-      I am a reinforcement learning researcher at InstaDeep and a recent PhD graduate
-      from Stellenbosch University. My main passion is daydreaming about artificial
-      intelligence and what it could unlock for humanity. I also do a bit of research.
-    image: /images/people/smit.jpg
-    link: modal
-    name: Andries Smit
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/andries-smit-856901170/
-        title: LinkedIn
-      - icon: ""
-        link: https://twitter.com/driessmit1
-        title: Twitter
-    talk_description:
-      This study investigates how multi-agent reinforcement learning
-      can scale to the full 22 player setting in a 2D simulated environment using only
-      one consumer GPU. This is possible by making various improvements to stabilise
-      and accelerate training.
-    topic: Scaling multi-agent reinforcement learning to 11 vs 11 simulated soccer
-    years:
-      - Research
-  - affiliation: University of Pretoria
-    bio:
-      "I am a senior lecturer of Computer Science at the University of Pretoria.
-      I have completed my M.Sc at the University of Pretoria in 2012, with a thesis
-      focused on using particle swarm optimisation to train feed-forward neural networks
-      in dynamic environments. I have then enrolled for a PhD degree at the same university.
-      The focus of my PhD dissertation was on fitness landscape analysis of neural network
-      loss surfaces. I have completed the PhD degree in 2019.
-
-
-      My current research interests lie in neural networks, swarm intelligence, fitness
-      landscape analysis, time-series analysis, high-dimensional optimisation, and deep
-      learning. I am interested in developing a better fundamental understanding of
-      how and why neural networks work. I enjoy working on hybrid approaches that combine
-      different computational intelligence paradigms. I also love seeing machine learning
-      in action, thus I am always keen to try my hand at real-life applications. In
-      particular, I dabble in computer vision and satellite image analysis using convolutional
-      neural networks."
-    image: /images/people/bosman.jpg
-    link: modal
-    name: Anna Sergeevna Bosman
-    social_media:
-      - icon: ""
-        link: https://twitter.com/annaearwen
-        title: Twitter
-      - icon: ""
-        link: https://annabosman.github.io/
-        title: Website
-    talk_description:
-      This introductory lecture will cover the very basics of machine
-      learning (ML), such as the difference between classification and regression, what
-      is it that the machines can learn from data, and how must you prepare your data
-      before you feed it to a machine eager to learn. We will also take a brief tour
-      of the major ML models and algorithms, such as k-nearest neighbours, decision
-      trees,  and neural networks. There is only so much we can cover in a short time,
-      but expect to get a broad idea of the purpose and major tools that constitute
-      ML after attending this lecture.
-    topic: "Introduction to Machine Learning: from k-NNs to NNs"
-    years:
-      - Foundations
-  - affiliation: Rhodes University
-    bio:
-      Marcel is a senior lecturer in the Department of Mathematics and coordinates
-      the Rhodes AI Research Group (RAIRG). His  research interests are in big data
-      analysis, statistical signal processing, artificial intelligence, radio interferometry/astronomical
-      techniques.
-    image: /images/people/atemkeng.jpg
-    link: modal
-    name: Marcellin Atemkeng
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/feed/
-        title: LinkedIn
-      - icon: ""
-        link: https://twitter.com/matemkeng
-        title: Twitter
-    talk_description:
-      This talk will address the data format and archiving/compession
-      issues for the Square Kilometre Array (SKA). One of the major contributors to
-      the large data volumes is the maximum baseline of an array since it sets how well
-      the data needs to be sampled to avoid smearing and decorrelation of the signal.
-      Now, the sampling rate is dependent on the baseline length as shorter baselines
-      can be sampled a lot more coarsely which leads to smaller data volumes. In fact,
-      baseline-dependent averaging (BDA) is an established technique for compressing
-      radio interferometric data, however, this technique results in irregularly sampled
-      data which while supported by the database format requires the data to be restructured
-      in ways that reduce performance when processing. But more importantly, radio-astronomy
-      software tools implicitly assume uniformly sampled datasets. Recent research in
-      M. Atemkeng, in prep. in collaboration with the Wits University and SARAO; shows
-      an approach that uses local  low-rank matrix approximation to achieve similar
-      compression rates while significantly minimising smearing.
-    topic:
-      "Perspectives on Long-Term Research Data Archiving Solutions: the case of
-      the SKA with learning algorithms"
-    years:
-      - Research
-  - affiliation: University of Pretoria
-    bio:
-      "Prof Vukosi Marivate is the ABSA UP Chair of Data Science at the University\
-      \ of Pretoria. Marivate works on developing machine learning/artificial intelligence\
-      \ methods to extract insights from data. A large part of his work over the past\
-      \ few years has been in the intersection of machine learning and natural language\
-      \ processing. Prof Marivate\u2019s work in this area focuses on techniques to\
-      \ improve tools for and availability of data for local languages or low-resource\
-      \ languages. Marivate is a co-founder of Deep Learning Indaba. He currently serves\
-      \ as a co-founder and chief investigator on the Masakhane NLP project (https://www.masakhane.io/)\
-      \ and on the steering committee of the Lacuna Fund (https://lacunafund.org/).\
-      \ Prof Marivate is the PI for the Data Science for Social Impact research group\
-      \ (https://dsfsi.github.io/)."
-    image: /images/people/marivate.jpg
-    link: modal
-    name: Vukosi Marivate
-    social_media:
-      - icon: ""
-        link: https://twitter.com/vukosi
-        title: Twitter
-      - icon: ""
-        link: https://sigmoid.social/@vukosi
-        title: Website
-      - icon: ""
-        link: https://
-        title: Website
-    talk_description:
-      "We have seen huge growth in the grassroots AI across the continent.
-      I look back from my view where he have come from and then ask the question: Where
-      to next?"
-    topic: "AfricanML: Where to next?"
-    years:
-      - Keynote
-  - affiliation: Durban University of Technology
-    bio:
-      "Dr Oluwasegun Julius AROBA lecturer in the Department of Information Systems\
-      \ in the Faculty of Accounting and Informatics. I have published papers in 5 DHET\
-      \ accredited journals, with 12 journal papers and conference proceedings   are\
-      \ under review and/or in the press stage. I recently graduated with my Ph.D. from\
-      \ the Durban University of Technology (2022), I also have a master\u2019s degree\
-      \ in Information Technology  from Coventry University UK, a Bachelor\u2019s degree\
-      \ from Crawford University Nigeria (2009). I am an experienced, disciplined, highly\
-      \ motivated academic with a pragmatic approach and sound business acumen. An adaptable,\
-      \ resourceful, disciplined, and enthusiastic individual who has developed international\
-      \ and national research experiences with a background in computer science, data,\
-      \ project work within the co-operate, government and non-government parastatals\
-      \ and academic sectors. Am a global leadership certified programmer (GLP) from\
-      \ Coventry UK. I possess excellent programming skills, and am certified in project\
-      \ management, SAP certified, Sun Java Certified Programmer, Oracle Certified Administrator,\
-      \ Artificial Intelligence and Data Science Certified (IBM). I am a highly accomplished\
-      \ academic with verifiable record of accomplishment in fields such as teaching,\
-      \ curriculum, and the development of interactive prototypes. I am currently supervising\
-      \ two Ph.D. and two  master\u2019s students. I am also a member of  institute\
-      \ of information technology professional South Africa (IITPSA), Nigeria Computer\
-      \ Society (NCS), member of institute of electrical and electronics engineers (\
-      \ IEEE) United Kingdom and South Africa."
-    image: "/images/people/aroba.jpg"
-    link: modal
-    name: Oluwasegun Julius Aroba
-    social_media:
-      - icon: ""
-        link: https://twitter.com/aroseglinks
-        title: Twitter
-      - link: https://www.facebook.com/youngestmd
-        title: Facebook
-      - link: https://linktr.ee/aroseglinks
-        title: Website
-      - icon: ""
-        link: https://www.linkedin.com/in/julius-o-aroba-ph-d-83409150/
-        title: LinkedIn
-    talk_description:
-      Establishing a contextual machine learning within the artificial
-      intelligence bigger picture and showcasing the relevance in the emerging disciplines,
-      using the Big Data and AI motivations as the next internet of things
-    topic:
-      The Emergent of Machine Learning and Artificial Intelligence  in any relevance
-      disciplines
-    years:
-      - Research
-  - affiliation: University of the Witwatersrand
-    bio:
-      Tamlin Love is a lecturer at the University of the Witwatersrand, where he
-      received a master's degree in Computer Science. He is an active member of the
-      RAIL lab, and is interested in research in Reinforcement Learning and Robotics.
-      His particular interest lies in Assisted Reinforcement Learning, looking at the
-      problem of human-agent interaction, how agents can better understand humans and
-      how humans can adapt to better teach and interact with agents.
-    image: /images/people/love.jpg
-    link: modal
-    name: Tamlin Love
-    social_media:
-      - icon: ""
-        link: https://tamlinlove.github.io/
-        title: Website
-    talk_description:
-      Reinforcement Learning has achieved promising results in a wide
-      range of sequential decision problems, such as healthcare applications, robotics
-      and recommendation systems. In RL there is often a need for greater sample efficiency,
-      whether due to increasingly complex domains or the difficulty in obtaining data.
-      One family of approaches that attempt to tackle this problem is Assisted Reinforcement
-      Learning, in which external information is transferred to the agent, for example
-      in the form of advice offered by a domain expert. This talk serves as an introduction
-      to this field, discusses some open questions in the field, and presents some recent
-      approaches that attempt to answer these open questions.
-    topic: Introduction to Assisted Reinforcement Learning
-    years:
-      - Research
-  - affiliation: Institute for Groundwater Studies
-    bio:
-      Anton is a PhD student at the Institute for Groundwater Studies at the University
-      of the Free State. He holds an honours degree in structural geology and a master's
-      degree in hydrogeology. He is a keen numerical modeler and programmer, with his
-      research primarily focused on getting the most out of groundwater data.
-    image: /images/people/lukas.jpg
-    link: modal
-    name: Anton Lukas
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/antonlukas/
-        title: LinkedIn
-    talk_description:
-      "Groundwater is the future of arid countries. A precious resource\
-      \ that is often neglected and ignored, in no small part owed to it being obscured\
-      \ by the Earth that hosts it. To manage and protect this resource it needs to\
-      \ be understood and quantified. This is where pumping tests come in, essentially\
-      \ providing us the only way to determine the hydraulic parameters of the subsurface\
-      \ without physically excavating it. Pumping test results are recorded as a univariate\
-      \ time series which consists of water level or pressure measurements with an associated\
-      \ time value. The time series is processed by means of Bourdet derivative analysis,\
-      \ the derivative with respect to the natural logarithm of time is calculated and\
-      \ smoothed using a log-cycle fraction and plotted on a log-log scale. The changes\
-      \ in slope of the plotted curve describes the behaviour of the groundwater flow\
-      \ in the borehole and the surrounding aquifer(s) during the pumping test. Which\
-      \ allows the aquifer system to be classified, and an appropriate technique can\
-      \ be selected to determine the aquifer parameters. \n\nHowever, pumping test analysis\
-      \ is complex, and in many regards the interpretation resembles an art more than\
-      \ a science. Which is further complicated by a lack of validation, there is no\
-      \ sensible way to validate the interpretation of pumping tests without destroying\
-      \ the aquifer in question. As a result, synthetic data was produced by means of\
-      \ numerical groundwater flow models for training. This task is performed visually\
-      \ by a hydrogeologist and relies on pattern matching and the relationships between\
-      \ the observed features and the time encountered. Due to large variations in the\
-      \ value range of the raw data, as well as the sensitivity of the derivative to\
-      \ noise, a multiclass image classification approach is investigated utilizing\
-      \ a residual neural network as part of this ongoing research."
-    topic: Machine learning applied to pumping test analysis
-    years:
-      - Applied ML & Industry
-  - affiliation: University of the Witwatersrand
-    bio:
-      Michael is an MSc student at the University of the Witwatersrand, working on
-      improving the generalisation of reinforcement learning agents to new settings.
-      He has numerous other research interests, including procedural content generation
-      for video games, natural language processing and high-performance computing.
-    image: /images/people/beukman.jpg
-    link: modal
-    name: Michael Beukman
-    social_media: []
-    talk_description:
-      "This talk covers procedural content generation and introduces
-      a new method that uses Neuroevolution to evolve level generators. These generators
-      can be used to quickly generate large amounts of diverse content.
-
-      We detail the techniques used, compare our approach with strong baselines and
-      show off some generated levels."
-    topic:
-      Procedural Content Generation using Neuroevolution and Novelty Search  for
-      Diverse Video Game Levels
-    years:
-      - Applied ML & Industry
-  - affiliation: University of Edinburgh
-    bio:
-      I am a mathematics student at the University of Edinburgh. I focus moslty on
-      algebra and love the subject intesely. I learned about deep learning while working
-      at ByteFuse and enjoy the prospect of there being interactions between ML and
-      algebra.
-    image: /images/people/bowman.jpg
-    link: modal
-    name: David Bowman
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/david-bowman-251b14176/
-        title: LinkedIn
-    talk_description:
-      We will dicuss some introductory group theory in order to state
-      a couple definitions and motivate their study. We will then discuss some attempts
-      made to teach some basic group theory to machine and then I will propose an approach
-      using deep learning to study groups.
-    topic: Applications of Deep Learning to Group Theory
-    years:
-      - Research
-  - affiliation: University of the Witwatersrand
-    bio:
-      I am a PhD student in Computer Science at Wits and an IBM PhD fellow. Before
-      moving to Wits for my M.Sc, I did my B.Sc in Computer Science, Pure&Applied Mathematics
-      and Physics at Rhodes University. My main research interests lie in reinforcement
-      learning (RL) and particularly in techniques that allow an agent to leverage existing
-      skills to build complex, novel behaviours.
-    image: /images/people/nanguetasse.jpg
-    link: modal
-    name: Geraud Nangue Tasse
-    social_media: []
-    talk_description:
-      Reinforcement learning has achieved recent success in a number
-      of difficult, high-dimensional environments. However, these methods generally
-      require millions of samples from the environment to learn optimal behaviours,
-      limiting their real-world applicability. Hence this work is aimed at creating
-      a principled framework for lifelong agents to learn essential skills and be able
-      to combine them to solve new compositional tasks without further learning. To
-      achieve this, we design useful representations of skills for each task and we
-      construct a Boolean algebra over the set of tasks and skills. This enables us
-      to compose learned skills to immediately solve new tasks that are expressible
-      as a logical composition of past tasks. We present theoretical guarantees for
-      our framework and demonstrate its usefulness for lifelong learning via a number
-      of experiments.
-    topic: Towards Lifelong Reinforcement Learning through Logical Skill Composition
-    years:
-      - Applied ML & Industry
-  - affiliation: University of Cape Town
-    bio:
-      I am a PhD student at the University of Cape Town, working under Jan Buys in
-      the Computer Science Department and the HPI Research School. Previously I completed
-      my masters in AI at the University of Amsterdam and my undergraduate degrees in
-      Computer Science and Mathematical Statistics at Stellenbosch University.
-    image: /images/people/meyer.jpg
-    link: modal
-    name: Francois Meyer
-    social_media:
-      - icon: ""
-        link: https://twitter.com/francoisrmeyer
-        title: Twitter
-      - icon: ""
-        link: https://sigmoid.social/@francois_meyer
-        title: Website
-    talk_description:
-      In this talk I will present our work on designing linguistically
-      informed deep learning models for the Nguni languages of South Africa (isiXhosa,
-      isiZulu, isiNdebele, Siswati). These languages are morphologically complex, so
-      subword information is critical. We propose neural architectures for language
-      modelling and machine translation that learn subword segmentation during training.
-    topic: Subword Segmental Text Generation for Nguni Languages
-    years:
-      - Research
-  - affiliation: Vodacom Group Limited
-    bio:
-      Having completed a B. Eng. in Mechanical Engineering from the University of
-      Pretoria, I was attracted into the nascent field of Artificial Intelligence. I
-      am currently working as a Senior Data Scientist in the M-Pesa (Vodacom Group)
-      Big Data and Loyalty team. I have previously worked at Absa wearing multiple hats
-      from Data Scientist to ML engineer and AI Product Owner. I am also a part-time
-      student of the M.Sc. (MLAI) program at Stellenbosch University, where my thesis
-      is focused on using computer vision to help kerb the impact of invasive plant
-      species on the biodiversity of the Kruger National Park.
-    link: modal
-    name: Ashwinee Pandey
-    social_media:
-      - icon: ""
-        link: https://www.linkedin.com/in/ashwineepandey/
-        title: LinkedIn
-      - icon: ""
-        link: https://www.ashwineepandey.com
-        title: Website
-    talk_description:
-      This talk will be a code along tutorial to gain an intuition and
-      understanding for environments, agents and the Q-Learning and SARSA algorithms.
-    topic: An Introduction to Reinforcement Learning
-    years:
-      - Foundations
-  - affiliation: Explore AI
-    bio:
-      "I currently work as a Data Science Facilitator/Lecturer and Head Teacher for\
-      \ Data Engineering with Explore-AI Academy. I completed my undergraduate degree\
-      \ (majoring in Applied Mathematics and Pure Applied Physics), Honours degree (majoring\
-      \ in Applied Mathematics) and my Master\u2019s degree (majoring in Applied Mathematics)\
-      \ at the University of KwaZulu-Natal (UKZN). Spent a few years at Rhodes University\
-      \ as a PhD candidate doing research on 21-cm Cosmology, my research work involved\
-      \ studying the early stages of the Universe using data from Low-Frequency Radio\
-      \ telescope called HERA."
-    image: /images/people/mthembu.jpg
-    link: modal
-    name: Nhlakanipho Kwazi Mthembu
-    social_media:
-      - icon: ""
-        link: "https://twitter: @kwazinhlaka"
-        title: Twitter
-      - icon: ""
-        link: "https://linkedin: https://www.linkedin.com/in/nhlakanipho-kwazi-mthembu-9827ba46/"
-        title: LinkedIn
-    talk_description:
-      Apache Spark is a very powerful tool for processing big data,
-      a Spark application has a complex architecture which enables parallel processing,
-      with multiple workers that perform the heavy lifting, and a driver that is coordinating
-      the process. Spark distributes data across storage as partitions, which can reside
-      in cloud storage or HDFS. A Spark application is not just a single tool, but rather
-      allows for the processing of big data, dealing with graph objects, perform machine
-      learning, and streaming.
-    topic: Data Engineering with PySpark
-    years:
-      - Applied ML & Industry
-  - affiliation: University of the Witwatersrand, DocFox
-    bio:
-      I'm a masters candidate at the University of the Witwatersrand and a senior
-      software engineer at a FinTech startup working on a software as a service solution
-      to know your customer.
-    image: /images/people/chalom.jpg
-    link: modal
-    name: Jason Chalom
-    social_media:
-      - icon: ""
-        link: https://github.com/trex22
-        title: GitHub
-      - icon: ""
-        link: https://twitter.com/trex2218
-        title: Twitter
-      - icon: ""
-        link: https://www.linkedin.com/in/jasonchalom/
-        title: LinkedIn
-      - icon: ""
-        link: https://jasonchalom.com/blog/
-        title: Website
-    talk_description:
-      Using attribution techniques such as Grad-CAM we aim to understand
-      how a group of end-to-end computer vision models can control the steering of a
-      vehicle. These models take in forward facing video frames and return an approximated
-      steering angle to control the vehicle (The basic example of such an AI system).
-      We have constructed a system which then analyses the attribution heat maps against
-      segmentation maps of the same input frames to extract semantic information. We
-      are then able to produce a statistical value for how often an particular object
-      in the frame has an appreciable impact on the steering angle or result of the
-      model.
-    topic:
-      The Application of Attribution Methods to Explain an End-To-End Model For
-      Self-Driving Cars (Unpublished)
-    years:
-      - Research
-  - affiliation: University of Pretoria
-    bio:
-      'I am a junior lecturer with more than 15 years of experience in postgraduate
-      teaching, which has been focused on machine learning, data mining, and data science.
-      I completed my bachelor''s degree in computer science at the University of Pretoria
-      in 2001, my honours degree with distinction at the University of Pretoria in 2002,
-      and my MSc with distinction at the University of Pretoria in 2017. My MSc dissertation
-      is titled "Self-Organising Feature Maps for Exploratory Data Analysis and Data
-      Mining: A Practical Perspective". I am currently pursuing a PhD, also focusing
-      on self-organising maps and unsupervised learning.'
-    image: /images/people/schalkvanheerden.jpg
-    link: modal
-    name: Willem Schalk van Heerden
-    social_media:
-      - icon: ""
-        link: https://twitter.com/wvheerden
-        title: Twitter
-      - icon: ""
-        link: https://www.facebook.com/wvheerden
-        title: Facebook
-      - icon: ""
-        link: https://www.cs.up.ac.za/user/wvheerden/
-        title: Website
-    talk_description:
-      Unsupervised learning techniques differs from supervised learning
-      methods in that they require no target classifications in the data on which they
-      are trained. This greatly increases their area of useful application. This talk
-      will be introducing unsupervised learning, with a special focus on self-organising
-      maps (SOMs). The talk will demonstrate how SOMs are useful for their typical use-case
-      of exploratory data analysis. Finally, it will be demonstrated that SOMs can also
-      be used for data mining exercises such as rule extraction, making them a useful
-      tool to serve as a basis for several different data analysis tasks.
-    topic:
-      On the Use of Self-Organising Feature Maps as an Unsupervised Basis for Data
-      Science
-    years:
-      - Research
-  - affiliation: Bytefuse.ai
-    bio:
-      I am a Machine Learning Engineer at ByteFuse.ai, a R&D company developing generalised
-      AI solutions that solve complex tasks. My background of studies in Electrical
-      Engineering and Statistics compliments working in this environment. I have combined
-      my experience in the renewable energy sector and passion for problem solving to
-      find data driven solutions to problems the energy sector is facing. Currently
-      I am working on various exciting projects, looking to find efficiency in the chaos
-      of industry problems.
-    image: /images/people/woodley.jpg
-    link: modal
-    name: Tiffany Woodley
-    social_media: []
-    talk_description:
-      "Due to the ever-growing complex environments in which reinforcement\
-      \ learning algorithms are used, researchers and machine learning engineers are\
-      \ encountering the \"curse of dimensionality\" within the state and action space.\
-      \ The \"curse of dimensionality\" leads to agents performing below an ideal level\
-      \ and increases the time required to train these agents. In this talk a framework\
-      \ and algorithm are proposed that use environmental confounding factors to reduce\
-      \ the environment and state space complexity, thereby mitigating against the effect\
-      \ of the curse of dimensionality. \n\nThis will be demonstrated on a practical\
-      \ application within the energy sector, namely the peak load shaving problem.\
-      \ The objective of this problem is to reduce the peak amount of energy drawn from\
-      \ a grid by sequentially manipulating a linked battery's output. Optimising this\
-      \ application in the energy sector can help align a consumer's financial goals\
-      \ with creating a sustainable energy future, which is crucial for our environment\
-      \ and economy. This problem was chosen because its environment is complex with\
-      \ limited data to facilitate exploration, reflecting real world challenges. It\
-      \ also has far-reaching practical applications versus testing a \"gamified\" environment."
-    topic: 'Reinforcement Learning: Tacking the "Curse of Dimensionality"'
-    years:
-      - Applied ML & Industry
-  - affiliation: University of Venda
-    bio:
-      I am Novela R.J. A female PhD candidate at University of Venda, under the faculty
-      of science, engineering and agriculture. working on predicting air pollutants
-      concentrations in mpumalanga highveld using long short term memory
-    image: /images/people/novela.jpg
-    link: modal
-    name: Rirhandzu Jeaneth Novela
-    social_media: []
-    talk_description:
-      Mpumalanga has been declared a highveld priority area in 2007,
-      15 years the area is still highly polluted. these air pollutants are detrimental
-      to human health. malfunctioning of air monitoring stations are some of the challenges
-      in the area. this study uses LSTM to predict air pollutants in advance. In order
-      to have continuous reading and also to inform people of bad air pollution in advance.
-    topic:
-      Temporal predictionof fine particulate matter in Mpumalanga highveld using
-      LSTM neural networks
-    years:
-      - Research
+    My current research interests lie in neural networks, swarm intelligence, fitness landscape analysis, time-series analysis, high-dimensional optimisation, and deep learning. I am interested in developing a better fundamental understanding of how and why neural networks work. I enjoy working on hybrid approaches that combine different computational intelligence paradigms. I also love seeing machine learning in action, thus I am always keen to try my hand at real-life applications. In particular, I dabble in computer vision and satellite image analysis using convolutional neural networks.
+  image: "/images/people/bosman.jpg"
+  link: modal
+  name: Anna Sergeevna Bosman
+  social_media:
+  - icon: ''
+    link: https://twitter.com/annaearwen
+    title: Twitter
+  - icon: ''
+    link: https://annabosman.github.io/
+    title: Website
+  talk_description: This introductory lecture will cover the very basics of machine
+    learning (ML), such as the difference between classification and regression, what
+    is it that the machines can learn from data, and how must you prepare your data
+    before you feed it to a machine eager to learn. We will also take a brief tour
+    of the major ML models and algorithms, such as k-nearest neighbours, decision
+    trees,  and neural networks. There is only so much we can cover in a short time,
+    but expect to get a broad idea of the purpose and major tools that constitute
+    ML after attending this lecture.
+  topic: 'Introduction to Machine Learning: from k-NNs to NNs'
+  years:
+  - Foundations
+- affiliation: Rhodes University
+  bio: Marcel is a senior lecturer in the Department of Mathematics and coordinates
+    the Rhodes AI Research Group (RAIRG). His  research interests are in big data
+    analysis, statistical signal processing, artificial intelligence, radio interferometry/astronomical
+    techniques.
+  image: "/images/people/atemkeng.jpg"
+  link: modal
+  name: Marcellin Atemkeng
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/feed/
+    title: LinkedIn
+  - icon: ''
+    link: https://twitter.com/matemkeng
+    title: Twitter
+  talk_description: This talk will address the data format and archiving/compession
+    issues for the Square Kilometre Array (SKA). One of the major contributors to
+    the large data volumes is the maximum baseline of an array since it sets how well
+    the data needs to be sampled to avoid smearing and decorrelation of the signal.
+    Now, the sampling rate is dependent on the baseline length as shorter baselines
+    can be sampled a lot more coarsely which leads to smaller data volumes. In fact,
+    baseline-dependent averaging (BDA) is an established technique for compressing
+    radio interferometric data, however, this technique results in irregularly sampled
+    data which while supported by the database format requires the data to be restructured
+    in ways that reduce performance when processing. But more importantly, radio-astronomy
+    software tools implicitly assume uniformly sampled datasets. Recent research in
+    M. Atemkeng, in prep. in collaboration with the Wits University and SARAO; shows
+    an approach that uses local  low-rank matrix approximation to achieve similar
+    compression rates while significantly minimising smearing.
+  topic: 'Perspectives on Long-Term Research Data Archiving Solutions: the case of
+    the SKA with learning algorithms'
+  years:
+  - Research
+- affiliation: University of Pretoria
+  bio: Prof Vukosi Marivate is the ABSA UP Chair of Data Science at the University
+    of Pretoria. Marivate works on developing machine learning/artificial intelligence
+    methods to extract insights from data. A large part of his work over the past
+    few years has been in the intersection of machine learning and natural language
+    processing. Prof Marivate’s work in this area focuses on techniques to improve
+    tools for and availability of data for local languages or low-resource languages.
+    Marivate is a co-founder of Deep Learning Indaba. He currently serves as a co-founder
+    and chief investigator on the Masakhane NLP project (https://www.masakhane.io/)
+    and on the steering committee of the Lacuna Fund (https://lacunafund.org/). Prof
+    Marivate is the PI for the Data Science for Social Impact research group (https://dsfsi.github.io/).
+  image: "/images/people/marivate.jpg"
+  link: modal
+  name: Vukosi Marivate
+  social_media:
+  - icon: ''
+    link: https://twitter.com/vukosi
+    title: Twitter
+  - icon: ''
+    link: https://sigmoid.social/@vukosi
+    title: Website
+  - icon: ''
+    link: https://
+    title: Website
+  talk_description: 'We have seen huge growth in the grassroots AI across the continent.
+    I look back from my view where he have come from and then ask the question: Where
+    to next?'
+  topic: 'AfricanML: Where to next?'
+  years:
+  - Keynote
+- affiliation: Durban University of Technology
+  bio: Dr Oluwasegun Julius AROBA lecturer in the Department of Information Systems
+    in the Faculty of Accounting and Informatics. I have published papers in 5 DHET
+    accredited journals, with 12 journal papers and conference proceedings   are under
+    review and/or in the press stage. I recently graduated with my Ph.D. from the
+    Durban University of Technology (2022), I also have a master’s degree in Information
+    Technology  from Coventry University UK, a Bachelor’s degree from Crawford University
+    Nigeria (2009). I am an experienced, disciplined, highly motivated academic with
+    a pragmatic approach and sound business acumen. An adaptable, resourceful, disciplined,
+    and enthusiastic individual who has developed international and national research
+    experiences with a background in computer science, data, project work within the
+    co-operate, government and non-government parastatals and academic sectors. Am
+    a global leadership certified programmer (GLP) from Coventry UK. I possess excellent
+    programming skills, and am certified in project management, SAP certified, Sun
+    Java Certified Programmer, Oracle Certified Administrator, Artificial Intelligence
+    and Data Science Certified (IBM). I am a highly accomplished academic with verifiable
+    record of accomplishment in fields such as teaching, curriculum, and the development
+    of interactive prototypes. I am currently supervising two Ph.D. and two  master’s
+    students. I am also a member of  institute of information technology professional
+    South Africa (IITPSA), Nigeria Computer Society (NCS), member of institute of
+    electrical and electronics engineers ( IEEE) United Kingdom and South Africa.
+  image: "/images/people/aroba.jpg"
+  link: modal
+  name: Oluwasegun Julius Aroba
+  social_media:
+  - icon: ''
+    link: https://twitter.com/aroseglinks
+    title: Twitter
+  - link: https://www.facebook.com/youngestmd
+    title: Facebook
+    icon: ''
+  - link: https://linktr.ee/aroseglinks
+    title: Website
+    icon: ''
+  - icon: ''
+    link: https://www.linkedin.com/in/julius-o-aroba-ph-d-83409150/
+    title: LinkedIn
+  talk_description: Establishing a contextual machine learning within the artificial
+    intelligence bigger picture and showcasing the relevance in the emerging disciplines,
+    using the Big Data and AI motivations as the next internet of things
+  topic: The Emergent of Machine Learning and Artificial Intelligence  in any relevance
+    disciplines
+  years:
+  - Research
+- affiliation: University of the Witwatersrand
+  bio: Tamlin Love is a lecturer at the University of the Witwatersrand, where he
+    received a master's degree in Computer Science. He is an active member of the
+    RAIL lab, and is interested in research in Reinforcement Learning and Robotics.
+    His particular interest lies in Assisted Reinforcement Learning, looking at the
+    problem of human-agent interaction, how agents can better understand humans and
+    how humans can adapt to better teach and interact with agents.
+  image: "/images/people/love.jpg"
+  link: modal
+  name: Tamlin Love
+  social_media:
+  - icon: ''
+    link: https://tamlinlove.github.io/
+    title: Website
+  talk_description: Reinforcement Learning has achieved promising results in a wide
+    range of sequential decision problems, such as healthcare applications, robotics
+    and recommendation systems. In RL there is often a need for greater sample efficiency,
+    whether due to increasingly complex domains or the difficulty in obtaining data.
+    One family of approaches that attempt to tackle this problem is Assisted Reinforcement
+    Learning, in which external information is transferred to the agent, for example
+    in the form of advice offered by a domain expert. This talk serves as an introduction
+    to this field, discusses some open questions in the field, and presents some recent
+    approaches that attempt to answer these open questions.
+  topic: Introduction to Assisted Reinforcement Learning
+  years:
+  - Research
+- affiliation: Institute for Groundwater Studies
+  bio: Anton is a PhD student at the Institute for Groundwater Studies at the University
+    of the Free State. He holds an honours degree in structural geology and a master's
+    degree in hydrogeology. He is a keen numerical modeler and programmer, with his
+    research primarily focused on getting the most out of groundwater data.
+  image: "/images/people/lukas.jpg"
+  link: modal
+  name: Anton Lukas
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/antonlukas/
+    title: LinkedIn
+  talk_description: "Groundwater is the future of arid countries. A precious resource
+    that is often neglected and ignored, in no small part owed to it being obscured
+    by the Earth that hosts it. To manage and protect this resource it needs to be
+    understood and quantified. This is where pumping tests come in, essentially providing
+    us the only way to determine the hydraulic parameters of the subsurface without
+    physically excavating it. Pumping test results are recorded as a univariate time
+    series which consists of water level or pressure measurements with an associated
+    time value. The time series is processed by means of Bourdet derivative analysis,
+    the derivative with respect to the natural logarithm of time is calculated and
+    smoothed using a log-cycle fraction and plotted on a log-log scale. The changes
+    in slope of the plotted curve describes the behaviour of the groundwater flow
+    in the borehole and the surrounding aquifer(s) during the pumping test. Which
+    allows the aquifer system to be classified, and an appropriate technique can be
+    selected to determine the aquifer parameters. \n\nHowever, pumping test analysis
+    is complex, and in many regards the interpretation resembles an art more than
+    a science. Which is further complicated by a lack of validation, there is no sensible
+    way to validate the interpretation of pumping tests without destroying the aquifer
+    in question. As a result, synthetic data was produced by means of numerical groundwater
+    flow models for training. This task is performed visually by a hydrogeologist
+    and relies on pattern matching and the relationships between the observed features
+    and the time encountered. Due to large variations in the value range of the raw
+    data, as well as the sensitivity of the derivative to noise, a multiclass image
+    classification approach is investigated utilizing a residual neural network as
+    part of this ongoing research."
+  topic: Machine learning applied to pumping test analysis
+  years:
+  - Applied ML & Industry
+- affiliation: University of the Witwatersrand
+  bio: Michael is an MSc student at the University of the Witwatersrand, working on
+    improving the generalisation of reinforcement learning agents to new settings.
+    He has numerous other research interests, including procedural content generation
+    for video games, natural language processing and high-performance computing.
+  image: "/images/people/beukman.jpg"
+  link: modal
+  name: Michael Beukman
+  social_media: []
+  talk_description: |-
+    This talk covers procedural content generation and introduces a new method that uses Neuroevolution to evolve level generators. These generators can be used to quickly generate large amounts of diverse content.
+    We detail the techniques used, compare our approach with strong baselines and show off some generated levels.
+  topic: Procedural Content Generation using Neuroevolution and Novelty Search  for
+    Diverse Video Game Levels
+  years:
+  - Applied ML & Industry
+- affiliation: University of Edinburgh
+  bio: I am a mathematics student at the University of Edinburgh. I focus moslty on
+    algebra and love the subject intesely. I learned about deep learning while working
+    at ByteFuse and enjoy the prospect of there being interactions between ML and
+    algebra.
+  image: "/images/people/bowman.jpg"
+  link: modal
+  name: David Bowman
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/david-bowman-251b14176/
+    title: LinkedIn
+  talk_description: We will dicuss some introductory group theory in order to state
+    a couple definitions and motivate their study. We will then discuss some attempts
+    made to teach some basic group theory to machine and then I will propose an approach
+    using deep learning to study groups.
+  topic: Applications of Deep Learning to Group Theory
+  years:
+  - Research
+- affiliation: University of the Witwatersrand
+  bio: I am a PhD student in Computer Science at Wits and an IBM PhD fellow. Before
+    moving to Wits for my M.Sc, I did my B.Sc in Computer Science, Pure&Applied Mathematics
+    and Physics at Rhodes University. My main research interests lie in reinforcement
+    learning (RL) and particularly in techniques that allow an agent to leverage existing
+    skills to build complex, novel behaviours.
+  image: "/images/people/nanguetasse.jpg"
+  link: modal
+  name: Geraud Nangue Tasse
+  social_media: []
+  talk_description: Reinforcement learning has achieved recent success in a number
+    of difficult, high-dimensional environments. However, these methods generally
+    require millions of samples from the environment to learn optimal behaviours,
+    limiting their real-world applicability. Hence this work is aimed at creating
+    a principled framework for lifelong agents to learn essential skills and be able
+    to combine them to solve new compositional tasks without further learning. To
+    achieve this, we design useful representations of skills for each task and we
+    construct a Boolean algebra over the set of tasks and skills. This enables us
+    to compose learned skills to immediately solve new tasks that are expressible
+    as a logical composition of past tasks. We present theoretical guarantees for
+    our framework and demonstrate its usefulness for lifelong learning via a number
+    of experiments.
+  topic: Towards Lifelong Reinforcement Learning through Logical Skill Composition
+  years:
+  - Applied ML & Industry
+- affiliation: University of Cape Town
+  bio: I am a PhD student at the University of Cape Town, working under Jan Buys in
+    the Computer Science Department and the HPI Research School. Previously I completed
+    my masters in AI at the University of Amsterdam and my undergraduate degrees in
+    Computer Science and Mathematical Statistics at Stellenbosch University.
+  image: "/images/people/meyer.jpg"
+  link: modal
+  name: Francois Meyer
+  social_media:
+  - icon: ''
+    link: https://twitter.com/francoisrmeyer
+    title: Twitter
+  - icon: ''
+    link: https://sigmoid.social/@francois_meyer
+    title: Website
+  talk_description: In this talk I will present our work on designing linguistically
+    informed deep learning models for the Nguni languages of South Africa (isiXhosa,
+    isiZulu, isiNdebele, Siswati). These languages are morphologically complex, so
+    subword information is critical. We propose neural architectures for language
+    modelling and machine translation that learn subword segmentation during training.
+  topic: Subword Segmental Text Generation for Nguni Languages
+  years:
+  - Research
+- affiliation: Vodacom Group Limited
+  bio: Having completed a B. Eng. in Mechanical Engineering from the University of
+    Pretoria, I was attracted into the nascent field of Artificial Intelligence. I
+    am currently working as a Senior Data Scientist in the M-Pesa (Vodacom Group)
+    Big Data and Loyalty team. I have previously worked at Absa wearing multiple hats
+    from Data Scientist to ML engineer and AI Product Owner. I am also a part-time
+    student of the M.Sc. (MLAI) program at Stellenbosch University, where my thesis
+    is focused on using computer vision to help kerb the impact of invasive plant
+    species on the biodiversity of the Kruger National Park.
+  link: modal
+  name: Ashwinee Pandey
+  social_media:
+  - icon: ''
+    link: https://www.linkedin.com/in/ashwineepandey/
+    title: LinkedIn
+  - icon: ''
+    link: https://www.ashwineepandey.com
+    title: Website
+  talk_description: This talk will be a code along tutorial to gain an intuition and
+    understanding for environments, agents and the Q-Learning and SARSA algorithms.
+  topic: An Introduction to Reinforcement Learning
+  years:
+  - Foundations
+  image: ''
+- affiliation: Explore AI
+  bio: I currently work as a Data Science Facilitator/Lecturer and Head Teacher for
+    Data Engineering with Explore-AI Academy. I completed my undergraduate degree
+    (majoring in Applied Mathematics and Pure Applied Physics), Honours degree (majoring
+    in Applied Mathematics) and my Master’s degree (majoring in Applied Mathematics)
+    at the University of KwaZulu-Natal (UKZN). Spent a few years at Rhodes University
+    as a PhD candidate doing research on 21-cm Cosmology, my research work involved
+    studying the early stages of the Universe using data from Low-Frequency Radio
+    telescope called HERA.
+  image: "/images/people/mthembu.jpg"
+  link: modal
+  name: Nhlakanipho Kwazi Mthembu
+  social_media:
+  - icon: ''
+    link: 'https://twitter: @kwazinhlaka'
+    title: Twitter
+  - icon: ''
+    link: 'https://linkedin: https://www.linkedin.com/in/nhlakanipho-kwazi-mthembu-9827ba46/'
+    title: LinkedIn
+  talk_description: Apache Spark is a very powerful tool for processing big data,
+    a Spark application has a complex architecture which enables parallel processing,
+    with multiple workers that perform the heavy lifting, and a driver that is coordinating
+    the process. Spark distributes data across storage as partitions, which can reside
+    in cloud storage or HDFS. A Spark application is not just a single tool, but rather
+    allows for the processing of big data, dealing with graph objects, perform machine
+    learning, and streaming.
+  topic: Data Engineering with PySpark
+  years:
+  - Applied ML & Industry
+- affiliation: University of the Witwatersrand, DocFox
+  bio: I'm a masters candidate at the University of the Witwatersrand and a senior
+    software engineer at a FinTech startup working on a software as a service solution
+    to know your customer.
+  image: "/images/people/chalom.jpg"
+  link: modal
+  name: Jason Chalom
+  social_media:
+  - icon: ''
+    link: https://github.com/trex22
+    title: GitHub
+  - icon: ''
+    link: https://twitter.com/trex2218
+    title: Twitter
+  - icon: ''
+    link: https://www.linkedin.com/in/jasonchalom/
+    title: LinkedIn
+  - icon: ''
+    link: https://jasonchalom.com/blog/
+    title: Website
+  talk_description: Using attribution techniques such as Grad-CAM we aim to understand
+    how a group of end-to-end computer vision models can control the steering of a
+    vehicle. These models take in forward facing video frames and return an approximated
+    steering angle to control the vehicle (The basic example of such an AI system).
+    We have constructed a system which then analyses the attribution heat maps against
+    segmentation maps of the same input frames to extract semantic information. We
+    are then able to produce a statistical value for how often an particular object
+    in the frame has an appreciable impact on the steering angle or result of the
+    model.
+  topic: The Application of Attribution Methods to Explain an End-To-End Model For
+    Self-Driving Cars (Unpublished)
+  years:
+  - Research
+- affiliation: University of Pretoria
+  bio: 'I am a junior lecturer with more than 15 years of experience in postgraduate
+    teaching, which has been focused on machine learning, data mining, and data science.
+    I completed my bachelor''s degree in computer science at the University of Pretoria
+    in 2001, my honours degree with distinction at the University of Pretoria in 2002,
+    and my MSc with distinction at the University of Pretoria in 2017. My MSc dissertation
+    is titled "Self-Organising Feature Maps for Exploratory Data Analysis and Data
+    Mining: A Practical Perspective". I am currently pursuing a PhD, also focusing
+    on self-organising maps and unsupervised learning.'
+  image: "/images/people/schalkvanheerden.jpg"
+  link: modal
+  name: Willem Schalk van Heerden
+  social_media:
+  - icon: ''
+    link: https://twitter.com/wvheerden
+    title: Twitter
+  - icon: ''
+    link: https://www.facebook.com/wvheerden
+    title: Facebook
+  - icon: ''
+    link: https://www.cs.up.ac.za/user/wvheerden/
+    title: Website
+  talk_description: Unsupervised learning techniques differs from supervised learning
+    methods in that they require no target classifications in the data on which they
+    are trained. This greatly increases their area of useful application. This talk
+    will be introducing unsupervised learning, with a special focus on self-organising
+    maps (SOMs). The talk will demonstrate how SOMs are useful for their typical use-case
+    of exploratory data analysis. Finally, it will be demonstrated that SOMs can also
+    be used for data mining exercises such as rule extraction, making them a useful
+    tool to serve as a basis for several different data analysis tasks.
+  topic: On the Use of Self-Organising Feature Maps as an Unsupervised Basis for Data
+    Science
+  years:
+  - Research
+- affiliation: Bytefuse.ai
+  bio: I am a Machine Learning Engineer at ByteFuse.ai, a R&D company developing generalised
+    AI solutions that solve complex tasks. My background of studies in Electrical
+    Engineering and Statistics compliments working in this environment. I have combined
+    my experience in the renewable energy sector and passion for problem solving to
+    find data driven solutions to problems the energy sector is facing. Currently
+    I am working on various exciting projects, looking to find efficiency in the chaos
+    of industry problems.
+  image: "/images/people/woodley.jpg"
+  link: modal
+  name: Tiffany Woodley
+  social_media: []
+  talk_description: "Due to the ever-growing complex environments in which reinforcement
+    learning algorithms are used, researchers and machine learning engineers are encountering
+    the \"curse of dimensionality\" within the state and action space. The \"curse
+    of dimensionality\" leads to agents performing below an ideal level and increases
+    the time required to train these agents. In this talk a framework and algorithm
+    are proposed that use environmental confounding factors to reduce the environment
+    and state space complexity, thereby mitigating against the effect of the curse
+    of dimensionality. \n\nThis will be demonstrated on a practical application within
+    the energy sector, namely the peak load shaving problem. The objective of this
+    problem is to reduce the peak amount of energy drawn from a grid by sequentially
+    manipulating a linked battery's output. Optimising this application in the energy
+    sector can help align a consumer's financial goals with creating a sustainable
+    energy future, which is crucial for our environment and economy. This problem
+    was chosen because its environment is complex with limited data to facilitate
+    exploration, reflecting real world challenges. It also has far-reaching practical
+    applications versus testing a \"gamified\" environment."
+  topic: 'Reinforcement Learning: Tacking the "Curse of Dimensionality"'
+  years:
+  - Applied ML & Industry
+- affiliation: University of Venda
+  bio: I am Novela R.J. A female PhD candidate at University of Venda, under the faculty
+    of science, engineering and agriculture. working on predicting air pollutants
+    concentrations in mpumalanga highveld using long short term memory
+  image: "/images/people/novela.jpg"
+  link: modal
+  name: Rirhandzu Jeaneth Novela
+  social_media: []
+  talk_description: Mpumalanga has been declared a highveld priority area in 2007,
+    15 years the area is still highly polluted. these air pollutants are detrimental
+    to human health. malfunctioning of air monitoring stations are some of the challenges
+    in the area. this study uses LSTM to predict air pollutants in advance. In order
+    to have continuous reading and also to inform people of bad air pollution in advance.
+  topic: Temporal predictionof fine particulate matter in Mpumalanga highveld using
+    LSTM neural networks
+  years:
+  - Research
