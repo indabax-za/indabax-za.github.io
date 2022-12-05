@@ -23,14 +23,20 @@ sponsors:
     link: https://www.wits.ac.za/coe-mass/
     current: true
     background_color: ''
+- tier: Black Rhino (R50 000)
+  item: []
+  size: 100
+  item:
   - name: NITheCS
     image: images/partners/nithecs.png
     link: https://nithecs.ac.za/
-    current: false
+    current: true
     background_color: ''
-- tier: Black Rhino (R50 000)
-  item: []
-  size: 
+  - name: IBM
+    image: images/partners/research_ibm_com_labs_africa.png
+    link: https://www.ibm.com/
+    current: true
+    background_color: 'white'
 - tier: White Rhino (Poster session)
   size: 100
   item: 
@@ -47,18 +53,38 @@ sponsors:
     link: https://zindi.africa/
     current: true
     background_color: ''
+  - name: Chisl
+    image: images/partners/chisl.png
+    link: https://www.chislgroup.com/
+    current: true
+    background_color: ''
 - tier: Cape Buffalo (R25 000)
-  size: 80
+  size: 100
   item:
-  - name: alis_
-    image: images/partners/alis_fund.png
-    link: https://www.linkedin.com/company/alisx/
+  - name: Alis Exchange
+    image: images/partners/alisx.png
+    link: https://www.alisx.com
+    current: true
+    background_color: ''
+  - name: CHPC
+    image: images/partners/nicis-chpc.png
+    link: https://www.chpc.ac.za/
     current: true
     background_color: ''
   - name: InstaDeep
     image: images/partners/instadeep.png
     link: https://instadeep.com/
     current: false
+    background_color: ''
+  - name: EPI-USE
+    image: images/partners/epi-use.png
+    link: https://epiuse.ai
+    current: true
+    background_color: ''
+  - name: Lelapa AI
+    image: images/partners/lelapa-ai.png
+    link: https://lelapa.ai/
+    current: true
     background_color: ''
   - name: Ashanti AI
     image: images/partners/ashanti_ai.png
