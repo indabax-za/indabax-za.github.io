@@ -13,6 +13,11 @@ args:
 [Download shcedule here ]()
 {{< /class >}} -->
 
+All main events are hosted at Engineering Building 3, Elandspoort 357-Jr, Pretoria, 0002, South Africa
+
+The closing event will be at Summit Sky Bar, with buses leaving from Engineering Building 3 at ~18:00 on December 15th.
+
 ---
+
 
 {{< partial "schedule" "args" >}}
