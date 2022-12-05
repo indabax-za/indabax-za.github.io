@@ -8,9 +8,9 @@ banner:
   cta:
     enable: true
     item:
-    - title: Register now
-      URL: "/register"
-      color: "#10793b"
+    - title: Schedule
+      URL: "/schedule"
+      color: "#C9492C"
     - title: Donate
       URL: "/partners"
       color: "#B91111"
