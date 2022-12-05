@@ -85,7 +85,7 @@ fields:
         config:
           min: 
           max: 
-          labelField: 
+          labelField: name
         label: talks
 - name: tracks
   type: include
