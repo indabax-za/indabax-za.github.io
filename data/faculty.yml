@@ -983,8 +983,8 @@ people:
   years:
   - Applied ML & Industry
 - affiliation: University of Edinburgh
-  bio: I am a mathematics student at the University of Edinburgh. I focus moslty on
-    algebra and love the subject intesely. I learned about deep learning while working
+  bio: I am a mathematics student at the University of Edinburgh. I focus mostly on
+    algebra and love the subject intensely. I learned about deep learning while working
     at ByteFuse and enjoy the prospect of there being interactions between ML and
     algebra.
   image: "/images/people/bowman.jpg"
@@ -994,9 +994,9 @@ people:
   - icon: ''
     link: https://www.linkedin.com/in/david-bowman-251b14176/
     title: LinkedIn
-  talk_description: We will dicuss some introductory group theory in order to state
+  talk_description: We will discuss some introductory group theory in order to state
     a couple definitions and motivate their study. We will then discuss some attempts
-    made to teach some basic group theory to machine and then I will propose an approach
+    made to teach some basic group theory to machines and then I will propose an approach
     using deep learning to study groups.
   topic: Applications of Deep Learning to Group Theory
   years:
