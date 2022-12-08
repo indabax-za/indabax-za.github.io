@@ -37,6 +37,11 @@ sponsors:
     link: https://www.ibm.com/
     current: true
     background_color: 'white'
+  - name: Google
+    image: images/partners/google.png
+    link: https://www.google.com/
+    current: true
+    background_color: ''
 - tier: White Rhino (Poster session)
   size: 100
   item: 
