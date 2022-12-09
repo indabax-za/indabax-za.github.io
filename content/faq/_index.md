@@ -14,6 +14,8 @@ Engineering Building 3, Elandspoort 357-Jr, Pretoria, 0002, South Africa
 
 https://goo.gl/maps/ZuSMcdcR4G1pPCGR7
 
+{{< figure src="/images/places/UP_campus_map_IndabaX-small.jpg" title="map of the campus (click to enlarge)" width="80%" link="/images/places/UP_campus_map_IndabaX.jpg">}}
+
 see also [ABOUT](/about)
 
 #### {{<icon "ti-car">}} &nbsp; **How do I get to the venue from OR Tambo Airport?** {.faq-item}
@@ -21,6 +23,9 @@ see also [ABOUT](/about)
 1. Train(Gautrain) from OR Tambo to Hatfield - Stations( OR Tambo --> Malboro --> Hatfield ) - R200 one way
 2. Taxi from OR Tambo to Hatfield - R500 one way
 3. Drive (40 min)
+
+{{< figure src="/images/places/Gautrain_to_campus.png" title="Gautrain to campus" alt="Gautrain to campus" width="80%">}}
+
 
 ## {{<icon "ti-home">}} Accommodation {.project-meta}
 
