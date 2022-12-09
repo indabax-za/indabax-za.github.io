@@ -173,7 +173,7 @@ days:
         name: Mahmood-Ali Parker
         title: ''
       number: 
-  - time: 16h00 - 16h15
+  - time: 16h00 - 16h30
     columns:
     - title: Break
       track: ''
@@ -181,7 +181,7 @@ days:
       location: ''
       number: 
       sessions: []
-  - time: 16h15 - 18h00
+  - time: 16h30 - 18h00
     columns:
     - title: Quantum Computing - Foundations III
       track: Foundations
@@ -364,7 +364,7 @@ days:
         title: ''
         time: ''
       number: 
-  - time: 16h00 - 16h15
+  - time: 16h00 - 16h30
     columns:
     - title: Break
       track: ''
@@ -372,7 +372,7 @@ days:
       location: ''
       number: 
       sessions: []
-  - time: 16h15 - 18h00
+  - time: 16h30 - 18h00
     columns:
     - title: GANs - Foundations VI
       track: Foundations
