@@ -63,6 +63,11 @@ sponsors:
     link: https://www.chislgroup.com/
     current: true
     background_color: ''
+  - name: "DNS.Business"
+    image: images/partners/dns_business_f.png
+    link: https://dns.net.za/
+    current: true
+    background_color: ''
 - tier: Cape Buffalo (R25 000)
   size: 100
   item:
