@@ -81,6 +81,11 @@ sponsors:
     link: https://www.chpc.ac.za/
     current: true
     background_color: ''
+  - name: Data Science for Social Impact
+    image: https://dsfsi.github.io/images/logo_transparent_small.png
+    link: https://dsfsi.github.io
+    current: true
+    background_color: ''
   - name: InstaDeep
     image: images/partners/instadeep.png
     link: https://instadeep.com/
