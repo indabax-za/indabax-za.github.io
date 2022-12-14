@@ -86,11 +86,25 @@ people:
     image: "/images/people/baror.jpg"
     link: https://www.cs.up.ac.za/user/someleze/
   - name: Laing Lourens
-    position: Local organiser, Programme Chair, Catering & Social Events
+    position: Local organiser, Programme Chair, Fundraising, Catering & Social Events
     affiliation: CSIR
     image: "/images/people/lourens.jpg"
     link: https://www.linkedin.com/in/laing-lourens-561a33173
-
+  - name: Avashlin Moodley
+    position: Marketing & Communications
+    affiliation: CSIR
+    image: "/images/people/moodley.jpg"
+    link: https://www.linkedin.com/in/avashlinmoodley/
+  - name: Sasha Naidoo
+    position: Marketing & Communications
+    affiliation: Nedbank
+    image: "/images/people/naidoo.jpg"
+    link: https://www.linkedin.com/in/sasha-naidoo-03a437107
+  - name: Thapelo Sindane
+    position: Local organiser, Catering & Social Events
+    affiliation: University of Pretoria
+    image: "/images/people/sindane.jpg"
+    link: https://www.linkedin.com/in/thapelo-sindane-a8907b1b2
 ---
 
 <!--more-->
