@@ -1,0 +1,559 @@
+---
+title: Schedule outline
+tracks:
+- name: Keynote
+  color: "#c9492c"
+- name: Research
+  color: "#18A8C9"
+- name: Applied ML & Industry
+  color: "#C92260"
+- name: Foundations
+  color: "#18C989"
+- name: Hackathon
+  color: "#f5a623"
+- name: Unconference
+  color: "#40C94A"
+- name: Poster Session
+  color: "#ebb493"
+- name: Social
+  color: "#29af8c"
+- name: Tutorials
+  color: "#003366"
+- name: Workshops
+  color: "#7c60c6"
+days:
+- title: Day 0
+  date: 2022-12-12
+  content: Day 0 is a day of tutorials and workshops for beginners. It is also a day
+    for the hackathon.
+  sessions:
+  - time: 13h00 - 18h30
+    columns:
+    - title: Registration
+      track: ''
+      content: ''
+      location: Engineering Building 3, Elandspoort 357-Jr, Pretoria, 0002, South
+        Africa
+      number: 
+      sessions: []
+- title: Day 1
+  date: 2022-12-13
+  content: ''
+  sessions:
+  - time: '09h00 - 09h30'
+    columns:
+    - title: Opening Remarks
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions:
+      - name: "Deep Learning Indaba\U0001D54F South Africa 2022 organising committee"
+        image: images/dlxza_logo black.png
+        link: http://localhost:1313/news/2022-06-01-meet-the-team/
+        title: ''
+        time: ''
+  - time: '09h30 - 10h30'
+    columns:
+    - title: Keynote I
+      track: Keynote
+      content: Opening talk
+      location: ''
+      sessions:
+      - name: Vukosi Marivate
+        title: ''
+        time: ''
+      number: 
+  - time: 10h30 - 12h00
+    columns:
+    - title: Machine Learning - Foundations I
+      track: Foundations
+      content: ''
+      location: Computer labs
+      sessions:
+      - name: Anna Sergeevna Bosman
+        title: ''
+        time: ''
+      number: 
+    - title: Research I
+      track: Research
+      content: ''
+      location: ''
+      sessions:
+      - time: 10h30 - 11h00
+        name: Daniel Nico Wilke
+        title: ''
+      - time: 11h00 - 11h30
+        name: Willem Schalk van Heerden
+        title: ''
+      - time: 11h30 - 12h00
+        name: Jason Chalom
+        title: ''
+      number: 
+    - title: Applied ML & Industry I
+      track: Applied ML & Industry
+      content: ''
+      location: ''
+      sessions:
+      - time: 10h30 - 11h00
+        name: Reevana Balmahoon
+        title: ''
+      - time: 11h00 - 11h30
+        name: Joanne Moonsamy
+        title: ''
+      - time: 11h30 - 12h00
+        name: Naomi Molefe
+        title: ''
+      number: 
+  - time: 12h00 - 13h00
+    columns:
+    - title: Lunch
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: 13h00 - 14h00
+    columns:
+    - title: Keynote II
+      track: Keynote
+      content: ''
+      location: ''
+      sessions:
+      - title: 'Masakhane: The Unreasonable Effectiveness of Grassroots Research'
+        name: Jade Abbott
+        time: ''
+      number: 
+  - time: 14h00 - 14h30
+    columns:
+    - title: Break
+      track: ''
+      content: coffee only
+      location: ''
+      number: 
+      sessions: []
+  - time: 14h30 - 16h00
+    columns:
+    - title: Reinforcement Learning - Foundations II
+      track: Foundations
+      content: ''
+      location: Computer labs
+      sessions:
+      - name: Ashwinee Pandey
+        title: ''
+        time: ''
+      number: 
+    - title: Research II
+      track: Research
+      content: ''
+      location: ''
+      sessions:
+      - time: 14h30 - 15h00
+        name: Naweed Khan
+        title: ''
+      - time: 15h00 - 15h30
+        name: David Bowman
+        title: ''
+      - time: 15h30 - 16h00
+        name: Raesetje Sefala
+        title: ''
+      number: 
+    - title: Applied ML & Industry II
+      track: Applied ML & Industry
+      content: ''
+      location: ''
+      sessions:
+      - time: 14h30 - 15h00
+        name: Pelonomi Moiloa
+        title: ''
+      - time: 15h00 - 15h30
+        name: Stuart Reid
+        title: ''
+      - time: 15h30 - 16h00
+        name: Mahmood-Ali Parker
+        title: ''
+      number: 
+  - time: 16h00 - 16h30
+    columns:
+    - title: Break
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: 16h30 - 18h00
+    columns:
+    - title: Quantum Computing - Foundations III
+      track: Foundations
+      content: ''
+      location: Computer labs
+      sessions:
+      - name: Gemma Dawson
+        title: ''
+        time: ''
+      number: 
+    - title: Research III - Language
+      track: Research
+      content: ''
+      location: ''
+      sessions:
+      - name: Wiebke (Toussaint) Hutiri
+        title: ''
+        time: ''
+      - name: Febe de Wet
+        title: ''
+        time: ''
+      - name: Francois Meyer
+        title: ''
+        time: ''
+      number: 
+    - title: Reinforcement Learning - Applied ML & Industry III
+      track: Applied ML & Industry
+      content: ''
+      location: ''
+      sessions:
+      - name: Cobus Louw & Louwrens Labuschange
+        title: 'Sumogym Traffic Control: Reinforcement Learning From Simulation to
+          Real World'
+        image: "/images/people/louwchange.jpg"
+        time: ''
+      - name: Siddarth Singh
+        title: ''
+        time: ''
+      - name: Tiffany Woodley
+        title: ''
+        time: ''
+      number: 
+  - time: 18h00 - 21h00
+    columns:
+    - title: Poster session with AI Expo Africa
+      track: Poster Session
+      content: ''
+      location: Distributed
+      number: 50+
+      sessions: []
+- title: Day 2
+  date: 2022-12-14
+  content: ''
+  sessions:
+  - time: '09h00 - 10h00'
+    columns:
+    - title: Keynote III
+      track: Keynote
+      content: ''
+      location: ''
+      sessions:
+      - name: Frans Cronje
+        title: ''
+        time: ''
+      number: 
+  - time: 10h00 - 10h30
+    columns:
+    - title: Break
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: 10h30 - 12h00
+    columns:
+    - title: Probability - Foundations IV
+      track: Foundations
+      content: ''
+      location: Computer labs
+      sessions:
+      - name: Stephan Schmidt
+        title: ''
+        time: ''
+      number: 
+    - title: Reinforcement Learning - Research IV
+      track: Research
+      content: ''
+      location: ''
+      sessions:
+      - name: Tamlin Love
+        title: ''
+        time: ''
+      - name: Geraud Nangue Tasse
+        title: ''
+        time: ''
+      - name: Michael Beukman
+        title: ''
+        time: ''
+      number: 
+    - title: ML Ops - Applied ML & Industry IV
+      track: Applied ML & Industry
+      content: ''
+      location: ''
+      sessions:
+      - name: Merelda Wu
+        title: ''
+        time: ''
+      - name: Michael Williams
+        title: ''
+        time: ''
+      - name: Bophelo Makhetha
+        title: ''
+        time: ''
+      number: 
+  - time: 12h00 - 13h00
+    columns:
+    - title: Lunch
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: 13h00 - 14h00
+    columns:
+    - title: Keynote IV
+      track: Keynote
+      content: ''
+      location: ''
+      sessions:
+      - name: Marelie Hattingh Davel
+        title: ''
+        time: ''
+      number: 
+  - time: 14h00 - 14h30
+    columns:
+    - title: Break
+      track: ''
+      content: coffee only
+      location: ''
+      number: 
+      sessions: []
+  - time: 14h30 - 16h00
+    columns:
+    - title: Transformers - Foundations V
+      track: Foundations
+      content: ''
+      location: Computer labs
+      sessions:
+      - name: Ruan van der Merwe
+        title: ''
+        time: ''
+      number: 
+    - title: Research V
+      track: Research
+      content: ''
+      location: ''
+      sessions:
+      - name: Andries Smit
+        title: ''
+        time: ''
+      - name: Anton Lukas
+        title: ''
+        time: ''
+      - name: Rirhandzu Jeaneth Novela
+        title: ''
+        time: ''
+      number: 
+    - title: ML Ops - Applied ML & Industry V
+      track: Applied ML & Industry
+      content: ''
+      location: ''
+      sessions:
+      - name: Elijah Roussos
+        title: ''
+        time: ''
+      - name: Wihan Booyse
+        title: ''
+        time: ''
+      - name: Nhlakanipho Kwazi Mthembu
+        title: ''
+        time: ''
+      number: 
+  - time: 16h00 - 16h30
+    columns:
+    - title: Break
+      track: ''
+      content: coffee only
+      location: ''
+      number: 
+      sessions: []
+  - time: 16h30 - 18h00
+    columns:
+    - title: GANs - Foundations VI
+      track: Foundations
+      content: ''
+      location: Computer labs
+      sessions:
+      - name: Emile Engelbrecht
+        title: ''
+        time: ''
+      number: 
+    - title: Vision - Research VI
+      track: Research
+      content: ''
+      location: ''
+      sessions:
+      - name: Marcellin Atemkeng
+        title: ''
+        time: ''
+      - name: Ronald Clark
+        title: ''
+        time: ''
+      - name: Simbarashe Aldrin Ngorima
+        time: ''
+      number: 
+    - title: Applied ML & Industry VI
+      track: Applied ML & Industry
+      content: ''
+      location: ''
+      sessions:
+      - name: Onalerona Mosimege
+        title: ''
+        time: ''
+      - name: Oluwasegun Julius Aroba
+        title: ''
+        time: ''
+      - name: Idris Munir
+        title: Automatic knowledge extraction of any Chatbot from conversation
+        time: ''
+      number: 
+  - time: 18h00 - 21h00
+    columns:
+    - title: Hackathon with Zindi
+      track: Hackathon
+      content: ''
+      location: Computer labs
+      number: 3+
+      sessions: []
+- title: Day 3
+  date: 2022-12-15
+  content: ''
+  sessions:
+  - time: '08h30 - 09h00'
+    columns:
+    - title: Morning coffee
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: '09h00 - 10h00'
+    columns:
+    - title: Panel discussion
+      track: Keynote
+      content: A panel discussion featuring incredible panelists from the AI community
+      location: ''
+      number: 5
+      sessions:
+      - title: Machine Learning in Research and Industry
+        panel:
+        - name: Daniel Nico Wilke
+        - name: Jade Abbott
+        - name: Marelie Hattingh Davel
+        - name: Joanne Moonsamy
+        - name: Anna Sergeevna Bosman
+        time: ''
+        name: ''
+  - time: 10h00 - 10h30
+    columns:
+    - title: Break
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: 10h30 - 12h00
+    columns:
+    - title: Hackathon with Zindi [continued]
+      track: Hackathon
+      content: ''
+      location: Computer labs
+      sessions:
+      - title: ''
+        time: ''
+        name: ''
+      number: 
+    - title: Unconference
+      track: Unconference
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+    - title: 'Workshop: AI in Healthcare'
+      track: Workshop
+      content: ''
+      location: ''
+      number: 17
+      sessions:
+      - time: 10h30 - 11h00
+        name: Joan Byamugisha
+        title: ''
+      - title: Federated learning for healthcare
+        time: 11h00 - 11h30
+        name: Archie Arakkal
+      - title: 'From paper to practice: The business of AI and healthcare'
+        time: 11h30 - 12h00
+        name: Ifthakaar Shaik
+  - time: 12h00 - 13h00
+    columns:
+    - title: Lunch
+      track: ''
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: 13h00 - 15h00
+    columns:
+    - title: Hackathon with Zindi [continued]
+      track: Hackathon
+      content: ''
+      location: Computer labs
+      sessions:
+      - title: ''
+        time: ''
+        name: ''
+      number: 
+    - title: Unconference [continued]
+      track: Unconference
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+    - title: 'Workshop: AI in Healthcare [continued]'
+      track: Workshop
+      content: ''
+      sessions:
+      - name: Greg Newman
+        title: ''
+        time: ''
+      - title: Ideathon launch + example idea pitch
+        time: 13h30 - 15h00
+        name: Sisonke Biotik
+        image: "/images/partners/sisonke_biotik_square.png"
+        link: https://www.sisonkebiotik.africa
+      location: ''
+      number: 
+  - time: 15h00 - 15h30
+    columns:
+    - title: Hackathon presentations and prizes
+      track: Keynote
+      content: ''
+      location: ''
+      number: 
+      sessions: []
+  - time: 15h30 - 16h00
+    columns:
+    - title: Closing remarks & IndabaX Annual General Meeting
+      track: Keynote
+      content: ''
+      location: ''
+      number: 
+      sessions:
+      - name: "Deep Learning Indaba\U0001D54F South Africa 2022 organising committee"
+        image: images/dlxza_logo black.png
+        link: http://localhost:1313/news/2022-06-01-meet-the-team/
+        title: ''
+        time: ''
+  - time: 17h00 -
+    columns:
+    - title: Closing event
+      track: Social
+      content: Transport provided to the event
+      location: Summit Sky Bar & Grill
+      number: 
+      sessions: []
