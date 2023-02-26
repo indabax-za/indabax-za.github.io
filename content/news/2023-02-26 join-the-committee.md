@@ -24,6 +24,12 @@ Willingness to learn is a must.
 
 You will receive support from the directors of the Deep Learning IndabaX South Africa as well as the Deep Learning Indaba.
 
+### Indaba𝕏 and IJCAI 2023
+This year, the Indaba𝕏 is a Southern Africa affair and will also be co-located in Cape Town with the International Joint Conference on Artificial Intelligence ([IJCAI](https://ijcai-23.org/)) 2023.
+If you would like to be involved in the local committee for IJCAI, please reach out to them [directly](https://ijcai-23.org/).
+
+We encourage joint attendance of IJCAI and Indaba𝕏!
+
 
 ### APPLICATION PROCESS and IMPORTANT DATES
 
