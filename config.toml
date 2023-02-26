@@ -40,8 +40,8 @@ identifier = "about"
 name = "About"
 weight = 9
 [params]
-address = "University of Pretoria"
-address_details = "40 minute drive from O.R. Tambo int."
+address = "University of Cape Town"
+address_details = ""
 author = "Christopher Currin"
 copyright = "Copyright &copy;{{now}} Deep Learning IndabaX South Africa NPC"
 decor = true

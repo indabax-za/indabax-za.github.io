@@ -10,31 +10,19 @@ min_header_height: 40em
 
 #### {{<icon "ti-pin">}} &nbsp; **Where is the IndabaX exactly?** {.faq-item}
 
-Engineering Building 3, Elandspoort 357-Jr, Pretoria, 0002, South Africa 
-
-https://goo.gl/maps/ZuSMcdcR4G1pPCGR7
-
-{{< figure src="/images/places/UP_campus_map_IndabaX-small.jpg" title="map of the campus (click to enlarge)" width="80%" link="/images/places/UP_campus_map_IndabaX.jpg">}}
+Exact venues will be announced closer to the date.
 
 see also [ABOUT](/about)
 
-#### {{<icon "ti-car">}} &nbsp; **How do I get to the venue from OR Tambo Airport?** {.faq-item}
+#### {{<icon "ti-car">}} &nbsp; **How do I get to the venue from Cape Town International Airport?** {.faq-item}
 
-1. Train(Gautrain) from OR Tambo to Hatfield - Stations( OR Tambo --> Malboro --> Hatfield ) - R200 one way
-2. Taxi from OR Tambo to Hatfield - R500 one way
-3. Drive (40 min)
-
-{{< figure src="/images/places/Gautrain_to_campus.png" title="Gautrain to campus" alt="Gautrain to campus" width="80%">}}
-
+The venue is a 30 minute drive from the airport. There are a number of options for getting to the venue from the airport:
+1. Taxi ~ R350 one way
+2. Drive (30 min)
+3. [MyCiti bus](https://www.myciti.org.za/en/routes-stops/airport-services/) to the City Centre and then a taxi to the venue
 
 ## {{<icon "ti-home">}} Accommodation {.project-meta}
 
 #### {{<icon "ti-pin">}} &nbsp; **Where can I stay?** {.faq-item}
 
-- The CHPC National Conference has a good list of suggestions: https://chpcconf.co.za/accommodation/
-- The CSIR ICC also has a fantastic list of options: https://www.csiricc.co.za/visitors/hotels/
-- Cheaper options would be AirBnB or Booking.com, but we cannot vouch for the individual quality of these options.
-
-#### {{<icon "ti-pin">}} &nbsp; **Can I stay at TuksRes?** {.faq-item}
-
-We only have a limited number of rooms available at TuksRes and it needs to be a group booking, so we cannot guarantee that you will be able to stay there. 
+More details will be available closer to the date.
