@@ -1,12 +1,12 @@
 +++
-date = 2022-09-17T06:14:34Z
+date = 2023-05-17T06:14:34Z
 description = "Submit abstract"
 image = "https://images.unsplash.com/photo-1655720845034-b8f615109b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80"
 min_header_height = "30em"
 opacity = 80
 title = "Submit abstract for talks and posters"
 type = "apply"
-update = 2022-09-17T00:00:00Z
+lastmod = 2022-09-17T00:00:00Z
 [menu.main]
 parent = "register"
 weight = 2
@@ -17,6 +17,8 @@ We welcome submitted talks 🎤 , posters 🖼️ , and leaders of an unconferen
 Abstract submissions are **closed**
 
 <!--more-->
+
+<!-- [Submit abstract](link){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1} -->
 
 ### Submit abstract{.btn .btn-warning .btn-lg .disabled .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
 
