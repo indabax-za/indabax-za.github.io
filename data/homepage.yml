@@ -8,46 +8,47 @@ banner:
   cta:
     enable: true
     item:
-    # - title: Schedule
-    #   URL: "/schedule"
-    #   color: "#C9492C"
-    - title: Donate
-      URL: "/partners"
-      color: "#B91111"
+      # - title: Schedule
+      #   URL: "/schedule"
+      #   color: "#C9492C"
+      - title: Donate
+        URL: "/partners"
+        color: "#B91111"
 about:
   enable: true
-  content: "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
+  content:
+    "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
     conference that helps ensure that knowledge and capacity in machine learning are
     spread more widely across the African continent."
   show_application_info: false
 school:
   title: Machine learning and artificial intelligence conference
   dates:
-    estimated_date: August 2023
-    school_start_date: 2023-08-28T07:00:00.000+00:00
-    school_end_date: 2023-08-30T14:00:00.000+00:00
+    estimated_date: July 2023
+    school_start_date: 2023-07-12T07:00:00.000+00:00
+    school_end_date: 2022-07-14T14:00:00.000+00:00
   content: The conference will be a multi-day event featuring...
   item:
-  - title: 300+<br>attendees
-    content: connect with other researchers and practitioners
-    height: 20%
-    color: "#AD2F8C"
-  - title: 40+ <br>speakers
-    content: attend a showcase of cutting-edge research and applied AI
-    height: 30%
-    color: "#26AE60"
-  - title: 4+ <br>tutorials
-    content: receive a practical introduction to machine learning for beginners
-    height: 40%
-    color: "#003366"
-  - title: 50+ <br>posters
-    content: share your work and get feedback from experts
-    height: 30%
-    color: "#26AE60"
-  - title: 2+ <br>hackathon problems
-    content: get your hands dirty and learn from the best
-    height: 15%
-    color: "#F5A623"
+    - title: 300+<br>attendees
+      content: connect with other researchers and practitioners
+      height: 20%
+      color: "#AD2F8C"
+    - title: 40+ <br>speakers
+      content: attend a showcase of cutting-edge research and applied AI
+      height: 30%
+      color: "#26AE60"
+    - title: 4+ <br>tutorials
+      content: receive a practical introduction to machine learning for beginners
+      height: 40%
+      color: "#003366"
+    - title: 50+ <br>posters
+      content: share your work and get feedback from experts
+      height: 30%
+      color: "#26AE60"
+    - title: 2+ <br>hackathon problems
+      content: get your hands dirty and learn from the best
+      height: 15%
+      color: "#F5A623"
 sponsors:
   enable: false
   link: partners
@@ -66,6 +67,6 @@ schedule:
   link: "/schedule"
 news:
   enable: true
-  title: ''
+  title: ""
 experience:
   enable: true
