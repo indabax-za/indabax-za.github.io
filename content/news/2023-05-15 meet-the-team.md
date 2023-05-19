@@ -133,6 +133,11 @@ people:
     affiliation: InstaDeep
     image: "/images/people/tilbury.jpg"
     link: https://www.linkedin.com/in/callumtilbury/
+  - name: Tharien Potgieter
+    position: Local organiser
+    affiliation: Centre for AI Research, University of Cape Town
+    image: https://sit.uct.ac.za/sites/default/files/styles/square_med/public/contacts/tharien.jpg?h=926b3aec&itok=P29LBQ9a
+    link: https://www.cair.org.za/user/57
 ---
 
 <!--more-->
