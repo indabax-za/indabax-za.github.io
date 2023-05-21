@@ -19,21 +19,20 @@ As much as we want everyone to join us, there is limited space available so we c
 
 > **Note:** we will have videographers and photographers at the event 📷, smiles encouraged 😃.
 
-<!-- ### {{<icon "ti-calendar">}}  Important dates {.project-meta} -->
+### {{<icon "ti-calendar">}}  Important dates {.project-meta}
 
-<!-- 
-| Date | Event |
-| :--- | :--- |
-| 2022-09-26 📜 | Abstract submissions open |
-| 2022-09-26 📝 | Applications for free attendance (e.g. for students) open |
-| 2022-10-04 🎗 | 1st wave of paid registrations (e.g. for academics) open |
-| 2022-11-04 👻 | Abstract submissions close |
-| 2022-11-04 👻 | Applications for free attendance close |
-| 2022-11-21 📢 | Notification of application acceptance |
-| 2022-11-25 ☑️ | RSVP to secure spot (acceptance +4 days) |
-| 2022-11-30 🎤 | Notification of abstract acceptance |
-| 2022-11-30 🛑 | Final wave of paid registrations close | 
--->
+| Date         | Event                                                     |
+| :----------- | :-------------------------------------------------------- |
+| 2023-05-22 📜 | Abstract submissions open                                 |
+| 2023-05-22 📝 | Applications for free attendance (e.g. for students) open |
+| 2023-05-26 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
+| 2023-06-09 👻 | Abstract submissions close                                |
+| 2023-06-09 👻 | Applications for free attendance close                    |
+| 2023-06-16 📢 | Notification of application acceptance                    |
+| 2023-06-16 🎤 | Notification of abstract acceptance                       |
+| 2023-06-23 ☑️ | RSVP to secure spot (acceptance +4 days)                  |
+| 2023-07-07 🛑 | Final wave of paid registrations close                    |
+
 
 > [**Travel grants**](/register/travel-grants) must be applied for _during the application process_. See [Travel grants](/register/travel-grants) for more info.
 
@@ -46,13 +45,13 @@ Email: [sponsors@indabax.co.za](mailto:sponsors@indabax.co.za)
 
 ### {{<icon "ti-microphone">}}  Talks and Posters {.project-meta}
 
-We have some slots available for submitted talks 🎤 , posters 🖼️ , and leading an unconference conversation.
+We have some slots available for submitted talks 🎤 , posters 🖼️ .
 
 More information will be available closer to the time.
 
-<!-- **For 2022, we are currently only considering in-person presentations** -->
+**We are currently only considering in-person presentations**
 
-<!-- More information can be found on the [abstract details page](/register/abstract) -->
+More information can be found on the [abstract details page](/register/abstract)
 
 ### {{<icon "ti-check-box">}}  Goals {.project-meta}
 

@@ -11,6 +11,9 @@ banner:
       # - title: Schedule
       #   URL: "/schedule"
       #   color: "#C9492C"
+      - title: Register now
+        URL: "/register"
+        color: "#228EE3"
       - title: Donate
         URL: "/partners"
         color: "#B91111"
@@ -50,12 +53,12 @@ school:
       height: 15%
       color: "#F5A623"
 sponsors:
-  enable: false
+  enable: true
   link: partners
   link_text: view all
 faculty:
-  enable: false
-  title: Invited speakers
+  enable: true
+  title: Speakers
   show_all: true
   show_track: true
   slider: true

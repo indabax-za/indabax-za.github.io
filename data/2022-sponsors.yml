@@ -14,7 +14,7 @@ sponsors:
     image: images/partners/UP.png
     link: https://www.up.ac.za/
     background_color: ''
-    current: false
+    current: true
 - tier: African Elephant (R100 000+)
   size: 100
   item:
@@ -24,7 +24,6 @@ sponsors:
     current: true
     background_color: ''
 - tier: Black Rhino (R50 000)
-  item: []
   size: 100
   item:
   - name: NITheCS
@@ -35,12 +34,12 @@ sponsors:
   - name: IBM
     image: images/partners/research_ibm_com_labs_africa.png
     link: https://www.ibm.com/
-    current: false
+    current: true
     background_color: 'white'
   - name: Google
     image: images/partners/google.png
     link: https://www.google.com/
-    current: false
+    current: true
     background_color: ''
 - tier: White Rhino (Poster session)
   size: 100
@@ -61,12 +60,12 @@ sponsors:
   - name: Chisl
     image: images/partners/chisl.png
     link: https://www.chislgroup.com/
-    current: false
+    current: true
     background_color: ''
   - name: "DNS.Business"
     image: images/partners/dns_business_f.png
     link: https://dns.net.za/
-    current: false
+    current: true
     background_color: ''
 - tier: Cape Buffalo (R25 000)
   size: 100
@@ -74,7 +73,7 @@ sponsors:
   - name: Alis Exchange
     image: images/partners/alisx.png
     link: https://www.alisx.com
-    current: false
+    current: true
     background_color: ''
   - name: CHPC
     image: images/partners/nicis-chpc.png
@@ -84,7 +83,7 @@ sponsors:
   - name: Data Science for Social Impact
     image: https://dsfsi.github.io/images/logo_transparent_small.png
     link: https://dsfsi.github.io
-    current: false
+    current: true
     background_color: ''
   - name: InstaDeep
     image: images/partners/instadeep.png
@@ -94,17 +93,17 @@ sponsors:
   - name: EPI-USE
     image: images/partners/epi-use.png
     link: https://epiuse.ai
-    current: false
+    current: true
     background_color: ''
   - name: Lelapa AI
     image: images/partners/lelapa-ai.png
     link: https://lelapa.ai/
-    current: false
+    current: true
     background_color: ''
   - name: Ashanti AI
     image: images/partners/ashanti_ai.png
     link: https://www.ashanti.ai
-    current: false
+    current: true
     background_color: ''
 - tier: Lion (R15 000)
   size: 60
@@ -144,11 +143,11 @@ sponsors:
     image: images/partners/UP.png
     link: https://www.up.ac.za/
     background_color: ''
-    current: true
+    current: false
   - name: University College London
     image: images/partners/UCL.png
     link: https://www.ucl.ac.uk
-    current: false
+    current: true
     background_color: ''
   - name: University of KwaZulu-Natal
     image: images/partners/UKZN.png

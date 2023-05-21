@@ -5,7 +5,7 @@ description = "Register now"
 image = "https://images.unsplash.com/photo-1655635131711-f52f3fd15328?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80"
 opacity = 80
 min_header_height = "30em"
-type = "apply"
+type = "hidden"
 summary = "We welcome students, academics, and industry professionals to attend the Deep Learning Indaba𝕏 South Africa - one of South Africa's premier Machine Learning gatherings and community-building spaces 🤝."
 [menu.main]
 parent = "register"

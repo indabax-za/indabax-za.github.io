@@ -14,7 +14,8 @@ parent = "archive"
 weight = "4"
 [scheduleargs]
 collapsed = true
-schedule = "schedule2022"
+schedule = "2022-schedule"
+faculty = "2022-faculty"
 [[people.item]]
 name = "Anna Bosman"
 position = "Local organiser | Director"
@@ -156,5 +157,11 @@ get your hands dirty and learn from the best
 
 --- 
 
+
 ## {{<icon "ti-user">}} Organising committee
 {{< people >}}
+
+
+## {{<icon "ti-money">}} Sponsors
+
+{{< partial "sponsors" "2022-sponsors">}}
