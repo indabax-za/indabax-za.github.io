@@ -1,6 +1,6 @@
 ---
 link: "/register"
-info_link_label: Registation info
+info_link_label: Registration info
 applications:
   # - heading: "Registrations and Applications  \n\U0001F52D \U0001F6E0 \U0001F393"
   #   label: Register
@@ -110,7 +110,7 @@ faq:
         a good cause (we're a non-profit by the way!), \n consider [**supporting us**](/partners)
         as the packages come with awesome perks!"
       icon: ""
-    - question: How do I imporve my application?
+    - question: How do I improve my application?
       icon: ti-angle-double-up
       answer: |-
         Here are some tips to strengthen your next application

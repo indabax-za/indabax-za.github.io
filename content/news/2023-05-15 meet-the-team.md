@@ -112,7 +112,8 @@ people:
   - name: Nilesh Jain
     position: Marketing & Communications
     affiliation: Unversity of Witwatersrand
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/jain.jpg"
+    link: https://www.linkedin.com/in/nilesharnaiya/
   - name: Matimba Shingange
     position: Logistics, Marketing & Communications
     affiliation: MTN

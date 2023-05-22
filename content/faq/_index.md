@@ -10,9 +10,8 @@ min_header_height: 40em
 
 #### {{<icon "ti-pin">}} &nbsp; **Where is the IndabaX exactly?** {.faq-item}
 
-Exact venues will be announced closer to the date.
-
-see also [ABOUT](/about)
+The 6th edition of IndabaX will take place at the University of Cape Town in South Africa.
+For more information, see also [ABOUT](/about)
 
 #### {{<icon "ti-car">}} &nbsp; **How do I get to the venue from Cape Town International Airport?** {.faq-item}
 
