@@ -2,7 +2,7 @@
 title: Partners
 show_names: false
 sponsors:
-- tier: Supporters
+- tier: 🙌 Supporters
   size: 100
   item:
   - name: Deep Learning Indaba
@@ -15,7 +15,7 @@ sponsors:
     link: https://www.up.ac.za/
     background_color: ''
     current: false
-- tier: African Elephant (R100 000+)
+- tier: 🐘 African Elephant (R100 000+)
   size: 100
   item:
   - name: DST-NRF Centre of Excellence in Mathematical and Statisical Sciences (CoE-MaSS)
@@ -23,8 +23,7 @@ sponsors:
     link: https://www.wits.ac.za/coe-mass/
     current: true
     background_color: ''
-- tier: Black Rhino (R50 000)
-  item: []
+- tier: 🦏 Black Rhino (R50 000)
   size: 100
   item:
   - name: NITheCS
@@ -42,7 +41,7 @@ sponsors:
     link: https://www.google.com/
     current: false
     background_color: ''
-- tier: White Rhino (Poster session)
+- tier: 🖼️ White Rhino (Poster session)
   size: 100
   item: 
   - name: AI Expo Africa
@@ -50,7 +49,7 @@ sponsors:
     link: https://aiexpoafrica.com/
     current: true
     background_color: ''
-- tier: Leopard (Hackathon)
+- tier: 🐆 Leopard (Hackathon)
   size: 80
   item:
   - name: Zindi
@@ -68,7 +67,7 @@ sponsors:
     link: https://dns.net.za/
     current: false
     background_color: ''
-- tier: Cape Buffalo (R25 000)
+- tier: 🐃 Cape Buffalo (R25 000)
   size: 100
   item:
   - name: Alis Exchange
@@ -106,10 +105,15 @@ sponsors:
     link: https://www.ashanti.ai
     current: false
     background_color: ''
-- tier: Lion (R15 000)
+- tier: 🦁 Lion (R15 000)
   size: 60
-  item: []
-- tier: Community
+  item: 
+    - name: Support us
+      image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+      link: "mailto: sponsors@indabax.co.za"
+      current: true
+      background_color: ''
+- tier: 🧤 Community
   size: 100
   item:
   - name: Sisonke Biotik
@@ -122,7 +126,7 @@ sponsors:
     link: https://www.masakhane.io
     current: true
     background_color: ''
-- tier: Affiliated institutions
+- tier: 🏛 Affiliated institutions
   size: 60
   item:
   - name: AIMS
@@ -160,3 +164,29 @@ sponsors:
     current: true
     image: "/images/partners/ISTA.png"
     background_color: ''
+  - name: Tshwane University of Technology
+    image: images/partners/TUT.png
+    link: https://www.tut.ac.za
+    current: true
+    background_color: ''
+  # - name: CHISL
+  #   image: images/partners/chisl.png
+  #   link: https://www.chislgroup.com/
+  #   current: true
+  #   background_color: ''
+  - name: CSIR
+    image: https://www.csir.co.za/sites/all/themes/csir/logo.png
+    link: https://www.csir.co.za/
+    current: true
+    background_color: ''
+  - name: Durban University of Technology 
+    image: images/partners/DUT.png
+    link: https://www.dut.ac.za/
+    current: true
+    background_color: ''
+  - name: Centre for AI Research
+    image: images/partners/cair.svg
+    link: https://cair.org.za/
+    current: true
+    background_color: ''
+

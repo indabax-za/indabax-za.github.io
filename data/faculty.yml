@@ -23,6 +23,29 @@ people:
         link: https://www.up.ac.za/mechanical-and-aeronautical-engineering/article/48434/staff-directory
         title: Website
     talk_description: ""
-    topic: Gradient-only optimization perspectives on adaptive learning rates
+    # topic: Gradient-only optimization perspectives on adaptive learning rates
     years:
       - Research
+  - name: Aurona Gerber
+    affiliation: University of the Western Cape
+    link: https://cs.uwc.ac.za/prof-a-gerber/
+    years:
+      - Research
+  - name: Deshen Moodley
+    affiliation: Centre for AI Research, University of Cape Town
+    link: http://www.cs.uct.ac.za/~deshen
+    image: "/images/people/dmoodley.jpg"
+    years:
+      - Research
+  - name: More incoming
+    affiliation: from across South Africa!
+    link: "https://forms.gle/tfoCVrDGFK7wjmmw8"
+    image: "/images/people/placeholder.jpg"
+    years:
+      - Keynote
+      - Research
+      - Applied ML & Industry
+      - Foundations
+      - Tutorials
+      - Workshops
+      

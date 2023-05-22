@@ -1,6 +1,8 @@
 ---
 banner:
   title: "Deep Learning Indaba\U0001D54F <br> <em>South Africa</em>"
+  logo: "/images/indabax2023-no-text.png"
+  logo_size: 200rem
   min_header_height: 0vh
   opacity: 60
   show_date: true
@@ -73,3 +75,7 @@ news:
   title: ""
 experience:
   enable: true
+testimonials:
+  enable: true
+  title: "What people say about the Indaba\U0001D54F"
+
