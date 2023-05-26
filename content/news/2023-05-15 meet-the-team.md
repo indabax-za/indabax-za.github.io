@@ -101,8 +101,7 @@ people:
   - name: Nomonde Khalo
     position: Local organiser, Marketing & Communications
     affiliation: IBM
-    # image: "/images/people/khalo.jpg"
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/khalo.jpg"
     link: https://www.linkedin.com/in/nomonde-katlego-khalo-4a6a40256/
   - name: Yeshalen Naicker
     position: Marketing & Communications
