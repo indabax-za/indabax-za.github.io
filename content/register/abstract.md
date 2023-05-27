@@ -12,17 +12,15 @@ parent = "register"
 weight = 2
 
 +++
-We welcome submitted talks 🎤 , posters 🖼️ , and leaders of an unconference conversation.
+We welcome submitted talks 🎤 and posters 🖼️ !
 
-Abstract submissions are **closed** but will be **opening soon**.
+Abstract submissions are **open** but will be **closing** on **16th June**.
 
 <!--more-->
 
 <!-- [Submit abstract](link){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1} -->
 
 ### Submit abstract{.disabled .btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
-
-> "What is an Unconference?": https://en.wikipedia.org/wiki/Unconference
 
 ## Talks and Posters
 
@@ -37,6 +35,12 @@ Abstract submissions are **closed** but will be **opening soon**.
 We welcome submissions for flash talks (\~ 5 min), short talks (\~25 min), and long talks (\~40 min). If your abstract is accepted, we will communicate with you what length format works best, considering your submitted preferences and our requirements.
 
 #### Posters
+
+Posters are a great way to learn, share, and get feedback on your work in a helpful and friendly environment.
+The project does not have to be "done", in fact, it's probably more beneficial that your poster is on a work-in-progress project for something that you would like expert advice on.
+For posters, we also welcome submissions on a topic or interest that you are passionate about but may not have results on.
+
+Take the opportunity. You can also win prizes 🏆!
 
 Please view this video for an example on how to improve your poster design [https://www.youtube.com/watch?v=1RwJbhkCA58](https://www.youtube.com/watch?v=1RwJbhkCA58 "https://www.youtube.com/watch?v=1RwJbhkCA58") \[adjust the template to your own needs!\]
 
