@@ -18,9 +18,9 @@ Abstract submissions are **open** but will be **closing** on **16th June**.
 
 <!--more-->
 
-<!-- [Submit abstract](link){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1} -->
+[Submit abstract](https://forms.gle/3547q2cx12qWtCiJ6){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
 
-### Submit abstract{.disabled .btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
+<!-- ### Submit abstract{.disabled .btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1} -->
 
 ## Talks and Posters
 
