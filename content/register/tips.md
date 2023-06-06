@@ -5,7 +5,7 @@ image = "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?ixlib=rb-4
 layout = "wide"
 min_header_height = "30em"
 opacity = 80
-title = "Tips for a successful application"
+title = "Tips for a successful application  💡"
 summary = "Demonstrate your willingness to engage with others: Conferences are a great opportunity to network and learn from others in your field. "
 [menu.main]
 parent = "register"
