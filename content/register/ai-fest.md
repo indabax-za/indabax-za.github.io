@@ -32,10 +32,10 @@ We cordially invite **researchers**, **industry professionals**, and **students*
 
 ## 📝 How to Register 
 
-Interested in attending AI Fest 2023? Please [Register Here](https://docs.google.com/forms/d/e/1FAIpQLScHALZEnqOsb5UH7rGcd8iNuykJPhyHsV7PYA9mahENN8k4yg/viewform)!
+Interested in attending AI Fest 2023 on **12th July** at UCT? Please [Register Here](https://forms.gle/gesnTxRnwQSPLL8Z9)!
 
-<!-- below button is not clickable throughout -->
-## [AI Fest Registration](https://docs.google.com/forms/d/e/1FAIpQLScHALZEnqOsb5UH7rGcd8iNuykJPhyHsV7PYA9mahENN8k4yg/viewform){.btn .btn-success .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
+<!-- below button is not clickable throughout same with abstract-->
+## [AI Fest Registration](https://forms.gle/gesnTxRnwQSPLL8Z9){.btn .btn-success .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
 
 
 ## 🎉 Event Highlights
@@ -44,9 +44,9 @@ Interested in attending AI Fest 2023? Please [Register Here](https://docs.google
 
 - **Company Exhibitions:** Companies are encouraged to exhibit their state-of-the-art ML projects and achievements.
 
-- **Research Showcases:** Labs and research groups can showcase their cutting-edge work in the field.
+- **Research Showcases:** We invite innovative labs and research groups to showcase their cutting-edge work in the field.
 
-**Bonus:** Stand a chance to win exciting prizes 🏆 with your innovative projects!
+**Student Bonus:** Stand a chance to win exciting prizes 🏆 with your innovative projects! (Only for Students)
 
 ## 🏛️ Venue
 
@@ -56,6 +56,7 @@ Join us at **Indaba𝕏 AI Fest**, hosted at **UCT**, for an unforgettable exper
 
 **Deadline to confirm participation: 30 June ⏳**
 
+**Event Date : 12 July**
 
 ## 🚀 Logistics
 
