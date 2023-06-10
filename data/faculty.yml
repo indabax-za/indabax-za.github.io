@@ -26,17 +26,110 @@ people:
     # topic: Gradient-only optimization perspectives on adaptive learning rates
     years:
       - Research
-  - name: Aurona Gerber
-    affiliation: University of the Western Cape
-    link: https://cs.uwc.ac.za/prof-a-gerber/
+
+  - name: Matthew Baas
+    affiliation: Stellenbosch University
+    bio: "Matthew is an Electronic Engineering PhD student in the Stellenbosch University MediaLab under Herman Kamper. His research focus is on speech synthesis and generative speech models."
+    link: modal
+    # link: https://rf5.github.io/publications
+    social_media:
+    - icon: ""
+      link: https://rf5.github.io/publications
+      title: Website
+    - icon: ""
+      link: https://github.com/RF5
+      title: Github
+    - icon: ""
+      link: https://twitter.com/matthew_baas
+      title: Twitter
+    - icon: ""
+      link: https://www.linkedin.com/in/matthew-baas/
+      title: LinkedIn
+      
+    image: "/images/people/matthew_baas.jpg"
     years:
-      - Research
-  - name: Deshen Moodley
-    affiliation: Centre for AI Research, University of Cape Town
-    link: http://www.cs.uct.ac.za/~deshen
-    image: "/images/people/dmoodley.jpg"
+      - 2023
+  - name: Ritesh Kanjee
+    affiliation: Augmented Startups(Director) -| Advisory Board Member SAAIA
+    bio: "Ritesh Kanjee is a seasoned AI entrepreneur, recognized educator, and the Founder of Augmented Startups, a leading platform for AI and Computer Vision learning."
+    link: modal
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/riteshkanjee/"
+      title: LinkedIn
+    image: "/images/people/ritesh_kanjee.png"
     years:
-      - Research
+      - 2023
+  - name: Asad Jeewa
+    affiliation: University of KwaZulu-Natal
+    bio: "Asad Jeewa is a lecturer of Computer Science in the School of Mathematics, Statistics and Computer Science at the University of KwaZulu-Natal. He previously served as a researcher at InstaDeep and IBM Research Labs. He is currently pursuing a PhD at UKZN in Reinforcement Learning. Asad holds industry certifications in Software Development and Deep Learning. He supervises MSc and Honours students and reviews for international conferences."
+    link: modal
+    image: "/images/people/asad_jeewa.jpg"
+    years:
+      - 2023
+  - name: Emma Ruttkamp-Bloem
+    affiliation: University of Pretoria and South African Centre for AI Research
+    bio: "Professor Emma Ruttkamp-Bloem is a philosopher of science and technology, an AI ethics policy adviser and a machine ethics researcher."
+    link: modal
+    social_media:
+    - icon: ""
+      link: "https://twitter.com/emmar_bloem?lang=en"
+      title: Twitter
+    - icon: ""
+      link: "https://www.linkedin.com/in/emma-ruttkamp-bloem-19400248/"
+      title: LinkedIn
+    image: "/images/people/emma_ruttkamp.jpeg"
+    years:
+      - 2023
+  - name: Kevin Eloff
+    affiliation: InstaDeep
+    bio: "MEng graduate from Stellenbosch Univeristy, with a thesis focused on combining speech processing and multi-agent reinforcement learning. Currently working at InstaDeep as a BioAI research engineer."
+    link: modal
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/kevin-eloff-a74943157/"
+      title: LinkedIn
+    - icon: ""
+      link: "https://github.com/KevinEloff"
+      title: Github
+    image: "/images/people/kevin_eloff.png"
+    years:
+      - 2023
+  - name: Leanne Nortje
+    affiliation: Stellenbosch University
+    bio: "I am currently a DeepMind scholar and a PhD student in Electrical and Electronic Engineering at Stellenbosch University. My thesis investigates the usage of vision as a form of transcribing speech in a low-resource language. With this research we hope to also get some cognitive insights as to how children learn."
+    link: modal
+    image: "/images/people/leanne_nortje.jpg"
+    years:
+      - 2023
+  - name: Cassandra Durr
+    affiliation: Stellenbosch University
+    link: modal
+    bio: "I am a Master's student at Stellenbosch University pursuing a degree in Machine Learning and Computer Vision under Dr Willie Brink."
+    social_media:
+    - icon: ""
+      link: "https://twitter.com/cassiedurr"
+      title: Twitter
+    - icon: ""
+      link: "https://www.linkedin.com/in/cassandra-durr-0b87b1124/"
+      title: LinkedIn
+    image: "/images/people/cassandra_wood.jpg"
+    years:
+      - 2023
+
+
+  # - name: Aurona Gerber
+  #   affiliation: University of the Western Cape
+  #   link: https://cs.uwc.ac.za/prof-a-gerber/
+  #   years:
+  #     - Research
+  # - name: Deshen Moodley
+  #   affiliation: Centre for AI Research, University of Cape Town
+  #   link: http://www.cs.uct.ac.za/~deshen
+  #   image: "/images/people/dmoodley.jpg"
+  #   years:
+  #     - Research
+  
   - name: More incoming
     affiliation: from across South Africa!
     link: "https://forms.gle/tfoCVrDGFK7wjmmw8"
