@@ -26,7 +26,7 @@ As much as we want everyone to join us, there is limited space available so we c
 | 2023-05-22 📝 | Applications for free attendance (e.g. for students) open |
 | 2023-05-26 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
 | 2023-05-26 📜 | Abstract submissions open                                 |
-| 2023-06-09 🛑 | Applications for free attendance close                    |
+| 2023-06-12 🛑 | Applications for free attendance close                    |
 | 2023-06-16 📢 | Notification of application acceptance                    |
 | 2023-06-16 🟠 | Abstract submissions close                                |
 | 2023-06-23 ☑️ | RSVP to secure spot for applicants (acceptance +4 days)    |

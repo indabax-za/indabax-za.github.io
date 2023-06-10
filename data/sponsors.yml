@@ -57,6 +57,12 @@ sponsors:
     link: https://zindi.africa/
     current: true
     background_color: ''
+  - name: Fruitpunch AI
+    image: images/partners/fruitpunch.svg
+    link: https://www.fruitpunch.ai
+    current: true
+    background_color: '#333'
+
   - name: Chisl
     image: images/partners/chisl.png
     link: https://www.chislgroup.com/
