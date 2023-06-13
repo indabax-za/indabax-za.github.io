@@ -43,7 +43,7 @@ applications:
     color: "#5AA136"
     open_date: May 2023
     close_date: 2023-06-12T22:00:00.000+02:00
-    acceptance_date: 16th June (approx.)
+    acceptance_date: 19th June (approx.)
   - heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
     label: Submit abstract
     col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)    open: false
