@@ -37,8 +37,8 @@ applications:
     acceptance_date: upon payment
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Apply to attend for free
-    open: true
-    closed_message: Opening soon!
+    open: false
+    closed_message: Closed!
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
     open_date: May 2023
