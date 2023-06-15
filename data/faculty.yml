@@ -26,6 +26,7 @@ people:
     # topic: Gradient-only optimization perspectives on adaptive learning rates
     years:
       - Research
+      - Applied ML & Industry
 
   - name: Matthew Baas
     affiliation: Stellenbosch University
@@ -45,10 +46,13 @@ people:
     - icon: ""
       link: https://www.linkedin.com/in/matthew-baas/
       title: LinkedIn
-      
     image: "/images/people/matthew_baas.jpg"
     years:
       - 2023
+      - Research
+      - Applied ML & Industry
+
+
   - name: Ritesh Kanjee
     affiliation: Augmented Startups(Director) -| Advisory Board Member SAAIA
     bio: "Ritesh Kanjee is a seasoned AI entrepreneur, recognized educator, and the Founder of Augmented Startups, a leading platform for AI and Computer Vision learning."
@@ -60,6 +64,9 @@ people:
     image: "/images/people/ritesh_kanjee.png"
     years:
       - 2023
+      - Workshops
+      - Tutorials
+
   - name: Asad Jeewa
     affiliation: University of KwaZulu-Natal
     bio: "Asad Jeewa is a lecturer of Computer Science in the School of Mathematics, Statistics and Computer Science at the University of KwaZulu-Natal. He previously served as a researcher at InstaDeep and IBM Research Labs. He is currently pursuing a PhD at UKZN in Reinforcement Learning. Asad holds industry certifications in Software Development and Deep Learning. He supervises MSc and Honours students and reviews for international conferences."
@@ -67,6 +74,9 @@ people:
     image: "/images/people/asad_jeewa.jpg"
     years:
       - 2023
+      - Foundations
+      - Tutorials
+
   - name: Emma Ruttkamp-Bloem
     affiliation: University of Pretoria and South African Centre for AI Research
     bio: "Professor Emma Ruttkamp-Bloem is a philosopher of science and technology, an AI ethics policy adviser and a machine ethics researcher."
@@ -81,6 +91,8 @@ people:
     image: "/images/people/emma_ruttkamp.jpeg"
     years:
       - 2023
+      - Applied ML & Industry
+
   - name: Kevin Eloff
     affiliation: InstaDeep
     bio: "MEng graduate from Stellenbosch Univeristy, with a thesis focused on combining speech processing and multi-agent reinforcement learning. Currently working at InstaDeep as a BioAI research engineer."
@@ -95,6 +107,9 @@ people:
     image: "/images/people/kevin_eloff.png"
     years:
       - 2023
+      - Foundations
+      - Research
+      
   - name: Leanne Nortje
     affiliation: Stellenbosch University
     bio: "I am currently a DeepMind scholar and a PhD student in Electrical and Electronic Engineering at Stellenbosch University. My thesis investigates the usage of vision as a form of transcribing speech in a low-resource language. With this research we hope to also get some cognitive insights as to how children learn."
@@ -102,6 +117,8 @@ people:
     image: "/images/people/leanne_nortje.jpg"
     years:
       - 2023
+      - Research
+
   - name: Cassandra Durr
     affiliation: Stellenbosch University
     link: modal
@@ -116,7 +133,68 @@ people:
     image: "/images/people/cassandra_wood.jpg"
     years:
       - 2023
+      - Foundations
+      - Research
 
+
+  - name: Ruan van der Merwe
+    affiliation: ByteFuse
+    link: modal
+    bio: "I am co-founder and technical lead at ByteFuse, and I have an unhealthy obsession with cats and llamas."
+    social_media:
+    - icon: ""
+      link: "https://github.com/ruanvdmerwe"
+      title: Github
+    - icon: ""
+      link: "https://www.linkedin.com/in/ruan-van-der-merwe-b87a08111/"
+      title: LinkedIn
+    - icon: ""
+      link: "https://twitter.com/ruanvdmerwe1"
+      title: Twitter
+    image: "/images/people/ruan_van_der_merwe.jpg"
+    years:
+      - 2023
+      - Workshops
+      - Research
+
+  - name: Alta de Waal
+    affiliation: BMW Group South Africa
+    link: modal
+    bio: "I am currently employed as a data scientist at the BMW Group South Africa. Before this, I was in academia in the Department of Statistics, University of Pretoria."
+   
+    image: "/images/people/placeholder.jpg" #waiting for image
+    years:
+      - 2023
+      - Applied ML & Industry
+
+  - name: Joseph Muthui Wacira
+    affiliation: Stellenbosch University and AIMS South Africa
+    link: modal
+    bio: "I am a research masters student at Stellenbosch University (Deep-mind Scholar) in the department of applied mathematics. I hold a masters in mathematical sciences from the University of the Western Cape. I did a BsC in Mathematics and Computer science in Kenyatta university, Kenya. My interests rests at the intersection of mathematics and computer science. I love working towards solving a real life problems such as in solar energy generation efficiency."
+    social_media:
+    - icon: ""
+      link: "https://linkedin.com/in/joseph-muthui-38134a118"
+      title: LinkedIn
+    image: "/images/people/joseph.jpeg"
+    years:
+      - 2023
+      - Applied ML & Industry
+
+  - name: Herman Kamper
+    affiliation: Stellenbosch University
+    link: modal
+    bio: "I am an Associate Professor in E&E Engineering at Stellenbosch University. Before this, I did a postdoc at TTI-Chicago. I obtained my PhD in 2017 from the University of Edinburgh. I am a researcher in machine learning with a specific focus on speech processing. My goal is to develop methods that would allow machines to understand speech without explicit supervision. Through this, I hope to better our understanding of human language acquisition and what is going on in the speech signal itself."
+    social_media:
+    - icon: ""
+      link: "https://www.youtube.com/c/HermanKamperML"
+      title: Youtube
+    - icon: ""
+      link: "https://kamperh.com"
+      title: Website
+    image: "/images/people/herman.png"
+    years:
+      - 2023
+      - Research
 
   # - name: Aurona Gerber
   #   affiliation: University of the Western Cape
