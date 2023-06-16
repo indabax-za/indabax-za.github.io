@@ -162,7 +162,7 @@ people:
     link: modal
     bio: "I am currently employed as a data scientist at the BMW Group South Africa. Before this, I was in academia in the Department of Statistics, University of Pretoria."
    
-    image: "/images/people/placeholder.jpg" #waiting for image
+    image: "/images/people/alta.jpg" 
     years:
       - 2023
       - Applied ML & Industry
