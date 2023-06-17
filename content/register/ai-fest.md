@@ -7,6 +7,8 @@ opacity = 80
 title = "AI Fest 🖼️ "
 type = "apply"
 lastmod = 2023-05-22T00:00:00Z
+colWidth = 6
+colOffset = 3
 [menu.main]
 parent = "register"
 weight = 2
