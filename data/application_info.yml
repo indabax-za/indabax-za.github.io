@@ -46,9 +46,9 @@ applications:
     acceptance_date: 19th June (approx.)
   - heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
     label: Submit abstract
-    col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)    open: false
-    open: true
-    closed_message: Opening soon!
+    col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)
+    open: false
+    closed_message: Closed!
     URL: "https://forms.gle/3547q2cx12qWtCiJ6"
     color: orange
     open_date: May 2023
@@ -110,7 +110,7 @@ faq:
         a good cause (we're a non-profit by the way!), \n consider [**supporting us**](/partners)
         as the packages come with awesome perks!"
       icon: ""
-    - question: How do I improve my application?
+    - question: How do I imporve my application?
       icon: ti-angle-double-up
       answer: |-
         Here are some tips to strengthen your next application

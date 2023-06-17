@@ -1,7 +1,7 @@
 +++
 date = 2023-05-17T06:14:34Z
 description = "Submit abstract"
-image = "https://images.unsplash.com/photo-1655720845034-b8f615109b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80"
+image = "/images/backgrounds/ai-fest.jpg"
 min_header_height = "30em"
 opacity = 80
 title = "AI Fest 🖼️ "

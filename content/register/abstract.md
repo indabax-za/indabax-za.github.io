@@ -14,11 +14,15 @@ weight = 2
 +++
 We welcome submitted talks 🎤 and posters 🖼️ !
 
-Abstract submissions are **open** but will be **closing** on **16th June**.
+Abstract submissions are **closed**.
 
 <!--more-->
 
-### [Submit abstract](https://forms.gle/3547q2cx12qWtCiJ6){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1}
+{{<rawhtml>}}
+
+<a href="" class="disabled btn btn-warning btn-lg text-white col-4 offset-4 col-xs-10 offset-xs-1" target="_blank" title="apply now">Abstract submissions are <em>closed</em></a>
+{{</rawhtml>}}
+<!-- ### [Submit abstract](https://forms.gle/3547q2cx12qWtCiJ6){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1} -->
 
 <!-- ### Submit abstract{.disabled .btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1} -->
 
