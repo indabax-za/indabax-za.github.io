@@ -18,6 +18,18 @@ sponsors:
 - tier: 🐘 African Elephant (R100 000+)
   size: 100
   item:
+  - name: InstaDeep
+    image: images/partners/instadeep.png
+    link: https://instadeep.com/
+    current: true
+    background_color: ''
+
+  - name: NITheCS
+    image: images/partners/nithecs.png
+    link: https://nithecs.ac.za/
+    current: true
+    background_color: ''
+
   - name: DST-NRF Centre of Excellence in Mathematical and Statisical Sciences (CoE-MaSS)
     image: images/partners/coe-mass.png
     link: https://www.wits.ac.za/coe-mass/
@@ -26,11 +38,7 @@ sponsors:
 - tier: 🦏 Black Rhino (R50 000)
   size: 100
   item:
-  - name: NITheCS
-    image: images/partners/nithecs.png
-    link: https://nithecs.ac.za/
-    current: true
-    background_color: ''
+ 
   - name: IBM
     image: images/partners/research_ibm_com_labs_africa.png
     link: https://www.ibm.com/
@@ -62,6 +70,11 @@ sponsors:
     link: https://www.fruitpunch.ai
     current: true
     background_color: '#333'
+  - name: Butler's Pizza
+    image: images/partners/butlers_logo.jpg
+    link: https://www.butlers.co.za/
+    current: true
+    background_color: '' 
 
   - name: Chisl
     image: images/partners/chisl.png
@@ -91,11 +104,7 @@ sponsors:
     link: https://dsfsi.github.io
     current: false
     background_color: ''
-  - name: InstaDeep
-    image: images/partners/instadeep.png
-    link: https://instadeep.com/
-    current: false
-    background_color: ''
+
   - name: EPI-USE
     image: images/partners/epi-use.png
     link: https://epiuse.ai

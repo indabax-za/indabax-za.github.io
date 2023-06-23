@@ -72,6 +72,10 @@ people:
     bio: "Asad Jeewa is a lecturer of Computer Science in the School of Mathematics, Statistics and Computer Science at the University of KwaZulu-Natal. He previously served as a researcher at InstaDeep and IBM Research Labs. He is currently pursuing a PhD at UKZN in Reinforcement Learning. Asad holds industry certifications in Software Development and Deep Learning. He supervises MSc and Honours students and reviews for international conferences."
     link: modal
     image: "/images/people/asad_jeewa.jpg"
+    social_media:
+    - icon: ""
+      link: "https://za.linkedin.com/in/asadjeewa"
+      title: LinkedIn
     years:
       - 2023
       - Foundations
@@ -196,11 +200,170 @@ people:
       - 2023
       - Research
 
-  # - name: Aurona Gerber
-  #   affiliation: University of the Western Cape
-  #   link: https://cs.uwc.ac.za/prof-a-gerber/
-  #   years:
-  #     - Research
+  - name: Sasha Abramowitz 
+    affiliation: Instadeep
+    link: modal
+    bio: "Sasha is an MSc graduate from UCT, with a thesis focused on evolutionary methods for reinforcement learning. He is currently a research engineer at InstaDeep on the multi-agent team."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/sasha-abramowitz-693761148/"
+      title: Linkedin
+    image: "/images/people/sasha.jpg"
+    years:
+      - 2023
+      - Applied ML & Industry
+
+  - name: Divanisha Patel
+    affiliation: Instadeep
+    link: modal
+    bio: "I am a PhD student at the RAIL Lab (University of the Witwatersrand) and an AI research engineer at InstaDeep. My PhD research focuses on model-based reinforcement learning - more specifically, I am looking at how models for intuitive physical reasoning tasks can be learned and then used within a reinforcement learning framework. My work at InstaDeep involves applying reinforcement learning to solve the combinatorial optimisation problem of 3D bin packing."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/divanisha-patel-47a663136/"
+      title: Linkedin
+    image: "/images/people/divanisha.jpeg"
+    years:
+      - 2023
+      - Applied ML & Industry
+  
+
+
+  - name: St John Grimbly
+    affiliation: University of Cape Town
+    link: modal
+    bio: "St John is incoming PhD candidate at The University of Cape Town, where his research focus is in the area of reinforcement learning and learning agents. His masters thesis investigated the causal methods in the context of reinforcement learning. This led to an interest in how causality can aid in helping solve various problems faced in adaptive learning methods. He also has an academic interest in neuro-plausible methods and multi-agent scenarios, with a strong interest in the emerging field of active inference."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/divanisha-patel-47a663136/"
+      title: Linkedin
+    image: "/images/people/john_grimley.jpg"
+    years:
+      - 2023
+      - Research
+  
+  - name: Mahmood-Ali Parker
+    affiliation: Sybrin 
+    link: modal
+    bio: "During his time completing a B.BusSci degree, specialising in Analytics at the University of Cape Town, Ali developed a keen interest in machine learning and a strong passion for NLP. Whilst working as a machine learning engineer at Sybrin, his role has encompassed a vast number of topics related to computer vision and NLP. However, his primary focus has been biometrics research and development. As an ambassador for DeepLearning.AI, he also hosts occasional community events to help further the AI scene in South Africa."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/parker-ali/"
+      title: Linkedin
+    image: "/images/people/mahmood_ali.png"
+    years:
+      - 2023
+      - Applied ML & Industry
+  
+
+  - name: Kshitij Thorat
+    affiliation: University of Pretoria 
+    link: modal
+    bio: "Kshitij Thorat is a radio astronomer and has worked as a senior lecturer at the University of Pretoria. He finished his doctoral work at the Indian Institute of Science in 2014, after which he has been based in South Africa. His research interests revolve around  extra-galactic radio sources: their life-cycles, morphology and their impact on their surroundings. With the advent of the Big Data paradigm in radio astronomy, Kshitij has focused on techniques to help process and analyse data better, including development of fully automated data reduction pipelines and machine learning techniques to classify radio galaxies."
+    social_media:
+    - icon: ""
+      link: "https://github.com/KshitijT"
+      title: Github
+    image: "/images/people/k_thorat.png"
+    years:
+      - 2023
+      - Research
+  
+
+  - name: Aurona Gerber
+    affiliation: University of the Western Cape
+    link: modal
+    bio: "Prof Aurona Gerber is an associate professor in the Department of Computer Science in the Natural Sciences faculty at the University of the Western Cape. She is also a group leader of the Centre for AI (CAIR) Research Group in Applied AI. She has published more than 70 accredited publications with co-authors in the key areas of her research that is in various aspects data science and AI, including disruption, ontology engineering, enterprise architecture, and design science research (DSR). She supervised more than 20 masters and doctoral students to completion of their degrees. She is a NRF C1 rated researcher. She is the current past president of SAICSIT, on the steering committee of AISSAC, the SA chapter of the Association of Information Systems (AIS) and SACAIR, the Southern African Conference for AI Research. She is also president of the AIS SIGODIS, the Special Interest Group in Intelligent IS Systems"
+    social_media:
+    - icon: ""
+      link: "https://za.linkedin.com/in/auronagerber"
+      title: Linkedin
+    image: "/images/people/gerber.jpg"
+    years:
+      - Research
+
+  - name: Chijioke Okorie
+    affiliation: University of Pretoria
+    link: modal
+    bio: "Chijioke Okorie founded and leads the Data Science Law Lab - a research group at the University of Pretoria's Centre for Intellectual Property Law that deploys research in law and produces independent and authoritative evidence and policy advice to support the growth of all aspects of data science research, development and application across Africa. 
+Before becoming a full time researcher and policy consultant, Dr Okorie was a Senior Associate in the law firm of CLP Legal, Lagos Nigeria. She is also the Lead Advisor at Penguide Advisory, a firm that provides research, educational, legal and regulatory advisory services in various fields including copyright and (emerging) technologies. At Penguide, she has the responsibility of leading research, training and legal advisory services for a range of clients including government and government agencies, companies and non-profit organisations, entrepreneurs within Nigeria, across Africa and internationally.
+Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law blog, The IPKat and an associate editor of the South African Intellectual Property Law Journal. More information about Dr Okorie can be found at www.chijiokeo.com"
+    social_media:
+    - icon: ""
+      link: "https://linkedin.com/in/penguide"
+      title: Linkedin
+    - icon: ""
+      link: "https://twitter.com/chythepenguide"
+      title: Twitter
+    image: "/images/people/chijiokeo.png"
+    years:
+       - Foundations
+       - Tutorials
+
+  - name: Jacobie Mouton
+    affiliation: Stellenbosch University
+    link: modal
+    bio: "MSc graduate from Stellenbosch University, with a thesis focused on the integration of graphical knowledge in the form of Bayesian Networks into deep learning models such as Normalizing Flows and Variational Autoencoders. Currently working at Capitec Bank as a machine learning engineer. "
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/jacobie-mouton-b98621189/"
+      title: Linkedin
+    image: "/images/people/jacobie.jpg"
+    years:
+       - Foundations
+       - Research
+      
+  - name: Dineo Makoro
+    affiliation: Vodacom Group
+    link: modal
+    bio: "Dineo is currently a Senior Data Scientist at Vodacom Group with an understanding of machine learning and its applications across diverse industries. Driven by her passion for making a positive impact, Dineo has worked in healthcare research, banking and telecoms, leveraging data-driven solutions to drive innovation and tackle complex problems. She's highly motivated by the prospect of transforming cutting-edge machine learning techniques into practical, scalable solutions that improve efficiency, decision-making and ultimately, the lives of the end-users."
+
+    image: "/images/people/placeholder.jpg"
+    years:
+       - Applied ML & Industry
+       
+  - name: Batsi Ziki
+    affiliation: InstaDeep and University of Cape Town
+    link: modal
+    bio: "Batsi Ziki is a research intern at InstaDeep and concurrently pursuing a Master of Science degree at the University of Cape Town, under the supervision of Professor Jonathan Shock. Batsi's current research interests revolve around Meta-Reinforcement Learning, a field that explores the development of intelligent agents capable of adapting to any new task with as little data as possible. Beyond his academic pursuits, Batsi enjoys immersing himself in the world of video games, indulging in captivating films, and taking walks."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/batsi-ziki-0b8117202"
+      title: Linkedin
+    - icon: ""
+      link: "https://github.com/Ziksby"
+      title: Github
+    image: "/images/people/batsi.jpg"
+    years:
+       - Research
+       - Applied ML & Industry
+
+  - name: Keegan White
+    affiliation: Founder, Taurine Technology
+    link: modal
+    bio: "Keegan White has a Masters in Computer Science for UCT. He is the founder of a start-up that focuses on integrating machine learning with computer networks through the software defined networking paradigm. He is also a director of iNethi, a non-profit that aims to empower local communities to create, maintain and expand Wireless Community Networks. His expertise lie in deep learning and computer networking."
+    social_media:
+    - icon: ""
+      link: "https://twitter.com/keeganwhitetech"
+      title: Twitter
+    - icon: ""
+      link: "https://github.com/keeganwhite"
+      title: Github
+    - icon: ""
+      link: "https://www.taurinetech.com/"
+      title: Website
+    image: "/images/people/keegan_taurine.jpg"
+    years:
+       - Research
+       - Applied ML & Industry
+
+      
+
+
+
+
+
+
+
   # - name: Deshen Moodley
   #   affiliation: Centre for AI Research, University of Cape Town
   #   link: http://www.cs.uct.ac.za/~deshen
@@ -208,15 +371,15 @@ people:
   #   years:
   #     - Research
   
-  - name: More incoming
-    affiliation: from across South Africa!
-    link: "https://forms.gle/tfoCVrDGFK7wjmmw8"
-    image: "/images/people/placeholder.jpg"
-    years:
-      - Keynote
-      - Research
-      - Applied ML & Industry
-      - Foundations
-      - Tutorials
-      - Workshops
+  # - name: More incoming
+  #   affiliation: from across South Africa!
+  #   link: "https://forms.gle/tfoCVrDGFK7wjmmw8"
+  #   image: "/images/people/placeholder.jpg"
+  #   years:
+  #     - Keynote
+  #     - Research
+  #     - Applied ML & Industry
+  #     - Foundations
+  #     - Tutorials
+  #     - Workshops
       
