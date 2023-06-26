@@ -75,7 +75,7 @@ link = "about/privacy-policy"
 name = "Privacy Policy"
 [params.map]
 enable = true
-map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13237.429633058704!2d18.4611991!3d-33.957652!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5d22b778b401%3A0x5f90e4dc19b5fa4e!2sUniversity%20of%20Cape%20Town!5e0!3m2!1sen!2sat!4v1678783221899!5m2!1sen!2sat\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"true loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1654.6781249936012!2d18.465638543505346!3d-33.95768177807187!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5d249dc548f1%3A0xdd4ce6366bd93fe8!2sWilfred%20and%20Jules%20Kramer%20Law%20Building!5e0!3m2!1sen!2sat!4v1687770042603!5m2!1sen!2sat\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"true loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]

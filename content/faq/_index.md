@@ -11,6 +11,9 @@ min_header_height: 40em
 #### {{<icon "ti-pin">}} &nbsp; **Where is the IndabaX exactly?** {.faq-item}
 
 The 6th edition of IndabaX will take place at the University of Cape Town in South Africa.
+
+We will be in the Kramer LT1-3 and the quad area of the [Kramer Building](https://www.google.com/maps/place/Wilfred+and+Jules+Kramer+Law+Building/@-33.957606,18.4651175,15z/data=!4m6!3m5!1s0x1dcc5d249dc548f1:0xdd4ce6366bd93fe8!8m2!3d-33.957606!4d18.4651175!16s%2Fg%2F11b6j867rd) on Middle Campus. 
+
 For more information, see also [ABOUT](/about)
 
 #### {{<icon "ti-car">}} &nbsp; **How do I get to the venue from Cape Town International Airport?** {.faq-item}
