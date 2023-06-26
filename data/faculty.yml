@@ -61,7 +61,7 @@ people:
     - icon: ""
       link: "https://www.linkedin.com/in/riteshkanjee/"
       title: LinkedIn
-    image: "/images/people/ritesh_kanjee.png"
+    image: "/images/people/ritesh_kanjee.jpg"
     years:
       - 2023
       - Workshops
@@ -155,7 +155,7 @@ people:
     - icon: ""
       link: "https://twitter.com/ruanvdmerwe1"
       title: Twitter
-    image: "/images/people/ruan_van_der_merwe.jpg"
+    image: "/images/people/vandermerwe.jpg"
     years:
       - 2023
       - Workshops
@@ -249,7 +249,7 @@ people:
     - icon: ""
       link: "https://www.linkedin.com/in/parker-ali/"
       title: Linkedin
-    image: "/images/people/mahmood_ali.png"
+    image: "/images/people/mahmood_ali.jpg"
     years:
       - 2023
       - Applied ML & Industry
@@ -263,7 +263,7 @@ people:
     - icon: ""
       link: "https://github.com/KshitijT"
       title: Github
-    image: "/images/people/k_thorat.png"
+    image: "/images/people/k_thorat.jpg"
     years:
       - 2023
       - Research
@@ -294,7 +294,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
     - icon: ""
       link: "https://twitter.com/chythepenguide"
       title: Twitter
-    image: "/images/people/chijiokeo.png"
+    image: "/images/people/chijiokeo.jpg"
     years:
        - Foundations
        - Tutorials

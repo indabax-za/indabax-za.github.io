@@ -23,13 +23,11 @@ sponsors:
     link: https://instadeep.com/
     current: true
     background_color: ''
-
   - name: NITheCS
     image: images/partners/nithecs.png
     link: https://nithecs.ac.za/
     current: true
     background_color: ''
-
   - name: DST-NRF Centre of Excellence in Mathematical and Statisical Sciences (CoE-MaSS)
     image: images/partners/coe-mass.png
     link: https://www.wits.ac.za/coe-mass/
@@ -38,11 +36,10 @@ sponsors:
 - tier: 🦏 Black Rhino (R50 000)
   size: 100
   item:
- 
   - name: IBM
     image: images/partners/research_ibm_com_labs_africa.png
     link: https://www.ibm.com/
-    current: false
+    current: true
     background_color: 'white'
   - name: Google
     image: images/partners/google.png
@@ -55,7 +52,7 @@ sponsors:
   - name: AI Expo Africa
     image: images/partners/ai_expo.png
     link: https://aiexpoafrica.com/
-    current: true
+    current: false
     background_color: ''
 - tier: 🐆 Leopard (Hackathon)
   size: 80
@@ -75,7 +72,6 @@ sponsors:
     link: https://www.butlers.co.za/
     current: true
     background_color: '' 
-
   - name: Chisl
     image: images/partners/chisl.png
     link: https://www.chislgroup.com/
@@ -86,6 +82,13 @@ sponsors:
     link: https://dns.net.za/
     current: false
     background_color: ''
+- tier: African Buffalo (AI Fest)
+  item:
+    - name: Lelapa AI
+      image: images/partners/lelapa-ai.png
+      link: https://lelapa.ai/
+      current: true
+      background_color: ''
 - tier: 🐃 Cape Buffalo (R25 000)
   size: 100
   item:
@@ -108,11 +111,6 @@ sponsors:
   - name: EPI-USE
     image: images/partners/epi-use.png
     link: https://epiuse.ai
-    current: false
-    background_color: ''
-  - name: Lelapa AI
-    image: images/partners/lelapa-ai.png
-    link: https://lelapa.ai/
     current: false
     background_color: ''
   - name: Ashanti AI
