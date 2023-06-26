@@ -6,11 +6,25 @@ image: https://images.unsplash.com/photo-1589950708355-bd07514f96b6?ixlib=rb-4.0
 min_header_height: 40em
 
 ---
-## {{<icon "ti-pin">}} Location {.project-meta}
 
-#### {{<icon "ti-pin">}} &nbsp; **Where is the IndabaX exactly?** {.faq-item}
+## Time
 
-The 6th edition of IndabaX will take place at the University of Cape Town in South Africa.
+#### {{<icon "fa-solid fa-plane">}} &nbsp; **When should I arrive/leave Cape Town for the Indaba𝕏?** {.faq-item}
+
+We suggest arriving the day before the Indaba𝕏 starts (i.e. the 11th July) and leaving the day after the Indaba𝕏 ends (i.e. the 15th of July).
+
+#### {{<icon "ti-bag">}} &nbsp; **How packed is the schedule?** {.faq-item}
+
+Very. We have an awesome selection of speakers and activities to fill up the time from ~8:30 am until 5pm and beyond each day. The evening activities are normally optional, but we highly recommend you attend them for the full experience. Remember to take time for yourself, and to explore Cape Town and surrounds.
+
+See more on the [schedule](/schedule) page (updated over time).
+
+
+## Location
+
+#### {{<icon "ti-pin">}} &nbsp; **Where is the Indaba𝕏 exactly?** {.faq-item}
+
+The 6th edition of Indaba𝕏 will take place at the University of Cape Town in South Africa.
 
 We will be in the Kramer LT1-3 and the quad area of the [Kramer Building](https://www.google.com/maps/place/Wilfred+and+Jules+Kramer+Law+Building/@-33.957606,18.4651175,15z/data=!4m6!3m5!1s0x1dcc5d249dc548f1:0xdd4ce6366bd93fe8!8m2!3d-33.957606!4d18.4651175!16s%2Fg%2F11b6j867rd) on Middle Campus. 
 
@@ -43,9 +57,9 @@ We know that your time is limited when attending a conference, but if you plan o
 - **Cape Winelands** are for wine tasting, and a trip here is one of the best ways to spend a day in Cape Town. Combine the delicious wines with some of the most beautiful landscapes on earth, century-old architecture, and awe-inspiring food, and it's no surprise that it's one of Cape Town's most beloved activities for visitors and locals alike. Find out more on the [Cape Winelands](https://www.sa-venues.com/attractionswc/capewinelands-attractions.htm) [](https://www.tablemountain.net/) website
 - **Cape Point** is the scenic outlook where rugged rocks and sheer cliffs tower more than 200 metres above the sea and cut deep into the ocean, providing a spectacular background for the park's rich biodiversity. Cape Point falls within the southern section of Table Mountain National Park. The natural vegetation of the areas – fynbos – comprises the smallest but most diverse of the world's six floral kingdoms. Find out more on the [Cape Point](https://capepoint.co.za/) ​​​​​website
 
-## {{<icon "ti-home">}} Accommodation {.project-meta}
+## Accommodation
 
-#### {{<icon "ti-pin">}} &nbsp; **Can I stay at UCT?** {.faq-item}
+#### {{<icon "ti-home">}} &nbsp; **Can I stay at UCT?** {.faq-item}
 
 The University regularly hosts visitors and has a variety of accommodation available on and off campus:
 
@@ -98,8 +112,7 @@ We cannot vouch for any of these accommodation options, but they should give a g
 
 
 
-## {{<icon "ti-link">}} Useful links {.project-meta}
-
+## Useful links
 
 - To access UCT locations and a route map of the UCT bus (called "Jammie Shuttle"), see [UCT campus maps](https://www.uct.ac.za/main/contacts/campus-maps)
 - To view directions to UCT locations and routes, see [UCT route maps](https://www.uct.ac.za/main/contacts/route-maps)
