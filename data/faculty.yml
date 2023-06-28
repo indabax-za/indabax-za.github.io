@@ -26,7 +26,8 @@ people:
     # topic: Gradient-only optimization perspectives on adaptive learning rates
     years:
       - Research
-      - Applied ML & Industry
+      - Foundations
+      - Deep Learning
 
   - name: Matthew Baas
     affiliation: Stellenbosch University
@@ -50,7 +51,7 @@ people:
     years:
       - 2023
       - Research
-      - Applied ML & Industry
+      - Language
 
 
   - name: Ritesh Kanjee
@@ -80,6 +81,7 @@ people:
       - 2023
       - Foundations
       - Tutorials
+      - RL 
 
   - name: Emma Ruttkamp-Bloem
     affiliation: University of Pretoria and South African Centre for AI Research
@@ -95,7 +97,7 @@ people:
     image: "/images/people/emma_ruttkamp.jpeg"
     years:
       - 2023
-      - Applied ML & Industry
+      - Keynote
 
   - name: Kevin Eloff
     affiliation: InstaDeep
@@ -112,7 +114,7 @@ people:
     years:
       - 2023
       - Foundations
-      - Research
+      - Diffusion
       
   - name: Leanne Nortje
     affiliation: Stellenbosch University
@@ -122,6 +124,7 @@ people:
     years:
       - 2023
       - Research
+      - Language 
 
   - name: Cassandra Durr
     affiliation: Stellenbosch University
@@ -137,7 +140,9 @@ people:
     image: "/images/people/cassandra_wood.jpg"
     years:
       - 2023
-      - Foundations
+      - Language
+      - Vision
+      - DL
       - Research
 
 
@@ -158,8 +163,8 @@ people:
     image: "/images/people/vandermerwe.jpg"
     years:
       - 2023
-      - Workshops
-      - Research
+      - Foundations
+      - Transformers
 
   - name: Alta de Waal
     affiliation: BMW Group South Africa
@@ -170,6 +175,7 @@ people:
     years:
       - 2023
       - Applied ML & Industry
+      - MLOps
 
   - name: Joseph Muthui Wacira
     affiliation: Stellenbosch University and AIMS South Africa
@@ -183,6 +189,8 @@ people:
     years:
       - 2023
       - Applied ML & Industry
+      - Research
+      - DL 
 
   - name: Herman Kamper
     affiliation: Stellenbosch University
@@ -199,6 +207,7 @@ people:
     years:
       - 2023
       - Research
+      - Language 
 
   - name: Sasha Abramowitz 
     affiliation: Instadeep
@@ -211,7 +220,8 @@ people:
     image: "/images/people/sasha.jpg"
     years:
       - 2023
-      - Applied ML & Industry
+      - Research 
+      - RL 
 
   - name: Divanisha Patel
     affiliation: Instadeep
@@ -224,6 +234,7 @@ people:
     image: "/images/people/divanisha.jpeg"
     years:
       - 2023
+      - RL 
       - Applied ML & Industry
   
 
@@ -240,6 +251,7 @@ people:
     years:
       - 2023
       - Research
+      - ML 
   
   - name: Mahmood-Ali Parker
     affiliation: Sybrin 
@@ -253,6 +265,7 @@ people:
     years:
       - 2023
       - Applied ML & Industry
+      - Vision
   
 
   - name: Kshitij Thorat
@@ -266,7 +279,8 @@ people:
     image: "/images/people/k_thorat.jpg"
     years:
       - 2023
-      - Research
+      - Astronomy
+      - Keynote
   
 
   - name: Aurona Gerber
@@ -280,6 +294,7 @@ people:
     image: "/images/people/gerber.jpg"
     years:
       - Research
+      - AI Ethics
 
   - name: Chijioke Okorie
     affiliation: University of Pretoria
@@ -320,6 +335,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
     image: "/images/people/placeholder.jpg"
     years:
        - Applied ML & Industry
+       - Explainable AI
        
   - name: Batsi Ziki
     affiliation: InstaDeep and University of Cape Town
@@ -336,6 +352,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
     years:
        - Research
        - Applied ML & Industry
+       - RL
 
   - name: Keegan White
     affiliation: Founder, Taurine Technology
@@ -356,11 +373,260 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
        - Research
        - Applied ML & Industry
 
-      
+  - name: Emile-Reyn Engelbrecht
+    affiliation: Stellenbosch University
+    link: modal 
+    bio : "PhD Candidate in Electronic Engineering at Stellenbosch University focussing on Machine Learning. My specific interest is Generative Adversarial Networks which are at the forefrunt of the 4th Industrial Revolution. "
+    social_media:
+    - icon: ""
+      link: "https://twitter.com/engelreyn/"
+      title: Twitter
+  
+    image: "/images/people/placeholder.jpg"
+    years:
+       - Research
+       - GANs
+
+  - name: Jacques Ludik
+    affiliation: Machine Intelligence Institute of Africa (MIIA), Cortex Logic
+    link: modal 
+    bio : "Dr Jacques Ludik is a Smart Technology Entrepreneur, PhD in AI, Founder of multiple AI companies, Author, International keynote speaker, Global AI Ambassador and award-winning AI Leader with a 25+ years' experience in AI, Machine Learning & Data Science and its applications around the globe. One of his companies, CSense Systems, was Africa's first AI company that was sold to a multi-national, General Electric, in 2011. Dr Ludik is the author of 'Democratizing Artificial Intelligence to Benefit Everyone: Shaping a Better Future in the Smart Technology Era' and 'Neural Networks and Psychopathology'. He has also introduced an MTP for humanity and its associated goals to help shape a beneficial human-centric future and founded Sapiens.Network as a decentralized, human-centric, user-controlled AI-driven super platform. He is currently involved in sustainable technology venture capital and building AI-based companies with data rich platforms that leverages AI technologies to unlock business, customer and societal value at scale. Dr Ludik is the Founder & CEO of Cortex Group and Cortex Logic, Vive Teen Wellness, Journey Wellness; and Founder & President of the Machine Intelligence Institute of Africa (MIIA) focused on transforming Africa through AI. He was also previously an Executive at Jumo and General Electric as well as an Academic at Stellenbosch University. Dr Ludik currently also serves on the Advisory Boards of Cirrus, Data Science Nigeria, AICE in Kenya, and Verchool and member of the AI Africa Consortium, and is a Swiss Cognitive Global AI Ambassador."
+    social_media:
+    - icon: ""
+      link: "https://twitter.com/jacquesludik"
+      title: Twitter
+    - icon: ""
+      link: "https://linkedin.com/in/jacquesludik"
+      title: Linkedin
+    - icon: ""
+      link: "https://jacquesludik.com"
+      title: Website
+  
+    image: "/images/people/jacques_ludik.jpg"
+    years:
+       - Applied ML & Industry
+       - Explainable AI
 
 
+  - name: Sedinam Simpson
+    affiliation: Investec
+    link: modal 
+    bio : "Sedinam is a data scientist in the UK AI and Data team at Investec. She graduated from the University of Cape Town with an honours in statistics and is on her way to study a masters in machine learning at the University of Cambridge."
+    social_media:
+
+    - icon: ""
+      link: "https://www.linkedin.com/in/sedinam-simpson-aa4350162/"
+      title: Linkedin
+
+  
+    image: "/images/people/sedinam.jpg"
+    years:
+      - Applied ML & Industry
+      - Data science
 
 
+  - name: Rachel 
+    affiliation: University of Cape Town
+    link: modal 
+    bio : "Rachel is a master's student at the University of Cape Town in the Applied Mathematics department. Coming from a background in Physics, Rachel decided she would like to explore medical applications in the Machine Learning field, thus leading to her MSc topic which involves using neural networks to investigate brain ageing in individuals with HIV."
+    social_media:
+
+    - icon: ""
+      link: "https://www.linkedin.com/in/rachel-catzel/"
+      title: Linkedin
+    image: "/images/people/rachelcatzel.jpg"
+    years:
+      - 2023
+  
+  - name: Thenjiwe Kubheka 
+    affiliation: InterCodex
+    link: modal 
+    bio : ""
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/thenjiwe-kubheka-02a00a104"
+      title: Linkedin
+    image: "/images/people/placeholder.jpg"
+    years:
+      - Women In Tech Panel
+
+  - name: Jay van Zyl
+    affiliation: Ecosystem.Ai
+    link: modal 
+    bio : "Jay van Zyl is a founder at  Ecosystem.Ai"
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/jayvanzyl"
+      title: Linkedin
+    image: "/images/people/jay_van.jpg"
+    years:
+      - Keynote
+
+  - name: Roger Carthew
+    affiliation: Data Prophet
+    link: modal 
+    bio : "Roger's leadership track record spans, South Africa, the Middle East, Europe and most recently the US. He has partnered with CEO's Founders, Boards of Directors and Investors across a wide variety of business sectors in local, regional and global roles. His passion is to shape strategy, unlock potential , build teams and deliver success . He recently returned to Cape Town and is now the Chief Human Resource Officer for DataProphet, an award winning Cape Town based Artificial Intelligence for Manufacturing Scale Up. Roger is a certified Executive Coach , and lives in Paarl where he enjoys the beauty of the Cape Winelands. "
+    social_media:
+    
+    image: "/images/people/roger.jpg"
+    years:
+      - Applied ML & Industry
+
+  - name: Shane Gregory Acton
+    affiliation: Instadeep
+    link: modal 
+    bio : "I studied NLP at UCT, and now I work for Instadeep, under BioNTech - on the development of Ai tools for Vaccine R&D."
+    social_media:
+    image: "/images/people/shane_gregory.jpg"
+    years:
+      - Applied ML & Industry
+      - BioAI
+
+
+  - name: Ayogeboh Epizitone
+    affiliation: Durban University of Technology
+    link: modal 
+    bio : "Ayogeboh Epizitone is a researcher and a PhD candidate whose research goals and achievements have been centred on Information Technology in the 21st century. She has multiple certificates, diplomas and a master degree. Her experience and background cover IT, Accounting, Finance, Business, and Management sciences. She is also a Durban University of Technology's ICT and Society Research group member. She holds a special inclination towards scientific computational methods in the specialized areas of machine intelligence, computer systems, software implementations and data sciences. And she is dedicated to incorporating scientific cutting-edge data-intensive techniques to generate pertinent, astute and valuable solutions to society's acute problems. Hence her current and future work and interests from this angle delve into the use of data science, Machine learning and artificial intelligence with an emphasis on building long-term intelligent, resilient and sustainable systems for efficient and effective applications."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/ayoepizi-651a8b158/"
+      title: Linkedin
+    image: "/images/people/ayogeboh.jpg"
+    years:
+      - Applied ML & Industry
+      - Healthcare
+
+  - name: Paul Amayo
+    affiliation: University of Cape Town
+    link: modal
+    bio: "I am a researcher and technology enthusiast with broad experience in both hardware and software development over various sectors (from self-driving cars in the UK to para-transit in Kenya) with a primary focus on robotics. I strongly believe that technology holds the key to solving some of the world's and in particular Africa's most pressing problems. My interests are therefore not only in advancement of technology through research but also in its subsequent education that ensures that this technology is adopted into communities where it would be do the most good. I am currently a Senior Lecturer and Prinicipal Investigator at the University of Cape Town"
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/paul-amayo-2a44a238/"
+      title: LinkedIn
+    image: "/images/people/paul_amayo.jpg"
+    years:
+      - Keynote
+      - Robotics
+
+
+  - name: Siphiwe Thwala
+    affiliation: IBM Research
+    link: modal 
+    bio : "Siphiwe Thwala is a Research Scientist within the computational linguistics team at IBM Research Africa, South African Lab. His research background is in computational astrophysics, with a focus on using unsupervised learning to detect signals of the plasma produced by non-thermal diffuse emission, in extended radio sources. His work at IBM includes: semantic based sentiment analysis on twitter data; interactive data visualisation of twitter data; and semantic based insights extraction and knowledge modelling on biomedical text."
+  
+    image: "/images/people/siphiwe.jpg"
+    years:
+      - Applied ML & Industry
+
+
+  - name: Gabi Immelman
+    affiliation: Mindjoy
+    link: modal 
+    bio : "Gabi Immelman is the founder and CEO of edtech start-up and social learning platform Mindjoy. A former Reggio-educator turned EdTech founder with experience working globally in Africa & USA. Mindjoy is unleashing curiosity by building an OS for boundless classroom learning powered by AI. We’re starting by helping educators transform lessons they love and know and turn them into tech projects beyond their imaginations.
+Mindjoy is the third company she has founded - her first being a stick-on tattoo parlour at the beach where we use to go for summer vacation when I was a child."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/gabi-immelman/"
+      title: Linkedin
+    - icon: ""
+      link: "https://www.twitter.com/GabiImmelman"
+      title: Twitter
+
+    image: "/images/people/gabi.jpg"
+    years:
+      - Applied ML & Industry
+
+
+  - name: Isaac Itumeleng Setshedi
+    affiliation: University of Pretoria
+    link: modal 
+    bio : "I work as a lecturer at the University of Pretoria (UP). My research interests are in the field of machine learning and guided waves ultrasonics. I am currently in the final stages of my Doctoral studies in the field of artificial intelligence/deep learning, finite element analysis, ultrasonics and rail monitoring."
+    social_media:
+    image: "/images/people/isaac.jpg"
+    years:
+      - Research
+
+
+  - name: Andrea Bohmert
+    affiliation: Knife Capital
+    link: modal 
+    bio : "Andrea Böhmert is a partner at Knife Capital, a Venture Capital company based in Cape Town. By leveraging knowledge, networks & funding, they focus on supporting the international expansion of South Africa’s high growth scale-ups. 
+Having grown up in Germany, Andrea came to South Africa in 1994. The early years of her professional career were spent in Corporate SA, as Head of Strategy for Siemens Southern Africa and Manager of a Software Division at Dimension Data. In 2007, she entered the Venture Capital space by single-handedly raising a R350m VC Fund, Hasso Plattner Ventures Africa, from the co-founder of SAP, Hasso Plattner. In 2011, she joined Knife Capital as Partner. Since then, Andrea has been instrumental in many eco-system defining initiatives in South Africa – representing South Africa’s VC system on numerous local and international panels. She has recently been appointed to the Board of SAVCA, the South African Venture Capital Association.
+Her goal is to prove that South African founders and the companies they build can compete on a global level. She sees herself as a business builder and a business partner, captivated by founders who have a deeper motivation and embrace the journey. Andrea knows that one needs an ecosystem to succeed, and is trying to play her part in building that. 
+"
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/andreaboehmert/"
+      title: Linkedin
+    image: "/images/people/andrea.jpg"
+    years:
+      - Women In Tech Panel
+
+
+  - name: Dr Frank Ortmann
+    affiliation: Spatialedge
+    link: modal 
+    bio : "After finishing my PhD in Operations Research, I worked on projects in superconducting electronics and extremely high-frequency data capture. In 2014 I helped found the precursor to what is now Spatialedge. Currently I serve as Director and COO at Spatialedge and help various teams deliver high-value MLOps projects at various large companies."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/frank-ortmann-0b677a6/"
+      title: Linkedin
+    image: "/images/people/frank_ortmann.jpg"
+    years:
+      - Applied ML & Industry
+  
+  - name: Mehrdad Ghaziasgar
+    affiliation: University of the Western Cape
+    link: modal 
+    bio : "Dr Mehrdad Ghaziasgar is a Senior Lecturer in Computer Science at the University of the Western Cape. He has more than a decade of experience in research in the domain of applied machine learning, with over 40 accredited publications and an extensive postgraduate supervision track record. His research group has produced over 45 assistive technology prototypes, some of which have received national acclaim. He also consults to industry in the same capacity. He is particularly enthusiastic about finding ways to convey complex topics in Computing to diverse audiences."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/mehrdad-ghaziasgar-b00595108/"
+      title: Linkedin
+    image: "/images/people/mehrdad.png"
+    years:
+      - Hackathon
+      - CNNs
+  
+  - name: Gemma Dawson
+    affiliation: IBM Quantum
+    link: modal 
+    bio : "With degrees in Statistics, Applied Mathematics, and Operations Research, Gemma is a programme manager for two IBM Quantum global programmes (Qiskit Advocates and the Qiskit Developer Certification). The first ten years of her career was spent in education before changing to a career in tech where she worked in a number of different roles. What remained consistent was a passion for community building and that is what brought her to IBM Quantum and the rapidly growing field of quantum computing."
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/gemmadawson"
+      title: Linkedin
+    image: "/images/people/gemma.jpg"
+    years:
+      - Applied ML & Industry
+      - Quantum Computing
+  
+  - name: Stephanie Müller
+    affiliation: IBM Quantum
+    link: modal 
+    bio : "With degrees spanning human biology, bioinformatics, and genetics, Stephanie has always had a passion for finding solutions for healthcare problems plaguing our communities. As the Technical Lead for Healthcare and Life Sciences Research at IBM Research in Johannesburg, Stephanie leads a diverse team of individuals specialising in machine learning, AI, mathematics and quantum chemistry. "
+    social_media:
+    - icon: ""
+      link: "https://www.linkedin.com/in/stephanie-muller-352b48a6/"
+      title: Linkedin
+    image: "/images/people/stephanie.jpg"
+    years:
+      - Applied ML & Industry
+      - Quantum Computing
+
+  - name: Benjamin Sturgeon
+    affiliation: UCT, EA UCT
+    link: modal 
+    bio : "Ben, based in Cape Town, used to work as a machine learning engineer. He's now focused on studying AI safety, using a research grant from the Long Term Future Fund. His research currently focuses on trying to measure levels of agency in AI agents in RL settings. He's also interested in large language models and how they might be used to influence the behaviour of RL agents."
+    social_media:
+    - icon: ""
+      link: "https://www.benjaminsturgeon.com/"
+      title: Website
+    image: "/images/people/benjamin_sturgeon.jpg"
+    years:
+      - Research
+      - AI Safety 
 
 
 

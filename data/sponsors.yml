@@ -18,11 +18,7 @@ sponsors:
 - tier: 🐘 African Elephant (R100 000+)
   size: 100
   item:
-  - name: InstaDeep
-    image: images/partners/instadeep.png
-    link: https://instadeep.com/
-    current: true
-    background_color: ''
+ 
   - name: NITheCS
     image: images/partners/nithecs.png
     link: https://nithecs.ac.za/
@@ -36,11 +32,19 @@ sponsors:
 - tier: 🦏 Black Rhino (R50 000)
   size: 100
   item:
+
+  - name: InstaDeep
+    image: images/partners/instadeep.png
+    link: https://instadeep.com/
+    current: true
+    background_color: ''
+
   - name: IBM
     image: images/partners/research_ibm_com_labs_africa.png
     link: https://www.ibm.com/
     current: true
     background_color: 'white'
+  
   - name: Google
     image: images/partners/google.png
     link: https://www.google.com/

@@ -68,7 +68,7 @@ faculty:
   ta_link: "/speakers"
   link_text: view all
 schedule:
-  enable: false
+  enable: true
   link: "/schedule"
 news:
   enable: true
