@@ -10,9 +10,9 @@ banner:
   cta:
     enable: true
     item:
-      # - title: Schedule
-      #   URL: "/schedule"
-      #   color: "#C9492C"
+      - title: Schedule
+        URL: "/schedule"
+        color: "#C9492C"
       - title: Register now
         URL: "/register"
         color: "#228EE3"
@@ -70,6 +70,7 @@ faculty:
 schedule:
   enable: true
   link: "/schedule"
+  link_text: "expand all"
 news:
   enable: true
   title: ""

@@ -13,9 +13,5 @@ args:
 [Download shcedule here ]()
 {{< /class >}} -->
 
-Forthcoming...
-
----
-
 
 {{< partial "schedule" "args" >}}

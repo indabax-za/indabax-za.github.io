@@ -5,6 +5,11 @@ theme = "imbizo-website-base"
 title = "Deep Learning Indaba𝕏 South Africa"
 timeZone = "Africa/Johannesburg"
 [[menu.main]]
+URL = "schedule"
+identifier = "schedule"
+name = "Schedule"
+weight = 1
+[[menu.main]]
 URL = "faq"
 identifier = "faq"
 name = "FAQ"

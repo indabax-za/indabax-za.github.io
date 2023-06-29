@@ -557,14 +557,14 @@ days:
     columns:
     - title: Instadeep Movie Night (Informal Event)
       image: '/images/partners/instadeep.png'
-      location: ''
+      location: '[The Labia Theatre](https://goo.gl/maps/c52NepddXfJmaQ167)'
       content: ''
-      number: 
-      sessions: 
-      - name: Movie
-        title: ''
-        time: ''
-        image: "images/partners/instadeep.png"
+      # number: 
+      # sessions: 
+      # - name: Movie
+      #   title: ''
+      #   time: ''
+      #   image: "images/partners/instadeep.png"
 
     
   # - time: '09h00 - 10h00'
