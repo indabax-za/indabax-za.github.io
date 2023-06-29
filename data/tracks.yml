@@ -19,3 +19,39 @@ tracks:
     color: "#003366"
   - name: Workshops
     color: "#7c60c6"
+  - name: GANs
+    color: "#94d1c6"
+  - name: Explainable AI
+    color: "#bc2b0d"  
+  - name: Healthcare
+    color: "#28e12d"
+  - name: Language
+    color: "#e84b9a"
+  - name: ML
+    color: "#f3e332"  
+  - name: MLOps
+    color: "#04a8f1"
+  - name: Quantum Computing
+    color: "#995d34"
+  - name: RL
+    color: "#995d34"  
+  - name: Robotics
+    color: "#763d0f"
+  - name: Astronomy
+    color: "#1e9d8c"
+  - name: BioAI
+    color: "#d74120"  
+  - name: CNNs
+    color: "#5d983c"
+  - name: Data science
+    color: "#f67b8b"
+  - name: Deep Learning
+    color: "#ab6f0c"  
+  - name: Transformers
+    color: "#2b4157"  
+  - name: Vision
+    color: "#1b7fc0"  
+          
+    
+           
+    

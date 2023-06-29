@@ -22,7 +22,7 @@ people:
       - icon: ""
         link: https://www.up.ac.za/mechanical-and-aeronautical-engineering/article/48434/staff-directory
         title: Website
-    talk_description: ""
+    talk_description: "A fundamental talk that highlights some of the foundational concepts that underpin data science, statistical learning, machine learning, and deep learning. "
     # topic: Gradient-only optimization perspectives on adaptive learning rates
     years:
       - Research
@@ -48,8 +48,9 @@ people:
       link: https://www.linkedin.com/in/matthew-baas/
       title: LinkedIn
     image: "/images/people/matthew_baas.jpg"
+    talk_description: "Voice conversion aims to transform speech into a target voice with just a few example recordings of the target speaker. Recent methods produce convincing conversions, but at the cost of increased complexity -- making results difficult to reproduce and build on. Instead, in this talk I will go over some of our lab's recent research to keep voice conversion simple by using just the plain k-nearest neighbours algorithm. Despite its simplicity, our recent research is competitive with the largest and complex existing models. I'll also show how it can be used to perform diverse combinations of conversions, such as converting cross-lingually, or between human and animal sounds. "
     years:
-      - 2023
+    
       - Research
       - Language
 
@@ -63,8 +64,8 @@ people:
       link: "https://www.linkedin.com/in/riteshkanjee/"
       title: LinkedIn
     image: "/images/people/ritesh_kanjee.jpg"
+    talk_description: "Mastering Modern Computer Vision: From Basics to Cutting-Edge Techniques' workshop provides a comprehensive exploration of core and advanced aspects of Computer Vision. The tutorial will delve into essential techniques such as object detection, segmentation, pose estimation, and text detection, all within a deep learning framework. This high-impact session aims to bridge theory with practical application, equipping attendees with the skills needed to leverage Computer Vision in solving complex real-world challenges."
     years:
-      - 2023
       - Workshops
       - Tutorials
 
@@ -77,8 +78,8 @@ people:
     - icon: ""
       link: "https://za.linkedin.com/in/asadjeewa"
       title: LinkedIn
+    talk_description: "An explanation of the fundamentals of reinforcement learning, touching on multi-agent and multi-objective reinforcement learning"
     years:
-      - 2023
       - Foundations
       - Tutorials
       - RL 
@@ -95,8 +96,8 @@ people:
       link: "https://www.linkedin.com/in/emma-ruttkamp-bloem-19400248/"
       title: LinkedIn
     image: "/images/people/emma_ruttkamp.jpeg"
+    talk_description: "What does it mean to speak of personal identity, autonomy, and agency in the light of the current status and exponential growth of data-driven AI technologies? Why does the question matter?"
     years:
-      - 2023
       - Keynote
 
   - name: Kevin Eloff
@@ -111,8 +112,8 @@ people:
       link: "https://github.com/KevinEloff"
       title: Github
     image: "/images/people/kevin_eloff.png"
+    talk_description: "Denoising Diffusion Models are a type of generative modelling which serves backbone of recent advances in image synthesis including Dall-E 2 and Imagen. These models utilise an iterative denoising process during inference to produce high quality samples. In this talk we explore the fundamentals of diffusion models, the intuition behind them, how they work in practice, and how they may be generalised to a wide range of applications."
     years:
-      - 2023
       - Foundations
       - Diffusion
       
@@ -121,8 +122,8 @@ people:
     bio: "I am currently a DeepMind scholar and a PhD student in Electrical and Electronic Engineering at Stellenbosch University. My thesis investigates the usage of vision as a form of transcribing speech in a low-resource language. With this research we hope to also get some cognitive insights as to how children learn."
     link: modal
     image: "/images/people/leanne_nortje.jpg"
+    talk_description: "We propose a visually grounded speech model that learns new words and their visual depictions from just a few word- image example pairs. Given a set of test images and a spoken query, we ask the model which image depicts the query word. Previous work has simplified this few-shot learning problem by either using an artificial setting with digit word-image pairs or by using a large number of examples per class. Moreover, all previous studies were performed using English speech-image data. We propose an approach that can work on natural word-image pairs but with less examples, i.e. fewer shots, and then illustrate how this approach can be applied for multimodal few-shot learning in a real low-resource language, Yoruba. Our approach involves using the given word-image example pairs to mine new unsupervised word-image training pairs from large collections of unlabelled speech and images. Additionally, we use a word-to-image attention mechanism to determine word-image similarity. With this new model, we achieve better performance with fewer shots than previous approaches on an existing English benchmark. Many of this model’s mistakes are due to relating a few-shot class with its contextual information. We apply multimodal few-shot learning, for the first time, on an actual low-resource language, Yoruba. By initialising the multimodal Yoruba  few-shot model on a larger set of English speech-image data, it can outperform its purely English variant. "
     years:
-      - 2023
       - Research
       - Language 
 
@@ -138,8 +139,8 @@ people:
       link: "https://www.linkedin.com/in/cassandra-durr-0b87b1124/"
       title: LinkedIn
     image: "/images/people/cassandra_wood.jpg"
+    talk_description: "Discover the fundamentals of contrastive learning, a technique that learns meaningful representations by contrasting similar and dissimilar samples of words, sentences, or images. In this talk, an introduction to both supervised and self-supervised contrastive learning will be provided, as well as an outline of its applications in Computer Vision, NLP, and recommender systems."
     years:
-      - 2023
       - Language
       - Vision
       - DL
@@ -161,8 +162,8 @@ people:
       link: "https://twitter.com/ruanvdmerwe1"
       title: Twitter
     image: "/images/people/vandermerwe.jpg"
+    talk_description: "In this in-depth introduction to the Transformer architecture, we will be exploring attention and its crucial role within Transformers. From there, we will dive into the essential aspects necessary to truly understand how a Transformer processes various types of data, going beyond just text. Furthermore, we will touch upon the exciting future developments and possibilities of Transformers. In addition, we'll take a closer look at how ChatGPT works, providing you with a comprehensive understanding of this current phenomenon."
     years:
-      - 2023
       - Foundations
       - Transformers
 
@@ -170,10 +171,9 @@ people:
     affiliation: BMW Group South Africa
     link: modal
     bio: "I am currently employed as a data scientist at the BMW Group South Africa. Before this, I was in academia in the Department of Statistics, University of Pretoria."
-   
     image: "/images/people/alta.jpg" 
+    talk_description: "In this talk I will present some interesting AI use cases in the BMW Group South Africa and also discuss the transformative power of MLOps and Low Code No Code."
     years:
-      - 2023
       - Applied ML & Industry
       - MLOps
 
@@ -186,8 +186,8 @@ people:
       link: "https://linkedin.com/in/joseph-muthui-38134a118"
       title: LinkedIn
     image: "/images/people/joseph.jpeg"
+    talk_description: "In this talk we will demystify how machine learning has been used to improve the efficiency and also do planning for solar energy. We will review the past and propose possible avenues for the application of machine learning in solar energy."
     years:
-      - 2023
       - Applied ML & Industry
       - Research
       - DL 
@@ -204,8 +204,8 @@ people:
       link: "https://kamperh.com"
       title: Website
     image: "/images/people/herman.png"
+    talk_description: "Tasks such as speech recognition and speech synthesis are increasingly being tackled with large spoken language models. So what is left in speech processing research? In this talk I will discuss some of the less conventional tasks that we are tackling with these language models. Our long-term goal is to try and use these models to gain a better understanding of how humans acquire language, and to improve our scientific understanding of the speech signal."
     years:
-      - 2023
       - Research
       - Language 
 
@@ -218,8 +218,8 @@ people:
       link: "https://www.linkedin.com/in/sasha-abramowitz-693761148/"
       title: Linkedin
     image: "/images/people/sasha.jpg"
+    talk_description: "This talk will discuss what makes Julia so applicable to RL, how it could benefit your future projects, what it's competitors are and why it's not yet as widely used as python."
     years:
-      - 2023
       - Research 
       - RL 
 
@@ -232,8 +232,8 @@ people:
       link: "https://www.linkedin.com/in/divanisha-patel-47a663136/"
       title: Linkedin
     image: "/images/people/divanisha.jpeg"
+    talk_description: "This talk will provide an introductory overview of reinforcement learning and its key concepts.  We will then focus on how InstaDeep is using reinforcement learning to solve real-world problems. "
     years:
-      - 2023
       - RL 
       - Applied ML & Industry
   
@@ -248,8 +248,8 @@ people:
       link: "https://www.linkedin.com/in/divanisha-patel-47a663136/"
       title: Linkedin
     image: "/images/people/john_grimley.jpg"
+    talk_description: "If you’ve ever taken a statistics class, I have little doubt you’ve heard someone say “correlation does not imply causation”. This trope seems to imply that we can never state that A causes B by analysis of data alone. This talk will take a deeper look at if this is always the case by introducing the field of causal inference, with a special focus on (graphical) causal modelling. Attendees will leave having gained knowledge of how assumptions and data come together to enable drawing causal conclusions from data. More importantly, they will develop the basic intuition and fundamental concepts of causal modelling in the context of machine learning."
     years:
-      - 2023
       - Research
       - ML 
   
@@ -262,8 +262,8 @@ people:
       link: "https://www.linkedin.com/in/parker-ali/"
       title: Linkedin
     image: "/images/people/mahmood_ali.jpg"
+    talk_description: "Liveness detection is a safeguard which plays a crucial role in the financial services industry for biometric fraud prevention. This talk will provide an introduction with a particular focus on the two main variants of face liveness detection, namely, active and passive liveness detection. Real-world scenarios, including deepfakes and other types of liveness spoofs will be discussed."
     years:
-      - 2023
       - Applied ML & Industry
       - Vision
   
@@ -277,8 +277,8 @@ people:
       link: "https://github.com/KshitijT"
       title: Github
     image: "/images/people/k_thorat.jpg"
+    talk_description: "I'll discuss the forthcoming revolution in radio astronomy powered by new-generation radio telescopes like the South African MeerKAT and the Australian ASKAP facilities. The massively increased data rates make Machine Learning techniques an ideal tool to tackle radio astronomical data. As a prime example, I'll talk about the problem of astronomical source detection and classification."
     years:
-      - 2023
       - Astronomy
       - Keynote
   
@@ -292,6 +292,7 @@ people:
       link: "https://za.linkedin.com/in/auronagerber"
       title: Linkedin
     image: "/images/people/gerber.jpg"
+    talk_description: "We are increasingly living in a world that is characterised by the merger and fusing of the digital and physical realms. ChatGPTs recent massive adoption attests to this. Exactly what this merged reality entails is not clear yet, but there is agreement that almost all aspects of our lives are being affected, either directly or indirectly. Recently some notable Computing scholars described the digital-first observation, which is formally defined as an ontological reversal of the digital and physical worlds [1, 2]. More simply described it is the observation that the physical world preceded the digital world before, but we now observe that the digital world precedes (and often prescribes) the physical world. Anybody that traveled recently would have noticed that our biometric-enhanced virtual identity now precedes any physical document - a physical passport is only used for verification and not primarily for identification.  Several more examples of this digital-first reversal can be observed daily if we care to take notice, including that some of the key objects necessary for learning such as books, music, and videos, now exist primarily and firstly in the digital world before they are being realized into physical existence, and then only when it is necessary for human interaction. This presentation will firstly explore the characteristics of digital objects that inevitably resulted in the digital-first world, followed by a discussion of what digital-first means for us. Lastly, some implications and guidelines are proposed for digital literacy living in this new digital-first world."
     years:
       - Research
       - AI Ethics
@@ -299,9 +300,7 @@ people:
   - name: Chijioke Okorie
     affiliation: University of Pretoria
     link: modal
-    bio: "Chijioke Okorie founded and leads the Data Science Law Lab - a research group at the University of Pretoria's Centre for Intellectual Property Law that deploys research in law and produces independent and authoritative evidence and policy advice to support the growth of all aspects of data science research, development and application across Africa. 
-Before becoming a full time researcher and policy consultant, Dr Okorie was a Senior Associate in the law firm of CLP Legal, Lagos Nigeria. She is also the Lead Advisor at Penguide Advisory, a firm that provides research, educational, legal and regulatory advisory services in various fields including copyright and (emerging) technologies. At Penguide, she has the responsibility of leading research, training and legal advisory services for a range of clients including government and government agencies, companies and non-profit organisations, entrepreneurs within Nigeria, across Africa and internationally.
-Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law blog, The IPKat and an associate editor of the South African Intellectual Property Law Journal. More information about Dr Okorie can be found at www.chijiokeo.com"
+    bio: "Chijioke Okorie founded and leads the Data Science Law Lab - a research group at the University of Pretoria's Centre for Intellectual Property Law that deploys research in law and produces independent and authoritative evidence and policy advice to support the growth of all aspects of data science research, development and application across Africa. Before becoming a full time researcher and policy consultant, Dr Okorie was a Senior Associate in the law firm of CLP Legal, Lagos Nigeria. She is also the Lead Advisor at Penguide Advisory, a firm that provides research, educational, legal and regulatory advisory services in various fields including copyright and (emerging) technologies. At Penguide, she has the responsibility of leading research, training and legal advisory services for a range of clients including government and government agencies, companies and non-profit organisations, entrepreneurs within Nigeria, across Africa and internationally. Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law blog, The IPKat and an associate editor of the South African Intellectual Property Law Journal. More information about Dr Okorie can be found at www.chijiokeo.com"
     social_media:
     - icon: ""
       link: "https://linkedin.com/in/penguide"
@@ -310,6 +309,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       link: "https://twitter.com/chythepenguide"
       title: Twitter
     image: "/images/people/chijiokeo.jpg"
+    talk_description: "My talk will offer an introduction to the legal and licensing landscape for machine learning projects and application and will engage participants on the legal and licensing challenges faced in their work, proposing solutions and getting feedback/input as to the workability of proposed solutions."
     years:
        - Foundations
        - Tutorials
@@ -323,6 +323,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       link: "https://www.linkedin.com/in/jacobie-mouton-b98621189/"
       title: Linkedin
     image: "/images/people/jacobie.jpg"
+    talk_description: "Bayesian inference allows us to calculate the posterior distribution of unknown variables given observations, using Bayes' Theorem. In practice however, it is typically the case that this posterior distribution is intractable to compute exactly. This tutorial introduces variational inference (VI) - which constructs an approximate posterior by framing the inference problem as an optimization problem. As part of this tutorial, we will consider tools such as Pyro which help simplify the application of VI and allow it to scale to large datasets and models. The tutorial concludes by considering an example application of VI in deep learning - Variational Autoencoders."
     years:
        - Foundations
        - Research
@@ -333,6 +334,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
     bio: "Dineo is currently a Senior Data Scientist at Vodacom Group with an understanding of machine learning and its applications across diverse industries. Driven by her passion for making a positive impact, Dineo has worked in healthcare research, banking and telecoms, leveraging data-driven solutions to drive innovation and tackle complex problems. She's highly motivated by the prospect of transforming cutting-edge machine learning techniques into practical, scalable solutions that improve efficiency, decision-making and ultimately, the lives of the end-users."
 
     image: "/images/people/placeholder.jpg"
+    talk_description: "As ML models adoption continue to grow in real world applications, model explainability is becoming equally important. It is necessary for data scientist to be able to explain the models in production."
     years:
        - Applied ML & Industry
        - Explainable AI
@@ -349,6 +351,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       link: "https://github.com/Ziksby"
       title: Github
     image: "/images/people/batsi.jpg"
+    talk_description: "In this talk we focus on methods to instil curiosity in reinforcement learning (RL) agents, as a form of intrinsic motivation. We will start by exploring some of the challenges in RL, such as dealing with sparse rewards. To overcome these challenges, researchers investigated adding intrinsic motivation to agents. After defining intrinsic motivation, and its impact within RL, we'll delve into the pivotal role curiosity plays. We will trace the evolution of curiosity algorithms and learn how they act as a driving force for intrinsic motivation. Lastly, we'll showcase cutting-edge research and methodologies that harness curiosity to enhance RL agents' performance. From overcoming challenges to unlocking new possibilities, curiosity opens the door to transformative advancements in RL."
     years:
        - Research
        - Applied ML & Industry
@@ -369,6 +372,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       link: "https://www.taurinetech.com/"
       title: Website
     image: "/images/people/keegan_taurine.jpg"
+    talk_description: "In the intersection of Software-Defined Networking (SDN) and Machine Learning (ML), we've embraced a new paradigm for smart network management. SDN, with its unique approach of decoupling the control and data planes, enables a centrally managed system that streamlines traffic flow. But the true breakthrough emerges when we integrate this with ML. This fusion empowers our system to classify encrypted network traffic, master the complexity of expansive networks, and make intelligent, self-regulating decisions. In essence, our framework is redefining network management by combining SDN and ML, delivering improved user experience through intelligent, autonomous networks."
     years:
        - Research
        - Applied ML & Industry
@@ -383,6 +387,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       title: Twitter
   
     image: "/images/people/placeholder.jpg"
+    talk_description: "GANs have been used for a variety of applications. In this talk I will discuss how GANs can be used for both semi-supervised learning and novelty detection in one model. Both these tasks are becoming increasingly important in research and industry, but few have synthesised GAN models to accomplish all in one. Unified machine learning is critical for the just development of Aritificial Intelligence, and this talk will discuss one such step. "
     years:
        - Research
        - GANs
@@ -403,6 +408,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       title: Website
   
     image: "/images/people/jacques_ludik.jpg"
+    talk_description: "Pushing AI innovation to develop trustworthy explainable AI, AGI and autonomous Intelligent Agents in a Decentralized World"
     years:
        - Applied ML & Industry
        - Explainable AI
@@ -420,6 +426,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
 
   
     image: "/images/people/sedinam.jpg"
+    talk_description: "Arthur C. Clarke once said, 'Any sufficiently advanced technology is indistinguishable from magic'. One could argue that data scientists are modern magicians… but are we really?  The role of a data scientist in industry spans from understanding business context and identifying problems to solve, to thinking of meaningful metrics and explaining solutions to stakeholders. If you are a grad wondering what data science in the real world looks like, this talk is for you."
     years:
       - Applied ML & Industry
       - Data science
@@ -436,7 +443,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       title: Linkedin
     image: "/images/people/rachelcatzel.jpg"
     years:
-      - 2023
+      - Research
   
   - name: Thenjiwe Kubheka 
     affiliation: InterCodex
@@ -459,6 +466,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       link: "https://www.linkedin.com/in/jayvanzyl"
       title: Linkedin
     image: "/images/people/jay_van.jpg"
+    talk_description: "Navigating the Intersection of Social Science, Algorithms, and AI-Driven Technologies: Explores the idea that human beings are essentially complex algorithms that have evolved over time. It covers the development of human intelligence and how it has been influenced by the emergence of Artificial Intelligence (AI) technologies. Covering three key areas—social science's interplay with human technology, the impact of algorithms on humans, and the role of artificial intelligence in automating human intelligence—the discussion aims to address the challenges and opportunities presented by these interactions. By understanding and addressing these concerns, we can work collaboratively to shape a future that prioritizes the well-being of humanity while driving ethical innovation."
     years:
       - Keynote
 
@@ -469,6 +477,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
     social_media:
     
     image: "/images/people/roger.jpg"
+    talk_description: "Enabling your People to do their best everyday, is so often forgotten in the frantic pace of Tech start up's. I will share valuable lessons learnt over a successful global career on how to  create an ideal environment for business and employee growth and success. "
     years:
       - Applied ML & Industry
 
@@ -478,6 +487,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
     bio : "I studied NLP at UCT, and now I work for Instadeep, under BioNTech - on the development of Ai tools for Vaccine R&D."
     social_media:
     image: "/images/people/shane_gregory.jpg"
+    talk_description: "An introduction to the way that the technologies powering ChatGPT are also impacting biology and medical research. By using Ai sequence models - we can now model protein interactions, predict vaccine candidates, and even generate new medicines."
     years:
       - Applied ML & Industry
       - BioAI
@@ -492,6 +502,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       link: "https://www.linkedin.com/in/ayoepizi-651a8b158/"
       title: Linkedin
     image: "/images/people/ayogeboh.jpg"
+    talk_description: "A Data-Driven AI Classification Model for Health Care Applications."
     years:
       - Applied ML & Industry
       - Healthcare
@@ -505,6 +516,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
       link: "https://www.linkedin.com/in/paul-amayo-2a44a238/"
       title: LinkedIn
     image: "/images/people/paul_amayo.jpg"
+    talk_description: "In this talk, I will speak about Building Intelligence For Robotics with a specific focus on African robotics and how this can unlock productivity in various different sector."
     years:
       - Keynote
       - Robotics
@@ -523,8 +535,7 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
   - name: Gabi Immelman
     affiliation: Mindjoy
     link: modal 
-    bio : "Gabi Immelman is the founder and CEO of edtech start-up and social learning platform Mindjoy. A former Reggio-educator turned EdTech founder with experience working globally in Africa & USA. Mindjoy is unleashing curiosity by building an OS for boundless classroom learning powered by AI. We’re starting by helping educators transform lessons they love and know and turn them into tech projects beyond their imaginations.
-Mindjoy is the third company she has founded - her first being a stick-on tattoo parlour at the beach where we use to go for summer vacation when I was a child."
+    bio : "Gabi Immelman is the founder and CEO of edtech start-up and social learning platform Mindjoy. A former Reggio-educator turned EdTech founder with experience working globally in Africa & USA. Mindjoy is unleashing curiosity by building an OS for boundless classroom learning powered by AI. We’re starting by helping educators transform lessons they love and know and turn them into tech projects beyond their imaginations. Mindjoy is the third company she has founded - her first being a stick-on tattoo parlour at the beach where we use to go for summer vacation when I was a child."
     social_media:
     - icon: ""
       link: "https://www.linkedin.com/in/gabi-immelman/"
@@ -534,6 +545,7 @@ Mindjoy is the third company she has founded - her first being a stick-on tattoo
       title: Twitter
 
     image: "/images/people/gabi.jpg"
+    talk_description: "Education isn't a transaction, it's a process driven by creativity, curiosity, and connection. In a world where our children will grow up as AI natives, a new ally emerges in the quest for effective learning and boundless curiosity - artificial intelligence (AI). What does the future hold for our learners, teachers and schools?"
     years:
       - Applied ML & Industry
 
@@ -544,6 +556,7 @@ Mindjoy is the third company she has founded - her first being a stick-on tattoo
     bio : "I work as a lecturer at the University of Pretoria (UP). My research interests are in the field of machine learning and guided waves ultrasonics. I am currently in the final stages of my Doctoral studies in the field of artificial intelligence/deep learning, finite element analysis, ultrasonics and rail monitoring."
     social_media:
     image: "/images/people/isaac.jpg"
+    talk_description: "A data-driven approach that leverages latent parameters to simplify the analysis and interpretation of complex data. We showcase the potential of data-driven machine learning and latent parameters in simplifying complex problems and enhancing interpretability. By leveraging the latent space, we enable a more comprehensive analysis of data."
     years:
       - Research
 
@@ -551,15 +564,13 @@ Mindjoy is the third company she has founded - her first being a stick-on tattoo
   - name: Andrea Bohmert
     affiliation: Knife Capital
     link: modal 
-    bio : "Andrea Böhmert is a partner at Knife Capital, a Venture Capital company based in Cape Town. By leveraging knowledge, networks & funding, they focus on supporting the international expansion of South Africa’s high growth scale-ups. 
-Having grown up in Germany, Andrea came to South Africa in 1994. The early years of her professional career were spent in Corporate SA, as Head of Strategy for Siemens Southern Africa and Manager of a Software Division at Dimension Data. In 2007, she entered the Venture Capital space by single-handedly raising a R350m VC Fund, Hasso Plattner Ventures Africa, from the co-founder of SAP, Hasso Plattner. In 2011, she joined Knife Capital as Partner. Since then, Andrea has been instrumental in many eco-system defining initiatives in South Africa – representing South Africa’s VC system on numerous local and international panels. She has recently been appointed to the Board of SAVCA, the South African Venture Capital Association.
-Her goal is to prove that South African founders and the companies they build can compete on a global level. She sees herself as a business builder and a business partner, captivated by founders who have a deeper motivation and embrace the journey. Andrea knows that one needs an ecosystem to succeed, and is trying to play her part in building that. 
-"
+    bio : "Andrea Böhmert is a partner at Knife Capital, a Venture Capital company based in Cape Town. By leveraging knowledge, networks & funding, they focus on supporting the international expansion of South Africa’s high growth scale-ups. Having grown up in Germany, Andrea came to South Africa in 1994. The early years of her professional career were spent in Corporate SA, as Head of Strategy for Siemens Southern Africa and Manager of a Software Division at Dimension Data. In 2007, she entered the Venture Capital space by single-handedly raising a R350m VC Fund, Hasso Plattner Ventures Africa, from the co-founder of SAP, Hasso Plattner. In 2011, she joined Knife Capital as Partner. Since then, Andrea has been instrumental in many eco-system defining initiatives in South Africa – representing South Africa’s VC system on numerous local and international panels. She has recently been appointed to the Board of SAVCA, the South African Venture Capital Association. Her goal is to prove that South African founders and the companies they build can compete on a global level. She sees herself as a business builder and a business partner, captivated by founders who have a deeper motivation and embrace the journey. Andrea knows that one needs an ecosystem to succeed, and is trying to play her part in building that. "
     social_media:
     - icon: ""
       link: "https://www.linkedin.com/in/andreaboehmert/"
       title: Linkedin
     image: "/images/people/andrea.jpg"
+    talk_description: "We are often prisoners of our own assumptions and let others take control of our life. The talk is about some important decisions to take, especially as women, to be in control of our life, career, future. It is an honest reflection of the choices we have to make and how to best prepare. "
     years:
       - Women In Tech Panel
 
@@ -573,6 +584,7 @@ Her goal is to prove that South African founders and the companies they build ca
       link: "https://www.linkedin.com/in/frank-ortmann-0b677a6/"
       title: Linkedin
     image: "/images/people/frank_ortmann.jpg"
+    talk_description: "I'll discuss how machine learning solutions are implemented in enterprises, what the role of a machine learning engineer is, and how they leverage MLOps to be successful."
     years:
       - Applied ML & Industry
   
@@ -585,6 +597,7 @@ Her goal is to prove that South African founders and the companies they build ca
       link: "https://www.linkedin.com/in/mehrdad-ghaziasgar-b00595108/"
       title: Linkedin
     image: "/images/people/mehrdad.png"
+    talk_description: "Convolutional Neural Networks are at the heart of state-of-the-art detection, recognition and tracking of objects in images and image sequences, surpassing the capabilities of traditional neural networks in this domain by far. This talk takes a very visual and unconvoluted approach to describing how CNNs work from the ground up, describing the fundamentals and key concepts, and building up to describing some established CNN architectures that have proven their mettle in a range of vision-based tasks. The talk ultimately aims to provide a good intuition about how CNNs work and demystify and deconvolute key CNN terminology."
     years:
       - Hackathon
       - CNNs
@@ -598,6 +611,7 @@ Her goal is to prove that South African founders and the companies they build ca
       link: "https://www.linkedin.com/in/gemmadawson"
       title: Linkedin
     image: "/images/people/gemma.jpg"
+    talk_description: "There is far more to IBM than servers and networking, and this talk will cover some of the local projects and ventures that are happening at IBM Research & IBM Quantum. If you are keen to discover what opportunities or potential research collaborations are possible, then join us for our talk.In this part of the talk, Stephanie will touch on the numerous opportunities available at IBM Research, the domains for which we develop technology solutions, including Healthcare, Quantum, AI and Foundation Models. Quantum computing may sound intimidating to some, but, if you have some linear algebra along with a good dose of curiosity in your back pocket, then you are ready to entangle some qubits. Gemma will guide you to resources, events, certifications, and community projects to help you get started in this thrilling field."
     years:
       - Applied ML & Industry
       - Quantum Computing
@@ -624,18 +638,73 @@ Her goal is to prove that South African founders and the companies they build ca
       link: "https://www.benjaminsturgeon.com/"
       title: Website
     image: "/images/people/benjamin_sturgeon.jpg"
+    talk_description: "This talk discusses the key arguments for why powerful AI systems may pose catastrophic risks."
     years:
       - Research
       - AI Safety 
 
+  - name: Thapelo Nthite
+    affiliation: Botlhale AI
+    link: modal 
+    bio : "Son. Brother. Friend. Thapelo Nthite is also the Co-Founder and CEO of Botlhale AI, an award- winning Artificial Intelligence startup backed by GrindStone, Branson Centre and Creative Destructive Labs - Montreal. Botlhale AI enables businesses to engage with their customers in languages that their customers understand and trust. Though still in its early stage, Botlhale AI has done work with some of the biggest organisations in the country including MTN and Capitec. Thapelo is a Mechatronics Engineering graduate from the University of Cape Town who is passionate about driving digital inclusion on the continent by disrupting digital monolingualism. Thapelo has been listed on News24’s Top 100 Mandela’s Of The Future and Mail &amp; Guardian’s top 200 South Africans. Having built one of the first documented end-to-end text-to-speech systems using AI for any South African language, his contributions to this space have been published by IEEE, and his work is starting to simplify the way people interact with technology."
+    social_media:
+    - icon: ""
+      link: "https://twitter.com/ThapeloNthite"
+      title: Twitter
+    - icon: ""
+      link: "https://linkedin.com/in/ThapeloNthite"
+      title: Linkedin
+    image: "/images/people/thapelo.jpg"
+    years:
+      - Applied ML & Industry
+
+  - name: Aby Louw 
+    affiliation: Council for Scientific and Industrial Research (CSIR)
+    link: modal 
+    bio : "I completed my studies in electronic engineering at the University of Pretoria and immediately ventured into the field of speech technologies, specialising in text-to-speech (TTS). With over 15 years of expertise as an accomplished C developer, I have successfully executed the development of portable medium to large-scale projects. My proficiency extends to interfacing low-level C libraries with both interpreted and compiled languages. I possess hands-on experience in implementing various machine learning techniques, ranging from traditional pattern recognition to cutting-edge deep learning, in both research and commercial systems. Additionally, I have extensive knowledge in the application of digital signal processing within commercial-grade software. Throughout my career, I have effectively led small, diverse teams consisting of highly skilled researchers and developers, driving them towards shared objectives. I am the principal architect and engineer behind the Qfrency text-to-speech system, which marks a significant milestone as the first commercial-grade TTS engine capable of synthesising text in all 11 official South African languages. The successful commercialisation of the Qfrency TTS system has facilitated its widespread adoption across various sectors, both domestically and internationally. Notable fields of implementation include education, assistive technologies, call centres, and more."
+    social_media:
+    - icon: ""
+      link: "https://github.com/abylouw"
+      title: Github
+    image: "/images/people/aby.jpg"
+    talk_description: "The talk highlights the importance of developing text-to-speech (TTS) technologies for African languages, particularly in resource-scarce environments. It explores the challenges and potential solutions for addressing the linguistic diversity of African languages through TTS systems, ultimately aiming to bridge the digital divide and promote inclusivity in the region."
+    years:
+      - Applied ML & Industry
+  
+  - name: Thomas Gwasira
+    affiliation: Peralex Electronics
+    link: modal 
+    bio : "Thomas is a Radar and Machine Learning Engineer at Peralex Electronics. He recently completed his MSc degree in Radar and Electronic Defence at the University of Cape Town, where his research focused on radar imaging. In his role, Thomas utilizes Deep Learning in radar, communications, and acoustic systems across a wide range of applications. He is particularly interested in the intersection of Engineering and Artificial Intelligence, aiming to develop advanced technologies that can make a positive impact on society."
+    social_media:
+    - icon: ""
+      link: "https://linkedin.com/in/tomgwasira"
+      title: Linkedin
+    image: "/images/people/thomas.jpg"
+    talk_description: "An overview of how Peralex Electronics employs Deep Learning in radar, communications and acoustic signal processing applications."
+    years:
+      - Applied ML & Industry
+
+  - name: Dr Eileen Izette Carter
+    affiliation: South African Human Rights Commission
+    link: modal 
+    bio : "Dr Eileen I Carter is an accomplished legal professional, serving as the Provincial Manager of the South African Human Rights Commission in the Eastern Cape. As an admitted attorney and accredited mediator, she has dedicated her career to promoting access to justice for marginalized communities. She boasts with several academic, professional and leadership accolades and has presented on local regional and international platforms on issues relating to the rights of vulnerable groups. She is currently pursuing studies on the intersection between human rights and developing technologies. "
+    social_media:
+    - icon: ""
+      link: "https://linkedin.com/in/dr-eileen-i-carter-2a61bb208"
+      title: Linkedin
+    image: "/images/people/eileen.jpg"
+    talk_description: "In the rapidly evolving landscape of deep learning technologies, it is imperative to emphasize the importance of human rights and the principle of doing no harm. While ethics serves as a crucial foundation, it is not enough to ensure the protection of individual rights and dignity. Human rights must be the guiding principle throughout the development and deployment of these powerful algorithms."
+    years:
+      - Applied ML & Industry
 
 
-  # - name: Deshen Moodley
-  #   affiliation: Centre for AI Research, University of Cape Town
-  #   link: http://www.cs.uct.ac.za/~deshen
-  #   image: "/images/people/dmoodley.jpg"
-  #   years:
-  #     - Research
+
+  - name: Deshen Moodley
+    affiliation: Centre for AI Research, University of Cape Town
+    link: http://www.cs.uct.ac.za/~deshen
+    image: "/images/people/dmoodley.jpg"
+    years:
+      - Research
   
   # - name: More incoming
   #   affiliation: from across South Africa!
