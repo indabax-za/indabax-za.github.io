@@ -21,7 +21,7 @@ tracks:
     color: "#7c60c6"
   - name: AI Ethics
     color: "#AA4465"
-  - name: AI Safety
+  - name: Safety in AI Workshop
     color: "#93E1D8"
   - name: Causal ML
     color: "#F25F5C"
@@ -30,9 +30,9 @@ tracks:
   - name: Education
     color: "#360568"
   - name: Social Science
-    color: "#F2C57C"
+    color: "#FF8C61"
   - name: Women in Tech Workshop
-    color: "#F2C57C"
+    color: "#7c60c6"
   - name: GANs
     color: "#94d1c6"
   - name: Explainable AI
@@ -48,15 +48,15 @@ tracks:
   - name: MLOps
     color: "#04a8f1"
   - name: Quantum Computing
-    color: "#995d34"
+    color: "#DB995A"
   - name: RL
-    color: "#995d34"  
+    color: "#9FD356"  
   - name: Robotics
-    color: "#763d0f"
+    color: "#80CFA9"
   - name: Astronomy
     color: "#1e9d8c"
   - name: BioAI
-    color: "#d74120"  
+    color: "#0C7C59"  
   - name: CNNs
     color: "#5d983c"
   - name: Data science
