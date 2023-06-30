@@ -1,26 +1,5 @@
 ---
 title: Schedule outline
-tracks:
-- name: Keynote
-  color: "#c9492c"
-- name: Research
-  color: "#18A8C9"
-- name: Applied ML & Industry
-  color: "#C92260"
-- name: Foundations
-  color: "#18C989"
-- name: Hackathon
-  color: "#f5a623"
-- name: Unconference
-  color: "#40C94A"
-- name: Poster Session
-  color: "#ebb493"
-- name: Social
-  color: "#29af8c"
-- name: Tutorials
-  color: "#003366"
-- name: Workshops
-  color: "#7c60c6"
 days:
 - title: Day 0
   date: 2023-07-11
@@ -75,7 +54,7 @@ days:
       location: ''
       sessions:
       - name: Paul Amayo
-        title: '[Robotics] Building Intelligence for Robotics In Africa'
+        # title: '[Robotics] Building Intelligence for Robotics In Africa'
         time: ''
       number: 
   - time: 10h00 - 10h25
@@ -95,7 +74,7 @@ days:
       location: ''
       sessions:
       - name: Daniel Nico Wilke
-        title: 'Decoding Data Science to Encode Concepts '
+        # title: 'Decoding Data Science to Encode Concepts '
         time: '10h30-12h00'
       number: 
     - title: Research I
@@ -105,11 +84,11 @@ days:
       sessions:
       - time: 10h30 - 11h00
         name: Aurona Gerber
-        title: 'The Digital-first World'
+        # title: 'The Digital-first World'
       
       - time: 11h00 - 11h30
         name: Isaac Itumeleng Setshedi
-        title: 'Unveiling hidden parameters: Transforming the classic solve for X problem to data driven interpretable latent parameters.'
+        # title: 'Unveiling hidden parameters: Transforming the classic solve for X problem to data driven interpretable latent parameters.'
       
       - time: 11h30 - 12h00
         name: Deshen Moodley 
@@ -122,14 +101,14 @@ days:
       sessions:
       - time: 10h30 - 11h00
         name: Jacques Ludik
-        title: '[Explainable AI] Pushing AI innovation to develop trustworthy explainable AI, AGI and autonomous Intelligent Agents in a Decentralized World'
+        # title: '[Explainable AI] Pushing AI innovation to develop trustworthy explainable AI, AGI and autonomous Intelligent Agents in a Decentralized World'
       - time: 11h00 - 11h30
         name: Gemma Dawson & Stephanie Müller  
-        image: "images/people/gemmasteph.jpg"
-        title: 'IBM Quantum Research in Healthcare'
+        # image: "images/people/gemmasteph.jpg"
+        # title: 'IBM Quantum Research in Healthcare'
       - time: 11h30 - 12h00
         name: Gabi Immelman
-        title: '[Education] Minds and Machines: The most powerful technology in the classroom?'
+        # title: '[Education] Minds and Machines: The most powerful technology in the classroom?'
       number: 
 
   - time: 12h00 - 13h00
@@ -148,7 +127,7 @@ days:
       location: ''
       sessions:
       - name: Kshitij Thorat 
-        title: 'Translating astronomical Big Data into patterns of discovery (Astronomy)'
+        # title: 'Translating astronomical Big Data into patterns of discovery'
         time: ''
       number: 
   - time: 14h00 - 14h30
@@ -162,12 +141,12 @@ days:
   - time: 14h30 - 16h00
     columns:
     - title: Transformers - Foundations II
-      track: Foundations II
+      track: Foundations
       content: ''
       location: ''
       sessions:
       - name: Ruan van der Merwe
-        title: 'Paying Attention to Transformers: A Deep Dive into Transformer Networks'
+        # title: 'Paying Attention to Transformers: A Deep Dive into Transformer Networks'
         time: ''
       number: 
     - title: ML, GANs, Vision - Research II
@@ -177,13 +156,13 @@ days:
       sessions:
       - time: 14h30 - 15h00
         name: St John Grimbly
-        title: '[Causal ML] Intro to Causality  '
+        # title: '[Causal ML] Intro to Causality  '
       - time: 15h00 - 15h30
         name: Emile-Reyn Engelbrecht 
-        title: '[GANs] Semi-supervised learning and novelty detection using Generative Adversarial Networks '
+        # title: '[GANs] Semi-supervised learning and novelty detection using Generative Adversarial Networks '
       - time: 15h30 - 16h00
         name: Cassandra Durr
-        title: '[Language; Vision; DL] Contrastive Learning: Fundamentals and Practical Applications '
+        # title: '[Language; Vision; DL] Contrastive Learning: Fundamentals and Practical Applications '
       number: 
     - title: Industry II
       track: Applied ML & Industry
@@ -192,14 +171,14 @@ days:
       sessions:
       - time:  14h30 - 15h00
         name: Sedinam Simpson
-        title: '[DS; Applied]  Day in the Life of a Data Scientist '
+        # title: '[DS; Applied]  Day in the Life of a Data Scientist '
       - time: 15h00 - 15h30
         name: Siphiwe Thwala  
-        title: 'TBD'
+        # title: 'TBD'
      
       - time: 15h30 - 16h00
         name: Dineo Makoro 
-        title: '[DS; Explainable AI] How a line graph can ruin your day. '
+        # title: '[DS; Explainable AI] How a line graph can ruin your day. '
       number: 
   - time: 16h00 - 17h00
     columns:
@@ -237,7 +216,7 @@ days:
       location: ''
       sessions:
       - name: Jay van Zyl
-        title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
+        # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
         time: ''
       number: 
   - time: 10h00 - 10h30
@@ -250,13 +229,13 @@ days:
       sessions: []
   - time: 10h30 - 12h00
     columns:
-    - title: Workshop - Foundations III
+    - title: Computer Vision - Foundations III
       track: Foundations
       content: ''
       location: ''
       sessions:
       - name:  Ritesh Kanjee
-        title: '[Vision] Mastering Modern Computer Vision Workshop: From Basics to Cutting-Edge Techniques'
+        # title: '[Vision] Mastering Modern Computer Vision Workshop: From Basics to Cutting-Edge Techniques'
         time: ''
       number: 
     - title: Language - Research III
@@ -265,13 +244,11 @@ days:
       location: ''
       sessions:
       - name: Herman Kamper
-        title: '[Language] What can large spoken language models tell us about speech?'
+        # title: '[Language] What can large spoken language models tell us about speech?'
         time: ''
       - name:  Matthew Baas
-        title: '[Language] Voice conversion with just nearest neighbours '
-        time: ''
       - name: Leanne Nortje
-        title: '[Language; Vision] Visually grounded few-shot word learning in low-resource settings'
+        # title: '[Language; Vision] Visually grounded few-shot word learning in low-resource settings'
         time: ''
       number: 
     - title: MLOps - Industry III
@@ -280,13 +257,13 @@ days:
       location: ''
       sessions:
       - name: Alta de Waal
-        title: '[Applied; MLOps] AI use cases in BMW Group South Africa'
+        # title: '[Applied; MLOps] AI use cases in BMW Group South Africa'
         time: ''
-      - name: Dr Frank Ortmann 
-        title: 'MLOps in Enterprise'
+      - name: Frank Ortmann 
+        # title: 'MLOps in Enterprise'
         time: ''
       - name: Shane Gregory Acton
-        title: '[BioAI] Natural Language AI is revolutionising Medical Science'
+        # title: '[BioAI] Natural Language AI is revolutionising Medical Science'
         time: ''
       number: 
   - time: 12h00 - 13h00
@@ -305,7 +282,7 @@ days:
       location: ''
       sessions:
       - name: Emma Ruttkamp-Bloem
-        title: '[Agency; Identity] AI and Agency'
+        # title: '[Agency; Identity] AI and Agency'
         time: ''
       number: 
   - time: 14h00 - 14h30
@@ -324,7 +301,7 @@ days:
       location: ''
       sessions:
       - name: Jacobie Mouton
-        title: 'An Introduction to Variational Inference and its Application in Deep Learning'
+        # title: 'An Introduction to Variational Inference and its Application in Deep Learning'
         time: ''
       number: 
     - title: Research IV
@@ -333,13 +310,13 @@ days:
       location: ''
       sessions:
       - name: Ayogeboh Epizitone
-        title: '[Applied; Healthcare] AI applications in healthcare'
+        # title: '[Applied; Healthcare] AI applications in healthcare'
         time: ''
       - name: Joseph Muthui Wacira
-        title: '[DL; Applied; Energy] Advances in Machine Learning for Renewable energy.'
+        # title: '[DL; Applied; Energy] Advances in Machine Learning for Renewable energy.'
         time: ''
       - name: Aby Louw 
-        title: '[Language] Text-to-speech for African languages (resource-scarce)'
+        # title: '[Language] Text-to-speech for African languages (resource-scarce)'
         time: ''
       number: 
     - title: ML Ops - Industry IV
@@ -348,13 +325,13 @@ days:
       location: ''
       sessions:
       - name: Keegan White
-        title: '[Applied; Networks] Smart Networks - the Power of Machine Learning Controlled Computer Networks'
+        # title: '[Applied; Networks] Smart Networks - the Power of Machine Learning Controlled Computer Networks'
         time: ''
       - name: Thomas Gwasira
-        title: '[Applied; Radar] Reading the Air: Deep Learning in Radar, Communications and Acoustic Signal Processing'
+        # title: '[Applied; Radar] Reading the Air: Deep Learning in Radar, Communications and Acoustic Signal Processing'
         time: ''
       - name: Mahmood-Ali Parker
-        title: '[Applied; Vision] Liveness Detection: Defending Against the Emerging Threat of Deepfakes'
+        # title: '[Applied; Vision] Liveness Detection: Defending Against the Emerging Threat of Deepfakes'
         time: ''
       number: 
   - time: 16h00 - 16h30
@@ -373,7 +350,7 @@ days:
       location: ''
       sessions:
       - name: Asad Jeewa
-        title: 'RL - Reinforcement learning '
+        # title: 'RL - Reinforcement learning '
         time: ''
       number: 
     - title: Lightning Talks
@@ -388,7 +365,7 @@ days:
       location: ''
       sessions:
       - name: Mehrdad Ghaziasgar
-        title: '[Hackathon Preparation] An unconvoluted introduction to CNNs'
+        # title: '[Hackathon Preparation] An unconvoluted introduction to CNNs'
         time: ''
       number: 
   - time: 18h00 - 23h59
@@ -439,7 +416,7 @@ days:
       location: ''
       sessions:
       - name:  Kevin Eloff
-        title: '[Diffusion] Denoising Diffusion Models: Introduction and Applications'
+        # title: '[Diffusion] Denoising Diffusion Models: Introduction and Applications'
         time: ''
       number: 
     - title: Reinforcement Learning - Research VI
@@ -448,13 +425,13 @@ days:
       location: ''
       sessions:
       - name: Sasha Abramowitz
-        title: '[RL] Beyond Python: How Julia can Accelerate your Reinforcement Learning projects'
+        # title: '[RL] Beyond Python: How Julia can Accelerate your Reinforcement Learning projects'
         time: ''
       - name:  Batsi Ziki
-        title: '[RL] Curiosity: The compass that leads to intrinsic motivation'
+        # title: '[RL] Curiosity: The compass that leads to intrinsic motivation'
         time: ''
       - name: Divanisha Patel
-        title: '[Applied; RL]  Reinforcement Learning and its Applications to Real-World Problems'
+        # title: '[Applied; RL]  Reinforcement Learning and its Applications to Real-World Problems'
         time: ''
       number: 
     - title: Industry VI
@@ -462,14 +439,14 @@ days:
       content: ''
       location: ''
       sessions:
-      - name: Dr Eileen I Carter
-        title: '[Meta; Rights] RightsTech: Balancing Innovation and Human Rights in the Age of Deep Learning'
+      - name: Eileen Izette Carter
+        # title: '[Meta; Rights] RightsTech: Balancing Innovation and Human Rights in the Age of Deep Learning'
         time: ''
       - name: Chijioke Okorie
-        title: '[Meta; Legal]  Navigating legal and licensing landscape for machine learning applications'
+        # title: '[Meta; Legal]  Navigating legal and licensing landscape for machine learning applications'
         time: ''
       - name: Roger Carthew
-        title: '[Meta; People]  How People Power your business.'
+        # title: '[Meta; People]  How People Power your business.'
         time: ''
       number: 
   - time: 12h00 - 13h00
@@ -484,39 +461,45 @@ days:
   - time: 13h00 - 15h30 
     columns:
     - title: "Safety in AI workshop"
-      track: ''
+      track: 'Safety in AI Workshop'
       content: ''
       location: ''
       number: 
       sessions:
       - name: Jonas Kgomo
-        title: '[AI Safety]  A walk through the AI landscape in Africa: opportunities and risks'
+        title: 'A walk through the AI landscape in Africa: opportunities and risks'
+        years: 
+          - Safety in AI Workshop
         time: ''
       - name: Zainab Chirwa
-        title: '[AI Safety]  AI policy and governance in Africa'
+        title: 'AI policy and governance in Africa'
+        years: 
+          - Safety in AI Workshop
         time: ''
       - name: Benjamin Sturgeon
-        title: '[AI Safety]  An introduction to technical AI safety and alignment research'
+        # title: '[AI Safety]  An introduction to technical AI safety and alignment research'
         time: ''
       - title: Panel discussion
 
     - title: Women In Tech Workshop
-      track: Women in Tech
+      track: Women In Tech Workshop
       content: ''
       location: ''
       sessions:
       - name: Andrea Bohmert
-        title: 'Control your own Destiny'
+        # title: 'Control your own Destiny'
         time: ''
       - name: Mmaki Jantjies
         title: 'Education and AI'
         time: ''
       - name: Thenjiwe Kubheka
-        title: 'Women In Tech panel'
+        title: ''
         time: ''
       - name: Victoria Pedlar
-        title: ' TBD '
+        title: ''
         time: ''
+      - title: Panel discussion
+        time: "15h00"
       number: 
 
   - time: 15h30 - 16h00
@@ -536,7 +519,6 @@ days:
       content: 'Panel Discussion about AI and Africa - A New Day or a Painful Replay?	'
       sessions: 
         - name : Thapelo Nthite
-          title: 
 
   - time: 17h00 - 17h30
     columns:

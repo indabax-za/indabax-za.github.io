@@ -70,6 +70,7 @@ enable = true
 expire_days = 20
 [params.faculty]
 badges = false
+show_track = true
 sortby = "name" # name, max_year, etc.
 order = "asc" # asc, desc
 [[params.footermenu.about]]

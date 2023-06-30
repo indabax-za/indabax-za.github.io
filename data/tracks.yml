@@ -17,8 +17,22 @@ tracks:
     color: "#29af8c"
   - name: Tutorials
     color: "#003366"
-  - name: Workshops
+  - name: Workshop
     color: "#7c60c6"
+  - name: AI Ethics
+    color: "#AA4465"
+  - name: AI Safety
+    color: "#93E1D8"
+  - name: Causal ML
+    color: "#F25F5C"
+  - name: Diffusion
+    color: "#247BA0"
+  - name: Education
+    color: "#360568"
+  - name: Social Science
+    color: "#F2C57C"
+  - name: Women in Tech Workshop
+    color: "#F2C57C"
   - name: GANs
     color: "#94d1c6"
   - name: Explainable AI
@@ -27,6 +41,8 @@ tracks:
     color: "#28e12d"
   - name: Language
     color: "#e84b9a"
+  - name: Legal
+    color: "#462255"
   - name: ML
     color: "#f3e332"  
   - name: MLOps

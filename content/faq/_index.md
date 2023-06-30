@@ -61,7 +61,7 @@ In the city centre, there are security guards on every corner, making the city o
 
 ## Time
 
-#### {{<icon "fa-solid fa-plane">}} &nbsp; **When should I arrive/leave Cape Town for the Indaba𝕏?** {.faq-item}
+#### {{<icon "fa-solid fa-clock">}} &nbsp; **When should I arrive/leave Cape Town for the Indaba𝕏?** {.faq-item}
 
 We suggest arriving the day before the Indaba𝕏 starts (i.e. the 11th July) and leaving the day after the Indaba𝕏 ends (i.e. the 15th of July).
 
@@ -81,7 +81,11 @@ We will be in the Kramer LT1-3 and the quad area of the [Kramer Building](https:
 
 For more information, see also [ABOUT](/about)
 
-#### {{<icon "ti-car">}} &nbsp; **How do I get to the venue from Cape Town International Airport?** {.faq-item}
+#### {{<icon "ti-car">}} &nbsp; **Is there parking on campus?** {.faq-item}
+
+Yes, there is parking on campus. We will provide more information at registration.
+
+#### {{<icon "fa-solid fa-plane">}} &nbsp; **How do I get to the venue from Cape Town International Airport?** {.faq-item}
 
 The venue is a 30 minute drive from the airport. There are a number of options for getting to the venue from the airport:
 
