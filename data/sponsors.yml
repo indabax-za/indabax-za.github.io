@@ -50,6 +50,11 @@ sponsors:
     link: https://www.google.com/
     current: false
     background_color: ''
+  - name: City of Cape Town
+    image: images/partners/coct.png
+    link: https://www.capetown.gov.za/
+    current: true
+    background_color: ''
 - tier: 🖼️ White Rhino (Poster session)
   size: 100
   item: 
@@ -216,6 +221,21 @@ sponsors:
   - name: Centre for AI Research
     image: images/partners/cair.svg
     link: https://cair.org.za/
+    current: true
+    background_color: ''
+  - name: DataProphet
+    image: images/partners/dataprophet_com.png
+    link: https://www.dataprophet.com/
+    current: false
+    background_color: ''
+  - name: Chisl
+    image: images/partners/chisl.png
+    link: https://www.chislgroup.com/
+    current: false
+    background_color: ''
+  - name: IBRO-Simons Computational Neuroscience Imbizo
+    image: images/partners/imbizo_invert.png
+    link: https://imbizo.africa/
     current: true
     background_color: ''
 

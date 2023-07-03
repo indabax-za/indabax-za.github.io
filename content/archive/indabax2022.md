@@ -130,6 +130,8 @@ position = "Local organiser, Catering & Social Events"
 affiliation = "University of Pretoria"
 image = "/images/people/sindane.jpg"
 link = "https://www.linkedin.com/in/thapelo-sindane-a8907b1b2"
+[sponsorargs]
+sponsors = "2022-sponsors"
 +++
 
 ## {{<icon "ti-info">}} About
@@ -164,4 +166,4 @@ get your hands dirty and learn from the best
 
 ## {{<icon "ti-money">}} Sponsors
 
-{{< partial "sponsors" "2022-sponsors">}}
+{{< partial "sponsors" "sponsorargs">}}
