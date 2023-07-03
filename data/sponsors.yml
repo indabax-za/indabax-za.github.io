@@ -226,7 +226,7 @@ sponsors:
   - name: DataProphet
     image: images/partners/dataprophet_com.png
     link: https://www.dataprophet.com/
-    current: false
+    current: true
     background_color: ''
   - name: Chisl
     image: images/partners/chisl.png
