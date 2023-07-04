@@ -27,9 +27,9 @@ days:
   sessions:
   - time: '08h00 - 08h30'
     columns:
-    - title: ☕
+    - title: ☕ & Registration
       track: ''
-      content: 'Morning coffee/tea (Late registration)'
+      content: 'Morning coffee/tea and late registration'
       location: ''
       number: 
       sessions: []
