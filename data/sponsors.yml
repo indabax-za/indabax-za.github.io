@@ -55,13 +55,20 @@ sponsors:
     link: https://www.capetown.gov.za/
     current: true
     background_color: ''
+- tier: African Buffalo (AI Fest)
+  item:
+    - name: Lelapa AI
+      image: images/partners/lelapa-ai.png
+      link: https://lelapa.ai/
+      current: true
+      background_color: ''
 - tier: 🖼️ White Rhino (Poster session)
   size: 100
   item: 
   - name: AI Expo Africa
-    image: images/partners/ai_expo.png
+    image: images/partners/ai_expo_2023.png
     link: https://aiexpoafrica.com/
-    current: false
+    current: true
     background_color: ''
 - tier: 🐆 Leopard (Hackathon)
   size: 80
@@ -91,13 +98,6 @@ sponsors:
     link: https://dns.net.za/
     current: false
     background_color: ''
-- tier: African Buffalo (AI Fest)
-  item:
-    - name: Lelapa AI
-      image: images/partners/lelapa-ai.png
-      link: https://lelapa.ai/
-      current: true
-      background_color: ''
 - tier: 🐃 Cape Buffalo (R25 000)
   size: 100
   item:
@@ -158,6 +158,16 @@ sponsors:
   - name: Adanian Labs
     image: images/partners/adanianlabs.png
     link: https://www.adanianlabs.io
+    current: true
+    background_color: ''
+  - name: SAAIA - South African Artificial Intelligence Association
+    image: images/partners/saaia.png
+    link: https://saaiassociation.co.za
+    current: true
+    background_color: ''
+  - name: AI Media Group
+    image: images/partners/ai_media_group.jpg
+    link: http://aimediagroup.co.za
     current: true
     background_color: ''
 - tier: 🏛 Affiliated institutions
