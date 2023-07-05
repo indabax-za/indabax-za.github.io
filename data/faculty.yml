@@ -380,6 +380,20 @@ people:
     topic: 'CHPC: Localised Deep Learning Resources'
     years:
     - Research
+  - name: Karen Viljoen
+    affiliation: Teraflow.ai
+    bio: Data Engineer at Teraflow.ai.
+    image: /images/people/viljoen.jpg
+    link: modal
+    social_media:
+    - icon: ''
+      link: https://www.linkedin.com/in/karen-viljoen-3b1a361a5/
+      title: LinkedIn
+    talk_description: Small and big data engineering lessons in industry.
+    topic: Data plumbing 101
+    years:
+    - Applied ML & Industry
+    - Data Science
   - name: Dineo Makoro
     affiliation: Vodacom Group
     topic: How a line graph can ruin your day
@@ -538,6 +552,7 @@ people:
     talk_description: "Enabling your People to do their best everyday, is so often forgotten in the frantic pace of Tech start up's. I will share valuable lessons learnt over a successful global career on how to  create an ideal environment for business and employee growth and success. "
     years:
       - Applied ML & Industry
+      - People
 
   - name: Shane Gregory Acton
     affiliation: Instadeep
@@ -679,7 +694,6 @@ people:
     years:
       - Applied ML & Industry
       - Education
-      - ML in Healthcare workshop
 
   - name: Isaac Itumeleng Setshedi
     affiliation: University of Pretoria
@@ -722,7 +736,7 @@ people:
       - MLOps
   - name: Mehrdad Ghaziasgar
     affiliation: University of the Western Cape
-    topic: "[Hackathon prep] An unconvoluted introduction to CNNs"
+    topic: "Hackathon prep: An unconvoluted introduction to CNNs"
     link: modal
     bio: "Dr Mehrdad Ghaziasgar is a Senior Lecturer in Computer Science at the University of the Western Cape. He has more than a decade of experience in research in the domain of applied machine learning, with over 40 accredited publications and an extensive postgraduate supervision track record. His research group has produced over 45 assistive technology prototypes, some of which have received national acclaim. He also consults to industry in the same capacity. He is particularly enthusiastic about finding ways to convey complex topics in Computing to diverse audiences."
     social_media:
@@ -808,7 +822,7 @@ people:
       become leaders in responsible AI development and safety.
     topic: A Guided Walkthrough the African AI Safety Landscape
     years:
-      - Safety in AI Workshop
+      - Workshop on AI Safety and Governance in Africa Workshop
       - AI Ethics
   - affiliation: Effective Altruism UCT/ University of Cape Town
     bio: Zainab is a final year LLB student at the University of Cape Town and a graduate
@@ -831,7 +845,7 @@ people:
       bodies such as the AU, SADC, COMESA, ECOWAS and AMU.
     topic: Perspectives on AI Governance in Africa
     years:
-      - Safety in AI Workshop
+      - Workshop on AI Safety and Governance in Africa Workshop
       - AI Ethics
   - name: Benjamin Sturgeon
     affiliation: UCT, EA UCT
@@ -846,9 +860,122 @@ people:
     talk_description: "This talk discusses the key arguments for why powerful AI systems may pose catastrophic risks."
     years:
       - Research
-      - Safety in AI Workshop
+      - Workshop on AI Safety and Governance in Africa Workshop
       - AI Ethics
+  - affiliation: ''
+    bio: 'Sandras Phiri is the CEO and Founder of Pranary, the practical business
 
+      school. He is a business and life strategist.
+
+
+      Sandras is an expert on startup and revenue growth. He works with
+
+      entrepreneurs from over 40 countries helping them launch, grow
+
+      customers and revenue as well as get investor ready.
+
+      Sandras has founded successful companies in IT, entertainment and
+
+      education. He has worked with over 25 organisations and has lectured at
+
+      over 17 universities. His work has taken him to 24 countries.
+
+
+      Sandras has a degree in Computer Science and an MBA from University
+
+
+      of Cape Town. He has shared stages with Facebook and Asana co-
+
+      founder Dustin Maskovitch, YouTube co-founder Steve Chen, Clay
+
+
+      Christensen, Guy Kawasaki and Steve Blank. He has worked in banking,
+
+      mobile payments, unit trusts, IT and education. He has been taught by
+
+      some of the world''s greatest teachers including Dr John Demartini, Roger
+
+      Hamilton and Tony Robbins. He has been named one of the 15 tech
+
+      people to follow in South Africa in 2018 and 2019.'
+    image: /images/people/phiri.jpg
+    link: modal
+    name: Sandras Phiri
+    social_media:
+    - icon: ''
+      link: https://www.linkedin.com/in/sandrasphiri
+      title: LinkedIn
+    - icon: ''
+      link: https://www.facebook.com/sandrasphiri
+      title: Facebook
+    - icon: ''
+      link: https://twitter.com/sandrasphiri
+      title: Twitter
+    - icon: ''
+      link: https://www.sandrasphiri.com
+      title: Website
+    talk_description: Panel discussion
+    topic: Panel discussion
+    years:
+    - AI in Africa
+  - affiliation: Research ICT Africa
+    bio: "Zara Schroeder is a Researcher and the Communications Coordinator at Research\
+      \ ICT Africa. Zara holds a Master\u2019s degree in Public Sociology and Anthropology\
+      \ from Stellenbosch University. Zara has experience in qualitative research methods.\
+      \ Zara is skilled in research methods and qualitative data analysis. She has a\
+      \ wide background in supporting non-governmental organisations in South Africa\
+      \ in enhancing the visibility and impact of their work. Zara\u2019s research interests\
+      \ lie in the intersectionalities between digital and social inequalities, gender\
+      \ and AI, children and AI, and participatory action and AI. Zara is committed\
+      \ to rethinking development in a digital world through methods that promote citizen\
+      \ participation."
+    image: 'image download failed: https://drive.google.com/uc?export=download&id=1jwqnFMKbfjr3pSHL1ArypxnNF67J224S'
+    link: modal
+    name: Zara Schroeder
+    social_media:
+    - icon: ''
+      link: https://www.linkedin.com/in/zara-schroeder-a2818320b/
+      title: LinkedIn
+    - icon: ''
+      link: https://researchictafrica.net
+      title: Website
+    talk_description: Panel Discussion
+    topic: Panel Discussion
+    years:
+    - AI in Africa
+  - affiliation: University of Cape Town
+    bio: "Mark is an admitted attorney with over ten years of start-up, in-house legal\
+      \ and research experience gained through leading local and international organisations\
+      \ including Uber, Takealot, Media24, Human Sciences Research Council, simple.Capital()and\
+      \ Research ICT Africa. At present he runs his own research/legal consultancy,\
+      \ .athinktank and serves as a Partner at MVH Attorneys and Head of Research &\
+      \ Intelligence at Reflector Marketing. His areas of expertise include contracts,\
+      \ commercial, e-commerce, technology, start-ups, compliance and artificial intelligence.\
+      \ \n\nMark holds degrees in arts (majoring in history and sociology) and law,\
+      \ both from the University of Cape Town (UCT). Currently, he is reading for his\
+      \ PhD in jurisprudence at UCT where his research focuses on certain ethical implications\
+      \ of artificial intelligence, particularly concerning the effect AI has on human\
+      \ autonomy and independent decision-making. \n\nFinally, Mark is a co-author of\
+      \ Human Rights and the Fourth Industrial Revolution in South Africa (HSRC Press,\
+      \ 2021), the first major investigation of the real and potential human rights\
+      \ implications of the 4IR in South Africa."
+    image: /images/people/gaffley.jpg
+    link: modal
+    name: Mark Gaffley
+    social_media:
+    - icon: ''
+      link: https://www.linkedin.com/in/markgaffley/
+      title: LinkedIn
+    - icon: ''
+      link: https://@markrgaffley (twitter)
+      title: Twitter
+    - icon: ''
+      link: www.athinktank.ai
+      title: Website
+    talk_description: Panel Discussion
+    topic: Panel Discussion
+    years:
+    - AI in Africa
   - name: Thapelo Nthite
     topic: "Building an AI startup in Africa"
     affiliation: Botlhale AI

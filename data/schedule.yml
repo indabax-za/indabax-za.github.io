@@ -133,7 +133,7 @@ days:
       location: ''
       sessions:
       - name: Sedinam Simpson
-      - name: Siphiwe Thwala  
+      - name: Karen Viljoen 
       - name: Dineo Makoro 
   - time: 16h00 - 17h00
     columns:
@@ -401,8 +401,8 @@ days:
 
   - time: 13h00 - 15h30 
     columns:
-    - title: "Safety in AI workshop"
-      track: 'Safety in AI Workshop'
+    - title: "Workshop on AI Safety and Governance in Africa workshop"
+      track: 'Workshop on AI Safety and Governance in Africa Workshop'
       content: ''
       location: ''
       number: 
@@ -450,7 +450,12 @@ days:
       number: 
       content: 'Panel Discussion about AI and Africa - A New Day or a Painful Replay?	'
       sessions: 
-        - name : Thapelo Nthite
+        - title: AI and Africa - A New Day or a Painful Replay?
+          panel:
+          - name: Sandras Phiri
+          - name: Zara Schroeder
+          - name: Mark Gaffley
+          - name: Thapelo Nthite
 
   - time: 17h00 - 17h30
     columns:
