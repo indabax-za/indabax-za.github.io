@@ -23,6 +23,8 @@ tracks:
     color: "#AA4465"
   - name: AI in Africa
     color: "#F25F5C"
+  - name: AI in Africa panel
+    color: "#F25F5C"
   - name: ML in Healthcare workshop
     color: "#247BA0"
   - name: Inference

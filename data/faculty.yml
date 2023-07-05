@@ -898,7 +898,7 @@ people:
       Hamilton and Tony Robbins. He has been named one of the 15 tech
 
       people to follow in South Africa in 2018 and 2019.'
-    image: /images/people/phiri.jpg
+    image: '/images/people/phiri.jpg'
     link: modal
     name: Sandras Phiri
     social_media:
@@ -929,7 +929,7 @@ people:
       \ and AI, children and AI, and participatory action and AI. Zara is committed\
       \ to rethinking development in a digital world through methods that promote citizen\
       \ participation."
-    image: 'image download failed: https://drive.google.com/uc?export=download&id=1jwqnFMKbfjr3pSHL1ArypxnNF67J224S'
+    image: ''
     link: modal
     name: Zara Schroeder
     social_media:
@@ -959,7 +959,7 @@ people:
       \ Human Rights and the Fourth Industrial Revolution in South Africa (HSRC Press,\
       \ 2021), the first major investigation of the real and potential human rights\
       \ implications of the 4IR in South Africa."
-    image: /images/people/gaffley.jpg
+    image: '/images/people/gaffley.jpg'
     link: modal
     name: Mark Gaffley
     social_media:
@@ -990,7 +990,7 @@ people:
         title: Linkedin
     image: "/images/people/thapelo.jpg"
     years:
-      - Applied ML & Industry
+      - AI in Africa
 
   - name: Aby Louw
     affiliation: Council for Scientific and Industrial Research (CSIR)

@@ -445,10 +445,11 @@ days:
 
   - time: 16h00 - 17h00
     columns:
-    - title: 
+    - title: Panel Discussion
+      track: AI in Africa
       location: ''
-      number: 
-      content: 'Panel Discussion about AI and Africa - A New Day or a Painful Replay?	'
+      number: 4
+      content: 'Hosted by Callum Tilbury'
       sessions: 
         - title: AI and Africa - A New Day or a Painful Replay?
           panel:
