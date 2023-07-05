@@ -62,36 +62,20 @@ days:
       - title: ☕
         track: ''
         content: Break  
-        location: ''
-        number: 
-        sessions: []
 
   - time: 10h30 - 12h00
     columns:
     - title: Machine Learning - Foundations I
       track: Foundations
-      content: ''
-      location: ''
       sessions:
       - name: Daniel Nico Wilke
-        # title: 'Decoding Data Science to Encode Concepts '
-        time: '10h30-12h00'
       number: 
     - title: Research I
       track: Research
-      content: ''
-      location: ''
       sessions:
-      - time: 10h30 - 11h00
-        name: Aurona Gerber
-        # title: 'The Digital-first World'
-      
-      - time: 11h00 - 11h30
-        name: Isaac Itumeleng Setshedi
-        # title: 'Unveiling hidden parameters: Transforming the classic solve for X problem to data driven interpretable latent parameters.'
-      
-      - time: 11h30 - 12h00
-        name: Deshen Moodley 
+      - name: Aurona Gerber
+      - name: Isaac Itumeleng Setshedi
+      - name: Deshen Moodley 
         title: 'TBD'
       number: 
     - title: Industry I
@@ -99,16 +83,9 @@ days:
       content: ''
       location: ''
       sessions:
-      - time: 10h30 - 11h00
-        name: Jacques Ludik
-        # title: '[Explainable AI] Pushing AI innovation to develop trustworthy explainable AI, AGI and autonomous Intelligent Agents in a Decentralized World'
-      - time: 11h00 - 11h30
-        name: Gemma Dawson & Stephanie Müller  
-        # image: "images/people/gemmasteph.jpg"
-        # title: 'IBM Quantum Research in Healthcare'
-      - time: 11h30 - 12h00
-        name: Gabi Immelman
-        # title: '[Education] Minds and Machines: The most powerful technology in the classroom?'
+      - name: Jacques Ludik
+      - name: Gemma Dawson & Stephanie Müller  
+      - name: Gabi Immelman
       number: 
 
   - time: 12h00 - 13h00
@@ -142,58 +119,46 @@ days:
     columns:
     - title: Transformers - Foundations II
       track: Foundations
-      content: ''
-      location: ''
       sessions:
       - name: Ruan van der Merwe
-        # title: 'Paying Attention to Transformers: A Deep Dive into Transformer Networks'
-        time: ''
-      number: 
     - title: ML, GANs, Vision - Research II
       track: Research
-      content: ''
-      location: ''
       sessions:
-      - time: 14h30 - 15h00
-        name: St John Grimbly
-        # title: '[Causal ML] Intro to Causality  '
-      - time: 15h00 - 15h30
-        name: Emile-Reyn Engelbrecht 
-        # title: '[GANs] Semi-supervised learning and novelty detection using Generative Adversarial Networks '
-      - time: 15h30 - 16h00
-        name: Cassandra Durr
-        # title: '[Language; Vision; DL] Contrastive Learning: Fundamentals and Practical Applications '
-      number: 
+      - name: St John Grimbly
+      - name: Emile-Reyn Engelbrecht 
+      - name: Cassandra Durr
     - title: Industry II
       track: Applied ML & Industry
       content: ''
       location: ''
       sessions:
-      - time:  14h30 - 15h00
-        name: Sedinam Simpson
-        # title: '[DS; Applied]  Day in the Life of a Data Scientist '
-      - time: 15h00 - 15h30
-        name: Siphiwe Thwala  
-        # title: 'TBD'
-     
-      - time: 15h30 - 16h00
-        name: Dineo Makoro 
-        # title: '[DS; Explainable AI] How a line graph can ruin your day. '
-      number: 
+      - name: Sedinam Simpson
+      - name: Siphiwe Thwala  
+      - name: Dineo Makoro 
   - time: 16h00 - 17h00
     columns:
-    - title: Group Photo 📷 and Speed Dating 
-      track: ''
-      content: ''
-      location: ''
-      number: 
-      sessions: []
+    - title: 📷 Group Photo and Speed 'Dating'
   - time: 17h00 - 20h30
     columns:
-    - title: AI Fest/ Poster Session/ Opening Event
-      track: Festival 
-      content: ''
-      location: TBD
+    - title: 🎉 AI Fest / Poster Session / Opening Event
+      # track: Social 
+      content: "
+
+        \ - **Poster session**: Everyone is invited to showcase their ongoing projects. Even if your work is not yet complete, this is a fantastic opportunity to gain valuable insights and advice.
+        
+        \ - **Company Exhibitions**: Companies are encouraged to exhibit their state-of-the-art ML projects and achievements.
+        
+        \ - **Research Showcases**: We invite innovative labs and research groups to showcase their cutting-edge work in the field.
+        
+        \ - **Student Bonus**: Stand a chance to win exciting prizes 🏆 with your innovative projects! (Only for Students)
+
+        \ \n
+        Sponsored by [Lelapa AI and SAAIA](/partners). 
+        \ \n
+        ![Lelapa AI](/images/partners/lelapa-ai.png) 
+        ![SAAIA](/images/partners/saaia.png)
+        "
+      location: Kramer Quad
     
 - title: Day 2
   date: 2023-07-13
@@ -224,37 +189,20 @@ days:
     - title: ☕ 
       track: ''
       content: 'Break  (Speaker Intros start at 10:25am)'
-      location: ''
-      number: 
-      sessions: []
   - time: 10h30 - 12h00
     columns:
     - title: Computer Vision - Foundations III
       track: Foundations
-      content: ''
-      location: ''
       sessions:
       - name:  Ritesh Kanjee
-        # title: '[Vision] Mastering Modern Computer Vision Workshop: From Basics to Cutting-Edge Techniques'
-        time: ''
-      number: 
     - title: Language - Research III
       track: Research
-      content: ''
-      location: ''
       sessions:
       - name: Herman Kamper
-        # title: '[Language] What can large spoken language models tell us about speech?'
-        time: ''
       - name:  Matthew Baas
       - name: Leanne Nortje
-        # title: '[Language; Vision] Visually grounded few-shot word learning in low-resource settings'
-        time: ''
-      number: 
     - title: MLOps - Industry III
       track: Applied ML & Industry
-      content: ''
-      location: ''
       sessions:
       - name: Alta de Waal
         # title: '[Applied; MLOps] AI use cases in BMW Group South Africa'
@@ -265,7 +213,6 @@ days:
       - name: Shane Gregory Acton
         # title: '[BioAI] Natural Language AI is revolutionising Medical Science'
         time: ''
-      number: 
   - time: 12h00 - 13h00
     columns:
     - title: 🍽️ 
@@ -309,7 +256,7 @@ days:
       content: ''
       location: ''
       sessions:
-      - name: Ayogeboh Epizitone
+      - name: Mervyn Christoffels
         # title: '[Applied; Healthcare] AI applications in healthcare'
         time: ''
       - name: Joseph Muthui Wacira
@@ -357,8 +304,7 @@ days:
       track: Research
       content: 'Multiple speakers'
       location: ''
-      
-      number: 
+      number: 20
     - title: Hackathon Prep
       track: Applied ML & Industry
       content: ''
@@ -393,13 +339,8 @@ days:
     columns:
     - title: Keynote V
       track: Keynote
-      content: ''
-      location: ''
       sessions:
       - name: John Kamara
-        title: 'TBD'
-        time: ''
-      number: 
   - time: 10h00 - 10h30
     columns:
     - title: ☕
@@ -467,18 +408,8 @@ days:
       number: 
       sessions:
       - name: Jonas Kgomo
-        title: 'A walk through the AI landscape in Africa: opportunities and risks'
-        years: 
-          - Safety in AI Workshop
-        time: ''
-      - name: Zainab Chirwa
-        title: 'AI policy and governance in Africa'
-        years: 
-          - Safety in AI Workshop
-        time: ''
+      - name: Zainab Taonga Chirwa
       - name: Benjamin Sturgeon
-        # title: '[AI Safety]  An introduction to technical AI safety and alignment research'
-        time: ''
       - title: Panel discussion
 
     - title: Women in Tech Workshop
@@ -487,21 +418,22 @@ days:
       location: ''
       sessions:
       - name: Andrea Bohmert
-        # title: 'Control your own Destiny'
-        time: ''
-      - name: Mmaki Jantjies
-        title: 'Education and AI'
-        time: ''
       - name: Thenjiwe Kubheka
-        title: ''
-        time: ''
-      - name: Victoria Pedlar
-        title: ''
-        time: ''
-      - title: Panel discussion
-        time: "15h00"
-      number: 
-
+      - name: Mmaki Jantjies
+      - title: Panel discussion - What role can women play in AI in Africa?
+        time: 14h00
+      - title: Break (10 min)
+      - title: Breakout sessions
+    - title: ML in Healthcare workshop
+      track: ML in Healthcare workshop
+      sessions:
+        - name: Ayogeboh Epizitone
+        - name: Siphiwe Thwala
+        - name: Junior Muka
+        - name: Oluwasegun Julius Aroba
+        - title: Break (20 min)
+        - title: Panel discussion
+          time: 14h50
   - time: 15h30 - 16h00
     columns:
     - title: ☕ 

@@ -21,6 +21,12 @@ tracks:
     color: "#7c60c6"
   - name: AI Ethics
     color: "#AA4465"
+  - name: AI in Africa
+    color: "#F25F5C"
+  - name: ML in Healthcare workshop
+    color: "#247BA0"
+  - name: Inference
+    color: "#360568"
   - name: Safety in AI Workshop
     color: "#93E1D8"
   - name: Causal ML
@@ -59,7 +65,7 @@ tracks:
     color: "#0C7C59"  
   - name: CNNs
     color: "#5d983c"
-  - name: Data science
+  - name: Data Science
     color: "#f67b8b"
   - name: Deep Learning
     color: "#ab6f0c"  

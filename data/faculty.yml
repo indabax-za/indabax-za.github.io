@@ -68,7 +68,7 @@ people:
     talk_description: "Mastering Modern Computer Vision: From Basics to Cutting-Edge Techniques' workshop provides a comprehensive exploration of core and advanced aspects of Computer Vision. The tutorial will delve into essential techniques such as object detection, segmentation, pose estimation, and text detection, all within a deep learning framework. This high-impact session aims to bridge theory with practical application, equipping attendees with the skills needed to leverage Computer Vision in solving complex real-world challenges."
     years:
       - Foundations
-      - Tutorials
+      - Vision
 
   - name: Asad Jeewa
     topic: Reinforcement Learning
@@ -83,9 +83,30 @@ people:
     talk_description: "An explanation of the fundamentals of reinforcement learning, touching on multi-agent and multi-objective reinforcement learning"
     years:
       - Foundations
-      - Tutorials
       - RL
-
+  - name: Mmaki Jantjies
+    affiliation: Telkom
+    bio: "Mmaki Jantjies holds a PhD in computer science with research interests broadly\
+      \ in the field of technology for development and is an NRF rated researcher. \n\
+      \nShe is the Group Executive for Innovation at Telkom and is also an adjunct associate\
+      \ professor at the University of the Western Cape."
+    image: /images/people/jantjies.jpg
+    link: modal
+    social_media:
+    - icon: ''
+      link: https://twitter.com/mmakij
+      title: Twitter
+    - icon: ''
+      link: 'www.mmakij.co.za '
+      title: Website
+    talk_description: This presentation focuses on being intentional about personal
+      development and career growth, particularly in the field of Artificial Intelligence
+      (AI), with a focus on societal impact. The talk is aimed at inspiring individuals
+      to consider their roles in shaping the future of AI and its implications on society.
+    topic: Intentional career development in the field of AI
+    years:
+      - Applied ML & Industry
+      - Women in Tech Workshop
   - name: Emma Ruttkamp-Bloem
     topic: "AI and Agency"
     affiliation: University of Pretoria and South African Centre for AI Research
@@ -102,6 +123,7 @@ people:
     talk_description: "What does it mean to speak of personal identity, autonomy, and agency in the light of the current status and exponential growth of data-driven AI technologies? Why does the question matter?"
     years:
       - Keynote
+      - AI Ethics
 
   - name: Kevin Eloff
     topic: "Denoising Diffusion Models: Introduction and Applications"
@@ -172,6 +194,7 @@ people:
     years:
       - Foundations
       - Transformers
+      - Language
 
   - name: Alta de Waal
     affiliation: BMW Group South Africa
@@ -232,6 +255,7 @@ people:
     years:
       - Research
       - RL
+      - Data Science
 
   - name: Divanisha Patel
     affiliation: Instadeep
@@ -341,9 +365,21 @@ people:
     talk_description: "Bayesian inference allows us to calculate the posterior distribution of unknown variables given observations, using Bayes' Theorem. In practice however, it is typically the case that this posterior distribution is intractable to compute exactly. This tutorial introduces variational inference (VI) - which constructs an approximate posterior by framing the inference problem as an optimization problem. As part of this tutorial, we will consider tools such as Pyro which help simplify the application of VI and allow it to scale to large datasets and models. The tutorial concludes by considering an example application of VI in deep learning - Variational Autoencoders."
     years:
       - Foundations
-      - Tutorials
+      - Inference
       # - Research
-
+  - name: Mervyn Christoffels
+    affiliation: Centre for High Performance Computing
+    bio: The Centre for High Performance Computing (CHPC) is a national high performing
+      computing facility that is funded by the Department of Science and Innovation
+      (DSI) and administered by the CSIR.
+    image: '/images/people/christoffels.jpg'
+    link: modal
+    social_media: []
+    talk_description: Introduction to the Centre for High-Performance Computing and
+      its capabilities to accelerate Deep Learning Projects
+    topic: 'CHPC: Localised Deep Learning Resources'
+    years:
+    - Research
   - name: Dineo Makoro
     affiliation: Vodacom Group
     topic: How a line graph can ruin your day
@@ -355,6 +391,7 @@ people:
     years:
       - Applied ML & Industry
       - Explainable AI
+      - Data Science
 
   - name: Batsi Ziki
     affiliation: InstaDeep and University of Cape Town
@@ -448,7 +485,7 @@ people:
     talk_description: "Arthur C. Clarke once said, 'Any sufficiently advanced technology is indistinguishable from magic'. One could argue that data scientists are modern magicians… but are we really?  The role of a data scientist in industry spans from understanding business context and identifying problems to solve, to thinking of meaningful metrics and explaining solutions to stakeholders. If you are a grad wondering what data science in the real world looks like, this talk is for you."
     years:
       - Applied ML & Industry
-      - Data science
+      - Data Science
 
   # - name: Rachel
   #   affiliation: University of Cape Town
@@ -473,6 +510,7 @@ people:
     image: "/images/people/placeholder.jpg"
     years:
       - Women in Tech Workshop
+      - Education
 
   - name: Jay van Zyl
     affiliation: Ecosystem.Ai
@@ -511,7 +549,8 @@ people:
     talk_description: "An introduction to the way that the technologies powering ChatGPT are also impacting biology and medical research. By using Ai sequence models - we can now model protein interactions, predict vaccine candidates, and even generate new medicines."
     years:
       - Applied ML & Industry
-      - BioAI
+      - Healthcare
+      - Language
 
   - name: Ayogeboh Epizitone
     affiliation: Durban University of Technology
@@ -527,6 +566,7 @@ people:
     years:
       - Applied ML & Industry
       - Healthcare
+      - ML in Healthcare workshop
 
   - name: Paul Amayo
     affiliation: University of Cape Town
@@ -545,14 +585,82 @@ people:
 
   - name: Siphiwe Thwala
     affiliation: IBM Research
-    topic: "TBD"
+    talk_description: The biomedical domain has a plethora of unstructured data in different
+      forms (clinical notes, image scans, laboratory data, and electrical impulse scans).
+      We present an overview of biomedical text insights extraction for structuring
+      clinical notes.
+    topic: Biomedical Text Insights Extraction
     link: modal
     bio: "Siphiwe Thwala is a Research Scientist within the computational linguistics team at IBM Research Africa, South African Lab. His research background is in computational astrophysics, with a focus on using unsupervised learning to detect signals of the plasma produced by non-thermal diffuse emission, in extended radio sources. His work at IBM includes: semantic based sentiment analysis on twitter data; interactive data visualisation of twitter data; and semantic based insights extraction and knowledge modelling on biomedical text."
-
     image: "/images/people/siphiwe.jpg"
     years:
       - Applied ML & Industry
-
+      - ML in Healthcare workshop
+  - name: Junior Muka
+    affiliation: PhD Candidate - University of Arkansas at Little Rock
+    bio: Junior Muka is a passionate data management professional with over 15 years
+      of industry experience. He possesses deep expertise in data governance, data quality
+      management, and big data architecture. He heads up data governance at Woolworths
+      and regularly shares his experience with students as a part-time Lecturer at the
+      University of Western Cape (UWC). Junior is a PhD candidate in Computer and Information
+      Sciences at the University of Arkansas at Little Rock (UALR), USA.
+    image: '/images/people/muka.jpg'
+    link: modal
+    social_media: 
+      - icon: ''
+        link: https://www.linkedin.com/in/junior-muka-aa0b0b7/
+        title: LinkedIn
+    talk_description: The effectiveness of machine learning models relies heavily on
+      the quality of the data they are trained on. However, managing data quality presents
+      well-known challenges, including manual, time-consuming, and resource-intensive
+      processes. In this presentation, we will explore how machine learning techniques
+      can be utilized to enhance data quality.
+    topic: Improving data quality using machine learning
+    years:
+    - ML in Healthcare workshop
+  - name: Oluwasegun Julius Aroba
+    affiliation: Durban University of Technology
+    bio: Dr Julius Oluwasegun Aroba, a Durban University of Technology lecturer, Department
+      of Information Systems. Honorable Research Associate in the Department of Operations
+      and Quality Management. He has a PhD. in Information Technology. A graduate of
+      Information Technology University from the prestigious Coventry University United
+      Kingdom, BSc. Computer Science and Technology (Upper-Class Division) Crawford
+      University whose research inclination focus area are into Wireless Sensor Networks,
+      Hyper-Heuristic, Hybrid-Heuristic, Meta-Analysis, Project Management, Data Science,
+      Machine Learning, SAP Specialist with over decade years of experience in the higher
+      education sector, healthcare industries, government parastatals, a consultant
+      across the globe, a graduate member of IEEE, IITPSA South Africa, Member of IET
+      UK. He has Chaired and Co-Chaired International and National Conferences. He is
+      a global mentor to SMEs and European African, Sisonke NdabaX, and a seasoned guest
+      speaker. He has a vast collaboration network across Spain, France, Morocco, the
+      USA, the UK, South Africa, and Sweden.
+    image: '/images/people/aroba.jpg'
+    link: modal
+    social_media:
+    - icon: ''
+      link: https://www.linkedin.com/in/julius-o-aroba-ph-d-83409150/
+      title: LinkedIn
+    - icon: 
+      link: https://www.facebook.com/youngestmd
+      title: Facebook
+    - icon: ''
+      link: https://scholar.google.com/citations?user=4pn2PsMAAAAJ&hl=en&oi=ao
+      title: Website
+    talk_description: The fields of customizable pinpoint medicine and healthcare research
+      have recently undergone a revolution thanks to artificial intelligence and machine
+      learning. Large amounts of health data are now available, including patient medical
+      records made accessible by wearable sensors, health insurance claims, medical
+      imaging, surveillance, and more. The rapid development of machine learning algorithms,
+      which primarily use deep learning techniques to analyze clinical data, is gradually
+      improving disease surveillance, enabling doctors to make better diagnoses, facilitating
+      early disease detection, uncovering novel treatments and drug interactions, and
+      other effects. Research and development in this area are moving more quickly than
+      before.
+    topic: Uncovering the emergent of AI in Health Care Industries in the 21st Century
+    years:
+    - Research
+    - Applied ML & Industry
+    - Foundations
   - name: Gabi Immelman
     affiliation: Mindjoy
     topic: "Minds and Machines: The most powerful technology in the classroom?"
@@ -571,6 +679,7 @@ people:
     years:
       - Applied ML & Industry
       - Education
+      - ML in Healthcare workshop
 
   - name: Isaac Itumeleng Setshedi
     affiliation: University of Pretoria
@@ -582,7 +691,7 @@ people:
     talk_description: "A data-driven approach that leverages latent parameters to simplify the analysis and interpretation of complex data. We showcase the potential of data-driven machine learning and latent parameters in simplifying complex problems and enhancing interpretability. By leveraging the latent space, we enable a more comprehensive analysis of data."
     years:
       - Research
-
+      - Data Science
   - name: Andrea Bohmert
     affiliation: Knife Capital
     topic: "Control your own Destiny"
@@ -610,7 +719,7 @@ people:
     talk_description: "I'll discuss how machine learning solutions are implemented in enterprises, what the role of a machine learning engineer is, and how they leverage MLOps to be successful."
     years:
       - Applied ML & Industry
-
+      - MLOps
   - name: Mehrdad Ghaziasgar
     affiliation: University of the Western Cape
     topic: "[Hackathon prep] An unconvoluted introduction to CNNs"
@@ -623,8 +732,9 @@ people:
     image: "/images/people/mehrdad.png"
     talk_description: "Convolutional Neural Networks are at the heart of state-of-the-art detection, recognition and tracking of objects in images and image sequences, surpassing the capabilities of traditional neural networks in this domain by far. This talk takes a very visual and unconvoluted approach to describing how CNNs work from the ground up, describing the fundamentals and key concepts, and building up to describing some established CNN architectures that have proven their mettle in a range of vision-based tasks. The talk ultimately aims to provide a good intuition about how CNNs work and demystify and deconvolute key CNN terminology."
     years:
+      - Foundations
       - Hackathon
-      - CNNs
+      - Vision
 
   - name: Gemma Dawson & Stephanie Müller
     topic: IBM Quantum Research in Healthcare
@@ -648,6 +758,7 @@ people:
     years:
       - Applied ML & Industry
       - Quantum Computing
+      - Healthcare
 
   # - name: Stephanie Müller
   #   affiliation: IBM Quantum
@@ -661,7 +772,67 @@ people:
   #   years:
   #     - Applied ML & Industry
   #     - Quantum Computing
-
+  - name: Jonas Kgomo
+    affiliation: Equiano Institute
+    bio: "I am Jonas, the founder of the African AI Safety Lab, Equiano Institute, and\
+      \ Progress Studies Journal. I am passionate about promoting AI alignment and policy\
+      \ for African. \n\nI pursued my studies in Computer Science, earning a candidate\
+      \ for Masters at the University of Sussex and completing a BSc in Mathematics\
+      \ at Istanbul University.  As an independent researcher, I established the Progress\
+      \ Studies Journal, which serves as an overlay journal dedicated to distilling\
+      \ research aimed at technological progress, and responsible innovation.\n\nPreviously,\
+      \ I served as Founder in Residence at Enterpreneur UK in London, where I worked\
+      \ with a select group of entrepreneurs to build projects and foster partnerships.\
+      \  I am also actively involved with Cohere For AI as a volunteer, leading AI Safety\
+      \ Talks. In this role, under Sara Hooker."
+    image: /images/people/kgomo.jpg
+    link: modal
+    social_media:
+    - icon: ''
+      link: https://twitter.com/jonas_kg
+      title: Twitter
+    - icon: ''
+      link: https://www.linkedin.com/in/jonas-kgomo/
+      title: LinkedIn
+    - icon: ''
+      link: https://jonas-kgomo.github.io/
+      title: Website
+    talk_description: This talk is on AI Alignment, Safety and Preparedness progress
+      in Africa. It will look at cutting-edge alignment and FAIR (Fairness, Accountability,
+      Interpretability, and Robustness) progress in the context of AI safety. We are
+      excited to explore the potential for African countries to lead in responsible
+      AI development and safety. In this session, we will delve into key aspects, such
+      as community engagement, public awareness, and initiatives in low-resource languages.
+      Offer recommendations for strengthening AI safety research, education, policy
+      frameworks, and collaborations. Discuss the potential for African countries to
+      become leaders in responsible AI development and safety.
+    topic: A Guided Walkthrough the African AI Safety Landscape
+    years:
+      - Safety in AI Workshop
+      - AI Ethics
+  - affiliation: Effective Altruism UCT/ University of Cape Town
+    bio: Zainab is a final year LLB student at the University of Cape Town and a graduate
+      of Rhodes University having majored in Geography and legal theory. She is the
+      current chairperson of the Effective Altruism student society at the University
+      of Cape Town. Zainab is interested in issues of governance the development of
+      effective policy for positive impact. She is currently involved in researching
+      current proposals and drafting of global AI governance frameworks.
+    image: /images/people/taongachirwa.jpg
+    link: modal
+    name: Zainab Taonga Chirwa
+    social_media:
+    - icon: ''
+      link: https://linkedin -https://www.linkedin.com/in/zainab-chirwa-16734855/
+      title: LinkedIn
+    talk_description: An introductory discussion on AI governance frameworks on the
+      African continent and their status alongside global efforts in mitigating and
+      preventing AI risks. The aim of the presentation is to make a case for the urgent
+      need for governing AI by our governments and international regional community
+      bodies such as the AU, SADC, COMESA, ECOWAS and AMU.
+    topic: Perspectives on AI Governance in Africa
+    years:
+      - Safety in AI Workshop
+      - AI Ethics
   - name: Benjamin Sturgeon
     affiliation: UCT, EA UCT
     topic: "An introduction to technical AI safety and alignment research"
@@ -676,6 +847,7 @@ people:
     years:
       - Research
       - Safety in AI Workshop
+      - AI Ethics
 
   - name: Thapelo Nthite
     topic: "Building an AI startup in Africa"
@@ -706,6 +878,8 @@ people:
     talk_description: "The talk highlights the importance of developing text-to-speech (TTS) technologies for African languages, particularly in resource-scarce environments. It explores the challenges and potential solutions for addressing the linguistic diversity of African languages through TTS systems, ultimately aiming to bridge the digital divide and promote inclusivity in the region."
     years:
       - Applied ML & Industry
+      - Research
+      - Language
 
   - name: Thomas Gwasira
     affiliation: Peralex Electronics
@@ -735,6 +909,7 @@ people:
     years:
       - Applied ML & Industry
       - Legal
+      - AI Ethics
 
   - name: Deshen Moodley
     affiliation: Centre for AI Research, University of Cape Town
@@ -742,7 +917,26 @@ people:
     image: "/images/people/dmoodley.jpg"
     years:
       - Research
+  - name: John Kamara
+    topic: "The AI opportunity for Africa"
+    affiliation: "Adanian Labs & AAICE"
+    talk_description: "Driving Innovation, Empowering Communities: Capacity Building for Inclusive AI in Africa"
+    bio: |- 
+        John Kamara is a Tech Entrepreneur with over 20 years’ experience working in new market acquisitions across various technology verticals in Europe, America, Asia and Africa.
 
+        John is one of Africa’s leading experts on how businesses can leverage key technology trends, transform organizations and drive competitive advantage for impact in industries including finance, agriculture, health, education, gaming and startup enterprises.
+
+        John is actively involved and heavily invested in new technologies focusing on IoT (Internet of Things), AI (Artificial Intelligence), Blockchain and Crowdfunding. Having worked in market growth leadership roles for global technology companies at Google, Conduit, eir Ireland, Digicel, BMC Software and others, John is committed to seeing technology play a critical role catapulting Africa into the Fourth Industrial Revolution while creating critical mass impact.
+    image: "/images/people/kamara.jpg"
+    years: 
+      - Keynote
+      - AI in Africa
+    link: modal
+    social_media:
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/johnkamara/"
+      - title: Website
+        link: https://www.aiceafrica.com/about
   # - name: More incoming
   #   affiliation: from across South Africa!
   #   link: "https://forms.gle/tfoCVrDGFK7wjmmw8"
