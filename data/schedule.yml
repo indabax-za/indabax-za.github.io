@@ -401,8 +401,8 @@ days:
 
   - time: 13h00 - 15h30 
     columns:
-    - title: "Workshop on AI Safety and Governance in Africa workshop"
-      track: 'Workshop on AI Safety and Governance in Africa Workshop'
+    - title: "AI Safety and Governance in Africa Workshop"
+      track: 'AI Safety and Governance in Africa Workshop'
       content: ''
       location: ''
       number: 
