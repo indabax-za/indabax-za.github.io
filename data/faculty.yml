@@ -68,6 +68,7 @@ people:
     talk_description: "Mastering Modern Computer Vision: From Basics to Cutting-Edge Techniques' workshop provides a comprehensive exploration of core and advanced aspects of Computer Vision. The tutorial will delve into essential techniques such as object detection, segmentation, pose estimation, and text detection, all within a deep learning framework. This high-impact session aims to bridge theory with practical application, equipping attendees with the skills needed to leverage Computer Vision in solving complex real-world challenges."
     years:
       - Foundations
+      - Education
       - Vision
 
   - name: Asad Jeewa
