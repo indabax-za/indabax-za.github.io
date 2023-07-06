@@ -142,6 +142,7 @@ days:
     columns:
     - title: 🎉 AI Fest / Poster Session / Opening Event
       # track: Social 
+      # image: /images/partners/lelapa-ai.png
       content: "
 
         \ - **Poster session**: Everyone is invited to showcase their ongoing projects. Even if your work is not yet complete, this is a fantastic opportunity to gain valuable insights and advice.
@@ -155,7 +156,7 @@ days:
         \ \n
         Sponsored by [Lelapa AI and SAAIA](/partners). 
         \ \n
-        ![Lelapa AI](/images/partners/lelapa-ai.png) 
+        ![Lelapa AI](/images/partners/lelapa-ai.png)
         ![SAAIA](/images/partners/saaia.png)
         "
       location: Kramer Quad
@@ -424,13 +425,14 @@ days:
         time: 14h00
       - title: Break (10 min)
       - title: Breakout sessions
-    - title: ML in Healthcare workshop
-      track: ML in Healthcare workshop
+    - title: Ml in Healthcare Workshop
+      track: Ml in Healthcare Workshop
       sessions:
         - name: Ayogeboh Epizitone
         - name: Siphiwe Thwala
         - name: Junior Muka
         - name: Oluwasegun Julius Aroba
+        - name: Kayode Adetunji
         - title: Break (20 min)
         - title: Panel discussion
           time: 14h50

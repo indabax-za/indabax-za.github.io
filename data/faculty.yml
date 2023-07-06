@@ -515,7 +515,11 @@ people:
 
   - name: Thenjiwe Kubheka
     affiliation: InterCodex
-    link: "https://www.linkedin.com/in/thenjiwe-kubheka-02a00a104"
+    link: modal
+    topic: Developmental opportunities for women within the Technology sector
+    talk_description: "We as ladies are a rare breed within this beautiful and futuristic sector. Perhaps, with some introspection, we can do even more.
+        \ \n
+        I'll address some developmental opportunities I've noticed, such as imposter syndrome, lack of female mentors and lack of networking sessions."
     bio: ""
     social_media:
       - icon: ""
@@ -525,7 +529,18 @@ people:
     years:
       - Women in Tech Workshop
       - Education
-
+  - name: Kayode Adetunji
+    affiliation: Sydney Brenner Institute for Molecular Bioscience (SBIMB)
+    topic: "Using Deep Learning to Predict CVD Multimorbidity in Africa: A Guide to Navigate the Dark Abyss"
+    talk_description: "The talk discusses the problems in applying deep learning to predict CVD multimorbidity in Africa. Accuracy issues and explainability limitations will be explored, which will be followed by proposed solutions using emerging techniques and algorithms."
+    bio: "Dr Kayode Adetunji holds a PhD in Electrical and Information Engineering from Wits university, worked on computational and artificial intelligence algorithms. He is currently a Postdoctoral research fellow at the Sydney Brenner Institute for Molecular Bioscience (SBIMB), working with the MADIVA team. His research focal point is to develop advanced machine learning models for understanding the patterns of multimorbidity using phenotypes, genomic and other etiological characteristics."
+    image: "/images/people/adetunji.jpg"
+    link: modal
+    social_media:
+      - link: https://scholar.google.co.za/citations?user=NZf07cgAAAAJ&hl=en, https://www.linkedin.com/in/kayode-emmanuel-adetunji
+        title: Google Scholar
+    years: 
+      - Ml in Healthcare Workshop
   - name: Jay van Zyl
     affiliation: Ecosystem.Ai
     topic: "Human Organism as Algorithm"
@@ -581,7 +596,7 @@ people:
     years:
       - Applied ML & Industry
       - Healthcare
-      - ML in Healthcare workshop
+      - Ml in Healthcare Workshop
 
   - name: Paul Amayo
     affiliation: University of Cape Town
@@ -610,7 +625,7 @@ people:
     image: "/images/people/siphiwe.jpg"
     years:
       - Applied ML & Industry
-      - ML in Healthcare workshop
+      - Ml in Healthcare Workshop
   - name: Junior Muka
     affiliation: PhD Candidate - University of Arkansas at Little Rock
     bio: Junior Muka is a passionate data management professional with over 15 years
@@ -632,7 +647,7 @@ people:
       can be utilized to enhance data quality.
     topic: Improving data quality using machine learning
     years:
-    - ML in Healthcare workshop
+    - Ml in Healthcare Workshop
   - name: Oluwasegun Julius Aroba
     affiliation: Durban University of Technology
     bio: Dr Julius Oluwasegun Aroba, a Durban University of Technology lecturer, Department
@@ -1040,8 +1055,11 @@ people:
 
   - name: Deshen Moodley
     affiliation: Centre for AI Research, University of Cape Town
+    topic: "Embracing Human-Centred Artificial Intelligence: The rise of Augmented AI systems"
+    # talk_description: ""
     link: "http://www.cs.uct.ac.za/~deshen"
     image: "/images/people/dmoodley.jpg"
+    bio: "Deshen Moodley is co-Director of AIRU, and a co-Director of CAIR. He is an Associate Professor in the Department of Computer Science at the University of Cape Town. Deshen’s broad research area can be categorised as designing components and architectures for adaptive and cognitive systems using AI techniques, such as machine learning, agent-based systems, Bayesian networks and more broadly probabilistic graphical models, and ontologies."
     years:
       - Research
   - name: John Kamara
