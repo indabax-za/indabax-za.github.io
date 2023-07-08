@@ -76,7 +76,7 @@ days:
       - name: Aurona Gerber
       - name: Isaac Itumeleng Setshedi
       - name: Deshen Moodley 
-        title: 'TBD'
+        title: 'Embracing Human-Centred Artificial Intelligence: The rise of Augmented AI systems'
       number: 
     - title: Industry I
       track: Applied ML & Industry
@@ -421,9 +421,9 @@ days:
       - name: Andrea Bohmert
       - name: Thenjiwe Kubheka
       - name: Mmaki Jantjies
-      - title: Panel discussion - What role can women play in AI in Africa?
-        time: 14h00
-      - title: Break (10 min)
+      - title: Panel discussion 
+      
+     
       - title: Breakout sessions
     - title: Ml in Healthcare Workshop
       track: Ml in Healthcare Workshop
@@ -435,7 +435,7 @@ days:
         - name: Kayode Adetunji
         - title: Break (20 min)
         - title: Panel discussion
-          time: 14h50
+          
   - time: 15h30 - 16h00
     columns:
     - title: ☕ 
