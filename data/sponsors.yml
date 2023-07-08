@@ -127,13 +127,18 @@ sponsors:
     link: https://www.ashanti.ai
     current: false
     background_color: ''
-- tier: 🦁 Lion (R15 000)
+- tier: 🦁 Lion (up to R15 000)
   size: 60
   item: 
+    - name: Uber
+      image: images/partners/uber.png
+      link: https://www.uber.com
+      current: true
+      background_color: ''
     - name: Support us
       image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
       link: "mailto: sponsors@indabax.co.za"
-      current: true
+      current: false
       background_color: ''
 - tier: 🧤 Community
   size: 100
