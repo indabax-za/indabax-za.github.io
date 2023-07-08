@@ -402,17 +402,6 @@ days:
 
   - time: 13h00 - 15h30 
     columns:
-    - title: "AI Safety and Governance in Africa Workshop"
-      track: 'AI Safety and Governance in Africa Workshop'
-      content: ''
-      location: ''
-      number: 
-      sessions:
-      - name: Jonas Kgomo
-      - name: Zainab Taonga Chirwa
-      - name: Benjamin Sturgeon
-      - title: Panel discussion
-
     - title: Women in Tech Workshop
       track: Women in Tech Workshop
       content: ''
@@ -422,7 +411,17 @@ days:
       - name: Thenjiwe Kubheka
       - name: Mmaki Jantjies
       - title: Panel discussion 
-      
+
+    - title: "AI Safety and Governance in Africa Workshop"
+      track: 'AI Safety and Governance in Africa Workshop'
+      content: ''
+      location: ''
+      number: 
+      sessions:
+      - name: Jonas Kgomo
+      - name: Zainab Taonga Chirwa
+      - name: Benjamin Sturgeon
+     
      
       - title: Breakout sessions
     - title: Ml in Healthcare Workshop
