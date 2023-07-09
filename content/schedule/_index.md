@@ -9,9 +9,9 @@ args:
     collapsed: false
 ---
 
-<!-- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[Download shcedule here ]()
-{{< /class >}} -->
+{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[Download Schedule here ](https://drive.google.com/file/d/1RWQJwbEpIvYA65YS9_Rb8invjHLZPtkh/view?usp=sharing)
+{{< /class >}}
 
 
 {{< partial "schedule" "args" >}}
