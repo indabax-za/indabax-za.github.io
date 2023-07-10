@@ -542,6 +542,8 @@ people:
         title: Google Scholar
     years: 
       - Ml in Healthcare Workshop
+      - Healthcare
+      - Applied ML & Industry
   - name: Jay van Zyl
     affiliation: Ecosystem.Ai
     topic: "Human Organism as Algorithm"
@@ -626,6 +628,7 @@ people:
     image: "/images/people/siphiwe.jpg"
     years:
       - Applied ML & Industry
+      - Healthcare
       - Ml in Healthcare Workshop
   - name: Junior Muka
     affiliation: PhD Candidate - University of Arkansas at Little Rock
@@ -649,6 +652,8 @@ people:
     topic: Improving data quality using machine learning
     years:
     - Ml in Healthcare Workshop
+    - Research
+    - Healthcare
   - name: Oluwasegun Julius Aroba
     affiliation: Durban University of Technology
     bio: Dr Julius Oluwasegun Aroba, a Durban University of Technology lecturer, Department
@@ -689,9 +694,8 @@ people:
       before.
     topic: Uncovering the emergent of AI in Health Care Industries in the 21st Century
     years:
-    - Research
-    - Applied ML & Industry
-    - Foundations
+    - ML in Healthcare Workshop
+    - Healthcare
   - name: Gabi Immelman
     affiliation: Mindjoy
     topic: "Minds and Machines: The most powerful technology in the classroom?"

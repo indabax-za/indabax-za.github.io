@@ -13,9 +13,9 @@ banner:
       - title: Schedule
         URL: "/schedule"
         color: "#C9492C"
-      - title: Register now
-        URL: "/register"
-        color: "#228EE3"
+      # - title: Register now
+      #   URL: "/register"
+      #   color: "#228EE3"
       - title: Donate
         URL: "/partners"
         color: "#B91111"
