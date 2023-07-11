@@ -7,6 +7,20 @@ min_header_height: 40em
 
 ---
 
+## General
+
+#### {{<icon "fa-solid fa-clock">}} &nbsp; **I'm arriving late on Tuesday, can I still register on Wednesday?** {.faq-item}
+
+Yes! Come early (8am) to register on the Wednesday morning.
+
+#### {{<icon "ti-home">}} &nbsp; **I have a travel grant or have booked accommodation through the IndabaX to stay at UCT, where is it?** {.faq-item}
+
+The accommodation is at [Fuller Hall](https://stayandconnect.uct.ac.za/album/fuller-hall), which is a 5 minute walk from the venue.
+
+Directions can be found [here](https://goo.gl/maps/muCMEK64Sbo165Kn9).
+
+Check-in is 24/7. Please bring your IndabaX name badge, ID or passport to check-in.
+
 ## Funding
 
 #### {{<icon "fa-solid fa-brazilian-real-sign">}} &nbsp; **How much does it cost to _attend_ the Indaba𝕏?** {.faq-item}
@@ -118,7 +132,6 @@ We know that your time is limited when attending a conference, but if you plan o
 
 The University regularly hosts visitors and has a variety of accommodation available on and off campus:
 
-- **At a residence nearby**: Please fill out [this form](https://forms.gle/bLDMy3aehPM65zcG6) to request an invoice (**~R560 per night**).
 - [All Africa House](http://www.stayandconnect.uct.ac.za/sc/all-africa-house) is UCT's on-campus B&B and provides accommodation for visiting academics, researchers and visitors on UCT-related business.
 - [Stay&Connect](http://www.stayandconnect.uct.ac.za/) manages UCT's student residences that can be made available for holiday accommodation (during university holidays), large groups and student delegations.
 - [Protea Hotel Cape Town Mowbray](https://www.marriott.com/hotels/travel/cptmw-protea-hotel-cape-town-mowbray/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_NDIyOTI2OC03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU=) and [Protea Hotel Cape Town Waterfront Breakwater Lodge](https://www.marriott.com/hotels/travel/cptbr-protea-hotel-cape-town-waterfront-breakwater-lodge/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_NDExODU1OS03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D) and are hotels close to Main Campus and Breakwater Campus in the city centre
