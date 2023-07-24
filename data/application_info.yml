@@ -2,58 +2,58 @@
 link: "/register"
 info_link_label: Registration info
 applications:
-  # - heading: "Registrations and Applications  \n\U0001F52D \U0001F6E0 \U0001F393"
-  #   label: Register
-  #   open: false
-  #   closed_message: Opening May!
-  #   URL: ""
-  #   color: "#9A5BD4"
-  #   open_date:
-  #     soon! Tickets released in multiple waves on a first come, first serve
-  #     basis
-  #   close_date: 2023-06-09T23:00:00.000+00:00
-  #   acceptance_date: see below for tips on how to [improve your application](/#how-do-i-imporve-my-application)
-  - heading: "Academia  \n\U0001F52D  \nR1700"
-    label: Register now
-    open: true
-    closed_message: Opening soon!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSdwd6_t5qMO0_AuNbkuO3RtCT1eqb8kNvXSZ-GlDzCoYiUsuQ/viewform?usp=sf_link"
+  - heading: "Registrations and Applications  \n\U0001F52D \U0001F6E0 \U0001F393"
+    label: Register
+    open: false
+    closed_message: Opening March 2024!
+    URL: ""
     color: "#9A5BD4"
     open_date:
-      again soon. Tickets released in multiple waves on a first come, first serve
+      soon! Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2023-07-07T23:00:00.000+02:00
-    acceptance_date: upon payment
-  - heading: "Industry  \n\U0001F6E0  \nR3400"
-    label: Register now
-    open: true
-    closed_message: Opening soon!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSc3C-ZSOzzZdtofP0ZoK2EMtHI8ccKxozKvBYypYLtyngUkPA/viewform?usp=sf_link"
-    color: "#228EE3"
-    open_date:
-      again soon. Tickets released in multiple waves on a first come, first serve
-      basis
-    close_date: 2023-07-07T21:00:00.000+02:00
-    acceptance_date: upon payment
-  - heading: "Studying  \n\U0001F393  \nFree!"
-    label: Apply to attend for free
-    open: false
-    closed_message: Closed!
-    URL: "https://apply.indabax.co.za"
-    color: "#5AA136"
-    open_date: May 2023
-    close_date: 2023-06-12T22:00:00.000+02:00
-    acceptance_date: 19th June (approx.)
-  - heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
-    label: Submit abstract
-    col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)
-    open: false
-    closed_message: Closed!
-    URL: "https://forms.gle/3547q2cx12qWtCiJ6"
-    color: orange
-    open_date: May 2023
-    close_date: 2023-06-16T22:00:00.000+02:00
-    acceptance_date: 1st July (approx.)
+    close_date: 2023-06-09T23:00:00.000+00:00
+    acceptance_date: see below for tips on how to [improve your application](#how-do-i-imporve-my-application)
+  # - heading: "Academia  \n\U0001F52D  \nR1700"
+  #   label: Register now
+  #   open: false
+  #   closed_message: Closed!
+  #   URL: "https://docs.google.com/forms/d/e/1FAIpQLSdwd6_t5qMO0_AuNbkuO3RtCT1eqb8kNvXSZ-GlDzCoYiUsuQ/viewform?usp=sf_link"
+  #   color: "#9A5BD4"
+  #   open_date:
+  #     again soon. Tickets released in multiple waves on a first come, first serve
+  #     basis
+  #   close_date: 2023-07-07T23:00:00.000+02:00
+  #   acceptance_date: upon payment
+  # - heading: "Industry  \n\U0001F6E0  \nR3400"
+  #   label: Register now
+  #   open: false
+  #   closed_message: Closed!
+  #   URL: "https://docs.google.com/forms/d/e/1FAIpQLSc3C-ZSOzzZdtofP0ZoK2EMtHI8ccKxozKvBYypYLtyngUkPA/viewform?usp=sf_link"
+  #   color: "#228EE3"
+  #   open_date:
+  #     again soon. Tickets released in multiple waves on a first come, first serve
+  #     basis
+  #   close_date: 2023-07-07T21:00:00.000+02:00
+  #   acceptance_date: upon payment
+  # - heading: "Studying  \n\U0001F393  \nFree!"
+  #   label: Apply to attend for free
+  #   open: false
+  #   closed_message: Closed!
+  #   URL: "https://apply.indabax.co.za"
+  #   color: "#5AA136"
+  #   open_date: May 2023
+  #   close_date: 2023-06-12T22:00:00.000+02:00
+  #   acceptance_date: 19th June (approx.)
+  # - heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
+  #   label: Submit abstract
+  #   col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)
+  #   open: false
+  #   closed_message: Closed!
+  #   URL: "https://forms.gle/3547q2cx12qWtCiJ6"
+  #   color: orange
+  #   open_date: May 2023
+  #   close_date: 2023-06-16T22:00:00.000+02:00
+  #   acceptance_date: 1st July (approx.)
 show_period: false
 period_text: "[Registration period](/register)"
 applications_open_date: May 2023

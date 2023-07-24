@@ -8,6 +8,7 @@ thumbnail = "/images/indabax2021.png"
 title = "2021"
 playlist = "https://www.youtube.com/playlist?list=PLxQIghRi8KAYRjvSvSyUBPads7we2qbv8"
 report = "https://drive.google.com/file/d/1mHQufI5lf3UsqP_gpt7P87niKXXT1y9I/view?usp=sharing"
+decor = false
 [menu.main]
 parent = "archive"
 weight = "4"

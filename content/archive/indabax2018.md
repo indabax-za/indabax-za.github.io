@@ -7,6 +7,7 @@ image = "/images/archive/indabax2018header.jpg"
 thumbnail = "/images/indabax2018.png"
 title = "2018"
 playlist = "https://www.youtube.com/playlist?list=PLfiHwEj32x9zGVGZUi5ndKWh_5hMbchlX"
+decor = false
 [menu.main]
 parent = "archive"
 weight = "1"

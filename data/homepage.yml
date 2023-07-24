@@ -25,13 +25,13 @@ about:
     "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
     conference that helps ensure that knowledge and capacity in machine learning are
     spread more widely across the African continent."
-  show_application_info: true
+  show_application_info: false
 school:
   title: Machine learning and artificial intelligence conference
   dates:
-    estimated_date: July 2023
-    school_start_date: 2023-07-12T07:00:00.000+00:00
-    school_end_date: 2023-07-14T14:00:00.000+00:00
+    estimated_date: Thank you for a wonderful 2023! See you in 2024!
+    # school_start_date: 2023-07-12T07:00:00.000+00:00
+    # school_end_date: 2023-07-14T14:00:00.000+00:00
   content: The conference will be a multi-day event featuring...
   item:
     - title: 300+<br>attendees
@@ -68,7 +68,7 @@ faculty:
   ta_link: "/speakers"
   link_text: view all
 schedule:
-  enable: true
+  enable: false
   link: "/schedule"
   link_text: "expand all"
 news:

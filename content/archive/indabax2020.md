@@ -7,6 +7,7 @@ image = "/images/archive/indabax2020header.jpg"
 thumbnail = "/images/indabax2020.png"
 title = "2020"
 playlist = "https://www.youtube.com/playlist?list=PLxQIghRi8KAbqT3tsimRHCO-heRLpVKZU"
+decor = false
 [menu.main]
 parent = "archive"
 weight = "3"

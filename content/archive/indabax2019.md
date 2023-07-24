@@ -8,6 +8,7 @@ thumbnail = "/images/indabax2019.jpg"
 title = "2019"
 playlist = "https://www.youtube.com/playlist?list=PLxQIghRi8KAZnIE1iZe4KeIO4zWTSocdk"
 report = "https://drive.google.com/file/d/1hwgSTRFmmmubU30dJ3BenTW4EssA5pzO/view"
+decor = false
 [menu.main]
 parent = "archive"
 weight = "2"
