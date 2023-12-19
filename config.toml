@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "imbizo-website-base"
+theme = "indabax-website-base"
 title = "Deep Learning Indaba𝕏 South Africa"
 timeZone = "Africa/Johannesburg"
 [[menu.main]]

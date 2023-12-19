@@ -1,3 +1,6 @@
 [submodule "themes/imbizo-website-base"]
 	path = themes/imbizo-website-base
 	url = git@github.com:isicnimbizo/imbizo-website-base.git
+[submodule "themes/indabax-website-base"]
+	path = themes/indabax-website-base
+	url = git@github.com:indabax-za/indabax-website-base.git
