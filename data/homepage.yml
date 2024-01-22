@@ -1,7 +1,7 @@
 ---
 banner:
   title: "Deep Learning Indaba\U0001D54F <br> <em>South Africa</em>"
-  logo: "/images/indabax2023-no-text.png"
+  logo: "/images/dlxza_logo white.png"
   logo_size: 200rem
   min_header_height: 0vh
   opacity: 60
@@ -10,15 +10,15 @@ banner:
   cta:
     enable: true
     item:
-      - title: Schedule
-        URL: "/schedule"
-        color: "#C9492C"
+      - title: Apply for the committee now
+        URL: "/news/2024-01-22 join-the-committee"
+        color: "#FD8C5D"
       # - title: Register now
       #   URL: "/register"
       #   color: "#228EE3"
       - title: Donate
         URL: "/partners"
-        color: "#B91111"
+        color: "#08313E"
 about:
   enable: true
   content:
@@ -29,7 +29,7 @@ about:
 school:
   title: Machine learning and artificial intelligence conference
   dates:
-    estimated_date: Thank you for a wonderful 2023! See you in 2024!
+    estimated_date: July 2024!
     # school_start_date: 2023-07-12T07:00:00.000+00:00
     # school_end_date: 2023-07-14T14:00:00.000+00:00
   content: The conference will be a multi-day event featuring...
@@ -59,7 +59,7 @@ sponsors:
   link: partners
   link_text: view all
 faculty:
-  enable: true
+  enable: false
   title: Speakers
   show_all: true
   show_track: true

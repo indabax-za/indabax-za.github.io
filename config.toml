@@ -2,8 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "indabax-website-base"
-title = "Deep Learning Indaba𝕏 South Africa"
 timeZone = "Africa/Johannesburg"
+title = "Deep Learning Indaba𝕏 South Africa"
 [[menu.main]]
 URL = "schedule"
 identifier = "schedule"
@@ -45,7 +45,7 @@ identifier = "about"
 name = "About"
 weight = 9
 [params]
-address = "Kramer Building, University of Cape Town"
+address = "University of the Witwatersrand"
 address_details = ""
 author = "Christopher Currin"
 copyright = "Copyright &copy;{{now}} Deep Learning IndabaX South Africa NPC"
@@ -69,10 +69,10 @@ homepage = true
 enable = true
 expire_days = 20
 [params.faculty]
-badges = false
-show_track = true
-sortby = "name" # name, max_year, etc.
+badges = false 
 order = "asc" # asc, desc
+show_track = true 
+sortby = "name" # name, max_year, etc.
 [[params.footermenu.about]]
 link = "about/code-of-conduct"
 name = "Code of Conduct"
@@ -81,7 +81,7 @@ link = "about/privacy-policy"
 name = "Privacy Policy"
 [params.map]
 enable = true
-map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1654.6781249936012!2d18.465638543505346!3d-33.95768177807187!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5d249dc548f1%3A0xdd4ce6366bd93fe8!2sWilfred%20and%20Jules%20Kramer%20Law%20Building!5e0!3m2!1sen!2sat!4v1687770042603!5m2!1sen!2sat\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"true loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.11664371134!2d28.0304733!3d-26.1928836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e953db5fe719e79%3A0x9d63b2d3be70f8ba!2sUniversity%20of%20the%20Witwatersrand%2C%20Johannesburg!5e0!3m2!1sen!2sza!4v1705940529728!5m2!1sen!2sza\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
@@ -102,14 +102,18 @@ URL = "http://eepurl.com/hCE_C5"
 icon = "ti-comments"
 text = "join our community and mailing list"
 [[params.social]]
+URL = "https://www.linkedin.com/company/indabax-south-africa"
+icon = "ti-linkedin"
+text = "connect with us on LinkedIn"
+[[params.social]]
 URL = "https://www.youtube.com/c/deeplearningindabax"
 icon = "ti-youtube"
 text = "watch our videos"
 [[params.social]]
-URL = "https://twitter.com/DeepIndabaX_ZA"
+URL = "https://x.com/DeepIndabaX_ZA"
 embed_url = "https://twitter.com/DeepIndabaX_ZA?ref_src=twsrc%5Etfw"
 icon = "ti-twitter-alt"
-text="follow us on twitter"
+text = "follow us on twitter"
 [[params.social]]
 URL = "https://www.instagram.com/indabax_za/"
 icon = "ti-instagram"
