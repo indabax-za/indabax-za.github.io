@@ -94,6 +94,19 @@ summary = "We are here to grow the community 🤝"
 - Create an introductory hackathon so attendees at least learn something if they attend
 - Facilitate tutors
 - Liaise with Zindi if hackathons are hosted on their platform
+
+---
+## 🎪 AI Fest and poster session
+- A celebration of the remarkable advancements in AI within South Africa. We invite students, research groups, and companies to join us in showcasing their work and accomplishments.
+- Invite startups, conpanies, research centres and individuals (eg. AI artists) to celebrate their work
+- Organise venue, music, catering, presentation table, poster boards (liase with local organisers)
+- Brainstorm ways to make it festive. This is a new addition to the IndabaX, so get creative!
+- Poster session
+  - **START EARLY**
+  - Encourage all attendees to bring a poster, we want everyone to participate (new and finished projects)
+  - Create a form to collect applications
+  - Set up a fair judging system
+
 ---
 ## 📧 Marketing and communications
 - Facilitate creation of marketing material
