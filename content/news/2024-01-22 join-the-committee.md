@@ -3,9 +3,12 @@ title: "Join the committee for Indaba𝕏 2024: It’s coming home!"
 date: 2024-01-22T11:24:34+02:00
 description: "Join the Indaba𝕏 2024 organising committee"
 image: "/images/news/2024-01 dlxsa.jpg"
+decor: false
+min_header_height: 100vh
+opacity: 70
 ---
 
-### Indaba𝕏 2024: It’s coming home!
+### Indaba𝕏 2024: It’s coming home
 
 We are looking for the next generation of ML community leaders in South Africa!
 
@@ -41,6 +44,12 @@ The **time commitment** is approximately 2-4 hours per week from March to April,
 4. March onward: organise the event!
 
 ### Application form
+
+{{< class "btn btn-lg btn-success col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[Complete form on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfsdYgXuKW3OIRmUVRZvT6ong503SEztGf-shzsWO7J7FuMow/viewform?usp=sf_link)
+{{< /class >}}
+
+Follow the link above or fill out the form directly below:
 
 {{<rawhtml>}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsdYgXuKW3OIRmUVRZvT6ong503SEztGf-shzsWO7J7FuMow/viewform?embedded=true" width="800" height="3533" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
