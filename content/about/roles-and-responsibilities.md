@@ -97,8 +97,8 @@ summary = "We are here to grow the community 🤝"
 
 ---
 ## 🎪 AI Fest and poster session
-- A celebration of the remarkable advancements in AI within South Africa. We invite students, research groups, and companies to join us in showcasing their work and accomplishments.
-- Invite startups, conpanies, research centres and individuals (eg. AI artists) to celebrate their work
+- An evening celebrating the remarkable advancements in AI within South Africa. We invite students, research groups, and companies to join us in showcasing their work and accomplishments.
+- Invite startups, companies, research centres and individuals (eg. AI artists) to celebrate their work
 - Organise venue, music, catering, presentation table, poster boards (liase with local organisers)
 - Brainstorm ways to make it festive. This is a new addition to the IndabaX, so get creative!
 - Poster session
