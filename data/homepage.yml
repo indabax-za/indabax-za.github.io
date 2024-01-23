@@ -11,7 +11,7 @@ banner:
     enable: true
     item:
       - title: Apply for the committee now
-        URL: "/news/2024-01-22 join-the-committee"
+        URL: "/news/2024-01-22-join-the-committee"
         color: "#FD8C5D"
       # - title: Register now
       #   URL: "/register"
