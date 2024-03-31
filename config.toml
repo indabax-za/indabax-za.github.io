@@ -4,11 +4,11 @@ summaryLength = "10"
 theme = "indabax-website-base"
 timeZone = "Africa/Johannesburg"
 title = "Deep Learning Indaba𝕏 South Africa"
-[[menu.main]]
-URL = "schedule"
-identifier = "schedule"
-name = "Schedule"
-weight = 1
+# [[menu.main]]
+# URL = "schedule"
+# identifier = "schedule"
+# name = "Schedule"
+# weight = 1
 [[menu.main]]
 URL = "faq"
 identifier = "faq"
@@ -19,11 +19,11 @@ URL = "register"
 identifier = "register"
 name = "Register"
 weight = 2
-[[menu.main]]
-URL = "speakers"
-identifier = "speakers"
-name = "Speakers"
-weight = 3
+# [[menu.main]]
+# URL = "speakers"
+# identifier = "speakers"
+# name = "Speakers"
+# weight = 3
 [[menu.main]]
 URL = "partners"
 identifier = "partners"
@@ -111,6 +111,7 @@ icon = "ti-youtube"
 text = "watch our videos"
 [[params.social]]
 URL = "https://x.com/DeepIndabaX_ZA"
+# TODO: Update embed
 embed_url = "https://twitter.com/DeepIndabaX_ZA?ref_src=twsrc%5Etfw"
 icon = "ti-twitter-alt"
 text = "follow us on twitter"

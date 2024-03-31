@@ -6,7 +6,9 @@ layout = "wide"
 min_header_height = "30em"
 opacity = 80
 title = "Tips for a successful application  💡"
-summary = "Demonstrate your willingness to engage with others: Conferences are a great opportunity to network and learn from others in your field. "
+summary = "Demonstrate your willingness to engage with others: Conferences are a great opportunity to network and learn from others in your field... "
+colWidth = 3
+weight = 5 # for ordering on the registration page
 [menu.main]
 parent = "register"
 weight = 5

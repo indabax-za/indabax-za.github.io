@@ -6,12 +6,14 @@ layout = "wide"
 min_header_height = "30em"
 opacity = 80
 title = "Travel grants"
+weight = 3 # for ordering on the registration page
+colWidth = 2
 [menu.main]
 parent = "register"
 weight = 3
 
 +++
-We have some travel grants available for **South African students** which must be applied for [_during the application process_](/register/now).
+**South African students** can apply for travel grants [_in the application form_](/register/now).
 
 <!--more-->
 

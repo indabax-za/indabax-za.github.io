@@ -1,14 +1,15 @@
 +++
 date = 2023-05-17T06:14:34Z
-description = "Submit abstract"
-image = "/images/backgrounds/ai-fest.jpg"
+description = "AI Fest"
+image = "https://images.unsplash.com/photo-1513151233558-d860c5398176?q=80&w=1920&h=900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 min_header_height = "30em"
 opacity = 80
 title = "AI Fest 🖼️ "
 type = "apply"
 lastmod = 2023-05-22T00:00:00Z
-colWidth = 6
-colOffset = 3
+colWidth = 4
+colOffset = 0
+weight = 2 # for ordering on the registration page
 [menu.main]
 parent = "register"
 weight = 2

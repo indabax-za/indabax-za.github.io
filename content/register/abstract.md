@@ -1,15 +1,17 @@
 +++
 date = 2023-05-17T06:14:34Z
-description = "Submit abstract"
+description = "Submitted talks"
 image = "https://images.unsplash.com/photo-1655720845034-b8f615109b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80"
 min_header_height = "30em"
 opacity = 80
-title = "Submit abstract for talks and posters"
+title = "Submitted talks"
 type = "apply"
 lastmod = 2023-05-22T00:00:00Z
+colWidth = 3
+weight = 1 # for ordering on the registration page
 [menu.main]
 parent = "register"
-weight = 2
+weight = 1
 
 +++
 We welcome submitted talks 🎤 and posters 🖼️ !
@@ -20,7 +22,7 @@ Abstract submissions are **closed**.
 
 {{<rawhtml>}}
 
-<a href="" class="disabled btn btn-warning btn-lg text-white col-4 offset-4 col-xs-10 offset-xs-1" target="_blank" title="apply now">Abstract submissions are <em>closed</em></a>
+<a href="" class="disabled btn btn-warning btn-lg text-white col-4 offset-4 col-xs-10 offset-xs-1" target="_blank" title="apply now">Talk submissions will be <em>opening soon</em></a>
 {{</rawhtml>}}
 <!-- ### [Submit abstract](https://forms.gle/3547q2cx12qWtCiJ6){.btn .btn-warning .btn-lg .text-white .col-4 .offset-4 .col-xs-10 .offset-xs-1} -->
 
