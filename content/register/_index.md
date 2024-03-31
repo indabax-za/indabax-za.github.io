@@ -15,7 +15,7 @@ _"Indaba" is a Zulu and Xhosa word meaning "discussion" or "conference"_
 
 The aim of the conference is to provide a practical introduction to machine learning for beginners, to exchange scientific knowledge amongst researchers, and showcase cutting-edge applications from industry partners.
 
-As much as we want everyone to join us, there is limited space available so we can only allow **\~300 attendees** in order to maximise their experience 🏫.
+As much as we want everyone to join us, there is limited space available so we can only allow **\~400 attendees** in order to maximise their experience 🏫.
 
 > **Note:** we will have videographers and photographers at the event 📷, smiles encouraged 😃.
 
@@ -23,18 +23,17 @@ As much as we want everyone to join us, there is limited space available so we c
 
 Keep an eye on this page for updates.
 
-<!-- | Date         | Event                                                     |
+| Date         | Event                                                     |
 | :----------- | :-------------------------------------------------------- |
-| 2023-05-22 📝 | Applications for free attendance (e.g. for students) open |
-| 2023-05-26 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
-| 2023-05-26 📜 | Abstract submissions open                                 |
-| 2023-06-12 🛑 | Applications for free attendance close                    |
-| 2023-06-16 📢 | Notification of application acceptance                    |
-| 2023-06-16 🟠 | Abstract submissions close                                |
-| 2023-06-23 ☑️ | RSVP to secure spot for applicants (acceptance +4 days)    |
-| 2023-07-01 🎤 | Notification of abstract acceptance                       |
-| 2023-07-07 🟡 | Final wave of paid registrations close                    | -->
-
+| 2024-04-01 📝 | Applications for free attendance (e.g. for students) open |
+| 2024-04-05 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
+| 2024-04-26 📜 | Abstract submissions open                                 |
+| 2024-05-05 🛑 | Applications for free attendance close                    |
+| 2024-06-01 📢 | Notification of application acceptance                    |
+| 2024-06-01 🟠 | Abstract submissions close                                |
+| 2024-07-05 ☑️ | RSVP to secure spot for applicants (acceptance +4 days)    |
+| 2024-06-16 🎤 | Notification of abstract acceptance                       |
+| 2024-07-05 🟡 | Final wave of paid registrations close                    |
 
 > [**Travel grants**](/register/travel-grants) must be applied for _during the application process_. See [Travel grants](/register/travel-grants) for more info.
 

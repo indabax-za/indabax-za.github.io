@@ -1,5 +1,5 @@
 +++
-date = 2023-05-17T06:14:34Z
+date = 2024-03-31T06:14:34Z
 description = "Tips for a successful application"
 image = "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&h=870&w=1544&q=80"
 layout = "wide"
