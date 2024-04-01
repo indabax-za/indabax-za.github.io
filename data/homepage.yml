@@ -25,7 +25,7 @@ about:
     "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
     conference that helps ensure that knowledge and capacity in machine learning are
     spread more widely across the African continent."
-  show_application_info: false
+  show_application_info: true
 school:
   title: Machine learning and artificial intelligence conference
   dates:
