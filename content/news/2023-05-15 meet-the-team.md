@@ -6,7 +6,7 @@ image: "https://images.unsplash.com/photo-1496497243327-9dccd845c35f?ixlib=rb-4.
 draft: false
 layout: "wide"
 people: 
-  title: Indaba𝕏 2022 organising committee
+  title: Indaba𝕏 2023 organising committee
   item:
   - name: Anna Bosman
     position: Local organiser | Director

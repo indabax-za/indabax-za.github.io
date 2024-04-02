@@ -8,7 +8,7 @@ draft: false
 decor: false
 layout: "wide"
 people: 
-  title: Indaba𝕏 2022 organising committee
+  title: Indaba𝕏 2024 organising committee
   item:
     - name: Abdel Mfougouon Njupoun
       position: Local organiser, Hackathon, AI Fest, National logistics
@@ -53,7 +53,7 @@ people:
     - name: Dan Masethe
       position: AI Fest, Hackathon
       affiliation: TUT
-      image: "/images/people/placeholder.jpg"
+      image: "/images/people/masethe.jpg"
       link: ""
     - name: Devon Jarvis
       position: Local organiser
@@ -94,7 +94,7 @@ people:
       position: AI Fest
       affiliation: University of Cape Town
       image: "/images/people/agamah.jpg"
-      link: "https://www.linkedin.com/in/francis-agamah-9ab7658a/"
+      link: "https://www.linkedin.com/in/francis-agamahh-3a5762115"
     - name: Joel Leonard
       position: Local organiser, Marketing
       affiliation: University of Pretoria
