@@ -1,140 +1,238 @@
 ---
 title: Organising committee
 item:
-  - name: Lydia de Lange
-    position: CEO | Director
-    affiliation: "IndabaX"
-    image: "/images/people/delange.jpg"
-    link: https://www.linkedin.com/in/lydia-de-lange-055b87177
+  - name: Abdel Mfougouon Njupoun
+    position: Local organiser, Hackathon, AI Fest, National logistics
+    affiliation: University of the Witwatersrand
+    image: "/images/people/njupoun.jpg"
+    link: "https://www.linkedin.com/in/abdel-mfougouon-njupoun"
+  - name: Ahmed Ghoor
+    position: Programme, AI Fest
+    affiliation: Muslim Impact Lab
+    image: "/images/people/ghoor.jpg"
+    link: https://www.linkedin.com/in/ahmedghoor
+  - name: Aldrin Ngorima
+    position: Marketing, AI Fest
+    affiliation: North-West University
+    image: "/images/people/ngorima2024.jpg"
+    link: http://linkedin.com/in/simbarashe-aldrin-ngorima-5ab027120/
+  - name: Anil Pise
+    position: Local organiser, AI Fest
+    affiliation: Deloitte
+    image: "/images/people/pise.jpg"
+    link: "https://www.linkedin.com/in/dr-anil-pise-231699b6/"
   - name: Anna Bosman
-    position: Programme Chair | Director
+    position: Executive Director
     affiliation: University of Pretoria
     image: "/images/people/bosman.jpg"
-    link: https://annabosman.github.io
+    link: https://annabosman.github.io/
+  - name: Callum Rhys Tilbury
+    position: Programme
+    affiliation: InstaDeep Ltd
+    image: "/images/people/tilbury2024.jpg"
+    link: http://linkedin.com/in/callumtilbury
   - name: Christopher Currin
-    position: Fundraising | Director
-    affiliation: Institute of Science and Technology Austria & [Simons Computational
-      Neuroscience Imbizo](https://imbizo.africa)
-    image: "/images/people/currin.jpg"
+    position: Board of Directors
+    affiliation: Institute of Science and Technology Austria, Imbizo
+    image: "https://indabax.co.za/images/people/currin.jpg"
     link: https://chriscurrin.com
-  - name: Maria Schuld
-    position: Accounting | Director
-    affiliation: Xanadu & Part-Time Researcher at the University of KwaZulu-Natal
-    image: "/images/people/schuld.jpg"
-    link: https://www.linkedin.com/in/maria-schuld-7857b070
-  # - name: Thapelo Sindane
-  #   position: Fundraising
-  #   affiliation: University of Pretoria
-  #   image: "/images/people/sindane.jpg"
-  #   link: https://www.linkedin.com/in/thapelo-sindane-a8907b1b2
-  # - name: Nandi Mwase
-  #   position: Logistics
-  #   affiliation: University of Pretoria
-  #   image: "/images/people/mwase.jpg"
-  #   link: https://www.linkedin.com/in/nandi-mwase-3b477712b/
-  # - name: Chris Fourie
-  #   position: Fundraising
-  #   affiliation: "[LifeQ](https://www.lifeq.com/)"
-  #   image: "/images/people/fourie.jpg"
-  #   link: https://www.chrisfourie.africa
-  # - name: Simbarashe Aldrin Ngorima
-  #   position: Marketing & Communications, Local organiser, Logistics
-  #   image: "/images/people/ngorima.jpg"
-  #   link: https://www.linkedin.com/in/simbarashe-aldrin-ngorima-5ab027120/
-  # - name: Dinorego Bauba Mphogo
-  #   position: Catering & Social Events, Fundraising
-  #   affiliation: Tshwane University of Technology
-  #   image: "/images/people/mphogo.jpg"
-  #   link: https://www.linkedin.com/in/dinorego-mphogo-134594101
-  # - name: Guillaume Odendaal
-  #   position: Hackathon
-  #   affiliation: "[Chisl](https://www.chislgroup.com/)"
-  #   image: "/images/people/odendaal.jpg"
-  #   link: https://www.linkedin.com/in/guillaume-odendaal-001/
-  # - name: Laing Lourens
-  #   position: Local organiser, Programme Chair, Fundraising, Catering & Social Events
-  #   affiliation: CSIR
-  #   image: "/images/people/lourens.jpg"
-  #   link: https://www.linkedin.com/in/laing-lourens-561a33173
-  # - name: Nompilo Mkhulisi
-  #   position: Marketing & Communications, Local organiser, Logistics
-  #   affiliation: Durban University of Technology 
-  #   image: "/images/people/mkhulisi.jpg"
-  #   link: http://www.linkedin.com/in/nompilo-mkhulisi-574248205
-  # - name: Avashlin Moodley
-  #   position: Marketing & Communications
-  #   affiliation: CSIR
-  #   image: "/images/people/moodley.jpg"
-  #   link: https://www.linkedin.com/in/avashlinmoodley/
-  # - name: Leo Hyams
-  #   position: Local organiser
-  #   affiliation: University of Cape Town
-  #   image: "/images/people/hyams.jpg"
-  #   link: https://www.linkedin.com/in/leo-hyams-63960a163/
-  # - name: Joel Leonard
-  #   position: Marketing & Communications
-  #   affiliation: University of Pretoria
-  #   image: "/images/people/leonard.jpg"
-  #   link: https://www.linkedin.com/in/joel-leonard-50820285/
-  # - name: Avashna Govender
-  #   position: Programme
-  #   affiliation: CSIR
-  #   image: "/images/people/govender.jpg"
-  #   link: https://www.linkedin.com/in/avashna-govender/
-  # - name: Thapelo Maupa
-  #   position: Logistics
-  #   affiliation: Independent researcher
-  #   image: "/images/people/maupa.jpg"
-  #   link: https://www.linkedin.com/in/tp-maupa
-  # - name: Maryam Mohamad Al Mahdi
-  #   position: Logistics
-  #   affiliation: University of Pretoria
-  #   image: "/images/people/mahdi.jpg"
-  #   link: https://www.linkedin.com/in/maryam-mohamad-al-mahdi-0b2572233/
-  # - name: Nomonde Khalo
-  #   position: Local organiser, Marketing & Communications
-  #   affiliation: IBM
-  #   image: "/images/people/khalo.jpg"
-  #   # image: "/images/people/placeholder.jpg"
-  #   link: https://www.linkedin.com/in/nomonde-katlego-khalo-4a6a40256/
-  # - name: Yeshalen Naicker
-  #   position: Marketing & Communications
-  #   affiliation: CSIR
-  #   image: "/images/people/naicker.jpg"
-  #   link: https://www.linkedin.com/in/yeshalen-naicker/
-  # - name: Nilesh Jain
-  #   position: Marketing & Communications
-  #   affiliation: Unversity of Witwatersrand
-  #   image: "/images/people/jain.jpg"
-  #   link: https://www.linkedin.com/in/nilesharnaiya/
-  # - name: Matimba Shingange
-  #   position: Logistics, Marketing & Communications
-  #   affiliation: MTN
-  #   image: "/images/people/shingange.jpg"
-  #   link: https://www.linkedin.com/in/matimba-shingange-a2587b55/
-  # - name: Claude Formanek
-  #   position: Local organiser, Hackathon, Programme
-  #   affiliation: University of Cape Town, InstaDeep
-  #   image: "/images/people/formanek.jpg"
-  #   link: https://www.linkedin.com/in/claude-formanek/
-  # - name: Ruan de Kock
-  #   position: Local organiser, Logistics
-  #   affiliation: University of Cape Town, InstaDeep
-  #   image: "/images/people/dekock.jpg"
-  #   link: https://www.linkedin.com/in/ruan-de-kock/
-  # - name: Callum Rhys Tilbury
-  #   position: Local organiser, Logistics
-  #   affiliation: InstaDeep
-  #   image: "/images/people/tilbury.jpg"
-  #   link: https://www.linkedin.com/in/callumtilbury/
-  # - name: Tharien Potgieter
-  #   position: Local organiser
-  #   affiliation: Centre for AI Research, University of Cape Town
-  #   image: https://sit.uct.ac.za/sites/default/files/styles/square_med/public/contacts/tharien.jpg?h=926b3aec&itok=P29LBQ9a
-  #   link: https://www.cair.org.za/user/57
-  - name: We want you!
+  - name: Clement Masilela
+    position: Accounting, Fundraising
+    affiliation: PBT Group
+    image: "/images/people/masilela.jpg"
+    link: "https://www.linkedin.com/in/clement-masilela-843b09222/"
+  - name: Dan Masethe
+    position: AI Fest, Hackathon
+    affiliation: TUT
     image: "/images/people/placeholder.jpg"
-    link: /news/2024-01-22-join-the-committee/
-  - name: Committee 2023
-    image: "https://images.unsplash.com/photo-1496497243327-9dccd845c35f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=95"
-    link: /news/2023-05-15-meet-the-team/
+    link: ""
+  - name: Devon Jarvis
+    position: Local organiser
+    affiliation: University of the Witwatersrand
+    image: "/images/people/jarvis.jpg"
+    link: "https://www.linkedin.com/in/devon-jarvis-6b059a139/"
+  - name: Ditiro Rampate
+    position: Fundraising, National logistics
+    affiliation: IndabaX Botswana
+    image: "/images/people/rampate.jpg"
+    link: https://www.linkedin.com/in/ditiro-rampate-46a999a4/
+  - name: Dumisani Zambukere
+    position: Programme, Local organiser, Hackathon, AI Fest
+    affiliation: University of the Witwatersrand
+    image: "/images/people/zambukere.jpg"
+    link: https://www.linkedin.com/in/dumisani-zambukere-70bb2622a
+  - name: Elizabeth Booi
+    position: Programme, AI Fest
+    affiliation: University of the Western Cape
+    image: "/images/people/booi.jpg"
+    link: https://www.linkedin.com/in/elizabeth-booi/
+  - name: Emily-Rose Steyn
+    position: Local organiser, AI Fest, National logistics
+    affiliation: University of the Witwatersrand
+    image: "/images/people/steyn.jpg"
+    link: https://www.linkedin.com/in/emilyrosesteyn/
+  - name: Emmanuel Owusu Ahenkan
+    position: Hackathon
+    affiliation: African Institute for Mathematical Sciences
+    image: "/images/people/ahenkan.jpg"
+    link: https://www.linkedin.com/in/emmanuel-owusu-ahenkan/
+  - name: Faheem Sima
+    position: Marketing, Hackathon
+    affiliation: CSIR
+    image: "/images/people/sima.jpg"
+    link: "https://www.linkedin.com/in/faheem-sima-69382819b/"
+  - name: Francis E. Agamah
+    position: AI Fest
+    affiliation: University of Cape Town
+    image: "/images/people/agamah.jpg"
+    link: "https://www.linkedin.com/in/francis-agamah-9ab7658a/"
+  - name: Joel Leonard
+    position: Local organiser, Marketing
+    affiliation: University of Pretoria
+    image: "/images/people/leonard2024.jpg"
+    link: https://www.linkedin.com/in/joel-leonard-50820285/
+  - name: Ketro Sithole 
+    position: Hackathon
+    affiliation: Expeditus (Pty) Ltd
+    image: "/images/people/sithole.jpg"
+    link: "https://www.linkedin.com/in/ketro-sithole-76b8b1165/"
+  - name: Kwasi Darkwa
+    position: Marketing
+    affiliation: "IndabaX Botswana & Argo Media Group"
+    image: "/images/people/darkwa.jpg"
+    link: "https://www.linkedin.com/in/kwasidarkwa/"
+  - name: Laing Lourens
+    position: Local organiser, Fundraising, Hackathon, AI Fest
+    affiliation: CSIR
+    image: "/images/people/lourens.jpg"
+    link: "https://www.linkedin.com/in/laing-lourens-561a33173/"
+  - name: Leo Hyams
+    position: Fundraising
+    affiliation: University of Cape Town
+    image: "/images/people/hyams.jpg"
+    link: https://www.linkedin.com/in/leo-hyams-63960a163/
+  - name: Lydia de Lange
+    position: Executive Director, Accounting, Fundraising
+    affiliation: SocioTech
+    image: "https://indabax.co.za/images/people/delange.jpg"
+    link: www.linkedin.com/in/lydia-de-lange
+  - name: Mahloromela Silas Seabi 
+    position: Local organiser
+    affiliation: 
+    image: "/images/people/placeholder.jpg"
+    link: ""
+  - name: Maria Schuld
+    position: Board of Directors
+    affiliation: UKZN/UJ
+    image: "https://indabax.co.za/images/people/schuld.jpg"
+    link: ""
+  - name: Matimba Shingange
+    position: Local organiser, National logistics, Programme
+    affiliation: University of Pretoria
+    image: "/images/people/shingange.jpg"
+    link: https://www.linkedin.com/in/matimba-shingange-a2587b55/
+  - name: Mphatso Nkhoma 
+    position: Marketing
+    affiliation: University of Cape Town
+    image: "/images/people/nkhoma.jpg"
+    link: "https://www.linkedin.com/in/mphatso-nkhoma/"
+  - name: Nandi Mwase
+    position: National logistics, Accounting
+    affiliation: University of Pretoria
+    image: "/images/people/mwase.jpg"
+    link: https://www.linkedin.com/in/nandi-mwase-3b477712b/
+  - name: Natalie Bianca Alexander
+    position: Programme, AI Fest organise
+    affiliation: IBM & The University of Cape Town
+    image: "/images/people/alexander.jpg"
+    link: https://www.linkedin.com/in/natalie-alexander-41b414198/
+  - name: Ndivhuwo Makondo
+    position: Local organiser, Programme
+    affiliation: IBM & University of the Witwatersrand
+    image: "/images/people/makondo.jpg"
+    link: "https://www.linkedin.com/in/makondond/"
+  - name: Nkosana Daniel Mlandu
+    position: Hackathon
+    affiliation: National University of Science and Technology, Zimbabwe
+    image: "/images/people/mlandu.jpg"
+    link: "https://www.linkedin.com/in/nkosana-mlandu/"
+  - name: Nomonde Khalo
+    position: Marketing, AI Fest, National logistics
+    affiliation: University of Cape Town
+    image: "/images/people/khalo.jpg"
+    link: https://www.linkedin.com/in/nomonde-katlego-khalo-4a6a40256/
+  - name: Nompilo Mkhulisi
+    position: Marketing, National logistics
+    affiliation: Durban University of Technology 
+    image: "/images/people/mkhulisi.jpg"
+    link: http://www.linkedin.com/in/nompilo-mkhulisi-574248205
+  - name: Philipa Murindagomo
+    position: Hackathon,  AI Fest
+    affiliation: National University of Science and Technology, Zimbabwe 
+    image: "/images/people/murindagomo.jpg"
+    link: https://www.linkedin.com/in/philipa-murindagomo-097857246
+  - name: Qiulin Li
+    position: AI Fest, Hackathon
+    affiliation: 
+    image: "/images/people/li.jpg"
+    link: "https://www.linkedin.com/in/qiulin-li-800a6117b/"
+  - name: Ruan de Kock
+    position: National logistics, Local organiser
+    affiliation: InstaDeep Ltd
+    image: "/images/people/dekock2024.jpg"
+    link: https://www.linkedin.com/in/ruan-de-kock/
+  - name: Samuel Oladejo
+    position: Fundraising, Hackathon
+    affiliation: UJ
+    image: "/images/people/oladejo.jpg"
+    link: https://www.linkedin.com/in/saol/
+  - name: Seani Rananga
+    position: Programme
+    affiliation: University of Pretoria
+    image: "/images/people/rananga.jpg"
+    link: "https://www.linkedin.com/in/seani-rananga-80a58b157/"
+  - name: St John Grimbly
+    position: Accounting, Programme
+    affiliation: University of Cape Town
+    image: "/images/people/grimbly.jpg"
+    link: "https://www.linkedin.com/in/stjohngrimbly/"
+  - name: Stephanie Müller
+    position: Local organiser, Programme
+    affiliation: IBM & University of the Witwatersrand 
+    image: "/images/people/muller.jpg"
+    link: https://www.linkedin.com/in/stephanie-muller-352b48a6/
+  - name: Tessa Richardson
+    position: Fundraising, Programme, Marketing, AI Fest
+    affiliation: University of Cape Town
+    image: "/images/people/richardson.jpg"
+    link: "https://www.linkedin.com/in/tessa-richardson/"
+  - name: Thapelo Maupa
+    position: National logistics
+    affiliation: Independent Researcher
+    image: "/images/people/maupa.jpg"
+    link: https://www.linkedin.com/in/tp-maupa
+  - name: Thapelo Sindane
+    position: National logistics, Local organiser
+    affiliation: University of Pretoria
+    image: "/images/people/sindane.jpg"
+    link: https://www.linkedin.com/in/thapelo-sindane-a8907b1b2
+  - name: Thembelihle Dlamini
+    position: Local organiser, Hackathon organizer, National logistics
+    affiliation: IBM 
+    image: "/images/people/dlamini.jpg"
+    link: "https://www.linkedin.com/in/thembelihle-dlamini-b33108196/"
+  - name: Tshepo Moagi
+    position: Marketing, Hackathon
+    affiliation: Anglo Platinum
+    image: "/images/people/moagi.jpg"
+    link: https://www.linkedin.com/in/tshepo-kenneth-moagi-7686b18a/
+  - name: Yeshalen Naicker
+    position: Marketing, Hackathon, Local organiser
+    affiliation: CSIR
+    image: "/images/people/naicker.jpg"
+    link: https://www.linkedin.com/in/yeshalen-naicker/
+  - name: Ziliro Jere
+    position: National logistics
+    affiliation: University of Witwatersrand
+    image: "/images/people/jere.jpg"
+    link: https://www.linkedin.com/in/ziliro-jere-7a3833215

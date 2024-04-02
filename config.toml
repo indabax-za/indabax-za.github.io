@@ -111,11 +111,10 @@ icon = "ti-youtube"
 text = "watch our videos"
 [[params.social]]
 URL = "https://x.com/DeepIndabaX_ZA"
-# TODO: Update embed
 embed_url = "https://twitter.com/DeepIndabaX_ZA?ref_src=twsrc%5Etfw"
 icon = "ti-twitter-alt"
-text = "follow us on twitter"
+text = "follow us on X Twitter"
 [[params.social]]
 URL = "https://www.instagram.com/indabax_za/"
 icon = "ti-instagram"
-text = "follow us on instagram"
+text = "follow us on Instagram"
