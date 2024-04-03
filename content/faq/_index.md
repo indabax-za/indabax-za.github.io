@@ -102,7 +102,9 @@ Yes, there is parking on campus. We will provide more information via email clos
 
 The venue is a 30 minute drive from the airport. There are a number of options for getting to the venue from the airport:
 
-#### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do in Cape Town?** {.faq-item}
+#### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do in Johannesburg?** {.faq-item}
+
+- Coming soon!
 
 ## Accommodation
 
