@@ -94,7 +94,7 @@ people:
       position: AI Fest
       affiliation: University of Cape Town
       image: "/images/people/agamah.jpg"
-      link: "https://www.linkedin.com/in/francis-agamahh-3a5762115"
+      link: "https://www.linkedin.com/in/francis-agamah-3a5762115"
     - name: Joel Leonard
       position: Local organiser, Marketing
       affiliation: University of Pretoria
