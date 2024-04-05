@@ -1,5 +1,5 @@
 +++
-date = 2022-07-14T12:00:00Z
+date = 2024-04-02T12:00:00Z
 description = "Download our logos here"
 draft = false
 image = "/images/dlx2_wide.jpg"
