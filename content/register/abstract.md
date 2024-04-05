@@ -48,6 +48,8 @@ For posters, we also welcome submissions on a topic or interest that you are pas
 
 Take the opportunity. You can also win prizes 🏆!
 
+We recommend preparing an A1 landscape poster. Download a template [here](https://osf.io/6ua4k "https://osf.io/6ua4k").
+
 Please view this video for an example on how to improve your poster design [https://www.youtube.com/watch?v=1RwJbhkCA58](https://www.youtube.com/watch?v=1RwJbhkCA58 "https://www.youtube.com/watch?v=1RwJbhkCA58") \[adjust the template to your own needs!\]
 
 ### Submission format
