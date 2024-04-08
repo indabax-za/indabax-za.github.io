@@ -42,7 +42,7 @@ applications:
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
     open_date: May 2023
-    close_date: 2023-05-05T22:00:00.000+02:00
+    close_date: 2024-05-05T22:00:00.000+02:00
     acceptance_date: 1st June (approx.)
   # - heading: "Present a talk or poster  \n\U0001F3A4 \U0001F5BC️"
   #   label: Submit abstract
@@ -57,7 +57,7 @@ applications:
 show_period: false
 period_text: "[Registration period](/register)"
 applications_open_date: May 2023
-applications_close_date: 2023-05-05T22:00:00.000+02:00
+applications_close_date: 2024-05-05T22:00:00.000+02:00
 acceptance_date: July (approx.)
 target_applicants:
   enable: true
