@@ -8,7 +8,8 @@ thumbnail: "/images/indabax2023.png"
 title: "2023"
 decor: false
 # playlist: "https://www.youtube.com/playlist?list=PLxQIghRi8KAbqT3tsimRHCO-heRLpVKZU"
-# report: "https://drive.google.com/file/d/1mHQufI5lf3UsqP_gpt7P87niKXXT1y9I/view?usp=sharing"
+# report: ""
+schedule_link: "https://drive.google.com/file/d/1GzvxXqZXrgP4NsCdnuIweDTYoIqlZr89/view?usp=sharing"
 album: "https://photos.app.goo.gl/hR9aufrGYpabPXaeA"
 menu:
   main:
@@ -178,6 +179,22 @@ share your work and get feedback from experts
 #### {{<icon "fa-solid fa-laptop-code">}} &nbsp; 2+ hackathon problems {.faq-item}
 
 get your hands dirty and learn from the best with Zindi and Fruitpunch AI
+
+
+### {{<icon "fa-solid fa-people-group">}} &nbsp; Demographics {.faq-item}
+
+{{< rawhtml >}}
+
+<div class="row">
+
+{{< figure src="/images/archive/indabax2023 - Current position.png" class="col-6">}}
+{{< figure src="/images/archive/indabax2023 - Gender.png" class="col-6">}}
+{{< figure src="/images/archive/indabax2023 - Ethnicity.png" class="col-6">}}
+{{< figure src="/images/archive/indabax2023 - Nationality.png" class="col-6">}}
+
+</div>
+
+{{< /rawhtml >}}
 
 ---
 

@@ -5,7 +5,8 @@ image = "https://images.unsplash.com/photo-1655720406100-3f1eda0a4519?ixlib=rb-1
 layout = "wide"
 min_header_height = "30em"
 opacity = 80
-title = "Travel grants"
+title = "Travel grants ✈"
+link_text = "learn more"
 weight = 3 # for ordering on the registration page
 colWidth = 2
 [menu.main]
