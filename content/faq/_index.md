@@ -46,7 +46,7 @@ If you **need** funding to attend, but did not get one this year, the best thing
 
 #### {{<icon "ti-infinite">}} &nbsp; **How can I support the Indaba𝕏?** {.faq-item}
 
-If you are an organisation, consider [partnering](/partner) with us to gain more visiblity and support the Indaba𝕏. If you are an individual, attending through [paid registration options](/register) is also beneficial. If you are feeling particularly benevolent, consider [donating](https://www.payfast.co.za/donate/go/deeplearningindabaxsouthafricanpc).
+If you are an organisation, consider [partnering](/partner) with us to gain more visibility and support the Indaba𝕏. If you are an individual, attending through [paid registration options](/register) is also beneficial. If you are feeling particularly benevolent, consider [donating](https://www.payfast.co.za/donate/go/deeplearningindabaxsouthafricanpc).
 
 Additionally, consider helping organise the event, volunteering at the event, shouting about the event, or just being a good human being.
 
@@ -54,7 +54,7 @@ Additionally, consider helping organise the event, volunteering at the event, sh
 
 #### {{<icon "fa-solid fa-mug-saucer">}} &nbsp; **Will there be tea and coffee?** {.faq-item}
 
-Yes, there will be coffee and tea available at certains times throughout the day!
+Yes, there will be coffee and tea available at certain times throughout the day!
 
 #### {{<icon "fa-solid fa-utensils">}} &nbsp; **Will there be food?** {.faq-item}
 
@@ -76,11 +76,11 @@ The University of the Witwatersrand (Wits) has security guards on campus.
 
 #### {{<icon "fa-solid fa-clock">}} &nbsp; **When should I arrive/leave Johannesburg for the Indaba𝕏?** {.faq-item}
 
-We suggest arriving the day before the Indaba𝕏 starts (i.e. the 8th July) and leaving the day after the Indaba𝕏 ends (i.e. the 13th of July).
+We suggest arriving the day before the Indaba𝕏 starts (i.e. the 8th of July) and leaving the day after the Indaba𝕏 ends (i.e. the 13th of July).
 
 #### {{<icon "ti-bag">}} &nbsp; **How packed is the schedule?** {.faq-item}
 
-Very. We have an awesome selection of speakers and activities to fill up the time from ~8:30 am until 5pm and beyond each day. The evening activities are normally optional, but we highly recommend you attend them for the full experience. Remember to take time for yourself, and to explore the city and surrounds.
+Very. We have an awesome selection of speakers and activities to fill up the time from ~8:30 am until 5 pm and beyond each day. The evening activities are normally optional, but we highly recommend you attend them for the full experience. Remember to take time for yourself, and to explore the city and surrounds.
 
 See more on the [schedule](/schedule) page (updated over time).
 
@@ -90,7 +90,7 @@ See more on the [schedule](/schedule) page (updated over time).
 
 The 7th edition of Indaba𝕏 will take place at the University of the Witwatersrand in Johannesburg, South Africa.
 
-We will be in the Science Stadium.
+We will be in the Wits Science Stadium.
 
 For more information, see also [ABOUT](/about)
 
