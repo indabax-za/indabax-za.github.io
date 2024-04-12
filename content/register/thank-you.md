@@ -11,8 +11,8 @@ type = "hidden"
 
 We are super excited to see you at the event!
 
-Your donations receipt should be on it's way shortly. If you have not received it in the next 2 days, please [contact us](/contact).
+Your donations receipt should be on its way shortly. If you have not received it in the next 2 days, please [contact us](/contact).
 
-In the mean time, have a look at the [schedule](/schedule) and [speakers](/speakers).
+In the meantime, have a look at the [schedule](/schedule) and [speakers](/speakers).
 
-You will an email with the latest logistic information closer to the time of the event.
+You will receive an email with the latest logistic information closer to the time of the event.
