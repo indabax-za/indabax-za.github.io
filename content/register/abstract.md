@@ -27,13 +27,13 @@ Abstract submissions are **open**.
 
 ## Talks
 
-**we encourage unpublished and already published work alike**
+**We encourage unpublished and already published works alike.**
 
-**We are currently only considering in-person presentations**
+**We are currently only considering in-person presentations.**
 
 ### Presentation format
 
-We welcome submissions for flash talks (\~ 5 min), short talks (\~25 min), and long talks (\~40 min). If your abstract is accepted, we will communicate with you what length format works best, considering your submitted preferences and our requirements.
+We welcome submissions for flash talks (\~ 5 min), short talks (\~15 min), and long talks (\~30 min). If your abstract is accepted, we will communicate with you what length format works best, considering your submitted preferences and our requirements.
 
 
 ### Submission format
@@ -46,9 +46,11 @@ You should have the following items prepared:
 The Indaba𝕏 is NOT a "pay-to-speak" affair. Sponsors and speakers are independently organised, but can overlap.
 
 **Published work**
+
 We welcome the submission of published work for a talk or poster.
 
 **Unpublished work**
+
 Abstracts will be evaluated on the basis of a submitted abstract.
 
 1. Clear title - 100 characters or fewer (including spaces), capitalized in sentence case
