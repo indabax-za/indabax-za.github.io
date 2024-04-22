@@ -27,12 +27,12 @@ Keep an eye on this page for updates.
 | :----------- | :-------------------------------------------------------- |
 | 2024-04-01 📝 | Applications for free attendance (e.g. for students) open |
 | 2024-04-05 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
-| 2024-04-26 📜 | Abstract submissions open                                 |
+| 2024-04-12 📜 | Abstract submissions open                                 |
 | 2024-05-05 🛑 | Applications for free attendance close                    |
-| 2024-06-01 📢 | Notification of application acceptance                    |
-| 2024-06-01 🟠 | Abstract submissions close                                |
+| 2024-05-05 🟠 | Abstract submissions close                                |
+| 2024-06-06 📢 | Notification of application acceptance                    |
+| 2024-06-06 🎤 | Notification of abstract acceptance                       |
 | 2024-07-05 ☑️ | RSVP to secure spot for applicants (acceptance +4 days)    |
-| 2024-06-16 🎤 | Notification of abstract acceptance                       |
 | 2024-07-05 🟡 | Final wave of paid registrations close                    |
 
 > [**Travel grants**](/register/travel-grants) must be applied for _during the application process_. See [Travel grants](/register/travel-grants) for more info.
