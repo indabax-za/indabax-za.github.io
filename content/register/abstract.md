@@ -60,6 +60,10 @@ Abstracts will be evaluated on the basis of a submitted abstract.
 
 The submission should clearly explain why your question is important and how your claims will advance the field. Include enough detail that reviewers can assess the technical content of your methods and results. Please be sure to address the significance and fit of your submission for the audience, which includes a mix of academics and industry interested in the functional properties of deep learning and machine learning.
 
+### Hints
+
+We suggest following the guidelines [here](https://theprofessorisin.com/2011/07/05/dr-karens-foolproof-grant-template/" "Dr. Karen’s Foolproof Grant Template").
+
 ## Posters
 
 Every attendee can bring a poster to the Indaba𝕏! Please see [AI Fest](/register/ai-fest) for more info.
