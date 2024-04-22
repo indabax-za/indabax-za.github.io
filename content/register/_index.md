@@ -48,9 +48,7 @@ Email: [sponsors@indabax.co.za](mailto:sponsors@indabax.co.za)
 
 We have some slots available for submitted talks 🎤 , posters 🖼️ .
 
-More information will be available closer to the time.
-
-**We are currently only considering in-person presentations**
+**We are currently only considering in-person presentations** # 
 
 More information can be found on the [abstract details page](/register/abstract)
 
