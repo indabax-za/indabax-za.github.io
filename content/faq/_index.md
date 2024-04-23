@@ -54,11 +54,11 @@ Additionally, consider helping organise the event, volunteering at the event, sh
 
 #### {{<icon "fa-solid fa-mug-saucer">}} &nbsp; **Will there be tea and coffee?** {.faq-item}
 
-Yes, there will be coffee and tea available at certain times throughout the day!
+Yes, there will be tea and coffee available at certain times throughout the day!
 
 #### {{<icon "fa-solid fa-utensils">}} &nbsp; **Will there be food?** {.faq-item}
 
-Yes, we will provide **lunch** on the 10th, 11th, and 12th July. We will also provide snacks and drinks throughout the day.
+Yes, we will provide **lunch** on the 10th, 11th, and 12th July. We will also provide snacks and drinks throughout the day. Dietary requirements will be collected before the event.
 
 <!-- If you have an "Accommodation" travel grant (you will know this explicitly), we provide breakfast for you on the 12th, 13th, 14th, and 15th of July. -->
 
@@ -90,7 +90,9 @@ See more on the [schedule](/schedule) page (updated over time).
 
 The 7th edition of Indaba𝕏 will take place at the University of the Witwatersrand in Johannesburg, South Africa.
 
-We will be in the Wits Science Stadium.
+We will be in the Wits Science Stadium which is located on the West Campus of the University of the Witwatersrand.
+
+Wits provides a mobile app with information about campus and additional maps. The app is available for both [Android](https://play.google.com/store/apps/details?id=ac.za.wits.mobile.apps&hl=en&gl=US) and [iOS](https://apps.apple.com/in/app/wits-mobile/id1638185219) devices.
 
 For more information, see also [ABOUT](/about)
 
