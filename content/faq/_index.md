@@ -153,4 +153,6 @@ We are in touch with the local accommodation provider and will provide further d
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
-* 
+* [Holiday Inn Sunnyside Park](https://www.ihg.com/holidayinn/hotels/gb/en/johannesburg/jnbss/hoteldetail) - [Sunnyside Dr, Parktown](https://maps.app.goo.gl/dPZwZyiBephZd48bA)
+* [Garden Court Milpark](https://www.southernsun.com/garden-court-milpark) - [Cnr Empire Road & Owl St, Auckland Park](https://maps.app.goo.gl/fvTKXk2hVJ77estH8)
+* [ANEW Hotel Parktonian](https://anewhotels.com/hotels/parktonian/) - [120 De Korte St, Braamfontein](https://maps.app.goo.gl/XszB1C2BiHRuhmsy8)
