@@ -123,7 +123,27 @@ If you are driving, from the airport:
 
 #### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do in Johannesburg?** {.faq-item}
 
-- Coming soon!
+Johannesburg is a vibrant city with a rich history and culture. There is plenty to see and do close to Wits and further afar if you have the time and are able.
+
+**Museums & Galleries**
+* [Wits Arts Museum](https://www.wits.ac.za/wam/)
+* [Origins Centre](https://www.wits.ac.za/origins/)
+* [Apartheid Museum](https://www.apartheidmuseum.org/)
+
+**Sightseeing & Parks**
+* [Red Bus City Tour](https://citysightseeing.co.za/en/joburg/1-day-ticket)
+* [Constitution Hill](https://www.constitutionhill.org.za/pages/what-to-expect)
+* [Emmarentia Dam & Johannesburg Botanical Garden](https://maps.app.goo.gl/w2NWQcKJSLLckiuS6)
+* [Nelson Mandela House, Soweto](https://www.mandelahouse.com/)
+* [Liliesleaf Farm](https://liliesleaf.co.za/)
+* Trip to Magaliesburg (~1.5 hour drive)
+
+**Entertainment & Dining**
+* [44 Stanley](https://44stanley.co.za/)
+* [7th Street, Melville](https://maps.app.goo.gl/xBV61gx6oPdTx6Wg7)
+* [Rosebank Mall & the Zone](https://maps.app.goo.gl/hgEJUN55BU4QmviG9)
+* [Maboneng Precinct](https://mabonengprecinct.com/)
+* [4th Avenue, Parkhurst](https://maps.app.goo.gl/918SqAJX9wjkHdrs6)
 
 ## Accommodation
 
@@ -133,4 +153,4 @@ We are in touch with the local accommodation provider and will provide further d
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
-Where will be recommending nearby places to stay.
+* 
