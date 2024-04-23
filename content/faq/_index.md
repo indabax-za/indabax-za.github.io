@@ -94,7 +94,7 @@ We will be in the Wits Science Stadium which is located on the West Campus of th
 
 Wits provides a mobile app with information about campus and additional maps. The app is available for both [Android](https://play.google.com/store/apps/details?id=ac.za.wits.mobile.apps&hl=en&gl=US) and [iOS](https://apps.apple.com/in/app/wits-mobile/id1638185219) devices.
 
-For more information, see also [ABOUT](/about)
+For more information, see also [ABOUT](/about).
 
 #### {{<icon "ti-car">}} &nbsp; **Is there parking on campus?** {.faq-item}
 
@@ -103,6 +103,23 @@ Yes, there is parking on campus. We will provide more information via email clos
 #### {{<icon "fa-solid fa-plane">}} &nbsp; **How do I get to the venue from O.R. Tambo Airport?** {.faq-item}
 
 The venue is a 30 minute drive from the airport. There are a number of options for getting to the venue from the airport:
+* [Gautrain](https://www.gautrain.co.za/): We advise taking the Gautrain from O.R. Tambo to Rosebank station, followed by an e-hailing ride to Wits. We **do not** advise taking the Gautrain to Park Station due to safety concerns.
+* E-hailing services from the airport are also available.
+
+If you are driving, from the airport:
+* Leave the airport and get on the R24 travelling to Johannesburg.
+* Travel on the R24 for ~8km.
+* Use the left 3 lanes to take exit 113 for N3 S towards Germiston/Durban.
+* Travel about ~3km and then take the interchange to the Francois Oberholzer Freeway (M2).
+* Continue on the M2 for ~10km.
+* Take exit 10 to merge onto De Villiers Graaff Motorway (M1) toward Sandton/Pretoria.
+* Take exit 12 for Smit Street toward Johannesburg/M10/Wits.
+* Keep left and turn left onto Smit Street.
+* Take the first left onto Eendracht St.
+* At the first traffic light, turn left onto De Korte.
+* Enter Wits via Yale Road South Entrance.
+* Parking locations on Wits campus TBC!
+
 
 #### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do in Johannesburg?** {.faq-item}
 
