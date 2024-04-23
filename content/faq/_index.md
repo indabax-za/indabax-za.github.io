@@ -90,7 +90,7 @@ See more on the [schedule](/schedule) page (updated over time).
 
 The 7th edition of Indaba𝕏 will take place at the University of the Witwatersrand in Johannesburg, South Africa.
 
-We will be in the Wits Science Stadium which is located on the West Campus of the University of the Witwatersrand.
+We will be in the [Wits Science Stadium](https://maps.app.goo.gl/HvWVkxqqRTbRPDSi9) which is located on the West Campus of the University of the Witwatersrand.
 
 Wits provides a mobile app with information about campus and additional maps. The app is available for both [Android](https://play.google.com/store/apps/details?id=ac.za.wits.mobile.apps&hl=en&gl=US) and [iOS](https://apps.apple.com/in/app/wits-mobile/id1638185219) devices.
 
