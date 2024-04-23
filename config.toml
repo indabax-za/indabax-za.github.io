@@ -81,7 +81,7 @@ link = "about/privacy-policy"
 name = "Privacy Policy"
 [params.map]
 enable = true
-map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.11664371134!2d28.0304733!3d-26.1928836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e953db5fe719e79%3A0x9d63b2d3be70f8ba!2sUniversity%20of%20the%20Witwatersrand%2C%20Johannesburg!5e0!3m2!1sen!2sza!4v1705940529728!5m2!1sen!2sza\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.1850712596884!2d28.022764876358252!3d-26.19065726342428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950c0f45d80e67%3A0x50d6bb28d501908f!2sWits%20Science%20Stadium!5e0!3m2!1sen!2sza!4v1713863595628!5m2!1sen!2sza\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
