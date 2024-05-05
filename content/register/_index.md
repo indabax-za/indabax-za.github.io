@@ -28,10 +28,11 @@ Keep an eye on this page for updates.
 | 2024-04-01 📝 | Applications for free attendance (e.g. for students) open |
 | 2024-04-05 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
 | 2024-04-12 📜 | Abstract submissions open                                 |
-| 2024-05-05 🛑 | Applications for free attendance close                    |
-| 2024-05-05 🟠 | Abstract submissions close                                |
+| 2024-05-12 🛑 | Applications for free attendance close                    |
+| 2024-05-12 🟠 | Abstract submissions close                                |
 | 2024-06-06 📢 | Notification of application acceptance                    |
 | 2024-06-06 🎤 | Notification of abstract acceptance                       |
+| 2024-06-12 💚 | Early bird registration closes (prices increase)          |
 | 2024-07-05 ☑️ | RSVP to secure spot for applicants (acceptance +4 days)    |
 | 2024-07-05 🟡 | Final wave of paid registrations close                    |
 
@@ -48,7 +49,7 @@ Email: [sponsors@indabax.co.za](mailto:sponsors@indabax.co.za)
 
 We have some slots available for submitted talks 🎤 , posters 🖼️ .
 
-**We are currently only considering in-person presentations** # 
+**We are currently only considering in-person presentations** #
 
 More information can be found on the [abstract details page](/register/abstract)
 

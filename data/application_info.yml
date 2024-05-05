@@ -22,7 +22,7 @@ applications:
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2024-07-01T23:00:00.000+02:00
+    close_date: 2024-07-05T23:00:00.000+02:00
     acceptance_date: upon payment
   - heading: "Industry  \n\U0001F6E0  \nR3400"
     label: Register now
@@ -33,7 +33,7 @@ applications:
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2024-07-01T23:00:00.000+02:00
+    close_date: 2024-07-05T23:00:00.000+02:00
     acceptance_date: upon payment
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Apply to attend for free
@@ -42,8 +42,8 @@ applications:
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
     open_date: April 2024
-    close_date: 2024-05-05T22:00:00.000+02:00
-    acceptance_date: 1st June (approx.)
+    close_date: 2024-05-12T22:00:00.000+02:00
+    acceptance_date: 6th June (approx.)
   - heading: "Present a talk  \n\U0001F3A4"
     label: Submit abstract
     col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)
