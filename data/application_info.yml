@@ -52,7 +52,7 @@ applications:
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSf0ZxY__xy-qxhiRGqhtjPYOkyp8SF18VvfsZcS_Qv3meTKkg/viewform?usp=sf_link"
     color: orange
     open_date: April 2024
-    close_date: 2024-05-05T22:00:00.000+02:00
+    close_date: 2024-05-12T22:00:00.000+02:00
     acceptance_date: 1st June (approx.)
 show_period: false
 period_text: "[Registration period](/register)"
