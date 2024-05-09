@@ -2,6 +2,7 @@
 people:
   - name: Zubeida Dawood
     years:
+      - Deep Learning
       - Research
     talk_description:
       "This talk would explore how ontology engineering can enhance a cybersecurity learning factory built with deep learning techniques."
@@ -17,7 +18,8 @@ people:
         icon: ""
   - name: Terence van Zyl
     years:
-      - Research
+      - Deep Learning
+      - Foundations
     talk_description:
       "The talk will explore the evolution of machine learning and explain the background of the impact of deep learning in modern artificial intelligence. The talk will start by introducing basic 'linear/shallow' approaches to machine learning. The discussion will begin with the traditional reliance on carefully hand-engineered features. We will then delve into the power of deep learning's representation learning. Attendees will discover how deep learning models automatically extract and optimise the most relevant features from raw data, revolutionising fields like computer vision, natural language processing, and beyond. We will end our talk by exploring the persistent challenges and what cutting-edge research is needed to overcome these."
     bio:
