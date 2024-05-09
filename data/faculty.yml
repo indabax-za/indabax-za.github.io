@@ -1,1 +1,35 @@
-people: []
+---
+people:
+  - name: Zubeida Dawood
+    years:
+      - Research
+    talk_description:
+      "This talk would explore how ontology engineering can enhance a cybersecurity learning factory built with deep learning techniques."
+    bio:
+      Dr Zubeida Dawood (Khan) is a researcher who holds a PhD from the University of Cape Town. She is currently working at the Council for Scientific and Industrial Research (CSIR) within the Information and Cyber Security Centre (ICSC) as a Research Group Leader. She enjoys research and writing and is passionate about knowledge transfer and human capital development for the advancement of science amongst the youth. She has been involved in several cyber security awareness campaigns and projects, and aims to uplift the cyber security posture of the communities. She is also an award winner for the Mail and Guardian's Top 200 South Africans for the year 2023, among other achievements. Dr Dawood has published over 25 peer-reviewed publications. Her research interests lie in cyber security, governance in cyber security, semantic web technologies and ontologies. Simply put, Zubeida is passionate about bridging the gap between scientists and citizens.
+    topic: "Real-world Applications of Ontology Engineering in Deep Learning : A Cybersecurity Learning Factory Use Case"
+    affiliation: CSIR/ TUT/ WITS Business School
+    link: modal
+    image: "/images/people/zubeida_dawood.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/zubeida-casmod-dawood-7b9a3815/
+        icon: ""
+  - name: Terence van Zyl
+    years:
+      - Research
+    talk_description:
+      "The talk will explore the evolution of machine learning and explain the background of the impact of deep learning in modern artificial intelligence. The talk will start by introducing basic 'linear/shallow' approaches to machine learning. The discussion will begin with the traditional reliance on carefully hand-engineered features. We will then delve into the power of deep learning's representation learning. Attendees will discover how deep learning models automatically extract and optimise the most relevant features from raw data, revolutionising fields like computer vision, natural language processing, and beyond. We will end our talk by exploring the persistent challenges and what cutting-edge research is needed to overcome these."
+    bio:
+      Dr Terence van Zyl holds the Nedbank Research and Innovation Chair at the University of Johannesburg where he is a Professor in the Institute for Intelligent Systems. He is an NRF rated scientist who received his PhD and MSc in Computer Science from the University of Johannesburg for his thesis on agent-based complex adaptive systems. He has over 15 years of experience researching and innovating large scale streaming analytics systems for government and industry. He has previously served South Africa as a sub-chair within the committee on earth observation satellites and as part of the South African delegation to the GEO Ministerial. He has received numerous awards including the Meraka Institute innovation excellence award, Council for Scientific and Industrial Research (CSIR) Einstein special award and IEEE committee on earth observation medal for meritorious service. His research interests include data-driven science and engineering, prescriptive analytics, machine learning, meta-heuristic optimisation, complex adaptive systems, high-performance computing, and artificial intelligence.    
+    topic: "Deep Learning : The Journey from Feature Engineering to Representation Learning"
+    affiliation: University of Johannesburg
+    link: modal
+    image: "/images/people/terance_van_zyl.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/terence-van-zyl-b9b00b4/
+        icon: ""
+      - title: Github
+        link: https://github.com/tvanzyl
+        icon: ""
