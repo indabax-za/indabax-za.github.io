@@ -35,3 +35,25 @@ people:
       - title: Github
         link: https://github.com/tvanzyl
         icon: ""
+  - name: Mpho Primus
+    years:
+      - Language
+      - AI in Africa
+    talk_description:
+      "An exploration on the intersection of linguistics, computer science and AI technologies and their dynamic landscape in African NLP. Potential for the African continent, offering opportunities for innovation, development, and socio-economic growth. The current state of NLP R&D and adoption in Africa, highlighting both the progress made and the challenges faced. We examine how NLP technologies are being leveraged across various sectors, including healthcare, education, finance, agriculture, and governance, to address unique African challenges and empower local communities."
+    bio:
+      NRF-rated researcher focusing on African NLP. Co-director of the Institute for Intelligent Systems, University of Johannesburg. Founder of Primus Tech Hub, a boutique firm focusing on data strategies. Board trustee of the IDEMIA Black Women's Trust and advisory board member of the PAICTA organisation.
+    topic: "NLP for Africa: Trends and Perspectives"
+    affiliation: "Institute for Intelligent Systems, Primus Tech Hub"
+    link: modal
+    image: "/images/people/mpho_primus.png"
+    social_media:
+      - title: Twitter
+        link: https://twitter.com/mphoraborife
+        icon: ""
+      - title: LinkedIn
+        link: https://za.linkedin.com/in/mpho-primus-3a274116
+        icon: ""
+      - title: Facebook
+        link: https://www.facebook.com/profile.php?id=100087560526350
+        icon: ""
