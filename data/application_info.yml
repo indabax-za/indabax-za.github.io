@@ -37,7 +37,7 @@ applications:
     acceptance_date: upon payment
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Apply to attend for free
-    open: true
+    open: false
     closed_message: Closed!
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
@@ -47,7 +47,7 @@ applications:
   - heading: "Present a talk  \n\U0001F3A4"
     label: Submit abstract
     col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)
-    open: true
+    open: false
     closed_message: Closed!
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSf0ZxY__xy-qxhiRGqhtjPYOkyp8SF18VvfsZcS_Qv3meTKkg/viewform?usp=sf_link"
     color: orange

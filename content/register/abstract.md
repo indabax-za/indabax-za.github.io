@@ -16,13 +16,13 @@ weight = 1
 +++
 We welcome submitted talks 🎤!
 
-Abstract submissions are **open**.
+Abstract submissions are **closed**.
 
 <!--more-->
 
 {{<rawhtml>}}
 <!-- ADD "disabled" class if you want to disable the button -->
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0ZxY__xy-qxhiRGqhtjPYOkyp8SF18VvfsZcS_Qv3meTKkg/viewform?usp=sf_link" class="btn btn-warning btn-lg text-white col-4 offset-4 col-xs-10 offset-xs-1" target="_blank" title="apply now">Submit abstract now</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0ZxY__xy-qxhiRGqhtjPYOkyp8SF18VvfsZcS_Qv3meTKkg/viewform?usp=sf_link" class="disabled btn btn-warning btn-lg text-white col-4 offset-4 col-xs-10 offset-xs-1" target="_blank" title="apply now">Applications are now closed</a>
 {{</rawhtml>}}
 
 ## Talks
@@ -34,7 +34,6 @@ Abstract submissions are **open**.
 ### Presentation format
 
 We welcome submissions for flash talks (\~ 5 min), short talks (\~15 min), and long talks (\~30 min). If your abstract is accepted, we will communicate with you what length format works best, considering your submitted preferences and our requirements.
-
 
 ### Submission format
 
