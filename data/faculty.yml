@@ -57,3 +57,58 @@ people:
       - title: Facebook
         link: https://www.facebook.com/profile.php?id=100087560526350
         icon: ""
+  - name: Pelonomi Moiloa
+    years:
+      - Language
+      - AI in Africa
+    talk_description:
+      "We'll explore how leveraging African talent and expertise in NLP can revolutionise communication and accessibility as we embark on a journey to unlock new possibilities and shape the future of language technology in Africa and beyond. We will touch on a range of subjects, from navigating linguistic diversity and cultural nuances to addressing infrastructure limitations and access barriers. We will share insights, experiences, and strategies for overcoming these hurdles in building a startup that caters to the specific needs and realities of the African context."
+    bio:
+      Pelonomi is CEO of Lelapa AI - A socially grounded research and product lab developing language technology for African languages. Lelapa AI has a mission to enable a noticeable uptick in the quality of life on the African continent. It aspires to do so through expanding the capacity of the African digital economy with resource-efficient language AI. Pelonomi is also a trustee of a girl scholarship fund and director of a community-based NPC. Pelonomi is drawn to the curiosities of community and connection in how they can inform imaginings of a better future, such that we can assist that future in arriving well. An electrical and biomedical engineer by training. TIME 100 most influential people in AI. TED speaker. Bloomberg Catalyst 2023.
+    topic: "Organizing African talent to move humanity forward: Language Technology for Africa"
+    affiliation: "Lelapa AI"
+    link: modal
+    image: "/images/people/pelonomi.jpeg"
+    social_media:
+      - title: Twitter
+        link: https://twitter.com/tamati_biskit
+        icon: ""
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/pelonomi-moiloa/
+        icon: ""
+      - title: Instagram
+        link: https://www.instagram.com/tamati_biskit
+        icon: ""
+  - name: Emmanuel Dufourq
+    years:
+      - BioAI
+      - Research
+      - Deep Learning
+    talk_description:
+      "A recent report issued by the WWF states that there has been a catastrophic decline in wildlife population in recent years. A large number of species are threatened with extinction due to a number of factors such as over-exploitation of resources, deforestation and climate change. Certain species have been placed on the IUCN Red List for several years, but further conservation efforts are still urgently required to ensure the survival of the remaining individuals. While it is true that the number of individuals in threatened populations is decreasing, there have been considerable conservation efforts to put a halt to this. Ecologists, researchers, and rangers closely monitor the populations, in certain cases by placing microphones, camera-traps, and other sensors into the environment and searching through the recorded data for the species of interest. These data collection methodologies comes with a cost, in that huge datasets (audio, image, accelerometery) are produced and are difficult to manually process. This keynote will discuss our group's efforts in using deep learning to monitor critically endangered species in Africa and around our planet, and hopefully encourage you to do the same."
+    bio:
+      Emmanuel Dufourq leads the Machine Learning for Ecology Research Group at the African Institute for Mathematical Sciences South Africa (AIMS) and is a senior lecturer in Applied Mathematics at Stellenbosch University, South Africa. The group focuses on the development of artificial intelligence algorithms to conservation ecology problems. He is the AIMS-Carnegie junior research chair jointly with the AIMS Research and Innovation Centre in Rwanda. He focuses on the development of modern machine learning algorithms applied to bioacoustics research. He is an associate editor for Ecological Informatics and an academic editor for PLOS Computational Biology. He has supervised 18 postgraduate students who worked on projects related to machine learning for wildlife monitoring.
+    topic: "Deep Learning and Wildlife Monitoring"
+    affiliation: "University of Cape Town"
+    link: modal
+    image: "/images/people/emmauel_dufourq.jpg"
+    social_media:
+      - title: Twitter
+        link: https://twitter.com/EmmanuelDufourq
+        icon: ""
+  - name: Jonathan Shock
+    years:
+      - RL
+      - Research
+    talk_description:
+      "In this talk I will cover some of the avenues in Reinforcement Learning that I think are particular interesting and important and are currently being undertaken by my lab."
+    bio:
+      I am an associate professor in the Department of Maths and Applied Maths at the University of Cape Town and an adjunct professor at the INRS Montreal. Originally from Oxford, England, I completed my PhD at the University of Southampton in 2005, in applications of string theory to understanding quantum chromodynamics. I then had postdoctoral research positions in Beijing, Santiago de Compostela and Munich before becoming a lecturer at the University of Cape Town in the Department of Mathematics and Applied Mathematics in 2013. I have a wide array of research interests and spend a lot of my time supervising students. My research interests cover machine learning (in particular reinforcement learning), theoretical physics, and neuroscience.I also love to teach! When not working, I can be found in the kitchen, with my camera, trying to get some exercise or attempting to improve my Mandarin.
+    topic: "Reinforcement Learning: Meta, Offline, Multi-agent and more"
+    affiliation: "University of Cape Town"
+    link: modal
+    image: "/images/people/jonathan_shock.jpg"
+    social_media:
+      - title: Website
+        link: https://shocklab.net
+        icon: ""
