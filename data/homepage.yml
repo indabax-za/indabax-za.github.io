@@ -59,14 +59,14 @@ sponsors:
   link: partners
   link_text: view all
 faculty:
-  enable: false
+  enable: true
   title: Speakers
   show_all: true
   show_track: true
   slider: true
   link: "/speakers"
   ta_link: "/speakers"
-  link_text: view all
+  link_text: with more incoming
 schedule:
   enable: false
   link: "/schedule"
