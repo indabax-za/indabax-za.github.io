@@ -38,6 +38,7 @@ people:
   - name: Mpho Primus
     years:
       - Language
+      - Keynote
       - AI in Africa
     talk_description:
       "An exploration on the intersection of linguistics, computer science and AI technologies and their dynamic landscape in African NLP. Potential for the African continent, offering opportunities for innovation, development, and socio-economic growth. The current state of NLP R&D and adoption in Africa, highlighting both the progress made and the challenges faced. We examine how NLP technologies are being leveraged across various sectors, including healthcare, education, finance, agriculture, and governance, to address unique African challenges and empower local communities."
@@ -61,6 +62,7 @@ people:
     years:
       - Language
       - AI in Africa
+      - Keynote
     talk_description:
       "We'll explore how leveraging African talent and expertise in NLP can revolutionise communication and accessibility as we embark on a journey to unlock new possibilities and shape the future of language technology in Africa and beyond. We will touch on a range of subjects, from navigating linguistic diversity and cultural nuances to addressing infrastructure limitations and access barriers. We will share insights, experiences, and strategies for overcoming these hurdles in building a startup that caters to the specific needs and realities of the African context."
     bio:
@@ -82,7 +84,7 @@ people:
   - name: Emmanuel Dufourq
     years:
       - BioAI
-      - Research
+      - Keynote
       - Deep Learning
     talk_description:
       "A recent report issued by the WWF states that there has been a catastrophic decline in wildlife population in recent years. A large number of species are threatened with extinction due to a number of factors such as over-exploitation of resources, deforestation and climate change. Certain species have been placed on the IUCN Red List for several years, but further conservation efforts are still urgently required to ensure the survival of the remaining individuals. While it is true that the number of individuals in threatened populations is decreasing, there have been considerable conservation efforts to put a halt to this. Ecologists, researchers, and rangers closely monitor the populations, in certain cases by placing microphones, camera-traps, and other sensors into the environment and searching through the recorded data for the species of interest. These data collection methodologies comes with a cost, in that huge datasets (audio, image, accelerometery) are produced and are difficult to manually process. This keynote will discuss our group's efforts in using deep learning to monitor critically endangered species in Africa and around our planet, and hopefully encourage you to do the same."
@@ -111,4 +113,62 @@ people:
     social_media:
       - title: Website
         link: https://shocklab.net
+        icon: ""
+  - name: Chijioke  Okorie
+    years:
+      - Legal 
+      - AI in Africa
+    talk_description:
+      "Details Coming Soon."
+    bio:
+      "Chijioke Okorie founded and leads the Data Science Law Lab - a research group at the University of Pretoria that deploys research in law and produces independent and authoritative evidence and policy advice to support the growth of all aspects of data science research, development and application across Africa. Before becoming a full time researcher and policy consultant, Dr Okorie was a Senior Associate in the law firm of CLP Legal, Lagos Nigeria. She is also the Lead Advisor at Penguide Advisory, a firm that provides research, educational, legal and regulatory advisory services in various fields including copyright and (emerging) technologies. At Penguide, she has the responsibility of leading research, training and legal advisory services for a range of clients including government and government agencies, companies and non-profit organisations, entrepreneurs within Nigeria, across Africa and internationally. Dr Okorie is 'Africa Correspondent' at award-winning intellectual property law blog, The IPKat, and an associate editor of the South African Intellectual Property Law Journal."
+    topic: "Intellectual property, data, and technology, in terms of governance"
+    affiliation: "University of Pretoria"
+    link: modal
+    image: "/images/people/chijioke_okorie.png"
+    social_media:
+      - title: Website
+        link: https://chijiokeo.com/
+        icon: ""
+      - title: Website
+        link: https://datasciencelawlab.africa
+        icon: ""
+      - title: Twitter
+        link: https://twitter.com/chythepenguide
+        icon: ""
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/penguide/
+        icon: ""
+  - name: Steven James
+    years:
+      - RL 
+      - Research
+      - Keynote
+    talk_description:
+      "While reinforcement learning has achieved recent success in many challenging domains, these methods generally require millions of samples from the environment to learn optimal behaviours, limiting their real-world applicability. A major challenge is thus in designing sample-efficient agents that can transfer their existing knowledge to solve new tasks quickly. This is particularly important for agents in a multitask or lifelong setting, since learning to solve complex tasks from scratch is typically impractical. This talk discusses how an agent can autonomously learn a particular family of goal-oriented value functions, which can then be used to solve new tasks through composition. First, for goal-reaching tasks expressible as Boolean sentences, we show how these value functions can be combined to solve these new tasks optimally. We further demonstrate how an agent can combine these value functions to produce near-optimal behaviours given complex temporal task specifications, such as regular fragments of linear temporal logic, without further learning."
+    bio:
+      "Steven James is a senior lecturer at the University of the Witwatersrand, South Africa. He received his PhD from the same institute in 2021, where he was also the first African recipient of a Google PhD fellowship in machine learning. As deputy director of the RAIL lab, his interests revolve around reinforcement learning and planning, with a specific focus on creating agents capable of learning and reusing knowledge over their lifetimes to solve as many tasks as possible."
+    topic: "Concurrent and Temporal Composition for Zero-shot Transfer in Reinforcement Learning"
+    affiliation: "University of the Witwatersrand"
+    link: modal
+    image: "/images/people/steven_james.png"
+    social_media:
+      - title: Website
+        link: https://sdjames.me/
+        icon: ""
+  - name: Jabu Mtsweni
+    years:
+      - AI Ethics
+      - Research
+    talk_description:
+      "This talk will discuss case studies on how AI can be good and not so good for cybersecurity and also how cybersecurity can be good for AI."
+    bio:
+      "Dr Jabu Mtsweni is the Head of Information and Cyber Security Centre and Chief Researcher at the Council for Scientific and Industrial Research (CSIR), NRF-Rated Researcher (C2), Certified Cybersecurity Manager, and Technical Leader of the National Policy Data Observatory supporting NATJOINTS and other government departments on data-driven decision making on diverse socio-economic interventions. Dr Mtsweni is also a Research Fellow at University of South Africa and Stellenbosch University, Information Warfare Board Member at the Department of Defence, and participated in several government ministerial task teams including leading the development of the digital transformation strategy for the Department of International Relations and Cooperation (DIRCO). His research interests are in cyber defence, cyber security, socially relevant computing, and digital transformation. Dr Jabu Mtsweni regularly speaks at various local and international conferences on cybersecurity and technology issues and has 20 years academic and industry experience working with different local, regional, and international industries and partners on various ICT projects. He has published over 80 peer-reviewed conference and journal articles with several collaborators. He also supervises Master’s and PhD Students from different universities in South Africa. He is passionate about leadership, youth development, mentoring, and positive living. He has completed four Comrade Marathons since 2019."
+    topic: "The good and not so good of Cybersecurity for AI & AI for Cybersecurity"
+    affiliation: "Council for Scientific and Industrial Research (CSIR)"
+    link: modal
+    image: "/images/people/jabu_mtsweni.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/jabu-mtsweni-04526720/
         icon: ""
