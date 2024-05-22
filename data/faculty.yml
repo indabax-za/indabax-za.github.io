@@ -91,7 +91,7 @@ people:
     bio:
       Emmanuel Dufourq leads the Machine Learning for Ecology Research Group at the African Institute for Mathematical Sciences South Africa (AIMS) and is a senior lecturer in Applied Mathematics at Stellenbosch University, South Africa. The group focuses on the development of artificial intelligence algorithms to conservation ecology problems. He is the AIMS-Carnegie junior research chair jointly with the AIMS Research and Innovation Centre in Rwanda. He focuses on the development of modern machine learning algorithms applied to bioacoustics research. He is an associate editor for Ecological Informatics and an academic editor for PLOS Computational Biology. He has supervised 18 postgraduate students who worked on projects related to machine learning for wildlife monitoring.
     topic: "Deep Learning and Wildlife Monitoring"
-    affiliation: "University of Cape Town"
+    affiliation: "African Institute for Mathematical Sciences (AIMS)"
     link: modal
     image: "/images/people/emmauel_dufourq.jpg"
     social_media:
