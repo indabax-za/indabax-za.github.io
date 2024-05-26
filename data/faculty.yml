@@ -70,7 +70,7 @@ people:
     topic: "Organizing African talent to move humanity forward: Language Technology for Africa"
     affiliation: "Lelapa AI"
     link: modal
-    image: "/images/people/pelonomi.jpeg"
+    image: "/images/people/pelonomi.jpg"
     social_media:
       - title: Twitter
         link: https://twitter.com/tamati_biskit
@@ -171,4 +171,72 @@ people:
     social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/jabu-mtsweni-04526720/
+        icon: ""
+  - name: Neelan Pather
+    years:
+      - ML
+      - Applied ML & Industry
+    talk_description:
+      "Practical ML in financial data science."
+    bio:
+      "Neelan Pather, FIA, CERA, MSc CS, is a Data Science Manager at Analytix Engine, a financial data science consultancy. He is passionate about using modern data-intensive techniques in financial risk management applications. He is a member of the Actuarial Society of South Africa's Data Science Committee and is actively involved in efforts to modernise the actuarial profession."
+    topic: "Leveraging ML in Big Data Analytics for Business Success"
+    affiliation: "Analytix Engine"
+    link: modal
+    image: "/images/people/neelan_pather.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/neelanpather/
+        icon: ""
+      - title: Twitter
+        link: https://x.com/neelanpather
+        icon: ""
+      - title: Website
+        link: https://www.analytixengine.com/
+        icon: ""       
+  - name: Kayode  Adetunji
+    years:
+      - Healthcare
+      - Explainable AI
+    talk_description:
+      "We will discuss the practical applications of AI and ML in addressing healthcare challenges in Africa. Focusing on multimorbidity risk prediction, we will discuss when and how to effectively use AI/ML in research and innovation, with an emphasis on explainability and building user-friendly human-machine interfaces. The presentation will highlight strategies for optimizing limited resources and improving patient outcomes, using real-world examples and case studies relevant to the African context."
+    bio:
+      "Kayode Adetunji obtained his Master's degree in Electrical Engineering in 2018 from the University of Johannesburg, South Africa, and went on to earn his PhD in 2022 from the School of Electrical and Information Engineering at the University of the Witwatersrand. During his studies, he focused on developing optimization algorithms and advanced machine learning techniques to improve power systems networks by integrating renewable energy sources, battery systems, and electric vehicles. In addition, he has worked on monitoring systems for health and agriculture applications. Kayode is currently a member of the Multimorbidity in Africa, Digital Innovation, Visualisation and Application (MADIVA) team at the Sydney Brenner Institute for Molecular Bioscience where he is working on innovative machine learning and stratification techniques for single-disease and multimorbidity risk. His research interests include intuitive machine learning models, optimization algorithms, decision theory & preference aggregation, and exploring the health-energy nexus."
+    topic: "Leveraging AI and ML for Innovations in African Healthcare."
+    affiliation: ""
+    link: modal
+    image: "/images/people/kayode_adetunji.jpg"
+  - name: Michelle Skelton
+    years:
+      - Healthcare
+      - Research
+    talk_description:
+      "Overview of the network, collaborations and outputs."
+    bio:
+      "Dr. Michelle Skelton: Pan-African Research Coordination in biomedical and data sciences
+
+      Dr. Michelle Skelton is a seasoned professional managing the H3Africa and DS-I Africa Administrative Coordinating Centre (H3ACC & DS-I Africa CC) with a wealth of experience in project management, coordination, fiscal management, and communications. She excels in fostering transparency, fairness, and timely exchange of critical information while balancing the diverse needs of multiple stakeholders within budget constraints. Dr. Skelton plays a pivotal role in the adaptability and pressure-handling capabilities of the coordinating center, ensuring seamless operations as the consortium's requirements evolve.
+
+      Key Responsibilities and Achievements
+      Manages and organizes activities for the Steering Committee, executing joint decisions effectively. Served as DS-I Africa SC Chair.
+      Instrumental in establishing the H3Africa DBAC committee, coordinating  with data and biorepository teams.
+      Facilitates strategic communication within the H3Africa and DS-I Africa network, coordinating virtual and face-to-face meetings with NIH,  Wellcome and SFA collaboration.
+      Actively engages in outreach and sustainability efforts, securing support from influential organizations and advocating for African science and research sustainability.
+      Successfully facilitated high-profile engagements with dignitaries like Her Excellency Dr. Ameenah Gurib-Fakim and other esteemed guests at consortium meetings.
+      Leads the H3Africa Sustainability efforts, by targeting regional and global organizations to strengthen scientific connections across Africa and funding applications
+      Initiates collaborations with pan-African networks like AfSHG, Africa Pharmacogenomics Network (APN), Data Science Africa (DSA), Deep Learning Indaba/Indaba X, fostering partnerships for research and development initiatives.
+      Drives career development through the H3Africa and DS-I Africa Early Career Researches Initiatives, administering student travel fellowships and organizing workshops on critical skills development.
+
+      Dr. Skelton's dedication to advancing African science, fostering collaborations, and promoting sustainability in medical health research and data science exemplifies her commitment to the  African Health agenda. Her multifaceted role in coordinating key activities, engaging stakeholders, and driving strategic initiatives underscores her invaluable contributions to the field of genomics and data science and pan-African research coordination.
+      "
+    topic: "DS-I Africa - Harnessing data science for health discovery and innovation in Africa"
+    affiliation: "UCT"
+    link: modal
+    image: "/images/people/michelle_skelton.jpeg"
+    social_media:
+      - title: LinkedIn
+        link: http://linkedin.com/in/michelle-s-6747b6154
+        icon: ""
+      - title: Website
+        link: https://dsi-africa.org/project/14
         icon: ""
