@@ -67,7 +67,7 @@ people:
       "We'll explore how leveraging African talent and expertise in NLP can revolutionise communication and accessibility as we embark on a journey to unlock new possibilities and shape the future of language technology in Africa and beyond. We will touch on a range of subjects, from navigating linguistic diversity and cultural nuances to addressing infrastructure limitations and access barriers. We will share insights, experiences, and strategies for overcoming these hurdles in building a startup that caters to the specific needs and realities of the African context."
     bio:
       Pelonomi is CEO of Lelapa AI - A socially grounded research and product lab developing language technology for African languages. Lelapa AI has a mission to enable a noticeable uptick in the quality of life on the African continent. It aspires to do so through expanding the capacity of the African digital economy with resource-efficient language AI. Pelonomi is also a trustee of a girl scholarship fund and director of a community-based NPC. Pelonomi is drawn to the curiosities of community and connection in how they can inform imaginings of a better future, such that we can assist that future in arriving well. An electrical and biomedical engineer by training. TIME 100 most influential people in AI. TED speaker. Bloomberg Catalyst 2023.
-    topic: "Organizing African talent to move humanity forward: Language Technology for Africa"
+    topic: "Organizing African Talent to Move Humanity Forward: Language Technology for Africa"
     affiliation: "Lelapa AI"
     link: modal
     image: "/images/people/pelonomi.jpg"
@@ -122,7 +122,7 @@ people:
       "Details Coming Soon."
     bio:
       "Chijioke Okorie founded and leads the Data Science Law Lab - a research group at the University of Pretoria that deploys research in law and produces independent and authoritative evidence and policy advice to support the growth of all aspects of data science research, development and application across Africa. Before becoming a full time researcher and policy consultant, Dr Okorie was a Senior Associate in the law firm of CLP Legal, Lagos Nigeria. She is also the Lead Advisor at Penguide Advisory, a firm that provides research, educational, legal and regulatory advisory services in various fields including copyright and (emerging) technologies. At Penguide, she has the responsibility of leading research, training and legal advisory services for a range of clients including government and government agencies, companies and non-profit organisations, entrepreneurs within Nigeria, across Africa and internationally. Dr Okorie is 'Africa Correspondent' at award-winning intellectual property law blog, The IPKat, and an associate editor of the South African Intellectual Property Law Journal."
-    topic: "Intellectual property, data, and technology, in terms of governance"
+    topic: "Intellectual Property, Data, and Technology, in terms of Governance"
     affiliation: "University of Pretoria"
     link: modal
     image: "/images/people/chijioke_okorie.png"
@@ -163,7 +163,7 @@ people:
       "This talk will discuss case studies on how AI can be good and not so good for cybersecurity and also how cybersecurity can be good for AI."
     bio:
       "Dr Jabu Mtsweni is the Head of Information and Cyber Security Centre and Chief Researcher at the Council for Scientific and Industrial Research (CSIR), NRF-Rated Researcher (C2), Certified Cybersecurity Manager, and Technical Leader of the National Policy Data Observatory supporting NATJOINTS and other government departments on data-driven decision making on diverse socio-economic interventions. Dr Mtsweni is also a Research Fellow at University of South Africa and Stellenbosch University, Information Warfare Board Member at the Department of Defence, and participated in several government ministerial task teams including leading the development of the digital transformation strategy for the Department of International Relations and Cooperation (DIRCO). His research interests are in cyber defence, cyber security, socially relevant computing, and digital transformation. Dr Jabu Mtsweni regularly speaks at various local and international conferences on cybersecurity and technology issues and has 20 years academic and industry experience working with different local, regional, and international industries and partners on various ICT projects. He has published over 80 peer-reviewed conference and journal articles with several collaborators. He also supervises Master’s and PhD Students from different universities in South Africa. He is passionate about leadership, youth development, mentoring, and positive living. He has completed four Comrade Marathons since 2019."
-    topic: "The good and not so good of Cybersecurity for AI & AI for Cybersecurity"
+    topic: "The Good and not so Good of Cybersecurity for AI & AI for Cybersecurity"
     affiliation: "Council for Scientific and Industrial Research (CSIR)"
     link: modal
     image: "/images/people/jabu_mtsweni.jpg"
@@ -228,7 +228,7 @@ people:
 
       Dr. Skelton's dedication to advancing African science, fostering collaborations, and promoting sustainability in medical health research and data science exemplifies her commitment to the  African Health agenda. Her multifaceted role in coordinating key activities, engaging stakeholders, and driving strategic initiatives underscores her invaluable contributions to the field of genomics and data science and pan-African research coordination.
       "
-    topic: "DS-I Africa - Harnessing data science for health discovery and innovation in Africa"
+    topic: "DS-I Africa - Harnessing Data Science for Health Discovery and Innovation in Africa"
     affiliation: "UCT"
     link: modal
     image: "/images/people/michelle_skelton.jpeg"
@@ -263,7 +263,7 @@ modeling for Voice Search) and 2010 (Voice Search for Afrikaans, English and
 isiZulu). He holds a PhD in Computer Engineering (thesis: “Efficient training of
 Support Vector Machines and their hyperparameters”) and has co-authored 40+
 peer-reviewed papers on speech recognition and general pattern recognition."
-    topic: "Speech recognition for Africa"
+    topic: "Speech Recognition for Africa"
     affiliation: "Saigen"
     link: modal
     image: "/images/people/charles_vheerden.png"
@@ -299,4 +299,23 @@ Aside from his corporate role, Frans holds an Adjunct Professorship at the Elect
         icon: ""  
       - title: Website
         link: https://www.linkedin.com/company/alphawave.co.za/mycompany/
+        icon: ""  
+  - name: Henrica Makulu Kadira
+    years:
+      - Data Science
+      - AI in Africa
+    talk_description:
+      "In this talk, Henrica walks you through her journey as one of Africa's first female data scientists including some career advice tips and how she has used data to inform and inspire action both at work and in her community!"
+    bio:
+      "A Microsoft Certified Data Scientist passionate about leveraging data for better decision making. Experienced in delivering advanced data products in telecoms, fintech and healthcare. Tools: Azure Machine Learning, Azure Databricks, SQL, Python, Qlik Sense, PowerBI. Currently serving as a Senior Business Intelligence Specialist Consultant at South Africa's largest health risk management services provider, Medscheme Holdings. Also a LinkedIn Learning Instructor, Technical Trainer, Mentor and Speaker."
+    topic: "Using Data to Inform and Inspire Action"
+    affiliation: "Medscheme Holdings"
+    link: modal
+    image: "/images/people/henrica_makulu.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/henrica-makulu/
+        icon: ""
+      - title: Website
+        link: https://henricamakulu.wixsite.com/website
         icon: ""  
