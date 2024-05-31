@@ -32,7 +32,7 @@ Keep an eye on this page for updates.
 | 2024-05-12 🟠 | Abstract submissions close                                |
 | 2024-06-06 📢 | Notification of application acceptance                    |
 | 2024-06-06 🎤 | Notification of abstract acceptance                       |
-| 2024-06-12 💚 | Early bird registration closes (prices increase)          |
+| 2024-06-14 💚 | Early registration closes (prices increase)          |
 | 2024-07-05 ☑️ | RSVP to secure spot for applicants (acceptance +4 days)    |
 | 2024-07-05 🟡 | Final wave of paid registrations close                    |
 
