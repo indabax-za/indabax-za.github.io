@@ -77,7 +77,11 @@ There are a range of [eateries](https://www.wits.ac.za/campus-life/eateries/) on
 
 Johannesburg is a beautiful city, but like any city, it has its problems. We recommend that you take the same precautions as you would in any other city.
 
-The University of the Witwatersrand (Wits) has security guards on campus.
+The University of the Witwatersrand (Wits) has security guards on campus and 24/7 CCTV footage.
+
+Security contacts on campus:
+* West Campus (WSS, Law Lawns, parking, Res): [(011) 717 1842](tel:0117171842)
+* East Campus (Matrix, Great Hall, pedestrian and car entrances): [(011) 717 4444](tel:0117174444)
 
 ## Time
 
