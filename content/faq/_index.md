@@ -156,7 +156,9 @@ Johannesburg is a vibrant city with a rich history and culture. There is plenty 
 
 #### {{<icon "ti-home">}} &nbsp; **Can I stay at Wits?** {.faq-item}
 
-We are in touch with the local accommodation provider and will provide further details in the coming weeks.
+We are pleased to invite attendees to apply to stay in accommodation in a residence hall on Wits Campus. Accommodation is limited and not guaranteed until payment is received.
+
+Please fill in [this form](https://forms.gle/odYKYUJu1pcHvfdg7) if you are interested.
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
