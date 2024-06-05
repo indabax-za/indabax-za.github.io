@@ -58,11 +58,18 @@ Yes, there will be tea and coffee available at certain times throughout the day!
 
 #### {{<icon "fa-solid fa-utensils">}} &nbsp; **Will there be food?** {.faq-item}
 
-Yes, we will provide **lunch** on the 10th, 11th, and 12th July. We will also provide snacks and drinks throughout the day. Dietary requirements will be collected before the event.
+Yes, we will provide **lunch** on the 10th, 11th, and 12th July. We will also provide some snacks throughout the day. Dietary requirements are collected in the registration form.
 
 <!-- If you have an "Accommodation" travel grant (you will know this explicitly), we provide breakfast for you on the 12th, 13th, 14th, and 15th of July. -->
 
 Each **evening** will have an activity with some food and drinks provided, but in limited quantities and not intended as a full dinner experience. We **strongly** encourage you to make friends and go explore the city for dinner.
+
+#### {{<icon "fa-solid fa-mug-saucer">}} &nbsp; **I'm still hungry - where can I get food on campus?** {.faq-item}
+There are a range of [eateries](https://www.wits.ac.za/campus-life/eateries/) on Wits campus including:
+* [Tower of Light Tuckshop](https://maps.app.goo.gl/fatWEkXQ3WDQZpqf7)
+* [Zesti Lemons](https://maps.app.goo.gl/ePizNoD8qwXU1irY8)
+* [Wits Club](https://maps.app.goo.gl/CNAV9TcVf6mWwtVA8)
+* [The Matrix](https://maps.app.goo.gl/6w12Z3UV5gCy2keH9) - a mall with several restaurants on East Campus
 
 ## Safety
 
