@@ -8,7 +8,7 @@ summary = "A one-night-only affair to showcase the present and future of AI from
 title = "AI Fest 🖼️ "
 link_text = "find out more"
 type = "apply"
-lastmod = 2024-04-01T00:00:00Z
+lastmod = 2024-06-04T00:00:00Z
 colWidth = 4
 colOffset = 0
 weight = 2 # for ordering on the registration page
@@ -17,29 +17,100 @@ parent = "register"
 weight = 2
 
 +++
-We welcome one and all to the much awaited 🎤 **AI FEST** 🖼️ - a one-night-only affair to showcase the present and future of AI from students, companies, and research labs. Registration opening soon.
 
 <!-- If you would like to **register** just for the AI Fest, use the link below &darr; -->
 
 
 <!-- ![AI Fest](/images/ai-fest-poster.jpg ) -->
 
-We welcome posters from students, booths or exhibitions from companies, showcasing research from research labs.
+# Step Into the Limelight at AI Fest
+{{< rawhtml >}}
+
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; ">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="/images/register/ai-fest-image2.png" style="max-width: 100%; height: auto; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+  <div style="flex: 2; padding: 10px; font-family: var(--bs-font-sans-serif); font-size: 16px; line-height: 1.8; color: #4c4c4c; font-weight: 400;">
+    What is the <strong>Indaba𝕏 SA</strong> about? The South African AI community coming together!  
+    Join us in celebrating South African innovation and discovery in the field of AI at our opening event, the <strong> AI Fest </strong>. 
+    <br/>
+    At our second staging of the <strong>AI Fest</strong>, we’re bigger and better. Expect a festive atmosphere, activities, art, music, food vendors and Spot the dog!
+    <br/>
+    We’re calling for engaging posters from students, interactive booths from companies and groundbreaking research demonstrations from labs. Be a part of shaping the future of AI at the <strong> AI Fest! </strong>
+
+    Don’t miss out - register below!
+  </div>
+</div>
+{{< /rawhtml >}}
 
 ## Posters
+{{< rawhtml >}}
 
-**Every attendee can bring a poster to the Indaba𝕏!** It is a good idea to indicate you will be bringing one during the application/registration process so we can provide adequate space.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 2; padding-right: 20px; font-family: var(--bs-font-sans-serif); font-size: 16px; line-height: 1.8; color: #4c4c4c; font-weight: 400;">
+    <p><strong>Every attendee can bring a poster to the Indaba𝕏!</strong> It is a good idea to indicate you will be bringing one during the application/registration process so we can provide adequate space.</p>
+    <p>Posters are a great way to learn, share, and get feedback on your work in a helpful and friendly environment.
+    The project does not have to be "done", in fact, it's probably more beneficial that your poster is on a work-in-progress project for something that you would like expert advice on.
+    For posters, we also welcome submissions on a topic or interest that you are passionate about but may not have results on.</p>
+    <p>Take the opportunity. You can also win prizes 🏆!</p>
+    <p>We recommend preparing an A1 landscape poster. Download a template <a href="https://osf.io/6ua4k" title="https://osf.io/6ua4k">here</a>.</p>
+    <p>Please view this video for an example on how to improve your poster design: <a href="https://www.youtube.com/watch?v=1RwJbhkCA58" title="https://www.youtube.com/watch?v=1RwJbhkCA58">How to Improve Your Poster Design</a> (adjust the template to your own needs!).</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/register/ai-fest-image1.png" style="max-width: 100%; height: auto; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
 
-Posters are a great way to learn, share, and get feedback on your work in a helpful and friendly environment.
-The project does not have to be "done", in fact, it's probably more beneficial that your poster is on a work-in-progress project for something that you would like expert advice on.
-For posters, we also welcome submissions on a topic or interest that you are passionate about but may not have results on.
+{{< /rawhtml >}}
 
-Take the opportunity. You can also win prizes 🏆!
 
-We recommend preparing an A1 landscape poster. Download a template [here](https://osf.io/6ua4k "https://osf.io/6ua4k").
 
-Please view this video for an example on how to improve your poster design [https://www.youtube.com/watch?v=1RwJbhkCA58](https://www.youtube.com/watch?v=1RwJbhkCA58 "https://www.youtube.com/watch?v=1RwJbhkCA58") \[adjust the template to your own needs!\]
 
-## Booths and exhibitions
+## Booths and Exhibitions
 
-More details will be announced soon.
+We are excited to announce the opening event of **Indaba𝕏**  South Africa, the **AI Fest**, and we would love for your organisations and research labs to be a part of it!
+
+### Event Details
+
+#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of Witwatersrand, Johannesburg
+
+#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Tuesday 9 July 2024, 15h00 - 19h00
+
+
+### Event Highlights
+
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Celebrate the achievements of the South African AI community.  
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Discover how AI is driving societal benefits and economic growth.  
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Network with South Africa’s brightest postgraduates, young professionals, peers, and research and industry leaders.  
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Enjoy a festive atmosphere celebrating South African culture with music, food, and art.  
+
+**Reserve a Booth:** Secure a booth for R2500. This helps us cover logistical costs. We recommend two persons per booth.
+
+This is a unique opportunity to showcase your AI innovations, connect with like-minded professionals, and contribute to the growth of AI in South Africa.
+
+Join us and share how you are using AI to benefit South Africa’s society and economy. We look forward to seeing you there!
+
+{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[AI FEST RSVP](https://docs.google.com/forms/d/1a2fqyplMFctYTprIi0rlrUCdLjDT9ytJtDylyETIoxs/viewform?edit_requested=true)
+{{< /class >}}
+
+
+{{< rawhtml >}}
+<div style="display: flex; justify-content: space-between; padding: 20px; align-items: center;">
+  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/ai-fest-image-footer-1.png" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/ai-fest-image-footer-3.png" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/ai-fest-image-footer-2.png" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/ai-fest-image-footer-4.png" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/ai-fest-image-footer-5.png" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+</div>
+{{< /rawhtml >}}
