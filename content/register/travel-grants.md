@@ -28,7 +28,7 @@ Accommodation may be in a shared (single gender) dorm.
 
 ## Terms and conditions for the awarding of a travel grant
 
-1. A “travel grant” totalling the amount specified in the award letter (email entitled “IndabaX Outcome of Application” with status “ACCEPTED with Travel Grant”) will be transferred to you.
+1. A “travel grant” totalling the amount specified in the award letter communicated via email will be transferred to you.
 2. The travel grant must be used for travel expenses to and from the Deep Learning IndabaX South Africa, hereafter referred to as “IndabaX”.
 3. Any travel grant money remaining after travel expenses have been paid may be used for sustenance expenses during the IndabaX. Sustenance expenses include food and beverages.
 4. The money may not be used for any other purpose whatsoever.
