@@ -319,3 +319,51 @@ Aside from his corporate role, Frans holds an Adjunct Professorship at the Elect
       - title: Website
         link: https://henricamakulu.wixsite.com/website
         icon: ""  
+  - name: Asad  Jeewa
+    years:
+      - Research
+      - RL
+    talk_description:
+      "From MDPs to offline learning, reward engineering to intrinsic motivation, this talk will introduce you to the booming field of reinforcement learning."
+    bio:
+      "Asad Jeewa is a lecturer in the department of Computer Science at the University of KwaZulu-Natal. His research group investigates fundamental reinforcement learning problems, with particular interest in social ineractions between RL agents. He previously served as a researcher at IBM and InstaDeep, before returning to academia."
+    topic: "Fundamentals of Reinforcement Learning"
+    affiliation: "University of KwaZulu-Natal"
+    link: modal
+    image: "/images/people/asad_jeewa.png"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/asadjeewa/
+        icon: ""
+      - title: Website
+        link: https://smscs.ukzn.ac.za/asad-jeewa/
+        icon: ""      
+      - title: Github
+        link: https://github.com/AsadJeewa
+        icon: "" 
+  - name: Athandiwe Saba
+    years:
+      - AI in Africa
+      - AI Ethics
+      - Language 
+    talk_description:
+      "How OSINT leverages on AI and ML to investigate the 'digital mercenaries' who work on behalf of lobbyists or malign foreign states to secretly polarise African societies by seeding hate speech, conspiracist disinformation and extremist content that is designed to undermine public trust in democratic institutions or smear human rights defenders. And how advances in AI can strengthen this work especially in language deficit societies."
+    bio:
+      "Athandiwe Saba is a pioneering multi-award winning investigative data journalist. She established the award-winning data desk at Africa's oldest online newspaper, the Mail & Guardian, and currently leads the continent's largest forensic data team, the iLAB, at Code for Africa (CfA).
+CfA's iLAB uses investigative data analysis, open source intelligence (OSINT) and AI-driven tools to investigate actors and entities bent on undermining public trust in democratic institutions and tarnish human rights defences. The iLAB has in-country analysts in 26 African nations.
+Alongside her CfA role, Athandiwe served as a research associate at the University of Pretoria's Data Department of Computer Science, advising on the South African focused Data Commons project to enable local decision-making. Prior to joining CfA, Athandiwe was deputy editor at the Mail & Guardian. She established its investigative data desk, which produced award-winning investigative journalism cited internationally by the Global Editors Network, amongst others. Athandiwe has also worked as a senior investigative journalist at other major South African media, including the Sunday Times and City Press.
+"
+    topic: "The Power of AI to Fight Information Manipulation"
+    affiliation: "Code for Africa"
+    link: modal
+    image: "/images/people/athandiwe_saba.jpeg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/athandiwe-saba-56645b11/
+        icon: ""
+      - title: Twitter
+        link: https://x.com/Athi_Saba
+        icon: ""    
+      - title: Website
+        link: https://disinfo.africa/
+        icon: ""    
