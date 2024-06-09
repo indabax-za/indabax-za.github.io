@@ -16,10 +16,10 @@ people:
       - title: LinkedIn
         link: https://www.linkedin.com/in/zubeida-casmod-dawood-7b9a3815/
         icon: ""
-  - name: Terence van Zyl
+  - name: Terence Van Zyl
     years:
-      - Deep Learning
       - Foundations
+      - Deep Learning
     talk_description:
       "The talk will explore the evolution of machine learning and explain the background of the impact of deep learning in modern artificial intelligence. The talk will start by introducing basic 'linear/shallow' approaches to machine learning. The discussion will begin with the traditional reliance on carefully hand-engineered features. We will then delve into the power of deep learning's representation learning. Attendees will discover how deep learning models automatically extract and optimise the most relevant features from raw data, revolutionising fields like computer vision, natural language processing, and beyond. We will end our talk by exploring the persistent challenges and what cutting-edge research is needed to overcome these."
     bio:
@@ -114,7 +114,7 @@ people:
       - title: Website
         link: https://shocklab.net
         icon: ""
-  - name: Chijioke  Okorie
+  - name: Chijioke Okorie
     years:
       - Legal 
       - AI in Africa
@@ -180,7 +180,7 @@ people:
     bio:
       "Neelan Pather, FIA, CERA, MSc CS, is a Data Science Manager at Analytix Engine, a financial data science consultancy. He is passionate about using modern data-intensive techniques in financial risk management applications. He is a member of the Actuarial Society of South Africa's Data Science Committee and is actively involved in efforts to modernise the actuarial profession."
     topic: "Leveraging ML in Big Data Analytics for Business Success"
-    affiliation: "Analytix Engine"
+    affiliation: 'Analytix Engine'
     link: modal
     image: "/images/people/neelan_pather.jpg"
     social_media:
@@ -251,7 +251,7 @@ people:
     affiliation: "IBM Research"
     link: modal
     image: "/images/people/siphiwe_thwala.jpg"    
-  - name: Charl van Heerden
+  - name: Charl Van Heerden
     years:
       - Language
       - AI in Africa
@@ -319,7 +319,7 @@ Aside from his corporate role, Frans holds an Adjunct Professorship at the Elect
       - title: Website
         link: https://henricamakulu.wixsite.com/website
         icon: ""  
-  - name: Asad  Jeewa
+  - name: Asad Jeewa
     years:
       - Research
       - RL
@@ -356,7 +356,7 @@ Alongside her CfA role, Athandiwe served as a research associate at the Universi
     topic: "The Power of AI to Fight Information Manipulation"
     affiliation: "Code for Africa"
     link: modal
-    image: "/images/people/athandiwe_saba.jpeg"
+    image: "/images/people/athandiwe_saba.jpg"
     social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/athandiwe-saba-56645b11/

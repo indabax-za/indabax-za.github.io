@@ -133,16 +133,11 @@ sponsors:
     current: true
     size: 70
     background_color: ''
-  - name: AICE - Artificial Intelligence Centre of Excellence Africa
-    image: images/partners/aice.png
-    link: https://www.aiceafrica.com
+  - name: DSI Africa
+    image: images/partners/dsi_africa.jpg
+    link: https://dsi-africa.org/
     current: true
-    background_color: ''
-    size: 50
-  - name: Adanian Labs
-    image: images/partners/adanianlabs.png
-    link: https://www.adanianlabs.io
-    current: true
+    size: 70
     background_color: ''
   - name: SAAIA - South African Artificial Intelligence Association
     image: images/partners/saaia.png

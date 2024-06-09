@@ -23,7 +23,7 @@ tracks:
     color: "#AA4465"
   - name: AI in Africa
     color: "#F25F5C"
-  - name: AI in Africa panel
+  - name: AI Fest
     color: "#F25F5C"
   - name: Ml in Healthcare Workshop
     color: "#247BA0"
@@ -75,7 +75,8 @@ tracks:
     color: "#2b4157"  
   - name: Vision
     color: "#1b7fc0"  
-          
+  - name: Flash Talks
+    color: "#007BFF"            
     
            
     

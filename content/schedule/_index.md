@@ -13,9 +13,9 @@ args:
 
 The schedule will be updated regularly and made available here closer to the time.
 
- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+ <!-- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
 [Download Schedule here ](https://drive.google.com/file/d/1RWQJwbEpIvYA65YS9_Rb8invjHLZPtkh/view?usp=sharing)
-{{< /class >}}
+{{< /class >}} -->
 
 
 {{< partial "schedule" "args" >}}
