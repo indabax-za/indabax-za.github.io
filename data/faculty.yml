@@ -143,6 +143,7 @@ people:
     years:
       - RL 
       - Research
+      - Keynote
     talk_description:
       "While reinforcement learning has achieved recent success in many challenging domains, these methods generally require millions of samples from the environment to learn optimal behaviours, limiting their real-world applicability. A major challenge is thus in designing sample-efficient agents that can transfer their existing knowledge to solve new tasks quickly. This is particularly important for agents in a multitask or lifelong setting, since learning to solve complex tasks from scratch is typically impractical. This talk discusses how an agent can autonomously learn a particular family of goal-oriented value functions, which can then be used to solve new tasks through composition. First, for goal-reaching tasks expressible as Boolean sentences, we show how these value functions can be combined to solve these new tasks optimally. We further demonstrate how an agent can combine these value functions to produce near-optimal behaviours given complex temporal task specifications, such as regular fragments of linear temporal logic, without further learning."
     bio:
@@ -193,7 +194,7 @@ people:
       - title: Website
         link: https://www.analytixengine.com/
         icon: ""       
-  - name: Kayode  Adetunji
+  - name: Kayode Adetunji
     years:
       - Healthcare
       - Explainable AI
@@ -239,7 +240,7 @@ people:
       - title: Website
         link: https://dsi-africa.org/project/14
         icon: ""
-  - name: Siphiwe  Thwala
+  - name: Siphiwe Thwala
     years:
       - Data Science
       - BioAI
@@ -303,6 +304,7 @@ Aside from his corporate role, Frans holds an Adjunct Professorship at the Elect
   - name: Henrica Makulu Kadira
     years:
       - Data Science
+      - Keynote
       - AI in Africa
     talk_description:
       "In this talk, Henrica walks you through her journey as one of Africa's first female data scientists including some career advice tips and how she has used data to inform and inspire action both at work and in her community!"
@@ -367,3 +369,23 @@ Alongside her CfA role, Athandiwe served as a research associate at the Universi
       - title: Website
         link: https://disinfo.africa/
         icon: ""    
+  - name: Bigomokero Antoine Bagula
+    years:
+      - Keynote
+      - AI in Africa
+      - MLOps
+    talk_description:
+      "The Internet has evolved into a universal platform for all forms of modern communication. Initially, it was constructed on the principle of an intelligent edge and a core dump, utilizing a best-effort routing model that enabled it to scale massively and support hundreds of millions of nodes. The shift towards a more intelligent Internet began with the introduction of virtualization and the Software-Defined Networking (SDN) paradigm, which successfully separated the control and data planes. A major advancement was achieved with the incorporation of Artificial Intelligence (AI) into networking through the Knowledge-Defined Networking (KDN) paradigm, allowing networks to extract valuable insights from data process
+Building on this foundation, Knowledge-Aware Networking (KAN) introduces a ground-breaking paradigm that utilizes multi-controller SDN architectures to create innovative learning models for cooperative, competitive, and diverse environments. This approach aims to significantly enhance security, resilience, and intelligence within the network. In KAN, cooperative learning employs the Federated Learning model, where multiple clients collaboratively train machine learning models. Competitive learning involves choosing the most suitable model for a particular use case from a pool of models. Diversity learning replicates the same model across different servers and uses a voting mechanism to ensure fault tolerance.
+Knowledge-Aware Networking holds the potential to redefine the landscape of networking, embedding intelligence, efficiency, and robustness into the core of our communication infrastructure. This keynote is dedicated to elucidating the transformative impact of artificial intelligence on networking, emphasizing the transition from traditional best-effort approaches to the more sophisticated realm of knowledge-aware networking. Throughout this presentation, we will delve into the intricacies of the KAN architecture, unravelling its layers and exploring the myriad learning models it accommodates. Moreover, we will examine how KAN empowers networks to operate with greater intelligence and autonomy, facilitated by collaborative, competitive, and diversity learning.
+"
+    bio:
+      "Bigomokero Antoine Bagula, holds a Ph.D. in Communication Systems from the Royal Institute of Technology (KTH) in Stockholm, Sweden. He also obtained two MSc degrees: one in Computer Engineering from the Université Catholique de Louvain (UCL) in Belgium, and another in Computer Science from the University of Stellenbosch (SUN) in South Africa. Presently, Dr. Bagula serves as a full professor in the Department of Computer Science at the University of the Western Cape (UWC) in South Africa, where he leads the Intelligent Systems and Advanced Telecommunication (ISAT) laboratory. Additionally, he holds a professorial position at Université Nouveaux Horizons (UNH) in the Democratic Republic of the Congo (DRC), where he is responsible for driving the institution's faculty of Informatics research agenda and enhancing its teaching curriculum. Dr. Bagula's research interests encompass various areas such as Data Engineering with a focus on Big Data Technologies, Cloud/Fog Computing, and Network Softwarization, including concepts like NFV and SDN. He actively explores the potential of the Internet of Things (IoT), covering both the Internet-of-Things and Tactile Internet-of-Things. Moreover, he delves into Data Science, particularly Artificial Intelligence, Machine Learning, and their applications in Big Data Analytics. Dr. Bagula's expertise extends to Next Generation Networks (NGN), including 5G/6G. Through his academic accomplishments and research pursuits, Dr. Bagula significantly contributes to the fields of computer science, data engineering, and telecommunications."
+    topic: "Transforming Networking Through Artificial Intelligence: From Best Effort to Knowledge Aware Networking"
+    affiliation: "University of the Western Cape "
+    link: modal
+    image: "/images/people/antoine_bagula.jpg"
+    social_media:
+      - title: Website
+        link: https://cs.uwc.ac.za/anttoine-bagula/
+        icon: 
