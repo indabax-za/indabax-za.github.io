@@ -9,19 +9,19 @@ days:
     columns:
       - title: Registration and Explore Campus
         track: ''
-        content: "Check In, Collect Conference Materials, and Prepare for an Engaging Day Ahead! Once You've Checked In, Take a Stroll Around Campus and Grab Some Lunch From One of the Vendors."
+        content: "Check in, collect conference materials, and prepare for an engaging day ahead! Once you've checked in, take a stroll around campus and grab some lunch from one of the vendors."
   - time: 13h00 - 13h30
     columns:
     - title: Welcome - Committee and Wits
       track: ''
-      content: "Kickoff Time! 🎉 Join the Organising Committee and Wits University Representatives for Opening Remarks, Setting the Stage for a Sensational Conference!"
+      content: "Kickoff time! 🎉 Join the organising committee and Wits University representatives for opening remarks, setting the stage for a sensational conference!"
       location: Lecture Theatre 1, Wits Science Stadium 0
       number: 
       sessions:
         - title:
           panel:
           - name: "Deep Learning Indaba\U0001D54F South Africa 2024 Organising Committee"
-            image: "/images/indabax2024_logo black.png"
+            image: "/images/indabax2024_logo_black.png"
             link: http://localhost:1313/news/2024-04-01-meet-the-team/
             title: ''
             time: ''
@@ -45,7 +45,7 @@ days:
     columns:
     - title: Capture the Moment
       track: 
-      content: "Group Photo Time! 📸 Gather Around and Freeze This Moment in Time Together! ❤️"
+      content: "Group photo time! 📸 Gather around and freeze this moment in time together! ❤️"
       location: 
       number: 
       sessions: []
@@ -83,8 +83,7 @@ days:
       - title: Poster Session
         track: AI Fest
         content:
-          Discover Up-and-Coming Research and Inventive Projects in our Poster Session and Compete for Prizes! Ensure Your Presence at Your Poster During the First Hour to Qualify. Learn More About [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/).
-
+          "Discover up-and-coming research and inventive projects in our poster session and compete for prizes! Ensure your presence at your poster during the first hour to qualify. Learn more about  [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/)."
 - title: Day 1
   date: 2024-07-10
   content: ''
@@ -93,7 +92,7 @@ days:
     columns:
     - title: ☕ & Registration
       track: ''
-      content: "Wake Up Your Day with Coffee, Tea, and Last-Minute Sign-Ups! ☕"
+      content: "Wake up your day with coffee, tea, and last-minute sign-ups! ☕"
       location: ''
       number: 
       sessions: []
@@ -111,8 +110,7 @@ days:
     columns:
       - title: ☕
         track: ''
-        content: "Quick Pause: Speaker Introductions Begin at 10:25. Be There!"
-
+        content: "Quick pause: Speaker introductions begin at 10:25. Be there!"
   - time: 10h25 - 12h00
     columns:
     - title: Foundations - Deep Learning
@@ -124,7 +122,7 @@ days:
       track: Research
       content: ''
       sessions:
-      - name: Antoine Bagula
+      - name: Bigomokero Antoine Bagula
       number: 
     - title: Applied ML & Industry - Cybersecurity & Policy
       track: Applied ML & Industry
@@ -139,7 +137,7 @@ days:
     columns:
     - title: 🌮
       track: ''
-      content: "It's Chow Time! Grab a Plate and Enjoy Your Lunch Break! 🥗"
+      content: "It's chow time! Grab a plate and enjoy your lunch break! 🥗"
       location: ''
       number: 
       sessions: []
@@ -158,7 +156,7 @@ days:
     columns:
     - title: '☕'
       track: ''
-      content: "Just Java: Coffee Only Break (and Tea👀)—Speaker Intros at 14:25! ☕"
+      content: "Just java: coffee only break (and tea👀)—speaker intros at 14:25! ☕"
       location: ''
       number: 
       sessions: []
@@ -185,7 +183,7 @@ days:
     columns:
     - title: '☕'
       track: ''
-      content: "Fuel Up: Snacks Ready, Energy Up! We're Back After a Quick Recharge! 🍪⚡"
+      content: "Fuel up: snacks ready, energy up! We're back after a quick recharge! 🍪⚡"
       location: ''
       number: 
       sessions: []
@@ -207,15 +205,15 @@ days:
   - time: 16h30 - 18h00
     columns:
     - title: Flash Talks - Real-life applications and implementation
-      track: Flash Talks
+      track: Foundations
       sessions:
       - name: 
     - title: Flash Talks - Reinforcement Learning & Probabilistic Models
-      track: Flash Talks
+      track: Research
       sessions:
       - name: 
     - title: Flash Talks - Large Language Models & Computer Vision 
-      track: Flash Talks
+      track: Applied ML & Industry
       content: ''
       location: ''
       sessions:
@@ -230,7 +228,7 @@ days:
     columns:
     - title: ‧₊˚ ⋅  ☕️🍵 ‧₊˚ ⋅
       track: ''
-      content: "Rise and Shine: Your Morning Coffee & Tea Are Ready! ☕️🌅"
+      content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅"
       location: ''
       number: 
       sessions: []
@@ -251,8 +249,7 @@ days:
     columns:
     - title: ☕ 
       track: ''
-      content: "Pause & Prep! Speaker Intros Begin at 10:25—Don't Miss Out! 🕥"
-
+      content: "Pause & prep! Speaker intros begin at 10:25—don't miss out! 🕥"
   - time: 10h25 - 12h00
     columns:
     - title: Foundations - Reinforcement Learning Fundamentals
@@ -276,7 +273,7 @@ days:
     columns:
     - title: 🍽️ 
       track: ''
-      content: 'Lunch Break! Refuel and Relax with an Important Lunch Before We Resume.'
+      content: "Lunch break! Refuel and relax with an important lunch before we resume."
       location: ''
       number: 
       sessions: []
@@ -301,7 +298,7 @@ days:
     columns:
     - title: ☕
       track: ''
-      content: "Just Coffee & Tea, Please! 🕒 Meet Back at Your Workshops at 14:25."		
+      content: "Just coffee & tea, please! 🕒 Meet back at your workshops at 14:25."
       location: ''
       number: 
       sessions: []
@@ -310,7 +307,7 @@ days:
     columns:
     - title: ☕
       track: ''
-      content: "Snack Time! Grab a Coffee, Some Treats, and Stretch Those Legs—See You in 30! 🏃☕"
+      content: "Snack time! Grab a coffee, some treats, and stretch those legs—see you in 30! 🏃☕"
       location: ''
       number: 
       sessions: []
@@ -333,15 +330,15 @@ days:
   - time: 16h30 - 18h00
     columns:
     - title: Flash Talks - Real-life applications and implementation
-      track: Flash Talks
+      track: Foundations
       sessions:
       - name: 
     - title: Flash Talks - Reinforcement Learning & Probabilistic Models
-      track: Flash Talks
+      track: Research
       sessions:
       - name: 
     - title: Flash Talks - Large Language Models & Computer Vision
-      track: Flash Talks
+      track: Applied ML & Industry
       content: ''
       location: ''
       sessions:
@@ -365,7 +362,7 @@ days:
     columns:
     - title:
       track: ''
-      content: "Wake Up and Smell the Coffee...or Tea!👀 Your Morning Kick Starts Here! ☕🍵 "
+      content: "Wake up and smell the coffee...or tea!👀 Your morning kick starts here! ☕🍵"
       location: ''
       number: 
       sessions: []
@@ -380,7 +377,7 @@ days:
     columns:
     - title: ☕
       track: ''
-      content: "Pause & Prep: Speaker Intros Begin at 10:25—Get Ready to Be Inspired! ⏰"
+      content: "Pause & prep: Speaker intros begin at 10:25—get ready to be inspired! ⏰"
       location: ''
       number: 
       sessions: []
@@ -398,7 +395,9 @@ days:
       content: ''
       location: ''
       sessions:
-      - name: 
+      - name: Kayode Adetunji
+      - name: Michelle Skelton
+      - name: Siphiwe Thwala
       number: 
     - title: Workshop - Entrepreneurship
       track: Workshop
@@ -412,7 +411,7 @@ days:
     columns:
     - title: 🍽️
       track: ''
-      content: "Lunch Is Served! Fuel Up and Energize for the Afternoon! 🍽️"
+      content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
       location: ''
       number: 
       sessions: []
@@ -427,14 +426,16 @@ days:
       - name: Jonathan Shock
       - name: Steven James
       number: 
-    - title: Workshop - AI in Healthcare
+    - title: Workshop - AI in Healthcare (continued)
       track: Workshop
       content: ''
       location: ''
       sessions:
-      - name: 
+      - name: Kayode Adetunji
+      - name: Michelle Skelton
+      - name: Siphiwe Thwala
       number: 
-    - title: Workshop - Entrepreneurship 
+    - title: Workshop - Entrepreneurship (continued)
       track: Workshop
       content: ''
       location: ''
@@ -446,7 +447,7 @@ days:
     columns:
     - title: ☕
       track: ''
-      content: "Just Coffee & Tea! Quick Sip and Back to Action—Intros Begin at 14:25! ☕🍵"
+      content: "Just coffee & tea! Quick sip and back to action—intros begin at 14:25! ☕🍵"
       location: ''
       number: 
       sessions: []
@@ -465,7 +466,7 @@ days:
     columns:
     - title: '☕'
       track: ''
-      content: "Break & Snacks: Grab a Bite, Energize Your Mind!"
+      content: "Break & snacks: Grab a bite, energize your mind!"
       location: ''
       number: 
       sessions: []
@@ -487,7 +488,7 @@ days:
     columns:
     - title: Prize Giving and Closing Ceremony
       location: ''
-      content: "Curtain Call! 🏁🏆 Join us at the Prize Giving and Closing Ceremony to Celebrate Success, Innovation, and the Grand Conclusion of our Incredible Journey Together!"
+      content: "Curtain call! 🏁🏆 Join us at the prize giving and closing ceremony to celebrate success, innovation, and the grand conclusion of our incredible journey together!"
       number: 
       sessions: []
 
@@ -495,7 +496,7 @@ days:
     columns:
     - title: Travel 🎒 to the Closing Event
       location: ''
-      content: "En Route to the Encore! 🎒 Pack Your Enthusiasm and Travel With Us to the Closing Celebration—Departing Now!"
+      content: "En route to the encore! 🎒 Pack your enthusiasm and travel with us to the closing celebration—departing now!"
       number: 
       sessions: []
 
@@ -504,7 +505,8 @@ days:
     - title: Closing Event
       image: ''
       location: ''
-      content: "Final Act: Gather for Our Grand Closure! 🚀 Reflect, Rejoice, and Roll Out with Your Packs Loaded with Fresh Ideas and New Connections."
+      content: "Final act: Gather for our grand closure! 🚀 Reflect, rejoice, and roll out with your packs loaded with fresh ideas and new connections."
+
 
 
 
