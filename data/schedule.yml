@@ -188,14 +188,14 @@ days:
       number: 
       sessions: []
 
-  - time: 16h30 - 17h00
+  - time: 16h30 - 18h30
     columns:
     - title: Hackathon for Beginners
       location: 'Labs'
       track: Hackathon
       content: 'Data Preprocessing Practical'
 
-  - time: 17h00 - 18h00
+  - time: 16h30 - 19h30
     columns:
     - title: Meetups and Mentorship
       location: "Meetup Rooms"
@@ -226,7 +226,7 @@ days:
   sessions:
   - time: '08h00 - 09h00'
     columns:
-    - title: ‧₊˚ ⋅  ☕️🍵 ‧₊˚ ⋅
+    - title: ☕️🍵
       track: ''
       content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅"
       location: ''
@@ -313,14 +313,14 @@ days:
       sessions: []
 
 
-  - time: 16h30 - 17h00
+  - time: 16h30 - 18h30
     columns:
     - title: Hackathon for Beginners
       location: 'Labs'
       track: Hackathon
       content: 'Model Optimisation Practical'
 
-  - time: 17h00 - 18h00
+  - time: 16h30 - 19h30
     columns:
     - title: Meetups and Mentorship
       location: "Meetup Rooms"
@@ -344,7 +344,7 @@ days:
       sessions:
       - name:
  
-  - time: 18h00 - 20h00
+  - time: 18h00 - 24h00
     columns:
     - title: Hackathon with InstaDeep and Isazi
       track: Hackathon

@@ -389,3 +389,31 @@ Knowledge-Aware Networking holds the potential to redefine the landscape of netw
       - title: Website
         link: https://cs.uwc.ac.za/anttoine-bagula/
         icon: 
+  - name: Benjamin Rosman
+    years:
+      - Applied ML & Industry
+    talk_description: "Details Coming Soon."
+    bio: "Benjamin Rosman is a Professor in the School of Computer Science and Applied Mathematics at Wits University, where he runs the Robotics, Autonomous Intelligence and Learning (RAIL) Laboratory and is the Director of the National E-Science Postgraduate Teaching and Training Platform. He is also the Chief Science Officer for Lelapa AI. 
+He received his Ph.D. in Informatics from the University of Edinburgh in the UK in 2014. He was a founder of the Deep Learning Indaba machine learning summer school. He was made a 2024 National Geographic Explorer, a 2022 CIFAR Azrieli Global Scholar by the Canadian Institute for Advanced Research, was a 2017 recipient of a Google Faculty Research Award in machine learning, and a 2021 recipient of a Google Africa Research Award. In 2020, he was made a Senior Member of the IEEE. 
+He is an Advisory Committee member of the Reinforcement Learning Conference, a member of the AAAI Membership Committee, a member of the IEEE Cognitive and Developmental Systems Technical Committee, and a member of the Scientific Committee of the Association of AI Ethicists. He has over 110 publications in the area of machine learning, and has supervised over 70 MSc and PhD students. "
+    topic: "Details Coming Soon."
+    affiliation: "University of the Witwatersrand"
+    link: modal
+    image: "/images/people/benjamin_rosman.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/benjamin-rosman-a734792b/
+        icon: 
+      - title: Website
+        link: https://www.benjaminrosman.com/
+        icon: 
+  - name: Lynn Morris
+    years:
+      - Welcome Address
+    talk_description: "Welcome Address"
+    bio: "Prof Lynn Morris is the Deputy Vice-Chancellor of Research and Innovation at the University of the Witwatersrand in Johannesburg, South Africa. She has a PhD from the University of Oxford and is Research Professor and founding Director of the Antibody Immunity Research Unit based at the National Institute for Communicable Diseases. Over the last 30 years she has been involved in HIV vaccine research making significant contributions to understanding the antibody response to HIV. Lynn is an NRF A-rated scientist, has published over 294 papers holding an H-Index of 74 and has featured in the Web of Science list of the world’s most highly cited researchers. She is a member of Academy of Science of South Africa (ASSAf) and a Fellow of the African Academy of Sciences (AAS), the Royal Society of South Africa (FRSSA) and The World Academy of Sciences (TWAS). Lynn has supervised and mentored over 50 post-graduate students and post-docs many of who have gone on to develop their own successful scientific careers."
+    topic: "Welcome Address"
+    affiliation: "University of the Witwatersrand"
+    link: modal
+    image: "/images/people/lynn_morris.png"
+    social_media:
