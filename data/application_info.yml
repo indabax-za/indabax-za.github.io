@@ -13,7 +13,7 @@ applications:
   #     basis
   #   close_date: 2023-06-09T23:00:00.000+00:00
   #   acceptance_date: see below for tips on how to [improve your application](#how-do-i-imporve-my-application)
-  - heading: "Academia  \n\U0001F52D  \nR1700"
+  - heading: "Academia  \n\U0001F52D  \nR2200"
     label: Register now
     open: true
     closed_message: Closed!
@@ -24,7 +24,7 @@ applications:
       basis
     close_date: 2024-07-05T23:00:00.000+02:00
     acceptance_date: upon payment
-  - heading: "Industry  \n\U0001F6E0  \nR3400"
+  - heading: "Industry  \n\U0001F6E0  \nR5000"
     label: Register now
     open: true
     closed_message: Closed!

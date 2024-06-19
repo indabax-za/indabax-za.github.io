@@ -70,7 +70,7 @@ Note: The anonymous reports will be fully investigated and action will be taken 
 2. Personal reporting
 A personal report can made by
 - email to:
-  indabax.za+report@gmail.com 
+  conduct@indabax.co.za
   Subject: Incident Report
 - directly contacting an Indaba organiser on site
 
