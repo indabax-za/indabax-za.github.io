@@ -407,13 +407,23 @@ He is an Advisory Committee member of the Reinforcement Learning Conference, a m
       - title: Website
         link: https://www.benjaminrosman.com/
         icon: 
-  - name: Lynn Morris
+  - name: Benjamin Sturgeon
     years:
-      - Welcome Address
-    talk_description: "Welcome Address"
-    bio: "Prof Lynn Morris is the Deputy Vice-Chancellor of Research and Innovation at the University of the Witwatersrand in Johannesburg, South Africa. She has a PhD from the University of Oxford and is Research Professor and founding Director of the Antibody Immunity Research Unit based at the National Institute for Communicable Diseases. Over the last 30 years she has been involved in HIV vaccine research making significant contributions to understanding the antibody response to HIV. Lynn is an NRF A-rated scientist, has published over 294 papers holding an H-Index of 74 and has featured in the Web of Science list of the world’s most highly cited researchers. She is a member of Academy of Science of South Africa (ASSAf) and a Fellow of the African Academy of Sciences (AAS), the Royal Society of South Africa (FRSSA) and The World Academy of Sciences (TWAS). Lynn has supervised and mentored over 50 post-graduate students and post-docs many of who have gone on to develop their own successful scientific careers."
-    topic: "Welcome Address"
-    affiliation: "University of the Witwatersrand"
+      - AI Ethics
+      - AI Safety and Governance in Africa Workshop
+    talk_description: "AI capabilities are rapidly improving and seem likely to cause foundational changes in our society in the short and medium term. However, relatively few people are working on the problem of making sure that AI is safe and beneficial for individual users and humanity collectively. In this talk we provide an overview of some of the key considerations and motivations for why this may be the most important problem of our time."
+    bio: "Coming from a background of computer science and philosophy, I approach AI from a big picture perspective and try to determine the trajectory of the technology. "
+    topic: "An Introduction to AI Safety"
+    affiliation: "University of Cape Town"
     link: modal
-    image: "/images/people/lynn_morris.png"
+    image: "/images/people/Benjamin_Sturgeon.jpg"
     social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/benjamin-sturgeon-41221241/
+        icon: 
+      - title: Website
+        link: https://www.benjaminsturgeon.com
+        icon: 
+      - title: Twitter
+        link: https://twitter.com/ben_sturgeon
+        icon: 
