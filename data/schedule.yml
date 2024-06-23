@@ -10,12 +10,13 @@ days:
       - title: Registration and Explore Campus
         track: ''
         content: "Check in, collect conference materials, and prepare for an engaging day ahead! Once you've checked in, take a stroll around campus and grab some lunch from one of the vendors."
+        location: Outside Science Stadium Area
   - time: 13h00 - 13h30
     columns:
     - title: Welcome - Committee and Wits
       track: ''
       content: "Kickoff time! 🎉 Join the organising committee and Wits University representatives for opening remarks, setting the stage for a sensational conference!"
-      location: Lecture Theatre 1, Wits Science Stadium 0
+      location: WSS2
       number: 
       sessions:
         - title:
@@ -36,11 +37,12 @@ days:
     - title:  Keynote - NLP
       track: 'Keynote'
       content: 
-      location: 
+      location: WSS2
       number: 
       sessions:
         - name: Pelonomi Moiloa
 
+# Still add?
   - time: 14h30 - 15h00
     columns:
     - title: Capture the Moment
@@ -54,6 +56,7 @@ days:
     columns:
       - title: "Opening Event: AI Fest and Poster Session"
         track: AI Fest
+        location: Outside Science Stadium Area
         sessions:
           - title:
             panel:
@@ -84,16 +87,17 @@ days:
         track: AI Fest
         content:
           "Discover up-and-coming research and inventive projects in our poster session and compete for prizes! Ensure your presence at your poster during the first hour to qualify. Learn more about  [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/)."
+
 - title: Day 1
   date: 2024-07-10
   content: ''
   sessions:
-  - time: '08h00 - 09h00'
+  - time: '08h00 - 08h55'
     columns:
     - title: ☕ & Registration
       track: ''
       content: "Wake up your day with coffee, tea, and last-minute sign-ups! ☕"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
   - time: '09h00 - 10h00'
@@ -101,7 +105,7 @@ days:
     - title: Keynote - Cyber Security
       track: 'Keynote'
       content: ''
-      location: ''
+      location: WSS2
       number: 
       sessions:
         - name: Jabu Mtsweni
@@ -111,23 +115,25 @@ days:
       - title: ☕
         track: ''
         content: "Quick pause: Speaker introductions begin at 10:25. Be there!"
-  - time: 10h25 - 12h00
+  - time: 10h30 - 12h00
     columns:
     - title: Foundations - Deep Learning
       track: Foundations
+      location: WSS2
       sessions:
       - name: Terence Van Zyl
       number: 
     - title: Research - Federated Learning
       track: Research
+      location: WSS3
       content: ''
       sessions:
       - name: Bigomokero Antoine Bagula
       number: 
     - title: Applied ML & Industry - Cybersecurity & Policy
       track: Applied ML & Industry
+      location: WSS2
       content: ''
-      location: ''
       sessions:
       - name: Zubeida Dawood
       - name: Chijioke Okorie
@@ -138,15 +144,16 @@ days:
     - title: 🌮
       track: ''
       content: "It's chow time! Grab a plate and enjoy your lunch break! 🥗"
-      location: ''
+      location: Convocation Dining Hall
       number: 
       sessions: []
+  # ???
   - time: 13h00 - 14h00
     columns:
-    - title: Keynote - Deep Learning
+    - title: Keynote - Deep Learning and Wildlife Monitoring
       track: Keynote
       content: ''
-      location: ''
+      location: WSS2
       sessions:
       - name: Emmanuel Dufourq
         # title: 'Translating astronomical Big Data into patterns of discovery'
@@ -157,41 +164,61 @@ days:
     - title: '☕'
       track: ''
       content: "Just java: coffee only break (and tea👀)—speaker intros at 14:25! ☕"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
 
-  - time: 14h25 - 16h00
+  - time: 14h30 - 16h00
     columns:
     - title: Foundations - NLP
       track: Foundations
+      location: WSS2
       sessions:
       - name: 
     - title: Research - Deep Learning
       track: Research
+      location: WSS3
       sessions:
       - name: 
       - name: 
     - title: Applied ML & Industry - Fintech
       track: Applied ML & Industry
       content: ''
-      location: ''
+      location: WSS1
       sessions:
       - name: Neelan Pather 
 
-  - time: 16h00 - 16h30
+  - time: 16h00 - 16h25
     columns:
     - title: '☕'
       track: ''
       content: "Fuel up: snacks ready, energy up! We're back after a quick recharge! 🍪⚡"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
 
-  - time: 16h30 - 18h30
+  - time: 16h30 - 17h00
     columns:
-    - title: Hackathon for Beginners
-      location: 'Labs'
+    - title: 'Flash Talks'
+      track: ''
+      content: ""
+      location: WSS1, WSS2, WSS3
+      number: 
+      sessions: []
+
+  - time: 17h00 - 18h00
+    columns:
+    - title: 'Short Talks'
+      track: ''
+      content: ""
+      location: WSS1, WSS2, WSS3
+      number: 
+      sessions: []
+
+  - time: 16h30 - 20h00
+    columns:
+    - title: Hackathon Practical with Isazi
+      location: MSL105
       track: Hackathon
       content: 'Data Preprocessing Practical'
 
@@ -202,34 +229,34 @@ days:
       track: Social
       content: "Meetups and Mentorship Sessions"
 
-  - time: 16h30 - 18h00
-    columns:
-    - title: Flash Talks - Real-life applications and implementation
-      track: Foundations
-      sessions:
-      - name: 
-    - title: Flash Talks - Reinforcement Learning & Probabilistic Models
-      track: Research
-      sessions:
-      - name: 
-    - title: Flash Talks - Large Language Models & Computer Vision 
-      track: Applied ML & Industry
-      content: ''
-      location: ''
-      sessions:
-      - name:
+  # - time: 16h30 - 18h00
+  #   columns:
+  #   - title: Flash Talks - Real-life applications and implementation
+  #     track: Foundations
+  #     sessions:
+  #     - name: 
+  #   - title: Flash Talks - Reinforcement Learning & Probabilistic Models
+  #     track: Research
+  #     sessions:
+  #     - name: 
+  #   - title: Flash Talks - Large Language Models & Computer Vision 
+  #     track: Applied ML & Industry
+  #     content: ''
+  #     location: ''
+  #     sessions:
+  #     - name:
 
     
 - title: Day 2
   date: 2024-07-11
   content: ''
   sessions:
-  - time: '08h00 - 09h00'
+  - time: '08h00 - 08h55'
     columns:
     - title: ☕️🍵
       track: ''
       content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
 
@@ -238,7 +265,7 @@ days:
     - title: Keynote - Human Centered AI
       track: Keynote
       content: ''
-      location: ''
+      location: WSS2
       sessions:
       - name: Mpho Primus
         # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
@@ -250,18 +277,21 @@ days:
     - title: ☕ 
       track: ''
       content: "Pause & prep! Speaker intros begin at 10:25—don't miss out! 🕥"
-  - time: 10h25 - 12h00
+  - time: 10h30 - 12h00
     columns:
     - title: Foundations - Reinforcement Learning Fundamentals
       track: Foundations
+      location: WSS2
       sessions:
       - name:  Asad Jeewa
     - title: Research - Robotics
       track: Research
+      location: WSS3
       sessions:
       - name: 
     - title: Applied ML & Industry - NLP
       track: Applied ML & Industry
+      location: WSS1
       sessions:
       - name: Charl Van Heerden
         # title: '[Applied; MLOps] AI use cases in BMW Group South Africa'
@@ -274,49 +304,94 @@ days:
     - title: 🍽️ 
       track: ''
       content: "Lunch break! Refuel and relax with an important lunch before we resume."
-      location: ''
+      location: Convocation Dining Hall
       number: 
       sessions: []
 
 
-  - time: 13h00 - 16h00
+  - time: 13h00 - 14h00
     columns:
-    - title: Workshop - Preparing for the Future World of Work
+    - title: Workshop - Preparing for the Future World of Work Part 1
       track: Workshop
+      location: MSL105
       sessions:
       - name:  
-    - title: Workshop - Retrieval-Augmented Generation (RAG)
+    - title: Workshop - Retrieval-Augmented Generation (RAG) Part 1
       track: Workshop
+      location: MSL105
       sessions:
       - name: 
-    - title: Workshop - AI Safety
+    - title: Workshop - AI Safety Part 1
       track: Workshop
+      location: WSS2
       sessions:
-      - name: 
+      - name: Benjamin Sturgeon
 
   - time: 14h00 - 14h25
     columns:
     - title: ☕
       track: ''
       content: "Just coffee & tea, please! 🕒 Meet back at your workshops at 14:25."
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
+
+  - time: 14h30 - 16h00
+    columns:
+    - title: Workshop - Preparing for the Future World of Work Part 2
+      track: Workshop
+      location: MSL105
+      sessions:
+      - name:  
+    - title: Workshop - Retrieval-Augmented Generation (RAG) Part 2
+      track: Workshop
+      location: MSL105
+      sessions:
+      - name: 
+    - title: Workshop - AI Safety Part 2
+      track: Workshop
+      location: WSS2
+      sessions:
+      - name: Benjamin Sturgeon
   
-  - time: 16h00 - 16h30
+  - time: 16h00 - 16h25
     columns:
     - title: ☕
       track: ''
       content: "Snack time! Grab a coffee, some treats, and stretch those legs—see you in 30! 🏃☕"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
 
-
-  - time: 16h30 - 18h30
+  - time: 16h30 - 17h00
     columns:
-    - title: Hackathon for Beginners
-      location: 'Labs'
+    - title: 'Flash Talks'
+      track: ''
+      content: ""
+      location: WSS1, WSS2, WSS3
+      number: 
+      sessions: []
+
+  - time: 17h00 - 18h00
+    columns:
+    - title: 'Short Talks'
+      track: ''
+      content: ""
+      location: WSS1, WSS2, WSS3
+      number: 
+      sessions: []
+
+  - time: 16h30 - 18h00
+    columns:
+    - title: Preparing for the Hackathon with Instadeep
+      location: MSL105
+      track: Hackathon
+      content: 'Model Optimisation Practical'
+
+  - time: 18h00 - 00h00
+    columns:
+    - title: Hackathon with Instadeep
+      location: MSL105
       track: Hackathon
       content: 'Model Optimisation Practical'
 
@@ -327,50 +402,42 @@ days:
       track: Social
       content: "Research Collaboration Exploration"
 
-  - time: 16h30 - 18h00
-    columns:
-    - title: Flash Talks - Real-life applications and implementation
-      track: Foundations
-      sessions:
-      - name: 
-    - title: Flash Talks - Reinforcement Learning & Probabilistic Models
-      track: Research
-      sessions:
-      - name: 
-    - title: Flash Talks - Large Language Models & Computer Vision
-      track: Applied ML & Industry
-      content: ''
-      location: ''
-      sessions:
-      - name:
- 
-  - time: 18h00 - 24h00
-    columns:
-    - title: Hackathon with InstaDeep and Isazi
-      track: Hackathon
-      content: ' '
-      location: ''
-      number: 
-      sessions: []
+  # - time: 16h30 - 18h00
+  #   columns:
+  #   - title: Flash Talks - Real-life applications and implementation
+  #     track: Foundations
+  #     sessions:
+  #     - name: 
+  #   - title: Flash Talks - Reinforcement Learning & Probabilistic Models
+  #     track: Research
+  #     sessions:
+  #     - name: 
+  #   - title: Flash Talks - Large Language Models & Computer Vision
+  #     track: Applied ML & Industry
+  #     content: ''
+  #     location: ''
+  #     sessions:
+  #     - name:
 
 
 - title: Day 3
   date: 2024-07-12
   content: ''
   sessions:
-  - time: '08h00 - 09h00'
+  - time: '08h00 - 08h55'
     columns:
     - title:
       track: ''
       content: "Wake up and smell the coffee...or tea!👀 Your morning kick starts here! ☕🍵"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
 
   - time: '09h00 - 10h00'
     columns:
-    - title: Keynote - Data
+    - title: Keynote - Data to Inform and Inspire Action
       track: Keynote
+      location: WSS2
       sessions:
       - name: Henrica Makulu Kadira
   - time: 10h00 - 10h25
@@ -381,28 +448,28 @@ days:
       location: ''
       number: 
       sessions: []
-  - time: 10h25 - 12h00
+  - time: 10h30 - 12h00
     columns:
-    - title: Foundations - Vision
+    - title: Foundations - Data Literacy
       track: Foundations
       content: ''
-      location: ''
+      location: WSS2
       sessions:
       - name: 
       number: 
-    - title: Workshop - AI in Healthcare
+    - title: Workshop - AI in Healthcare Part 1
       track: Workshop
       content: ''
-      location: ''
+      location: WSS3
       sessions:
       - name: Kayode Adetunji
       - name: Michelle Skelton
       - name: Siphiwe Thwala
       number: 
-    - title: Workshop - Entrepreneurship
+    - title: Workshop - Entrepreneurship Part 1
       track: Workshop
       content: ''
-      location: ''
+      location: WSS1
       sessions:
       - name: Frans Meyer
       number: 
@@ -412,33 +479,33 @@ days:
     - title: 🍽️
       track: ''
       content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
-      location: ''
+      location: Convocation Dining Hall
       number: 
       sessions: []
 
   - time: 13h00 - 14h00
     columns:
-    - title: Foundations - Vision
-      track: Foundations
+    - title: Research Session 4
+      track: Research
       content: ''
-      location: ''
+      location: WSS2
       sessions:
       - name: Jonathan Shock
       - name: Steven James
       number: 
-    - title: Workshop - AI in Healthcare (continued)
+    - title: Workshop - AI in Healthcare Part 2
       track: Workshop
       content: ''
-      location: ''
+      location: WSS3
       sessions:
       - name: Kayode Adetunji
       - name: Michelle Skelton
       - name: Siphiwe Thwala
       number: 
-    - title: Workshop - Entrepreneurship (continued)
+    - title: Workshop - Entrepreneurship Part 2
       track: Workshop
       content: ''
-      location: ''
+      location: WSS1
       sessions:
       - name: Frans Meyer
       number: 
@@ -448,26 +515,42 @@ days:
     - title: ☕
       track: ''
       content: "Just coffee & tea! Quick sip and back to action—intros begin at 14:25! ☕🍵"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
 
-  - time: 14h25 - 15h30
+  - time: 14h30 - 15h30
     columns:
-    - title: Applied ML & Industry - Reinforcement Learning
+    - title: Applied Session 4
       track: Applied ML & Industry
       content: ''
-      location: ''
+      location: WSS2
       sessions:
       - name: Athandiwe Saba
       number: 
+    - title: Workshop - AI in Healthcare Part 3
+      track: Workshop
+      content: ''
+      location: WSS3
+      sessions:
+      - name: Kayode Adetunji
+      - name: Michelle Skelton
+      - name: Siphiwe Thwala
+      number: 
+    - title: Workshop - Entrepreneurship Part 3
+      track: Workshop
+      content: ''
+      location: WSS1
+      sessions:
+      - name: Frans Meyer
+      number: 
 
-  - time: 15h30 - 16h00
+  - time: 15h30 - 15h55
     columns:
     - title: '☕'
       track: ''
       content: "Break & snacks: Grab a bite, energize your mind!"
-      location: ''
+      location: Outside Science Stadium Area
       number: 
       sessions: []
 
@@ -476,7 +559,7 @@ days:
     columns:
     - title: Panel Discussion
       track: AI in Africa
-      location: ''
+      location: WSS2
       number: 4
       content: ''
       sessions: 
@@ -487,7 +570,7 @@ days:
   - time: 17h00 - 17h30
     columns:
     - title: Prize Giving and Closing Ceremony
-      location: ''
+      location: WSS2
       content: "Curtain call! 🏁🏆 Join us at the prize giving and closing ceremony to celebrate success, innovation, and the grand conclusion of our incredible journey together!"
       number: 
       sessions: []
@@ -500,11 +583,11 @@ days:
       number: 
       sessions: []
 
-  - time: 18h00 - 20h00
+  - time: 18h00 - 22h00
     columns:
     - title: Closing Event
       image: ''
-      location: ''
+      location: The Beach
       content: "Final act: Gather for our grand closure! 🚀 Reflect, rejoice, and roll out with your packs loaded with fresh ideas and new connections."
 
 
