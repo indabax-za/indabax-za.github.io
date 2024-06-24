@@ -444,9 +444,9 @@ He is an Advisory Committee member of the Reinforcement Learning Conference, a m
     years:
       - Deep Learning
       - Language
-    talk_description: ""
-    bio: ""
-    topic: "NLP Foundations"
+    talk_description: "This is lecture is for those who are interested in getting started in NLP. "
+    bio: "Jocelyn Mazarura is a data scientist at Discovery, working in the exciting field of generative AI with a focus on large language models. She was first introduced to the field of NLP during her master's studies, and she enjoyed it so much that she pursued a PhD in statistics specializing in topic modeling. Now, she is privileged to be part of an amazing team dedicated to exploring applications of NLP and large language models in the customer service space."
+    topic: "Introduction to Natural Language Processing"
     affiliation: "Discovery"
     link: modal
     image: "/images/people/jocelyn_mazarura.jpg"
@@ -481,26 +481,17 @@ He is an Advisory Committee member of the Reinforcement Learning Conference, a m
     social_media:
       - title: LinkedIn
         link:
+        icon:    
+  - name: Hossein Masoumi Karakani
+    years:
+      - Data Science
+    talk_description: "In today's data-driven world, being literate in data is as fundamental as reading and writing. The rapid growth of data, currently at 2.5 quintillion bytes per day, underpins the operations of organisations and fuels Artificial Intelligence (AI). Data Literacy (DL) has evolved from a mere skill to a basic necessity, critical for navigating and making sense of the vast amounts of data generated every second. This talk will delve into the essence of DL, highlighting its vital importance in the AI era and exploring practical strategies to foster this essential skill across various societal layers, from individual empowerment to systemic educational reforms. By the end of this talk, attendees will understand the critical role of DL in the AI era and be equipped with actionable insights to promote and enhance DL within their organizations and communities. Embracing Data Literacy is not just about staying relevant in a data-rich world; it's about unlocking the full potential of AI technologies, ensuring ethical use, and making informed decisions that drive progress and innovation."
+    bio: "Dr. Hossein Masoumi Karakani is a statistician who currently works as a Senior Institutional Researcher at the Department of Institutional Planning, Monitoring, and Evaluation (DIP) at the University of Pretoria (UP). Hossein holds a Ph.D. degree in Mathematical Statistics from UP. He also has a verified certificate in Statistical Learning from Stanford University. In his current role, he is using data to make a positive difference in the lives of students and staff, as well as building interpretable, efficient, ethical, and productionable predictive models that could solve practical challenges in higher education. Prior to joining UP in 2021, he had spent four years in the industry with a primary goal of closing the communication divide that frequently arose within organisations, particularly between data scientists and decision-makers. His primary areas of research focus encompass, among other subjects, Advanced Analytics, Time Series, Statistical Process Control, and Bayesian Statistics. His research findings have been featured in esteemed academic journals, and he has showcased his work at renowned international conferences. In 2023, he was selected to serve as a mentor in the Kaggle BIPOC Mentorship Program, where he assists mentees in enhancing their data science abilities and tackling real-world problems. In addition to his academic and industry work, he won two Silver Medals in Kaggle competitions. Kaggle is the world’s largest data science community and most well-known competition platform for data analytics, with at least one million registered users across the globe. In 2021, Dr. Masoumi Karakani became the first person from UP to enter the global rankings in Kaggle and ranked among the top 1% of data scientists in the world. He holds the belief that data science has the potential to significantly contribute to solving numerous global challenges, and typically, a robust educational foundation is essential for cultivating a profound understanding of the data science domain. "
+    topic: "Data Literacy: The New Alphabet of the AI Era"
+    affiliation: "University of Pretoria"
+    link: modal
+    image: "/images/people/Hossein_Masoumi_Karakani.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/hossein-masoumi-karakani/
         icon: 
-
-
-        
-  # - name: Hossein Masoumi Karakani
-  #   years:
-  #     - 
-  #   talk_description: "The talk will focus on the topic of Data Literacy as a basic need in the AI era. Data Literacy is a crucial skill in today's rapidly evolving technological landscape, and empowering individuals with the knowledge to understand, interpret, and utilise data effectively is more important than ever. By enhancing this skill, we can ensure that a broader audience can engage with and benefit from the advancements in AI and machine learning, leading to more inclusive and equitable progress. This topic is not only relevant but essential, as it lays the foundation for a deeper understanding of machine learning and AI, enabling individuals to leverage these technologies to address real-world challenges. "
-  #   bio: ""
-  #   topic: ""
-  #   affiliation: "University of Pretoria"
-  #   link: modal
-  #   image: "/images/people/Hossein_Masoumi_Karakani.png"
-  #   social_media:
-  #     - title: LinkedIn
-  #       link: 
-  #       icon: 
-  #     - title: Website
-  #       link: 
-  #       icon: 
-  #     - title: Twitter
-  #       link: 
-  #       icon: 

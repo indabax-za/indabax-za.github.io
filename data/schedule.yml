@@ -462,7 +462,7 @@ days:
       content: ''
       location: WSS2
       sessions:
-      - name: 
+      - name: Hossein Masoumi Karakani
       number: 
     - title: Workshop - AI in Healthcare Part 1
       track: Workshop
@@ -594,7 +594,7 @@ days:
   - time: 18h00 - 22h00
     columns:
     - title: Closing Event
-      image: images/photos/the_beach_indabax.jpg
+      image: /images/places/the_beach_indabax.jpg
       location: The Beach
       content: "Final act: Gather for our grand closure! 🚀 Reflect, rejoice, and roll out with your packs loaded with fresh ideas and new connections."
 
