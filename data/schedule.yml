@@ -60,9 +60,9 @@ days:
         sessions:
           - title:
             panel:
-              - name: DSI Africa
-                image: /images/partners/dsi_africa.png
-                link: https://dsi-africa.org/
+              # - name: DSI Africa
+              #   image: /images/partners/dsi_africa.png
+              #   link: https://dsi-africa.org/
               - name: ShockLab
                 image: /images/partners/shocklab.png
                 link: https://shocklab.net/
@@ -83,6 +83,9 @@ days:
               - name: Saigen
                 image: /images/partners/saigen.png
                 link: https://www.saigen.co.za/
+              - name: DSI Africa
+                image: /images/partners/dsi_africa.png
+                link: https://dsi-africa.org/
       - title: Poster Session
         track: AI Fest
         content:
@@ -381,6 +384,13 @@ days:
       number: 
       sessions: []
 
+  - time: 16h30 - 19h30
+    columns:
+    - title: Meetups and Mentorship
+      location: "Meetup Rooms"
+      track: Social
+      content: "Research Collaboration Exploration"
+
   - time: 16h30 - 18h00
     columns:
     - title: Preparing for the Hackathon with Instadeep
@@ -395,12 +405,7 @@ days:
       track: Hackathon
       content: 'Model Optimisation Practical'
 
-  - time: 16h30 - 19h30
-    columns:
-    - title: Meetups and Mentorship
-      location: "Meetup Rooms"
-      track: Social
-      content: "Research Collaboration Exploration"
+  
 
   # - time: 16h30 - 18h00
   #   columns:
@@ -586,7 +591,7 @@ days:
   - time: 18h00 - 22h00
     columns:
     - title: Closing Event
-      image: ''
+      image: images/photos/the_beach_indabax.jpg
       location: The Beach
       content: "Final act: Gather for our grand closure! 🚀 Reflect, rejoice, and roll out with your packs loaded with fresh ideas and new connections."
 
