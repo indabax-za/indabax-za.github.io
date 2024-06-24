@@ -143,7 +143,6 @@ people:
     years:
       - RL 
       - Research
-      - Keynote
     talk_description:
       "While reinforcement learning has achieved recent success in many challenging domains, these methods generally require millions of samples from the environment to learn optimal behaviours, limiting their real-world applicability. A major challenge is thus in designing sample-efficient agents that can transfer their existing knowledge to solve new tasks quickly. This is particularly important for agents in a multitask or lifelong setting, since learning to solve complex tasks from scratch is typically impractical. This talk discusses how an agent can autonomously learn a particular family of goal-oriented value functions, which can then be used to solve new tasks through composition. First, for goal-reaching tasks expressible as Boolean sentences, we show how these value functions can be combined to solve these new tasks optimally. We further demonstrate how an agent can combine these value functions to produce near-optimal behaviours given complex temporal task specifications, such as regular fragments of linear temporal logic, without further learning."
     bio:
@@ -371,7 +370,6 @@ Alongside her CfA role, Athandiwe served as a research associate at the Universi
         icon: ""    
   - name: Bigomokero Antoine Bagula
     years:
-      - Keynote
       - AI in Africa
       - MLOps
     talk_description:

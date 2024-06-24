@@ -115,21 +115,16 @@ Join us and share how you are using AI to benefit South Africa’s society and e
 
 {{< rawhtml >}}
 <div style="display: flex; justify-content: space-between; padding: 20px; align-items: center;">
-  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/ai-fest-exhibit1.jpg" style="height: 200px; width: 100%; object-fit: cover;">
+  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/IndabaX_2023-43.jpg" style="height: 200px; width: 100%; object-fit: cover;">
   </div>
-  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/ai-fest-exhibit2.jpg" style="height: 200px; width: 100%; object-fit: cover;">
+  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/IndabaX_2023-62.jpg" style="height: 200px; width: 100%; object-fit: cover;">
   </div>
-  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/ai-fest-exhibit3.jpg" style="height: 200px; width: 100%; object-fit: cover;">
+  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/IndabaX_2023-104.jpg" style="height: 200px; width: 100%; object-fit: cover;">
   </div>
-  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/ai-fest-exhibit4.jpg" style="height: 200px; width: 100%; object-fit: cover;">
-  </div>
-  <div style="width: 18%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/ai-fest-exhibit5.jpg" style="height: 200px; width: 100%; object-fit: cover;">
-  </div>
+
 </div>
 {{< /rawhtml >}}
 
