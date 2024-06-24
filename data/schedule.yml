@@ -177,7 +177,7 @@ days:
       track: Foundations
       location: WSS2
       sessions:
-      - name: 
+      - name: Jocelyn Mazarura
     - title: Research - Deep Learning
       track: Research
       location: WSS3
@@ -323,7 +323,8 @@ days:
       track: Workshop
       location: MSL105
       sessions:
-      - name: 
+      - name: Avashlin Moodley
+      - name: Jessica Rees
     - title: Workshop - AI Safety Part 1
       track: Workshop
       location: WSS2
@@ -350,7 +351,8 @@ days:
       track: Workshop
       location: MSL105
       sessions:
-      - name: 
+      - name: Avashlin Moodley
+      - name: Jessica Rees
     - title: Workshop - AI Safety Part 2
       track: Workshop
       location: WSS2
@@ -570,7 +572,8 @@ days:
       sessions: 
         - title: AI and Africa 
           panel:
-          - name: 
+          - name: Bruce Bassett
+          - name: Benjamin Rosman
 
   - time: 17h00 - 17h30
     columns:

@@ -392,7 +392,7 @@ Knowledge-Aware Networking holds the potential to redefine the landscape of netw
   - name: Benjamin Rosman
     years:
       - Applied ML & Industry
-    talk_description: "Details Coming Soon."
+    talk_description: ""
     bio: "Benjamin Rosman is a Professor in the School of Computer Science and Applied Mathematics at Wits University, where he runs the Robotics, Autonomous Intelligence and Learning (RAIL) Laboratory and is the Director of the National E-Science Postgraduate Teaching and Training Platform. He is also the Chief Science Officer for Lelapa AI. 
 He received his Ph.D. in Informatics from the University of Edinburgh in the UK in 2014. He was a founder of the Deep Learning Indaba machine learning summer school. He was made a 2024 National Geographic Explorer, a 2022 CIFAR Azrieli Global Scholar by the Canadian Institute for Advanced Research, was a 2017 recipient of a Google Faculty Research Award in machine learning, and a 2021 recipient of a Google Africa Research Award. In 2020, he was made a Senior Member of the IEEE. 
 He is an Advisory Committee member of the Reinforcement Learning Conference, a member of the AAAI Membership Committee, a member of the IEEE Cognitive and Developmental Systems Technical Committee, and a member of the Scientific Committee of the Association of AI Ethicists. He has over 110 publications in the area of machine learning, and has supervised over 70 MSc and PhD students. "
@@ -427,6 +427,64 @@ He is an Advisory Committee member of the Reinforcement Learning Conference, a m
       - title: Twitter
         link: https://twitter.com/ben_sturgeon
         icon: 
+  - name: Avashlin Moodley
+    years:
+      - Applied ML & Industry
+    talk_description: ""
+    bio: ""
+    topic: "Retrieval-Augmented Generation (RAG)"
+    affiliation: "CSIR"
+    link: modal
+    image: "/images/people/avashlin_moodley.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/avashlinmoodley/
+        icon: 
+  - name: Jocelyn Mazarura
+    years:
+      - Deep Learning
+      - Language
+    talk_description: ""
+    bio: ""
+    topic: "NLP Foundations"
+    affiliation: "Discovery"
+    link: modal
+    image: "/images/people/jocelyn_mazarura.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/jocelyn-mazarura/
+        icon: 
+  - name: Jessica Rees
+    years:
+      - Applied ML & Industry
+    talk_description: ""
+    bio: ""
+    topic: "Retrieval-Augmented Generation (RAG)"
+    affiliation: "Discovery"
+    link: modal
+    image: "/images/people/jessica_rees.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/jessicarees/
+        icon: 
+  - name: Bruce Bassett
+    years:
+      - ML
+      - Astronomy
+      - Research
+    talk_description: ""
+    bio: ""
+    topic: ""
+    affiliation: "AIMS"
+    link: modal
+    image: "/images/people/bruce_bassett.jpg"
+    social_media:
+      - title: LinkedIn
+        link:
+        icon: 
+
+
+        
   # - name: Hossein Masoumi Karakani
   #   years:
   #     - 
