@@ -102,7 +102,7 @@ We are excited to announce the opening event of **Indaba𝕏**  South Africa, th
 &nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Network with South Africa’s brightest postgraduates, young professionals, peers, and research and industry leaders.  
 &nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Enjoy a festive atmosphere celebrating South African culture with music, food, and art.  
 
-**Reserve a Booth:** Secure a booth for R2500. This helps us cover logistical costs. We recommend two persons per booth.
+**Reserve a Booth:** We recommend two persons per booth.
 
 This is a unique opportunity to showcase your AI innovations, connect with like-minded professionals, and contribute to the growth of AI in South Africa.
 
