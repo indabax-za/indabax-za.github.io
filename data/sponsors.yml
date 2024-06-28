@@ -220,6 +220,11 @@ sponsors:
     link: https://deeplearningindaba.com/
     background_color: ''
     current: true
+  - name: Discovery
+    image: images/partners/discovery_transparent.png
+    link: https://www.discovery.co.za
+    background_color: ''
+    current: true
     
 - tier: 🏛 Affiliated institutions
   size: 60
