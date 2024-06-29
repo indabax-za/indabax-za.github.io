@@ -42,7 +42,6 @@ days:
       sessions:
         - name: Pelonomi Moiloa
 
-# Still add?
   - time: 14h30 - 15h00
     columns:
     - title: Capture the Moment
@@ -118,29 +117,45 @@ days:
       - title: ☕
         track: ''
         content: "Quick pause: Speaker introductions begin at 10:25. Be there!"
+
   - time: 10h30 - 12h00
     columns:
-    - title: Foundations - Deep Learning
-      track: Foundations
+    - title: Fundamentals
+      track: Fundamentals
       location: WSS2
       sessions:
       - name: Terence Van Zyl
       number: 
-    - title: Research - Federated Learning
-      track: Research
+    - title: Track 1
+      track: Track 1
+      location: WSS1
+      sessions:
+      - name: Tawanda Ewing
+      - name: Arné Schreuder
+      - name: Karabo Madibela
+      - name: Heinrich van Deventer
+      number: 
+    - title: Track 2
+      track: Track 2
       location: WSS3
       content: ''
       sessions:
-      - name: Bigomokero Antoine Bagula
+      - name: Neelan Pather
+      - name: Takura Wekwete
+      - name: Verosha Pillay
       number: 
-    - title: Applied ML & Industry - Cybersecurity & Policy
-      track: Applied ML & Industry
-      location: WSS2
-      content: ''
-      sessions:
-      - name: Zubeida Dawood
-      - name: Chijioke Okorie
-      number: 
+
+    # - title: Applied ML & Industry - Cybersecurity & Policy
+    #   track: Applied ML & Industry
+    #   location: WSS2
+    #   content: ''
+    #   sessions:
+    #   - name: Zubeida Dawood
+    #   - name: Chijioke Okorie
+    #   number: 
+
+
+
 
   - time: 12h00 - 13h00
     columns:
@@ -173,23 +188,32 @@ days:
 
   - time: 14h30 - 16h00
     columns:
-    - title: Foundations - NLP
-      track: Foundations
+    - title: Fundamentals
+      track: Fundamentals
       location: WSS2
       sessions:
       - name: Jocelyn Mazarura
-    - title: Research - Deep Learning
-      track: Research
-      location: WSS3
-      sessions:
-      - name: 
-      - name: 
-    - title: Applied ML & Industry - Fintech
-      track: Applied ML & Industry
-      content: ''
+
+    - title: Track 1
+      track: Track 1
       location: WSS1
       sessions:
-      - name: Neelan Pather 
+      - name: Jonathan Shock
+      - name: Steven James
+      - name: Simon Rosen
+      - name: Batsi Ziki
+
+    - title: Track 2
+      track: Track 2
+      location: WSS3
+      sessions:
+      - name: Mortda Adam
+      - name: Tsapang Mashego
+      - name: Jason Chalom
+      - name: Mayur Ranchod
+      - name: Tariq Blecher
+      - name: Mandlenkosi Zwane
+           
 
   - time: 16h00 - 16h25
     columns:
@@ -200,7 +224,7 @@ days:
       number: 
       sessions: []
 
-  - time: 16h30 - 17h00
+  - time: 16h30 - 17h30
     columns:
     - title: 'Flash Talks'
       track: ''
@@ -209,14 +233,12 @@ days:
       number: 
       sessions: []
 
-  - time: 17h00 - 18h00
+  - time: 16h30 - 19h30
     columns:
-    - title: 'Short Talks'
-      track: ''
-      content: ""
-      location: WSS1, WSS2, WSS3
-      number: 
-      sessions: []
+    - title: Meetups and Mentorship
+      location: "Meetup Rooms"
+      track: Social
+      content: "Meetups and Mentorship Sessions"   
 
   - time: 16h30 - 20h00
     columns:
@@ -225,12 +247,7 @@ days:
       track: Hackathon
       content: 'Data Preprocessing Practical'
 
-  - time: 16h30 - 19h30
-    columns:
-    - title: Meetups and Mentorship
-      location: "Meetup Rooms"
-      track: Social
-      content: "Meetups and Mentorship Sessions"
+
 
   # - time: 16h30 - 18h00
   #   columns:
@@ -280,27 +297,32 @@ days:
     - title: ☕ 
       track: ''
       content: "Pause & prep! Speaker intros begin at 10:25—don't miss out! 🕥"
+
   - time: 10h30 - 12h00
     columns:
-    - title: Foundations - Reinforcement Learning Fundamentals
-      track: Foundations
+    - title: Fundamentals
+      track: Fundamentals
       location: WSS2
       sessions:
-      - name:  Asad Jeewa
-    - title: Research - Robotics
-      track: Research
-      location: WSS3
-      sessions:
-      - name: 
-    - title: Applied ML & Industry - NLP
-      track: Applied ML & Industry
+      - name: Asad Jeewa
+
+    - title: Track 1
+      track: Track 1
       location: WSS1
       sessions:
-      - name: Charl Van Heerden
-        # title: '[Applied; MLOps] AI use cases in BMW Group South Africa'
-        time: ''
+      - name:  Charl Van Heerden
+      - name: Peter Ochieng
+      - name: Sthembiso Mkhwanazi
 
-
+    - title: Track 2
+      track: Track 2
+      location: WSS3
+      sessions:
+      - name: Philip Sterne
+      - name: Gloria Pucoe
+      - name: Joel Leonard
+      - name: Jimoh Saheed Tunji
+      - name: Edward Khomotso Nkadimeng
 
   - time: 12h00 - 13h00
     columns:
@@ -368,7 +390,7 @@ days:
       number: 
       sessions: []
 
-  - time: 16h30 - 17h00
+  - time: 16h30 - 17h30
     columns:
     - title: 'Flash Talks'
       track: ''
@@ -377,14 +399,6 @@ days:
       number: 
       sessions: []
 
-  - time: 17h00 - 18h00
-    columns:
-    - title: 'Short Talks'
-      track: ''
-      content: ""
-      location: WSS1, WSS2, WSS3
-      number: 
-      sessions: []
 
   - time: 16h30 - 19h30
     columns:
@@ -457,8 +471,8 @@ days:
       sessions: []
   - time: 10h30 - 12h00
     columns:
-    - title: Foundations - Data Literacy
-      track: Foundations
+    - title: Fundamentals
+      track: Fundamentals
       content: ''
       location: WSS2
       sessions:
@@ -492,13 +506,13 @@ days:
 
   - time: 13h00 - 14h00
     columns:
-    - title: Research Session 4
-      track: Research
+    - title: Networks and Cybersecurity
+      track: Applied ML & Industry
       content: ''
       location: WSS2
       sessions:
-      - name: Jonathan Shock
-      - name: Steven James
+      - name: Bigomokero Antoine Bagula
+      - name: Zubeida Dawood
       number: 
     - title: Workshop - AI in Healthcare Part 2
       track: Workshop
@@ -528,11 +542,12 @@ days:
 
   - time: 14h30 - 15h30
     columns:
-    - title: Applied Session 4
+    - title: Ethics and Governance
       track: Applied ML & Industry
       content: ''
       location: WSS2
       sessions:
+      - name: Chijioke Okorie
       - name: Athandiwe Saba
       number: 
     - title: Workshop - AI in Healthcare Part 3
@@ -594,9 +609,19 @@ days:
   - time: 18h00 - 22h00
     columns:
     - title: Closing Event
-      image: /images/places/the_beach_indabax.jpg
-      location: The Beach - 70 Juta St, Braamfontein
-      content: "Final act: Gather for our grand closure! 🚀 Reflect, rejoice, and roll out with your packs loaded with fresh ideas and new connections."
+      image: /images/places/the_living_room_closing_event.jpg
+      location: The Living Room, Maboneng
+      content: "Final act: Gather for our grand closure! 🚀 Reflect, rejoice, and roll out with your packs loaded with fresh ideas and new connections.
+      
+      **Transportation Information**: Buses will depart from Wits University immediately after the closing ceremony. Return buses will be available from Maboneng back to Wits at 9:00 PM and 11:00 PM.<br>
+
+      **Considering the limited parking in Maboneng, those who drive are advised to park at Wits and use the provided buses.**"
+
+
+
+
+
+
 
 
 

@@ -497,7 +497,7 @@ He is an Advisory Committee member of the Reinforcement Learning Conference, a m
 
   # SHORT TALK SPEAKERS
 
-  - name: Tsapang
+  - name: Tsapang Mashego
     years:
     - Deep Learning
     talk_description: "This talk will explore cutting-edge object detection techniques critical for the advancement of autonomous driving systems. We will delve into the challenges and innovations within deep learning frameworks that enhance the safety and reliability of self-driving cars. The discussion will include a review of various network architectures, benchmark datasets, and evaluation metrics pivotal in refining object detection capabilities. Additionally, the talk will highlight unique challenges posed by self-driving environments and discuss future research directions that could shape the development of autonomous vehicles. This insightful analysis aims to equip researchers, practitioners, and policymakers with the knowledge to drive the next wave of transportation technology."
@@ -561,7 +561,7 @@ Takura holds a Master's in Big Data Science from the University of Pretoria (UP)
       icon:
 
         
-  - name: Verosha 
+  - name: Verosha Pillay
     years:
     - Applied ML & Industry
     talk_description: "This talk will provide insight into the dynamic world of MLOps, focusing on the innovative Highwind platform developed by Melio AI. Highwind offers a convenient Marketplace designed to revolutionize the MLOps journey for data scientists by providing easy access to AI solutions. Additionally, it allows users to buy and sell AI solutions seamlessly on the platform. We'll also explore the collaboration between Zindi and Melio AI. Specifically, we'll discuss the ongoing Zindi MLOPs competition hosted on Highwind, which offers participants a real-world context for learning and prepares them for industry-specific challenges. Throughout the talk, we'll highlight some of the cool tech features of Highwind, showcasing how they enhance the competition experience and facilitate hands-on learning. The goal of this talk is to provide students with valuable insights and explore cutting-edge technology in the field of MLOps."
@@ -625,7 +625,7 @@ Empirically we demonstrate that given a fixed step quota our method is able to o
       icon:
 
         
-  - name: Jimoh Saheen Tunji
+  - name: Jimoh Saheed Tunji
     years:
     - Applied ML & Industry
     talk_description: "Title: Comparative Analysis of Wind Speed Probability Distributions for Wind Energy Potential in Nigeria
@@ -834,7 +834,7 @@ Furthermore, we explore the impact of these models in a downstream task, specifi
     topic: "Breaking Down isiZulu texts: Supervised Segmentation for Better Language Modeling and Translation"
     affiliation: CSIR and NWU
     link: modal
-    image: "/images/people/short_talk_photos/sthembiso_mkhwanazi.jpg"
+    image: "/images/people/short_talk_photos/sthembiso_mkhwanazi.png"
     social_media:
     - title: LinkedIn
       link: https://www.linkedin.com/in/sthesh/

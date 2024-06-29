@@ -76,5 +76,12 @@ tracks:
   - name: Vision
     color: "#1b7fc0"  
 
+  - name: Track 2
+    color: "#18A8C9"
+  - name: Track 1
+    color: "#C92260"
+  - name: Fundamentals
+    color: "#18C989"
+
            
     
