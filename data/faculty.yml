@@ -244,9 +244,9 @@ people:
       - Data Science
       - BioAI
     talk_description:
-      "Semantic based insights extraction and knowledge modelling on biomedical text."
+      "The biomedical domain has a plethora of unstructured data in different forms (clinical notes, image scans, laboratory data, and electrical impulse scans). We present an overview of how to automate the extraction of biomedical text insights from unstructured text."
     bio:
-      "Siphiwe Thwala is a research scientist in the AI team at IBM Research Africa's South African Lab. He has a research background in computational astrophysics, specifically in applying unsupervised learning to identify signals from plasma produced by non-thermal diffuse emission in extended radio sources. At IBM, he is responsible for doing semantic-based sentiment analysis on Twitter data, creating interactive data visualisations, and performing semantic-based insights extraction and knowledge modelling on biomedical text."
+      "Siphiwe Thwala is a research scientist in the AI team at IBM Research Africa’s South African Lab. He has a research background in computational astrophysics, specifically in applying unsupervised learning to identify signals from plasma produced by non-thermal diffuse emission in extended radio sources. At IBM, he is responsible for doing semantic-based sentiment analysis on Twitter data, creating interactive data visualisations, and performing semantic-based insights extraction and knowledge modelling on biomedical text."
     topic: "Biomedical Text Insights Extraction"
     affiliation: "IBM Research"
     link: modal
