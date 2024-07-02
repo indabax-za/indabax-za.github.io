@@ -346,7 +346,7 @@ days:
       location: MSL105
       sessions:
       - name: Kgomotso Moretsele
-      - name: Mpho
+      - name: Mpho Dipitso
     - title: Workshop - Retrieval-Augmented Generation (RAG) Part 1
       track: Workshop
       location: MSL105
@@ -360,7 +360,7 @@ days:
       location: WSS2
       sessions:
       - name: Benjamin Sturgeon
-      - name: Leo
+      - name: Leo John Hyams
 
   - time: 14h00 - 14h25
     columns:
@@ -378,7 +378,7 @@ days:
       location: MSL105
       sessions:
       - name: Kgomotso Moretsele
-      - name: Mpho
+      - name: Mpho Dipitso
     - title: Workshop - Retrieval-Augmented Generation (RAG) Part 2
       track: Workshop
       location: MSL105
@@ -392,6 +392,7 @@ days:
       location: WSS2
       sessions:
       - name: Benjamin Sturgeon
+      - name: Leo John Hyams
   
   - time: 16h00 - 16h25
     columns:
@@ -407,7 +408,7 @@ days:
     - title: 'Flash Talks'
       track: ''
       content: ""
-      location: WSS1, WSS2, WSS3
+      location: WSS3
       number: 
       sessions: []
 
@@ -607,6 +608,8 @@ days:
           panel:
           - name: Bruce Bassett
           - name: Benjamin Rosman
+          - name: Leo John Hyams
+          - name: Mpho Dipitso
 
   - time: 17h00 - 17h30
     columns:

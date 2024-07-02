@@ -524,7 +524,7 @@ Kgomotso Moretsele is an inspiring example of dedication, leadership, and positi
         link: https://www.linkedin.com/in/kgomotso-moretsele-40b128146
         icon: 
 
-  - name: Mpho
+  - name: Mpho Dipitso
     years:
       - Education
       - Workshop
@@ -584,6 +584,21 @@ She was the lead author of the Health Normative Standards and am currently worki
     link: modal
     image: "/images/people/Laticha_Walters.jpg"
     social_media:
+
+  - name: Leo John Hyams
+    years:
+      - AI Ethics
+      - AI Safety and Governance in Africa Workshop
+    talk_description: ""
+    bio: "Co-founder of AI Safety Cape Town, an AI Safety field-building and research organization. I am also a lead organizer at the Deep Learning IndabaX South Africa, an annual conference that brings together AI researchers, practitioners, and enthusiasts in Africa. Other than this, I'm a regular meditator, as well as a big trail runner, both activities I enjoy doing with others."
+    topic: "An Introduction to AI Safety"
+    affiliation: "AI Safety Cape Town"
+    link: modal
+    image: "/images/people/leo.jpg"
+    social_media:
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/leo-hyams-63960a163/
+      icon:
 
 
   # SHORT TALK SPEAKERS
