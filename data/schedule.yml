@@ -242,10 +242,10 @@ days:
 
   - time: 16h30 - 20h00
     columns:
-    - title: Hackathon Practical with Isazi
+    - title: Hackathon with Isazi
       location: MSL105
       track: Hackathon
-      content: 'Data Preprocessing Practical'
+      content: 'Forecasting Practical'
 
 
 
