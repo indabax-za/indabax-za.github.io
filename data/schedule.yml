@@ -236,7 +236,7 @@ days:
   - time: 16h30 - 19h30
     columns:
     - title: Meetups and Mentorship
-      location: "Meetup Rooms"
+      location: "1st Floor Meetup Rooms"
       track: Social
       content: "Meetups and Mentorship Sessions"   
 
@@ -360,6 +360,7 @@ days:
       location: WSS2
       sessions:
       - name: Benjamin Sturgeon
+      - name: Leo
 
   - time: 14h00 - 14h25
     columns:
@@ -414,7 +415,7 @@ days:
   - time: 16h30 - 19h30
     columns:
     - title: Meetups and Mentorship
-      location: "Meetup Rooms"
+      location: "1st Floor Meetup Rooms"
       track: Social
       content: "Research Collaboration Exploration"
 
@@ -497,6 +498,8 @@ days:
       - name: Kayode Adetunji
       - name: Michelle Skelton
       - name: Siphiwe Thwala
+      - name: Adele Botha
+      - name: Dr Laticha EM Walters
       number: 
     - title: Workshop - Entrepreneurship Part 1
       track: Workshop
@@ -533,6 +536,8 @@ days:
       - name: Kayode Adetunji
       - name: Michelle Skelton
       - name: Siphiwe Thwala
+      - name: Adele Botha
+      - name: Dr Laticha EM Walters
       number: 
     - title: Workshop - Entrepreneurship Part 2
       track: Workshop
@@ -569,6 +574,8 @@ days:
       - name: Kayode Adetunji
       - name: Michelle Skelton
       - name: Siphiwe Thwala
+      - name: Adele Botha
+      - name: Dr Laticha EM Walters
       number: 
     - title: Workshop - Entrepreneurship Part 3
       track: Workshop

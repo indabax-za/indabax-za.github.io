@@ -559,6 +559,32 @@ Prepare yourself for success in your professional journey with practical tips an
     image: "/images/people/privolin_naidoo.jpg"
     social_media:
 
+  - name: Adele Botha
+    years:
+      - Healthcare
+    talk_description: "**AI - The Ethics of IT**
+
+In an era where artificial intelligence (AI) is rapidly advancing, the ethical considerations surrounding its use in information technology (IT) are paramount. This talk explores the moral implications of AI-driven decisions and the responsibilities of those who develop and deploy these technologies. Addressing these issues ensures that AI advancements benefit humanity while mitigating risks and fostering trust in AI systems."
+    bio: "Prof Adele Botha is a Chief Researcher in the Next Generation Mobile and ICT systems Group with a specialisation in Mobile Information systems at CSIR Meraka. Her research interests include the goal orientated use of Mobile Cellular Technology in techno social context and has examined the application and use of Mobile Technologies for Health, Education and Innovation. 
+Prof Botha has been active and received both national and international recognition in the Technology enhanced learning domain. She has been able to influence many international research agendas by incorporating the specific constraints of the developing countries. She has been invited to serve on the Global Learning XPRIZE Advisory Board hosted by the XPrize foundation and is currently active in shaping the adjudication and evaluation criteria of the $15 million prize to be awarded. Prof Botha heads the CTI College Senate as it moves towards amalgamating with the MGI to become a flagship Pearson Higher Education institution and currently serves on the Executive Advisor on HP Advisory Council strategic education initiatives. She is appointed Professor Extraordinaire at UNISA School of Computing and is currently supervising PhD and Master degree students. In addition she serves on 4 Editorial Committees and acts as reviewer for both National and International journals. Her work is well published in peer reviewed forums and she has co-authored 2 books.
+She was the lead author of the Health Normative Standards and am currently working on Interoperability in Health Information Systems."
+    topic: "AI - The Ethics of IT"
+    affiliation: "CSIR, University of Stellenbosch (Dep of Industrial Engineering) & UNISA, (School of Engineering)"
+    link: modal
+    image: "/images/people/adele_botha.jpg"
+    social_media:
+
+  - name: Dr Laticha EM Walters
+    years:
+      - Healthcare
+    talk_description: "What are the trends and opportunities for AI in Digital Health Governance in Public and Global Health"
+    bio: "Chief Executive Officer and Country Director of IRD South Africa NPC an affiliate of IRD Global. PhD in Telehealth from University of KwaZulu-Natal. Laticha is passionate about the adoption of digital solutions to meet the health needs of vulnerable communities."
+    topic: "AI in Digital Health Governance"
+    affiliation: "IRD South Africa NPC"
+    link: modal
+    image: "/images/people/Laticha_Walters.jpg"
+    social_media:
+
 
   # SHORT TALK SPEAKERS
 
