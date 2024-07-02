@@ -229,7 +229,7 @@ days:
     - title: 'Flash Talks'
       track: ''
       content: ""
-      location: WSS1, WSS2, WSS3
+      location: WSS1
       number: 
       sessions: []
 
@@ -287,7 +287,7 @@ days:
       content: ''
       location: WSS2
       sessions:
-      - name: Mpho Primus
+      - name: Mpho Raborife
         # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
         time: ''
       number: 
@@ -340,7 +340,8 @@ days:
       track: Workshop
       location: MSL105
       sessions:
-      - name:  
+      - name: Kgomotso Moretsele
+      - name: Mpho
     - title: Workshop - Retrieval-Augmented Generation (RAG) Part 1
       track: Workshop
       location: MSL105
@@ -368,7 +369,8 @@ days:
       track: Workshop
       location: MSL105
       sessions:
-      - name:  
+      - name: Kgomotso Moretsele
+      - name: Mpho
     - title: Workshop - Retrieval-Augmented Generation (RAG) Part 2
       track: Workshop
       location: MSL105

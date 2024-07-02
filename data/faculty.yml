@@ -35,7 +35,7 @@ people:
       - title: Github
         link: https://github.com/tvanzyl
         icon: ""
-  - name: Mpho Primus
+  - name: Mpho Raborife
     years:
       - Language
       - Keynote
@@ -493,6 +493,60 @@ He is an Advisory Committee member of the Reinforcement Learning Conference, a m
       - title: LinkedIn
         link: https://www.linkedin.com/in/hossein-masoumi-karakani/
         icon: 
+
+  - name: Kgomotso Moretsele
+    years:
+      - Education
+      - Workshop
+    talk_description: "Part 1: Soft Skills Development
+
+Gain key work readiness skills through interactive mock interviews.
+Learn how to optimise your LinkedIn profile and manage your social media presence to attract potential employers.
+
+Part 2: Technical Preparation
+
+Receive valuable insights on acing technical interviews and effective preparation strategies.
+Get advice on the most sought-after certifications to enhance your technical expertise and stand out in the job market.
+Prepare yourself for success in your professional journey with practical tips and expert guidance!"
+
+    bio: "Kgomotso Moretsele is a passionate and dynamic youth leader making significant strides as a Placements Coordinator at WeThinkCode_ since May 2023. In this role, she ensures a seamless placement process from student readiness to final placement, collaborating with various teams to enhance the existing system.
+
+Before joining WeThinkCode_, Kgomotso served with distinction as a Youth Stream Project Coordinator at the Youth Employment Service (YES) South Africa for over four years. During her tenure, she managed logistics and event planning, and had the privilege of meeting notable figures such as the President of South Africa and Meghan, Duchess of Sussex.
+Kgomotso Moretsele is an inspiring example of dedication, leadership, and positive impact on young people
+
+"
+    topic: "Insights on preparing for the workplace"
+    affiliation: "WeThinkCode_"
+    link: modal
+    image: "/images/people/Kgomotso.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/kgomotso-moretsele-40b128146
+        icon: 
+
+  - name: Mpho
+    years:
+      - Education
+      - Workshop
+    talk_description: "Join us for a comprehensive workshop designed to equip university graduates with essential skills for entering the workforce.
+
+Part 1: Soft Skills Development
+
+Gain key work readiness skills through interactive mock interviews.
+Learn how to optimise your LinkedIn profile and manage your social media presence to attract potential employers.
+
+Part 2: Technical Preparation
+
+Receive valuable insights on acing technical interviews and effective preparation strategies.
+Get advice on the most sought-after certifications to enhance your technical expertise and stand out in the job market.
+Prepare yourself for success in your professional journey with practical tips and expert guidance!"
+
+    bio: ""
+    topic: "Insights on preparing for the workplace"
+    affiliation: "WeThinkCode_"
+    link: modal
+    image: "/images/people/mpho.jpg"
+    social_media:
 
 
   # SHORT TALK SPEAKERS
