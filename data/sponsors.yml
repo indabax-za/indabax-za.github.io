@@ -36,7 +36,7 @@ sponsors:
     current: true
     background_color: ''
 
-- tier: 🦏 Black Rhino (R50 000)
+- tier: 🦏 Black Rhino (R50 000+)
   size: 100
   item:
   - name: InstaDeep
@@ -64,6 +64,11 @@ sponsors:
     link: https://www.isazi.ai/
     current: true
     background_color: ''
+  - name: SocioTech
+    image: images/partners/SocioTech.png
+    link: https://sociotech.co.za/
+    current: true
+    background_color: ''
 
 - tier: African Buffalo (AI Fest)
   item:
@@ -88,7 +93,7 @@ sponsors:
     current: false
     background_color: '#333'
 
-- tier: 🐃 Cape Buffalo (R25 000)
+- tier: 🐃 Cape Buffalo (R25 000+)
   size: 100
   item:
   - name: Alis Exchange
@@ -146,7 +151,7 @@ sponsors:
     current: true
     background_color: ''
 
-- tier: 🦁 Lion (up to R15 000)
+- tier: 🦁 Lion (R15 000+)
   size: 60
   item: 
     - name: Uber
