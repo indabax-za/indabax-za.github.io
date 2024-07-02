@@ -548,6 +548,17 @@ Prepare yourself for success in your professional journey with practical tips an
     image: "/images/people/mpho.jpg"
     social_media:
 
+  - name: Privolin Naidoo
+    years:
+      - Applied ML & Industry
+    talk_description: "A dive into utilizing RAG for LLM generation, from beginner to intermediate level understanding."
+    bio: "Privolin is a senior researcher at the CSIR focusing on Natural Language Processing and Automatic Speech Recognition."
+    topic: "Leveraging RAG to Improve LLM Generation"
+    affiliation: "CSIR"
+    link: modal
+    image: "/images/people/privolin_naidoo.jpg"
+    social_media:
+
 
   # SHORT TALK SPEAKERS
 

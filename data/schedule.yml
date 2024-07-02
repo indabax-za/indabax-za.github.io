@@ -246,7 +246,12 @@ days:
       location: MSL105
       track: Hackathon
       content: 'Forecasting Practical'
-
+      sessions:
+      - title:
+        panel:
+        - name: Isazi
+          image: /images/partners/isazi_text.png
+          link: https://www.isazi.ai/
 
 
   # - time: 16h30 - 18h00
@@ -310,7 +315,7 @@ days:
       track: Track 1
       location: WSS1
       sessions:
-      - name:  Charl Van Heerden
+      - name: Charl Van Heerden
       - name: Peter Ochieng
       - name: Sthembiso Mkhwanazi
 
@@ -348,6 +353,8 @@ days:
       sessions:
       - name: Avashlin Moodley
       - name: Jessica Rees
+      - name: Sthembiso Mkhwanazi
+      - name: Privolin Naidoo
     - title: Workshop - AI Safety Part 1
       track: Workshop
       location: WSS2
@@ -377,6 +384,8 @@ days:
       sessions:
       - name: Avashlin Moodley
       - name: Jessica Rees
+      - name: Sthembiso Mkhwanazi
+      - name: Privolin Naidoo
     - title: Workshop - AI Safety Part 2
       track: Workshop
       location: WSS2
