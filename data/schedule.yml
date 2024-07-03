@@ -516,6 +516,8 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
       location: MSL105
       track: Hackathon
       content: 'Model Optimisation Practical'
+      sessions:
+      - name: Jeroen van Goey
 
   - time: 18h00 - 00h00
     columns:
@@ -529,6 +531,7 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
         - name: InstaDeep
           image: /images/partners/instadeep_text.png
           link: https://www.instadeep.com/
+        - name: Jeroen van Goey
 
   
 

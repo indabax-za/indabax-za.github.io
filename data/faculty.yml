@@ -601,6 +601,19 @@ She was the lead author of the Health Normative Standards and am currently worki
       link: https://www.linkedin.com/in/leo-hyams-63960a163/
       icon:
 
+  - name: Jeroen van Goey
+    years:
+      - Hackathon
+    talk_description: ""
+    bio: "Jeroen Van Goey is a Senior BioAI Software Engineer at InstaDeep, based in Cape Town, South Africa. He uses machine learning to create personalized cancer vaccines."
+    affiliation: "InstaDeep"
+    link: modal
+    image: "/images/people/jeroen.jpg"
+    social_media:
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/jeroenvangoey
+      icon:
+
 
   # SHORT TALK SPEAKERS
 
@@ -921,7 +934,7 @@ and machine learning. Arné describes himself as a futurist, AI prophet, nerd, l
     bio: "An MSC student with a passionate for machine learning. Gloria has an appreciation for entrepreneurship and the founder of the tech consultancy Mandelite. Mandelite, a company that helps companies with software development, cybersecurity and technological innovation. Before transitioning into a multifaceted career, Gloria spent two years working in government sectors. This experience provided a deep understanding of governance, policy, and regulation, as well as the ability to communicate effectively with diverse audiences.
 
 Gloria is proficient in various technical languages, including Java, JavaScript, HTML, CSS, and Python. They have a passion for researching problems related to cybersecurity, machine learning, and data analytics. Utilizing the React framework, she develops reliable and scalable software solutions. Additionally, they possess skills in digital marketing and SEO, further enhancing their comprehensive technical and analytical expertise."
-    topic: "Utilising Ensemble Cluseter for Parkinson's Disease Detection."
+    topic: "Utilising Ensemble Cluster for Parkinson's Disease Detection."
     affiliation: University of the Witwatersrand and Sol Plaatje University
     link: modal
     image: "/images/people/short_talk_photos/gloria_pucoe.jpg"
