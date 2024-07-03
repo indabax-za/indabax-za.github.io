@@ -59,12 +59,52 @@ days:
         sessions:
           - title:
             panel:
-              # - name: DSI Africa
-              #   image: /images/partners/dsi_africa.png
-              #   link: https://dsi-africa.org/
+              #- name: Altoria AI
+              #  image: 
+              #  link: 
+              - name: Analytix Engine
+                image: /images/partners/analytix_engine.png
+                link: https://www.analytixengine.com/
+              - name: DSI-MADIVA
+                image: /images/partners/dsi_africa.png
+                link: https://dsi-africa.org/project/6
+              - name: IBM Research
+                image: /images/partners/ibm.png
+                link: https://www.ibm.com/us-en
+              - name: IIS, UJ
+                image: /images/partners/university_of_johannesburg.png
+                link: https://iis.uj.ac.za/
+              - name: Melio AI
+                image: /images/partners/melio_ai.png
+                link: https://melio.ai/
+              - name: Opti-Num Solutions
+                image: /images/partners/optinum_solutions.png
+                link: https://www.optinum.co.za/
+              - name: RAIL Lab, UW
+                image: /images/partners/raillab.jpg
+                link: https://www.raillab.org/
+              - name: Rosebank College
+                image: /images/partners/rosebank.png
+                link: https://www.rosebankcollege.co.za/
+              - name: Sand Technologies
+                image: /images/partners/sand_technologies.png
+                link: https://www.sandtech.com/
               - name: ShockLab
-                image: /images/partners/shocklab.png
+                image: /images/partners/shocklab.jpg
                 link: https://shocklab.net/
+              - name: TUT
+                image: /images/partners/TUT.png
+                link: https://www.tut.ac.za/
+              - name: UCT NLP Group
+                image: /images/partners/UCT.jpg
+                link: https://uct.ac.za/
+              - name: UNISA
+                image: /images/partners/UNISA.png
+                link: https://www.unisa.ac.za/sites/corporate/default
+              - name: WeThinkCode_
+                image: /images/partners/wethinkcode.png
+                link: https://wethinkcode.co.za/
+
       - title: Partners
         track: AI Fest
         sessions:
@@ -76,15 +116,34 @@ days:
               - name: Bytefuse
                 image: /images/partners/bytefuse.png
                 link: https://www.bytefuse.ai/
+              - name: DSI Africa
+                image: /images/partners/dsi_africa.png
+                link: https://dsi-africa.org/
+              - name: DSI-MADIVA
+                image: /images/partners/dsi_africa.png
+                link: https://dsi-africa.org/project/6
+              - name: IBM Research
+                image: /images/partners/ibm.png
+                link: https://www.ibm.com/us-en
+              - name: InstaDeep Ltd
+                image: /images/partners/instadeep.png
+                link: https://www.instadeep.com/
+              - name: Isazi Consulting
+                image: /images/partners/isazi.png
+                link: https://www.isazi.ai/
+              - name: Pink Elephant South Africa
+                image: /images/partners/pink_elephant.png
+                link: https://pinkelephant.co.za/
               - name: Predictive Insights
-                image: /images/partners/predictive_insights.png
+                image: /images/partners/predictive_insights.jpg
                 link: https://predictiveinsights.net/
               - name: Saigen
                 image: /images/partners/saigen.png
                 link: https://www.saigen.co.za/
-              - name: DSI Africa
-                image: /images/partners/dsi_africa.png
-                link: https://dsi-africa.org/
+              - name: South African AI Association
+                image: /images/partners/saaiassociation.png
+                link: https://saaiassociation.co.za/
+
       - title: Poster Session
         track: AI Fest
         content:
