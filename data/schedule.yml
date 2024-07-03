@@ -512,17 +512,23 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
             time: ''
   - time: 16h30 - 18h00
     columns:
-    - title: Preparing for the Hackathon with Instadeep
+    - title: Preparing for the Hackathon with InstaDeep
       location: MSL105
       track: Hackathon
       content: 'Model Optimisation Practical'
 
   - time: 18h00 - 00h00
     columns:
-    - title: Hackathon with Instadeep
+    - title: Hackathon with InstaDeep
       location: MSL105
       track: Hackathon
       content: 'Model Optimisation Practical'
+      sessions:
+      - title:
+        panel:
+        - name: InstaDeep
+          image: /images/partners/instadeep_text.png
+          link: https://www.instadeep.com/
 
   
 
