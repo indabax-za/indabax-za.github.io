@@ -22,12 +22,12 @@ days:
         - title:
           panel:
           - name: "Deep Learning Indaba\U0001D54F South Africa 2024 Organising Committee"
-            image: "/images/indabax2024_logo_black.png"
+            image: "/images/indabax2024_logo_black.jpg"
             link: http://localhost:1313/news/2024-04-01-meet-the-team/
             title: ''
             time: ''
           - name: "University of the Witwatersrand, Johannesburg"
-            image: "images/partners/wits.png"
+            image: "images/partners/wits_text.jpg"
             link: https://www.wits.ac.za/
             title: ''
             time: ''
@@ -297,7 +297,23 @@ days:
     - title: Meetups and Mentorship
       location: "1st Floor Meetup Rooms"
       track: Social
-      content: "Meetups and Mentorship Sessions"   
+      content: "Meetups and Mentorship Sessions - Join us for an informal meetup where you can network, collaborate, and make valuable connections with your peers. 
+We encourage you to find a mentor, mentee or research collaborator and book a 1-on-1 with them with SwapCard after the meetup."   
+      sessions:
+        - title: ""
+          panel:
+          - name: "AI in Health"
+            title: ''
+            time: ''
+          - name: "AI in Industry"
+            title: ''
+            time: ''
+          - name: "Computer Vision"
+            title: ''
+            time: ''
+          - name: "Reinforcement Learning"
+            title: ''
+            time: ''
 
   - time: 16h30 - 20h00
     columns:
@@ -309,7 +325,7 @@ days:
       - title:
         panel:
         - name: Isazi
-          image: /images/partners/isazi_text.png
+          image: /images/partners/isaziconsulting_co_za_text.jpg
           link: https://www.isazi.ai/
 
 
@@ -477,8 +493,23 @@ days:
     - title: Meetups and Mentorship
       location: "1st Floor Meetup Rooms"
       track: Social
-      content: "Research Collaboration Exploration"
-
+      content: "Meetups and Mentorship Sessions - Join us for an informal meetup where you can network, collaborate, and make valuable connections with your peers. 
+We encourage you to find a mentor, mentee or research collaborator and book a 1-on-1 with them with SwapCard after the meetup."   
+      sessions:
+        - title: ""
+          panel:
+          - name: "Data Science/Analytics"
+            title: ''
+            time: ''
+          - name: "Natural Language Processing"
+            title: ''
+            time: ''
+          - name: " AI Safety, Ethics and Governance"
+            title: ''
+            time: ''
+          - name: "AI in Africa"
+            title: ''
+            time: ''
   - time: 16h30 - 18h00
     columns:
     - title: Preparing for the Hackathon with Instadeep
@@ -657,18 +688,18 @@ days:
 
   - time: 16h00 - 17h00
     columns:
-    - title: Panel Discussion
-      track: AI in Africa
+    - title: "Panel Discussion - AGI Horizons: Utopia, Dystopia, and everything in-between"
+      track: ""
+      content: "AI is the most influential technology of our lifetime, and it has only just begun. In this conversation with some of the leading figures in AI development in Africa, we will discuss the implications of the imminent emergence of AGI and what this means for Africa and humanity. This sweeping discussion will dive into both what AGI might mean for improving the wellbeing of our species and the planet, and the risks associated with developing this technology. This conversation serves to communicate expert opinions on the future of AI and give the audience a sense of where the field is headed."
       location: WSS2
       number: 4
-      content: ''
       sessions: 
         - title: AI and Africa 
           panel:
           - name: Bruce Bassett
           - name: Benjamin Rosman
           - name: Leo John Hyams
-          - name: Mpho Dipitso
+          - name: Mpho Raborife
 
   - time: 17h00 - 17h30
     columns:
