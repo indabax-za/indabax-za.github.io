@@ -41,7 +41,8 @@ people:
       - Keynote
       - AI in Africa
     talk_description:
-      "An exploration on the intersection of linguistics, computer science and AI technologies and their dynamic landscape in African NLP. Potential for the African continent, offering opportunities for innovation, development, and socio-economic growth. The current state of NLP R&D and adoption in Africa, highlighting both the progress made and the challenges faced. We examine how NLP technologies are being leveraged across various sectors, including healthcare, education, finance, agriculture, and governance, to address unique African challenges and empower local communities."
+      "An exploration on the intersection of linguistics, computer science and AI technologies and their dynamic landscape in African NLP. Potential for the African continent, offering opportunities for innovation, development, and socio-economic growth. The current state of NLP R&D and adoption in Africa, highlighting both the progress made and the challenges faced. We examine how NLP technologies are being leveraged across various sectors, including healthcare, education, finance, agriculture, and governance, to address unique African challenges and empower local communities. 
+       \ \n Mpho Raborife will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGIs implications for Africa and humanity, offering perspectives from top AI experts."
     bio:
       NRF-rated researcher focusing on African NLP. Co-director of the Institute for Intelligent Systems, University of Johannesburg. Founder of Primus Tech Hub, a boutique firm focusing on data strategies. Board trustee of the IDEMIA Black Women's Trust and advisory board member of the PAICTA organisation.
     topic: "NLP for Africa: Trends and Perspectives"
@@ -390,11 +391,11 @@ Knowledge-Aware Networking holds the potential to redefine the landscape of netw
   - name: Benjamin Rosman
     years:
       - Applied ML & Industry
-    talk_description: ""
+    talk_description: "Benjamin Rosman will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGI’s implications for Africa and humanity, offering perspectives from top AI experts."
     bio: "Benjamin Rosman is a Professor in the School of Computer Science and Applied Mathematics at Wits University, where he runs the Robotics, Autonomous Intelligence and Learning (RAIL) Laboratory and is the Director of the National E-Science Postgraduate Teaching and Training Platform. He is also the Chief Science Officer for Lelapa AI. 
 He received his Ph.D. in Informatics from the University of Edinburgh in the UK in 2014. He was a founder of the Deep Learning Indaba machine learning summer school. He was made a 2024 National Geographic Explorer, a 2022 CIFAR Azrieli Global Scholar by the Canadian Institute for Advanced Research, was a 2017 recipient of a Google Faculty Research Award in machine learning, and a 2021 recipient of a Google Africa Research Award. In 2020, he was made a Senior Member of the IEEE. 
 He is an Advisory Committee member of the Reinforcement Learning Conference, a member of the AAAI Membership Committee, a member of the IEEE Cognitive and Developmental Systems Technical Committee, and a member of the Scientific Committee of the Association of AI Ethicists. He has over 110 publications in the area of machine learning, and has supervised over 70 MSc and PhD students. "
-    topic: "Details Coming Soon."
+    topic: "Panelist"
     affiliation: "University of the Witwatersrand"
     link: modal
     image: "/images/people/benjamin_rosman.jpg"
@@ -470,9 +471,9 @@ He is an Advisory Committee member of the Reinforcement Learning Conference, a m
       - ML
       - Astronomy
       - Research
-    talk_description: ""
+    talk_description: "Bruce Bassett will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGI’s implications for Africa and humanity, offering perspectives from top AI experts."
     bio: ""
-    topic: ""
+    topic: "Panelist"
     affiliation: "AIMS"
     link: modal
     image: "/images/people/bruce_bassett.jpg"
@@ -589,7 +590,7 @@ She was the lead author of the Health Normative Standards and am currently worki
     years:
       - AI Ethics
       - AI Safety and Governance in Africa Workshop
-    talk_description: ""
+    talk_description: "Leo John Hyams will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGIs implications for Africa and humanity, offering perspectives from top AI experts."
     bio: "Co-founder of AI Safety Cape Town, an AI Safety field-building and research organization. I am also a lead organizer at the Deep Learning IndabaX South Africa, an annual conference that brings together AI researchers, practitioners, and enthusiasts in Africa. Other than this, I'm a regular meditator, as well as a big trail runner, both activities I enjoy doing with others."
     topic: "An Introduction to AI Safety"
     affiliation: "AI Safety Cape Town"
