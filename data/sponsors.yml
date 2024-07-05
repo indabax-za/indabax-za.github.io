@@ -85,7 +85,17 @@ sponsors:
   - name: Zindi
     image: images/partners/zindi_transparent.png
     link: https://zindi.africa/
-    current: false
+    current: true
+    background_color: ''
+  - name: InstaDeep
+    image: images/partners/instadeep.png
+    link: https://instadeep.com/
+    current: true
+    background_color: ''
+  - name: Isazi
+    image: images/partners/isazi_text.png
+    link: https://www.isazi.ai/
+    current: true
     background_color: ''
   - name: Fruitpunch AI
     image: images/partners/fruitpunch.svg
