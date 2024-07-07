@@ -283,6 +283,45 @@ days:
       number: 
       sessions: []
 
+  - time: 16h30 - 17h00
+    columns:
+    - title: 'Community Opportunities'
+      track: Applied ML & Industry
+      content: ""
+      location: WSS2
+      number: 
+      sessions:
+        - name: Mixo Ngoveni
+          # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
+          time: ''
+      number: 
+  
+  - time: 17h00 - 17h30
+    columns:
+    - title: 'Data Science'
+      track: 'Data Science'
+      content: ""
+      location: WSS2
+      number: 
+      sessions:
+        - name: Tam Ogubai
+          # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
+          time: ''
+      number: 
+
+  - time: 17h30 - 18h00
+    columns:
+    - title: 'Community Opportunities'
+      track: Applied ML & Industry
+      content: ""
+      location: WSS2
+      number: 
+      sessions:
+        - name: Kevin Colville
+          # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
+          time: ''
+      number: 
+
   - time: 16h30 - 17h30
     columns:
     - title: 'Flash Talks'
@@ -486,6 +525,53 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
       location: WSS3
       number: 
       sessions: []
+
+
+  - time: 16h30 - 17h00
+    columns:
+    - title: 'Medical AI'
+      track: BioAI
+      content: ""
+      location: WSS2
+      number: 
+      sessions:
+        - name: Kirsten Taneall Smith
+          # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
+          time: ''
+      number: 
+
+  - time: 17h00 - 17h30
+    columns:
+    - title: 'Bio AI'
+      track: BioAI
+      content: ""
+      location: WSS2
+      number: 
+      sessions:
+        - name: Shane Acton
+          # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
+          time: ''
+      number: 
+
+  - time: 17h30 - 18h00
+    columns:
+    - title: 'TBD'
+      track: 'TBD'
+      content: ""
+      location: WSS2
+      number: 
+      sessions:
+        - name: Asif Aziz
+          # title: '[Algorithms; Intelligence; Social Science]  Human Organism as Algorithm'
+          time: ''
+      number: 
+
+
+
+
+
+
+
 
 
   - time: 16h30 - 19h30
