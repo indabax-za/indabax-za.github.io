@@ -172,15 +172,16 @@ people:
       - title: LinkedIn
         link: https://www.linkedin.com/in/jabu-mtsweni-04526720/
         icon: ""
+
   - name: Neelan Pather
     years:
       - ML
       - Applied ML & Industry
     talk_description:
-      "Practical ML in financial data science."
+      "Creating tangible business value across the customer lifecycle."
     bio:
       "Neelan Pather, FIA, CERA, MSc CS, is a Data Science Manager at Analytix Engine, a financial data science consultancy. He is passionate about using modern data-intensive techniques in financial risk management applications. He is a member of the Actuarial Society of South Africa's Data Science Committee and is actively involved in efforts to modernise the actuarial profession."
-    topic: "Leveraging ML in Big Data Analytics for Business Success"
+    topic: "The Antidote to ML Hype"
     affiliation: 'Analytix Engine'
     link: modal
     image: "/images/people/neelan_pather.jpg"
@@ -516,7 +517,7 @@ Before joining WeThinkCode_, Kgomotso served with distinction as a Youth Stream 
 Kgomotso Moretsele is an inspiring example of dedication, leadership, and positive impact on young people
 
 "
-    topic: "Insights on preparing for the workplace"
+    topic: "Insights on Preparing for the Workplace"
     affiliation: "WeThinkCode_"
     link: modal
     image: "/images/people/Kgomotso.jpg"
@@ -701,7 +702,7 @@ Takura holds a Master's in Big Data Science from the University of Pretoria (UP)
     - Applied ML & Industry
     talk_description: "A critical look at how graph database technology could be a key component to unlocking true AGI."
     bio: "Tawanda Ewing is an Electrical and electronic engineer turned Machine learning engineer with over 5 years of experience in the field and A.I. He's implemented A.I powered systems for multiple industries such as Legal, Oil & Gas, Retail and Education. Tawanda is passionate about doing his part to advance Africa and share his insights with anyone willing to listen."
-    topic: "Bridging the gap to AGI - The thinking graph"
+    topic: "Bridging the Gap to AGI - The Thinking Graph"
     affiliation: Legal Interact
     link: modal
     image: "/images/people/short_talk_photos/tawanda_ewing.jpg"
@@ -778,7 +779,7 @@ Through his dedication and expertise, Saheed is poised to make a lasting impact 
     - Applied ML & Industry
     talk_description: "A short talk that explores how the world of  AI and neuroscience can merge together to create solutions for issues of brain health and treatment of neurodevelopmental disorders. This talk will give a short description of how these technologies can revolutionize approaches to mental health matters."
     bio: "As a student at the University of the Western Cape,  majoring in psychology, I have developed a keen interest in artificial intelligence and neuroscience, through exploring the intersections of Technology, mental health and brain function, I have developed a newfound dedication to uncovering new ways to harness the power of AI to solve brain health issues."
-    topic: "Decoding the brain: The role of AI in Neurodevelopmental health optimization"
+    topic: "Decoding the Brain: The Role of AI in Neurodevelopmental Health Optimization"
     affiliation: University of the Western Cape
     link: modal
     image: "/images/people/short_talk_photos/karabo_madibela.jpg"
@@ -978,3 +979,110 @@ From this foundation, I will also provide insights on how higher education shoul
     - title: LinkedIn
       link: https://www.linkedin.com/in/sterne
       icon:
+
+
+  - name: Mixo Ngoveni
+    years:
+    - Education
+    - Social
+    talk_description: "I will be talking about the Red Bull Basement University challenge and focus on how technology can be used by students to create positive social impact."
+    bio: "Mixo Fortune Ngoveni is the Co-Founder of Geekulcha, a Tech
+Advocate & Techpreneur, Connector, Social Media Geek, and Amateur Chef. He was
+recognized as a Mail & Guardian Top 200 Young South Africans in 2015
+and a finalist for the IITPSA IT Personality of the Year in 2017. Mixo is a
+former Red Bull Basement Brand Manager & Global Mentor, and Microsoft
+Student Partner."
+    topic: "Red Bull Basement University - Empowering Young Minds to use Technology for Positive Impact"
+    affiliation: 
+    link: modal
+    image: "/images/people/mixo_ngoveni.jpg"
+    social_media:
+    - title: Twitter
+      link: https://x.com/4otune
+      icon:
+    - title: Instagram
+      link: https://instagram.com/4otune
+      icon:
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/mixo-ngoveni/
+      icon:
+
+  - name: Tam Ogubai
+    years:
+    - Data Science
+    - Applied ML & Industry
+    talk_description: "I will explain why an ecosystem is important for data science to succeed. From business to varsity, governments and non profits. "
+    bio: "Partnership lead at Zindi connecting organisations to our Zindi eco system and forging strategic partnerships with governments, leading companies and help young talents getting upskilled and working with them on real world problems to solve with AI and ML. 
+
+Also have worked for Google and Microsoft and sold an AR/VR startup in the USA for the engineering industry. "
+    topic: "It Takes a Ecosystem for Data Science to Succeed."
+    affiliation: Zindi 
+    link: modal
+    image: "/images/people/tam_ogubai.jpg"
+    social_media:
+
+  - name: Kevin Colville
+    years:
+    - Research 
+    - Applied ML & Industry
+    talk_description: "The CHPC supports research in the computational sciences from simulation to machine learning. This talk will provide an overview of our facilities and services."
+    bio: "A graduate of the University of Cape Town, Kevin Colville has been a support scientist at the CHPC since 2008. His research interests are in scientific computing, computational methods, numerical analysis, finite element method, applied mathematics, mathematical modelling, computational mathematics, applied & computational number theory."
+    topic: "Centre for High Performance Computing"
+    affiliation: NICIS CHPC (CSIR)
+    link: modal
+    image: "/images/people/kevin_colville.png"
+    social_media:
+
+  - name: Shane Acton
+    years:
+    - BioAI
+    - Research
+    talk_description: "A deeper dive into molecular biology and an update on SOTA Ai methods used to model DNA, RNA, and proteins."
+    bio: "I am a BioAi Research Engineer focusing on applying modern Deep Learning techniques to immunology."
+    topic: "Exploring SOTA methods in BioAi"
+    affiliation: Instadeep
+    link: modal
+    image: "/images/people/shane_acton.jpg"
+    social_media:
+    - title: LinkedIn
+      link: www.linkedin.com/in/shane-acton-86994a273
+      icon:
+
+  - name: Kirsten Taneall Smith
+    years:
+    - Healthcare 
+    - Applied ML & Industry
+    talk_description: "Join me as I walk through the journey of developing an AI product in medical imaging, including the design and deployment considerations in a multi-platform multi-member project which has real world constraints for bringing research into reality."
+    bio: "At Opti-Num, Kirsten blends strategy and creative exploration to discover future business opportunities. Kirsten’s role includes the communication of technology to make it accessible and impactful. She likes to unpack the connections and motivations between what businesses need, what research is capable of, as well as how to build people up so that they’re capable of making great things happen. She aspires to bridge the gap between innovation, technology, and learning. Kirsten works hard to bring different disciplines together to improve the world we live in."
+    topic: "Design and Deployment of AI for Innovation in Medical Imaging, Leveraging MATLAB and C++"
+    affiliation: Opti-Num Solutions
+    link: modal
+    image: "/images/people/kirsten_taneal_smith.jpg"
+    social_media:
+    - title: Website
+      link: https://www.optinum.co.za/
+      icon:
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/kirstentsmith/
+      icon:
+
+  # - name: 
+  #   years:
+  #   - 
+  #   - 
+  #   talk_description: ""
+  #   bio: ""
+  #   topic: ""
+  #   affiliation: 
+  #   link: modal
+  #   image: "/images/people/.jpg"
+  #   social_media:
+  #   - title: Twitter
+  #     link: 
+  #     icon:
+  #   - title: Instagram
+  #     link: 
+  #     icon:
+  #   - title: LinkedIn
+  #     link: 
+  #     icon:
