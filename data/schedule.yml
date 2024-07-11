@@ -555,8 +555,8 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
 
   - time: 17h30 - 18h00
     columns:
-    - title: 'TBD'
-      track: 'TBD'
+    - title: 'Education'
+      track: 'Track 2'
       content: ""
       location: WSS2
       number: 
@@ -711,6 +711,7 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
       content: ''
       location: WSS2
       sessions:
+      - name: Gabrielle Immelman
       - name: Bigomokero Antoine Bagula
       - name: Zubeida Dawood
       number: 

@@ -1066,6 +1066,38 @@ Also have worked for Google and Microsoft and sold an AR/VR startup in the USA f
       link: https://www.linkedin.com/in/kirstentsmith/
       icon:
 
+
+  - name: Asif Aziz
+    years:
+    - Education
+    talk_description: "The pace of change has exceeded our rate of learning."
+    bio: "Asif Aziz, the Head of Professional Services at Pink Elephant South Africa, is a pivotal figure in IT Service Management (ITSM) across South Africa. With a rich history of roles at IBM, Altron Group, and T-Systems, Aziz has expertly merged technological innovation with business transformation. His leadership is instrumental in developing Pink Elephant's cutting-edge curriculum, addressing the sector's current and future demands. Aziz's proficiency in emerging technologies places Pink Elephant at the forefront of advanced training. His advocacy for micro-credentials and agile learning promotes education being more accessible and pertinent. Aziz's strategic approach and dedication to professional growth is a key component that drives the innovative approach to education, equipping professionals for the digital future."
+    topic: "Education"
+    affiliation: AMBA
+    link: modal
+    image: "/images/people/asif_aziz.jpg"
+    social_media:
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/asif-aziz-27600276/
+      icon:
+
+  - name: Gabrielle Immelman
+    years:
+    - Education
+    talk_description: "Sub-Saharan Africa needs 2.5 million new engineers to meet its development challenges. To bridge this gap, we must enhance STEM education. By integrating AI tutors and innovative teaching methods, we'll boost student engagement and improve learning outcomes. Can we leverage Large Language Models to help students tackle critical subjects like math and build confidence through intelligent tutoring systems?"
+    bio: "Gabi Immelman is the founder and CEO of Mindjoy, an innovative EdTech startup dedicated to accelerating STEM education through AI. Recognized by Mail & Guardian as one of the 200 Young South Africans in 2022, Gabi's journey from a Reggio educator to a EdTech entrepreneur working with educators and students across the globe."
+    topic: "Accelerating STEM Education with AI"
+    affiliation: MindJoy
+    link: modal
+    image: "/images/people/gabrielle.jpg"
+    social_media:
+    - title: LinkedIn
+      link: https://www.linkedin.com/in/gabi-immelman/
+      icon:
+    - title: Twitter
+      link: https://x.com/GabiImmelman
+      icon:
+
   # - name: 
   #   years:
   #   - 
