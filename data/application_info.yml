@@ -22,7 +22,7 @@ applications:
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2024-07-05T23:00:00.000+02:00
+    close_date: 2025-07-05T23:00:00.000+02:00
     acceptance_date: upon payment
   - heading: "Industry  \n\U0001F6E0  \nR5000"
     label: Register now
@@ -33,7 +33,7 @@ applications:
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2024-07-05T23:00:00.000+02:00
+    close_date: 2025-07-05T23:00:00.000+02:00
     acceptance_date: upon payment
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Apply to attend for free
@@ -41,8 +41,8 @@ applications:
     closed_message: Closed!
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
-    open_date: April 2024
-    close_date: 2024-05-12T22:00:00.000+02:00
+    open_date: April 2025
+    close_date: 2025-05-25T22:00:00.000+02:00
     acceptance_date: 6th June (approx.)
   - heading: "Present a talk  \n\U0001F3A4"
     label: Submit abstract
@@ -51,13 +51,13 @@ applications:
     closed_message: Closed!
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSf0ZxY__xy-qxhiRGqhtjPYOkyp8SF18VvfsZcS_Qv3meTKkg/viewform?usp=sf_link"
     color: orange
-    open_date: April 2024
-    close_date: 2024-05-12T22:00:00.000+02:00
+    open_date: April 2025
+    close_date: 2025-05-25T22:00:00.000+02:00
     acceptance_date: 1st June (approx.)
 show_period: false
 period_text: "[Registration period](/register)"
 applications_open_date: May 2023
-applications_close_date: 2024-05-05T22:00:00.000+02:00
+applications_close_date: 2025-05-25T22:00:00.000+02:00
 acceptance_date: July (approx.)
 target_applicants:
   enable: true
