@@ -52,14 +52,14 @@ sponsors:
   - name: City of Cape Town
     image: images/partners/coct.png
     link: https://www.capetown.gov.za/
-    current: true
+    current: false
     background_color: ''
 - tier: African Buffalo (AI Fest)
   item:
     - name: Lelapa AI
       image: images/partners/lelapa-ai.png
       link: https://lelapa.ai/
-      current: true
+      current: false
       background_color: ''
 - tier: 🖼️ White Rhino (Poster session)
   size: 100
@@ -80,12 +80,12 @@ sponsors:
   - name: Fruitpunch AI
     image: images/partners/fruitpunch.svg
     link: https://www.fruitpunch.ai
-    current: true
+    current: false
     background_color: '#333'
   - name: Butler's Pizza
     image: images/partners/butlers_logo.jpg
     link: https://www.butlers.co.za/
-    current: true
+    current: false
     background_color: '' 
   - name: Chisl
     image: images/partners/chisl.png
@@ -97,7 +97,7 @@ sponsors:
     link: https://dns.net.za/
     current: false
     background_color: ''
-- tier: 🐃 Cape Buffalo (R25 000)
+- tier: 🐃 Cape Buffalo
   size: 100
   item:
   - name: Alis Exchange
@@ -136,7 +136,7 @@ sponsors:
       background_color: ''
     - name: Support us
       image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-      link: "mailto: sponsors@indabax.co.za"
+      link: "mailto: fundraising@indabax.co.za"
       current: false
       background_color: ''
 - tier: 🧤 Community
