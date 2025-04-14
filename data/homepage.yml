@@ -29,9 +29,9 @@ about:
 school:
   title: Machine learning and artificial intelligence conference
   dates:
-    estimated_date: July 2024!
-    school_start_date: 2024-07-09T07:00:00.000+00:00
-    school_end_date: 2024-07-12T14:00:00.000+00:00
+    estimated_date: July 2025!
+    school_start_date: 2025-07-07T07:00:00.000+00:00
+    school_end_date: 2025-07-11T14:00:00.000+00:00
   content: The conference will be a multi-day event featuring...
   item:
     - title: 400+<br>attendees
@@ -55,20 +55,20 @@ school:
       height: 15%
       color: "#F5A623"
 sponsors:
-  enable: true
+  enable: false
   link: partners
   link_text: view all
 faculty:
-  enable: true
+  enable: false
   title: Speakers
-  show_all: true
-  show_track: true
-  slider: true
+  show_all: false
+  show_track: false
+  slider: false
   link: "/speakers"
   ta_link: "/speakers"
   link_text: with more incoming
 schedule:
-  enable: true
+  enable: false
   link: "/schedule"
   link_text: "expand all"
 news:
