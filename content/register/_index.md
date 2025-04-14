@@ -25,16 +25,16 @@ Keep an eye on this page for updates.
 
 | Date         | Event                                                     |
 | :----------- | :-------------------------------------------------------- |
-| 2024-04-01 📝 | Applications for free attendance (e.g. for students) open |
-| 2024-04-05 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
-| 2024-04-12 📜 | Abstract submissions open                                 |
-| 2024-05-12 🛑 | Applications for free attendance close                    |
-| 2024-05-12 🟠 | Abstract submissions close                                |
-| 2024-06-06 📢 | Notification of application acceptance                    |
-| 2024-06-14 🎤 | Notification of abstract acceptance                       |
-| 2024-06-14 💚 | Early registration closes (prices increase)          |
-| 2024-07-05 ☑️ | RSVP to secure spot for applicants (acceptance +4 days)    |
-| 2024-07-05 🟡 | Final wave of paid registrations close                    |
+| 2025-04-18 📝 | Applications for free attendance (e.g. for students) open |
+| 2025-04-18 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
+| 2025-04-18 📜 | Abstract submissions open                                 |
+| 2025-05-25 🛑 | Applications for free attendance close                    |
+| 2025-05-25 🟠 | Abstract submissions close                                |
+| 2025-06-09 📢 | Notification of application acceptance                    |
+| 2025-06-16 🎤 | Notification of abstract acceptance                       |
+| 2025-06-12 💚 | Early bird registration closes (prices increase)          |
+| 2025-06-13 ☑️ | RSVP to confirm attendance after acceptance (acceptance +4 days)    |
+| 2025-06-23 🟡 | Final wave of paid registrations close                    |
 
 > [**Travel grants**](/register/travel-grants) must be applied for _during the application process_. See [Travel grants](/register/travel-grants) for more info.
 
