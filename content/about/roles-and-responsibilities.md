@@ -135,7 +135,7 @@ summary = "We are here to grow the community 🤝"
 
 
 ---
-## 🎫 Logistics
+## 🎫 Applications
 - Take and distribute minutes - keep everyone informed
 - Work closely with local organisers as there will be shared/overlapping responsibilities
 - Run the application process (using existing templates)
