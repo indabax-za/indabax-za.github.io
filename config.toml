@@ -4,11 +4,11 @@ summaryLength = "10"
 theme = "indabax-website-base"
 timeZone = "Africa/Johannesburg"
 title = "Deep Learning Indaba𝕏 South Africa"
-[[menu.main]]
-URL = "schedule"
-identifier = "schedule"
-name = "Schedule"
-weight = 1
+#[[menu.main]]
+#URL = "schedule"
+#identifier = "schedule"
+#name = "Schedule"
+#weight = 1
 [[menu.main]]
 URL = "faq"
 identifier = "faq"
@@ -19,15 +19,15 @@ URL = "register"
 identifier = "register"
 name = "Register"
 weight = 2
-[[menu.main]]
-URL = "register/ai-fest"
-name = "AI Fest"
-weight = 3
-[[menu.main]]
-URL = "speakers"
-identifier = "speakers"
-name = "Speakers"
-weight = 3
+#[[menu.main]]
+#URL = "register/ai-fest"
+#name = "AI Fest"
+#weight = 3
+#[[menu.main]]
+#URL = "speakers"
+#identifier = "speakers"
+#name = "Speakers"
+#weight = 3
 [[menu.main]]
 URL = "partners"
 identifier = "partners"
@@ -49,7 +49,7 @@ identifier = "about"
 name = "About"
 weight = 9
 [params]
-address = "University of the Witwatersrand"
+address = "University of Stellenbosch"
 address_details = ""
 author = "Christopher Currin"
 copyright = "Copyright &copy;{{now}} Deep Learning IndabaX South Africa NPC"
@@ -85,7 +85,7 @@ link = "about/privacy-policy"
 name = "Privacy Policy"
 [params.map]
 enable = true
-map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.1850712596884!2d28.022764876358252!3d-26.19065726342428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950c0f45d80e67%3A0x50d6bb28d501908f!2sWits%20Science%20Stadium!5e0!3m2!1sen!2sza!4v1713863595628!5m2!1sen!2sza\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.3234624805064!2d18.861872077518434!3d-33.932807773202065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcdb2432e9fe5d1%3A0xcb41c6b0379331f3!2sStellenbosch%20University!5e0!3m2!1sen!2sza!4v1744653822266!5m2!1sen!2sza\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
