@@ -2,7 +2,6 @@
 title: Partners
 show_names: false
 sponsors:
-
 - tier: 🙌 Supporters
   size: 100
   item:
@@ -16,13 +15,7 @@ sponsors:
     link: https://www.up.ac.za/
     background_color: ''
     current: false
-  - name: University of the Witwatersrand, Johannesburg
-    image: images/partners/wits.png
-    link: https://www.wits.ac.za/
-    background_color: ''
-    current: true
-
-- tier: 🐘 African Elephant (R100 000+)
+- tier: 🐘 African Elephant
   size: 100
   item:
   - name: NITheCS
@@ -35,20 +28,21 @@ sponsors:
     link: https://www.wits.ac.za/coe-mass/
     current: true
     background_color: ''
-
-- tier: 🦏 Black Rhino (R50 000+)
+- tier: 🦏 Black Rhino
   size: 100
   item:
   - name: InstaDeep
-    image: images/partners/instadeep.png
+    image: images/partners/cropped-instadeep.png
     link: https://instadeep.com/
     current: true
     background_color: ''
-  # - name: IBM
-  #   image: images/partners/research_ibm_com_labs_africa.png
-  #   link: https://www.ibm.com/
-  #   current: true
-  #   background_color: 'white'
+
+  - name: IBM
+    image: images/partners/research_ibm_com_labs_africa.png
+    link: https://www.ibm.com/
+    current: true
+    background_color: 'white'
+  
   - name: Google
     image: images/partners/google.png
     link: https://www.google.com/
@@ -59,26 +53,21 @@ sponsors:
     link: https://www.capetown.gov.za/
     current: false
     background_color: ''
-  - name: Isazi
-    image: images/partners/isazi_text.png
-    link: https://www.isazi.ai/
-    current: true
-    background_color: ''
-  - name: SocioTech
-    image: images/partners/SocioTech.png
-    link: https://sociotech.co.za/
-    current: true
-    background_color: ''
-
-- tier: African Buffalo (AI Fest)
+- tier: African Buffalo
   item:
     - name: Lelapa AI
       image: images/partners/lelapa-ai.png
       link: https://lelapa.ai/
       current: false
       background_color: ''
-
-
+- tier: 🖼️ White Rhino
+  size: 100
+  item: 
+  - name: AI Expo Africa
+    image: images/partners/ai_expo_2023.png
+    link: https://aiexpoafrica.com/
+    current: true
+    background_color: ''
 - tier: 🐆 Leopard (Hackathon)
   size: 80
   item:
@@ -87,23 +76,27 @@ sponsors:
     link: https://zindi.africa/
     current: true
     background_color: ''
-  - name: InstaDeep
-    image: images/partners/instadeep.png
-    link: https://instadeep.com/
-    current: true
-    background_color: ''
-  - name: Isazi
-    image: images/partners/isazi_text.png
-    link: https://www.isazi.ai/
-    current: true
-    background_color: ''
   - name: Fruitpunch AI
     image: images/partners/fruitpunch.svg
     link: https://www.fruitpunch.ai
     current: false
     background_color: '#333'
-
-- tier: 🐃 Cape Buffalo (R25 000+)
+  - name: Butler's Pizza
+    image: images/partners/butlers_logo.jpg
+    link: https://www.butlers.co.za/
+    current: false
+    background_color: '' 
+  - name: Chisl
+    image: images/partners/chisl.png
+    link: https://www.chislgroup.com/
+    current: false
+    background_color: ''
+  - name: "DNS.Business"
+    image: images/partners/dns_business_f.png
+    link: https://dns.net.za/
+    current: false
+    background_color: ''
+- tier: 🐃 Cape Buffalo
   size: 100
   item:
   - name: Alis Exchange
@@ -114,93 +107,37 @@ sponsors:
   - name: CHPC
     image: images/partners/nicis-chpc.png
     link: https://www.chpc.ac.za/
-    current: false
+    current: true
     background_color: ''
   - name: Data Science for Social Impact
     image: https://dsfsi.github.io/images/logo_transparent_small.png
     link: https://dsfsi.github.io
     current: false
     background_color: ''
+
   - name: EPI-USE
     image: images/partners/epi-use.png
     link: https://epiuse.ai
     current: false
     background_color: ''
-  - name: Alphawave
-    image: images/partners/alphawave_text.png
-    link: https://alphawave.co.za/
+  - name: Ashanti AI
+    image: images/partners/ashanti_ai.png
+    link: https://www.ashanti.ai
+    current: false
     background_color: ''
-    current: true
-  - name: CHPC
-    image: images/partners/nicis-chpc.png
-    link: https://www.chpc.ac.za/
-    current: true
-  - name: AI Media Group
-    image: images/partners/ai_media_group.jpg
-    link: http://aimediagroup.co.za
-    current: true
-    background_color: ''
-  - name: Pink Elephant
-    image: images/partners/pink_elephant.png
-    link: https://pinkelephant.co.za/
-    current: true
-    background_color: ''
-  - name: ByteFuse
-    image: images/partners/bytefuse_text.png
-    link: https://www.bytefuse.ai/
-    current: true
-    background_color: ''
-  - name: Predictive Insights
-    image: images/partners/predictive_insights_text.png
-    link: https://predictiveinsights.net/
-    current: true
-    background_color: ''
-  - name: Saigen
-    image: images/partners/saigen_text.png
-    link: https://www.saigen.co.za/
-    current: true
-    background_color: ''
-
-- tier: 🦁 Lion (R15 000+)
+- tier: 🦁 Lion
   size: 60
   item: 
     - name: Uber
       image: images/partners/uber.png
       link: https://www.uber.com
-      current: false
+      current: true
       background_color: ''
     - name: Support us
       image: https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-      link: "mailto: sponsors@indabax.co.za"
+      link: "mailto: fundraising@indabax.co.za"
       current: false
       background_color: ''
-    - name: DSI Africa
-      image: images/partners/dsi_africa_logo_2024_text.jpg
-      link: https://dsi-africa.org/
-      current: true
-      size: 70
-      background_color: ''
-    - name: Mozilla
-      image: images/partners/mozilla.png
-      link: https://www.mozilla.org/en-US/
-      current: true
-      size: 70
-      background_color: ''
-
-- tier: 🖼️ AI Fest Exhibitors
-  size: 60
-  item: 
-  - name: DSI Arica
-    image: /images/partners/dsi_africa_logo_2024_text.jpg
-    link: https://dsi-africa.org/
-    current: true
-    background_color: ''
-  - name: ShockLab
-    image: images/partners/shocklab.png
-    link: https://shocklab.net/
-    current: true
-    background_color: ''
-
 - tier: 🧤 Community
   size: 100
   item:
@@ -215,6 +152,22 @@ sponsors:
     current: true
     size: 70
     background_color: ''
+  - name: AICE - Artificial Intelligence Centre of Excellence Africa
+    image: images/partners/aice.png
+    link: https://www.aiceafrica.com
+    current: false
+    background_color: ''
+    size: 50
+  - name: Adanian Labs
+    image: images/partners/adanianlabs.png
+    link: https://www.adanianlabs.io
+    current: false
+    background_color: ''
+  - name: IAFRIKAN
+    image: images/partners/iafrikan.png
+    link: https://iafrikan.com/
+    current: true
+    background_color: ''
   - name: SAAIA - South African Artificial Intelligence Association
     image: images/partners/saaia.png
     link: https://saaiassociation.co.za
@@ -225,22 +178,6 @@ sponsors:
     link: http://aimediagroup.co.za
     current: true
     background_color: ''
-  - name: WeThinkCode
-    image: images/partners/WeThinkCode_LOGO.png
-    link: https://wethinkcode.co.za/
-    current: true
-    background_color: ''
-  - name: Deep Learning Indaba
-    image: images/partners/deeplearningindaba_com.png
-    link: https://deeplearningindaba.com/
-    background_color: ''
-    current: true
-  - name: Discovery
-    image: images/partners/discovery_transparent.png
-    link: https://www.discovery.co.za
-    background_color: ''
-    current: true
-    
 - tier: 🏛 Affiliated institutions
   size: 60
   item:
@@ -255,7 +192,7 @@ sponsors:
     current: true
     background_color: ''
   - name: University of the Witwatersrand
-    image: images/partners/wits.png
+    image: images/partners/WITS.png
     link: https://www.wits.ac.za/
     current: true
     background_color: ''
@@ -282,7 +219,12 @@ sponsors:
   - name: Tshwane University of Technology
     image: images/partners/TUT.png
     link: https://www.tut.ac.za
-    current: false
+    current: true
+    background_color: ''
+  - name: Stellenbosch University
+    image: images/partners/SU-Logo.png
+    link: https://www.sun.ac.za
+    current: true
     background_color: ''
   # - name: CHISL
   #   image: images/partners/chisl.png
@@ -297,19 +239,24 @@ sponsors:
   - name: Durban University of Technology 
     image: images/partners/DUT.png
     link: https://www.dut.ac.za/
-    current: false
+    current: true
     background_color: ''
   - name: Centre for AI Research
     image: images/partners/cair.svg
     link: https://cair.org.za/
     current: true
     background_color: ''
+  - name: DataProphet
+    image: images/partners/dataprophet_com.png
+    link: https://www.dataprophet.com/
+    current: false
+    background_color: ''
   - name: Chisl
     image: images/partners/chisl.png
     link: https://www.chislgroup.com/
     current: false
     background_color: ''
-  - name: Computational Neuroscience Imbizo
+  - name: IBRO-Simons Computational Neuroscience Imbizo
     image: images/partners/imbizo_invert.png
     link: https://imbizo.africa/
     current: true
