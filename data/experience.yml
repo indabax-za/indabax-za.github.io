@@ -36,6 +36,11 @@ item:
     affiliation: IndabaX Botswana
     image: "/images/people/rampate.jpg"
     link: https://www.linkedin.com/in/ditiro-rampate-46a999a4/
+  - name: Eldon Burger
+    position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+    affiliation: Stellenbosch University
+    image: "/images/people/placeholder.jpg"
+    link:
   - name: Elizabeth Booi
     position: Programme Chairs & Marketing and Communication
     affiliation: University of the Western Cape
@@ -56,6 +61,11 @@ item:
     affiliation: University of Cape Town & DS-I Africa
     image: "/images/people/agamah.jpg"
     link: "https://www.linkedin.com/in/francis-agamah-3a5762115"
+  - name: Gabriel Asare Williams
+    position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+    affiliation: Mastercard (African Institute of Mathematical Sciences)
+    image: "/images/people/gabriel.png"
+    link:
   - name: Joel Leonard
     position: Fundraising and Sponsor relations & Marketing and Communication
     affiliation: University of Pretoria
@@ -76,12 +86,36 @@ item:
     affiliation: University of Pretoria
     image: "/images/people/makhafola.jpg"
     link: https://www.linkedin.com/in/lesego-makhafola-65102651/
+  - name: Louise Fourie
+    position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+    affiliation: Stellenbosch University
+    image: "/images/people/louise.jpg"
+    link:
+  - name: Lucy van der Meulen
+    position: Local Organisation + Catering and Social Events & Marketing and Communication
+    affiliation: Stellenbosch University
+    image: "/images/people/lucy.jpeg"
+    link:
   - name: Lydia de Lange
     position: Executive Director, Accounting Support & Fundraising and Sponsor relations
     affiliation: SocioTech
     image: "https://indabax.co.za/images/people/delange.jpg"
     link: www.linkedin.com/in/lydia-de-lange
-
+  - name: Mahlatse Mbooi
+    position: Marketing and Communication
+    affiliation: CSIR
+    image: "/images/people/mahlatse.jpeg"
+    link: 
+  - name: Mandlenkosi Zwane
+    position: Hackathon & Applications
+    affiliation: Acumen Software
+    image: "images/people/mandlenkosi_zwane.jpeg"
+    link: https://thumihub.github.io/profile/mandlenkosi.html
+  - name: Marcel Dunaiski
+    position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+    affiliation: Stellenbosch University
+    image: "/images/people/placeholder.jpg"
+    link:
   - name: Maria Schuld
     position: Board of Directors
     affiliation: Xanadu
@@ -112,6 +146,11 @@ item:
     affiliation: Sand Technologies
     image: "/images/people/li.jpg"
     link: "https://www.linkedin.com/in/qiulin-li-800a6117b/"
+  - name: Refiloe Motsoeneng
+    position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+    affiliation: Stellenbosch University
+    image: "/images/people/refiloe.jpeg"
+    link:
   - name: Robert Selemani
     position: Hackathon & AI Fest and Poster Session
     affiliation: Zindi Africa
@@ -127,7 +166,11 @@ item:
     affiliation: Xero & University of Johannesburg
     image: "/images/people/oladejo.jpg"
     link: https://www.linkedin.com/in/saol/
-
+  - name: Sthembiso Mkhwanazi
+    position: Programme Chairs, Hackathon & AI Fest and Poster Session
+    affiliation: CSIR
+    image: "/images/people/sthembiso_mkhwanazi.png"
+    link:
   - name: Stephanie Müller
     position: Local Organisation + Catering and Social Events & Programme Chairs
     affiliation: IBM & University of the Witwatersrand 
@@ -143,56 +186,8 @@ item:
     affiliation: University of Pretoria
     image: "/images/people/sindane.jpg"
     link: https://www.linkedin.com/in/thapelo-sindane-a8907b1b2
-  - name: Mandlenkosi Zwane
-    position: Hackathon & Applications
-    affiliation: Acumen Software
-    image: "images/people/mandlenkosi_zwane.jpeg"
-    link: https://thumihub.github.io/profile/mandlenkosi.html
-  
-
-
-  #- name: Mahlatse Mbooi
-  #  position: Marketing and Communication
-  #  affiliation: CSIR
-  #  image: 
-  #  link: 
-  #- name: Sthembiso Mkhwanazi
-  #  position: Programme Chairs, Hackathon & AI Fest and Poster Session
-  #  affiliation: CSIR
-  #  image: 
-  #  link:
-  #- name: Eldon Burger
-  #  position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
-  #  affiliation: Stellenbosch University
-  #  image: 
-  #  link:
-  #- name: Louise Fourie
-  #  position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
-  #  affiliation: Stellenbosch University
-  #  image: "/images/people/Louise.jpg"
-  #  link:
-  #  name: Refiloe Motsoeneng
-  #  position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
-  #  affiliation: Stellenbosch University
-  #  image: 
-  #  link:
-  #- name: Lucy van der Meulen
-  #  position: Local Organisation + Catering and Social Events & Marketing and Communication
-  #  affiliation: Stellenbosch University
-  #  image: 
-  #  link:
-  #- name: Marcel Dunaiski
-  #  position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
-  #  affiliation: Stellenbosch University
-  #  image: 
-  #  link:
-  #- name: Gabriel Asare Williams
-  #  position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
-  #  affiliation: Mastercard (African Institute of Mathematical Sciences)
-  #  image: 
-  #  link:
-  #- name: Tim Vermeulen
-  #  position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
-  #  affiliation: Stellenbosch University
-  #  image: 
-  #  link:
+  - name: Tim Vermeulen
+    position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+    affiliation: Stellenbosch University
+    image: "/images/people/tim.jpeg"
+    link: 
