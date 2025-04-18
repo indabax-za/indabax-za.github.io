@@ -2,7 +2,7 @@
 title: Registration info
 date: 2019-05-12T12:14:34.000+06:00
 description: Registration info
-image: /images/photos/indabax2023 - group x.jpg
+image: /images/indabax2024._group_photo.jpg
 opacity: "80"
 min_header_height: 30em
 type: apply
@@ -25,14 +25,14 @@ Keep an eye on this page for updates.
 
 | Date         | Event                                                     |
 | :----------- | :-------------------------------------------------------- |
-| 2025-04-18 📝 | Applications for free attendance (e.g. for students) open |
-| 2025-04-18 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
-| 2025-04-18 📜 | Abstract submissions open                                 |
-| 2025-05-25 🛑 | Applications for free attendance close                    |
-| 2025-05-25 🟠 | Abstract submissions close                                |
+| 2025-04-21 📝 | Applications for free attendance (e.g. for students) open |
+| 2025-04-21 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
+| 2025-04-21 📜 | Abstract submissions open                                 |
+| 2025-05-23 🛑 | Applications for free attendance close                    |
+| 2025-05-23 🟠 | Abstract submissions close                                |
 | 2025-06-09 📢 | Notification of application acceptance                    |
-| 2025-06-16 🎤 | Notification of abstract acceptance                       |
-| 2025-06-12 💚 | Early bird registration closes (prices increase)          |
+| 2025-06-11 🎤 | Notification of abstract acceptance                       |
+| 2025-06-13 💚 | Early bird registration closes (prices increase)          |
 | 2025-06-13 ☑️ | RSVP to confirm attendance after acceptance (acceptance +4 days)    |
 | 2025-06-23 🟡 | Final wave of paid registrations close                    |
 
@@ -43,7 +43,8 @@ Keep an eye on this page for updates.
 If you are interested in **supporting us**, please fill out the sponsorship form or email us directly for more information.
 Employees of companies who sponsor the event can attend free of charge, according to the sponsorship agreement.
 [Sponsorship Information](/partners)
-Email: [sponsors@indabax.co.za](mailto:sponsors@indabax.co.za)
+Email: [fundraising@indabax.co.za](mailto:fundraising@indabax.co.za). 
+Sponsorship prospectus: [link](https://www.canva.com/design/DAGhOjWp5g8/UWA9vZ4-8PWMpwWFlBD6Iw/view?utm_content=DAGhOjWp5g8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5896a6be6f)
 
 ### {{<icon "ti-microphone">}}  Talks and Posters {.project-meta}
 
