@@ -14,7 +14,7 @@ Looking to give back to the community?
 Speak to us if you have any questions!
 
 {{<rawhtml>}}
-<a href="https://drive.google.com/file/d/1iIpUGzmn-PATMuV5oR0JKgQ0R9xQPt-r/view?usp=sharing" class="btn btn-lg btn-secondary col-12 col-md-6 offset-md-3 text-white mb-3">Get involved in supporting the commumity by becoming a partner!</a>
+<a href="https://www.canva.com/design/DAGhOjWp5g8/UWA9vZ4-8PWMpwWFlBD6Iw/view?utm_content=DAGhOjWp5g8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5896a6be6f" class="btn btn-lg btn-secondary col-12 col-md-6 offset-md-3 text-white mb-3">Get involved in supporting the commumity by becoming a partner!</a>
 
 <a href="https://www.payfast.co.za/donate/go/deeplearningindabaxsouthafricanpc" target="_blank" title="Donate now on PayFast cause index" class="btn btn-outline-danger col-8 col-md-6 offset-md-3 btn-donate">Donate now</a>
 {{</rawhtml>}}
