@@ -74,7 +74,7 @@ item:
   - name: Kwasi Darkwa
     position: Marketing and Communication & AI Fest and Poster Session
     affiliation: IndabaX Botswana & Botho University
-    image: "/images/people/darkwa.jpg"
+    image: "/images/people/kwasi.jpeg"
     link: "https://www.linkedin.com/in/kwasidarkwa/"
   - name: Laing Lourens
     position: Fundraising and Sponsor relations
@@ -95,7 +95,7 @@ item:
     position: Local Organisation + Catering and Social Events & Marketing and Communication
     affiliation: Stellenbosch University
     image: "/images/people/lucy.jpeg"
-    link:
+    link: https://www.linkedin.com/in/lucy-van-der-meulen-98097b267/
   - name: Lydia de Lange
     position: Executive Director, Accounting Support & Fundraising and Sponsor relations
     affiliation: SocioTech
@@ -120,7 +120,7 @@ item:
     position: Board of Directors
     affiliation: Xanadu
     image: "https://indabax.co.za/images/people/schuld.jpg"
-    link: ""
+    link: https://www.linkedin.com/in/maria-schuld-7857b070/
   - name: Matimba Shingange
     position: Programme Chairs & Applications
     affiliation: University of Pretoria
@@ -150,7 +150,7 @@ item:
     position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
     affiliation: Stellenbosch University
     image: "/images/people/refiloe.jpeg"
-    link:
+    link: https://www.linkedin.com/in/refiloe-motsoeneng-b15439160?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   - name: Robert Selemani
     position: Hackathon & AI Fest and Poster Session
     affiliation: Zindi Africa
@@ -170,7 +170,7 @@ item:
     position: Programme Chairs, Hackathon & AI Fest and Poster Session
     affiliation: CSIR
     image: "/images/people/sthembiso_mkhwanazi.png"
-    link:
+    link: https://www.linkedin.com/in/sthesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   - name: Stephanie Müller
     position: Local Organisation + Catering and Social Events & Programme Chairs
     affiliation: IBM & University of the Witwatersrand 
