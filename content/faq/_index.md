@@ -2,7 +2,7 @@
 title: FAQ - Frequently Asked Questions
 date: 2019-05-12T12:14:34.000+06:00
 description: Frequently Asked question
-image: "https://images.unsplash.com/photo-1638636199555-5085c5f4fc56?q=80&w=2532&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "/images/Stellenbosch_Ou_Hoofgebou.jpeg"
 min_header_height: 40em
 
 ---
@@ -159,7 +159,7 @@ Stellenbosch has a lot to offer, it’s one of the most beautiful and vibey town
 
 We are pleased to invite attendees to apply to stay in accommodation in a residence on campus. Accommodation is limited and not guaranteed until payment is received.
 
-Please fill in [this form](https://forms.gle/odYKYUJu1pcHvfdg7) if you are interested.
+A form will be provided soon.
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
