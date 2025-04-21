@@ -2,7 +2,7 @@
 title: Schedule outline
 days:
 - title: Day 0
-  date: 2025-07-07
+  date: 2024-07-09
   content:
   sessions:
   - time: 10h00 - 13h00
@@ -13,20 +13,20 @@ days:
         location: Outside Science Stadium Area
   - time: 13h00 - 13h30
     columns:
-    - title: Welcome - Committee and Stellies
+    - title: Welcome - Committee and Wits
       track: ''
-      content: "Kickoff time! 🎉 Join the organising committee and Stellenbosch University representatives for opening remarks, setting the stage for a sensational conference!"
+      content: "Kickoff time! 🎉 Join the organising committee and Wits University representatives for opening remarks, setting the stage for a sensational conference!"
       location: WSS2
       number: 
       sessions:
         - title:
           panel:
-          - name: "Deep Learning Indaba\U0001D54F South Africa 2025 Organising Committee"
+          - name: "Deep Learning Indaba\U0001D54F South Africa 2024 Organising Committee"
             image: "/images/indabax2024_logo_black.jpg"
             link: http://localhost:1313/news/2024-04-01-meet-the-team/
             title: ''
             time: ''
-          - name: "Stellenbosch University, Stellenbosch"
+          - name: "University of the Witwatersrand, Johannesburg"
             image: "images/partners/wits_text.jpg"
             link: https://www.wits.ac.za/
             title: ''
@@ -150,7 +150,7 @@ days:
           "Discover up-and-coming research and inventive projects in our poster session and compete for prizes! Ensure your presence at your poster during the first hour to qualify. Learn more about  [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/)."
 
 - title: Day 1
-  date: 2025-07-08
+  date: 2024-07-10
   content: ''
   sessions:
   - time: '08h00 - 08h55'
@@ -387,7 +387,7 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
 
     
 - title: Day 2
-  date: 2025-07-09
+  date: 2024-07-11
   content: ''
   sessions:
   - time: '08h00 - 08h55'
@@ -566,159 +566,6 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
           time: ''
       number: 
 
-- title: Day 4
-  date: 2025-07-11
-  content:
-  sessions:
-  - time: 10h00 - 13h00
-    columns:
-      - title: Registration and Explore Campus
-        track: ''
-        content: "Check in, collect conference materials, and prepare for an engaging day ahead! Once you've checked in, take a stroll around campus and grab some lunch from one of the vendors."
-        location: Outside Science Stadium Area
-  - time: 13h00 - 13h30
-    columns:
-    - title: Welcome - Committee and Stellies
-      track: ''
-      content: "Kickoff time! 🎉 Join the organising committee and Stellenbosch University representatives for opening remarks, setting the stage for a sensational conference!"
-      location: WSS2
-      number: 
-      sessions:
-        - title:
-          panel:
-          - name: "Deep Learning Indaba\U0001D54F South Africa 2025 Organising Committee"
-            image: "/images/indabax2024_logo_black.jpg"
-            link: http://localhost:1313/news/2024-04-01-meet-the-team/
-            title: ''
-            time: ''
-          - name: "Stellenbosch University, Stellenbosch"
-            image: "images/partners/wits_text.jpg"
-            link: https://www.wits.ac.za/
-            title: ''
-            time: ''
-
-  - time: 13h30 - 14h30
-    columns:
-    - title:  Keynote - NLP
-      track: 'Keynote'
-      content: 
-      location: WSS2
-      number: 
-      sessions:
-        - name: Pelonomi Moiloa
-
-  - time: 14h30 - 15h00
-    columns:
-    - title: Capture the Moment
-      track: 
-      content: "Group photo time! 📸 Gather around and freeze this moment in time together! ❤️"
-      location: 
-      number: 
-      sessions: []
-
-  - time: 15h00 - 19h00
-    columns:
-      - title: "Opening Event: AI Fest and Poster Session"
-        track: AI Fest
-        location: Outside Science Stadium Area
-        sessions:
-          - title:
-            panel:
-              #- name: Altoria AI
-              #  image: 
-              #  link: 
-              - name: Analytix Engine
-                image: /images/partners/analytix_engine.png
-                link: https://www.analytixengine.com/
-              - name: DSI-MADIVA
-                image: /images/partners/dsi_africa.png
-                link: https://dsi-africa.org/project/6
-              - name: IBM Research
-                image: /images/partners/ibm.png
-                link: https://www.ibm.com/us-en
-              - name: IIS, UJ
-                image: /images/partners/university_of_johannesburg.png
-                link: https://iis.uj.ac.za/
-              - name: Melio AI
-                image: /images/partners/melio_ai.png
-                link: https://melio.ai/
-              - name: Opti-Num Solutions
-                image: /images/partners/optinum_solutions.png
-                link: https://www.optinum.co.za/
-              - name: RAIL Lab, UW
-                image: /images/partners/raillab.jpg
-                link: https://www.raillab.org/
-              - name: Rosebank College
-                image: /images/partners/rosebank.png
-                link: https://www.rosebankcollege.co.za/
-              - name: Sand Technologies
-                image: /images/partners/sand_technologies.png
-                link: https://www.sandtech.com/
-              - name: ShockLab
-                image: /images/partners/shocklab.jpg
-                link: https://shocklab.net/
-              - name: TUT
-                image: /images/partners/TUT.png
-                link: https://www.tut.ac.za/
-              - name: UCT NLP Group
-                image: /images/partners/UCT.jpg
-                link: https://uct.ac.za/
-              - name: UNISA
-                image: /images/partners/UNISA.png
-                link: https://www.unisa.ac.za/sites/corporate/default
-              - name: WeThinkCode_
-                image: /images/partners/wethinkcode.png
-                link: https://wethinkcode.co.za/
-
-      - title: Partners
-        track: AI Fest
-        sessions:
-          - title:
-            panel:
-              - name: Alphawave
-                image: /images/partners/alphawave.png
-                link: https://alphawave.co.za/
-              - name: Bytefuse
-                image: /images/partners/bytefuse.png
-                link: https://www.bytefuse.ai/
-              - name: DSI Africa
-                image: /images/partners/dsi_africa.png
-                link: https://dsi-africa.org/
-              - name: DSI-MADIVA
-                image: /images/partners/dsi_africa.png
-                link: https://dsi-africa.org/project/6
-              - name: IBM Research
-                image: /images/partners/ibm.png
-                link: https://www.ibm.com/us-en
-              - name: InstaDeep Ltd
-                image: /images/partners/instadeep.png
-                link: https://www.instadeep.com/
-              - name: Isazi Consulting
-                image: /images/partners/isazi.png
-                link: https://www.isazi.ai/
-              - name: Pink Elephant South Africa
-                image: /images/partners/pink_elephant.png
-                link: https://pinkelephant.co.za/
-              - name: Predictive Insights
-                image: /images/partners/predictive_insights.jpg
-                link: https://predictiveinsights.net/
-              - name: Saigen
-                image: /images/partners/saigen.png
-                link: https://www.saigen.co.za/
-              - name: South African AI Association
-                image: /images/partners/saaiassociation.png
-                link: https://saaiassociation.co.za/
-
-      - title: Poster Session
-        track: AI Fest
-        content:
-          "Discover up-and-coming research and inventive projects in our poster session and compete for prizes! Ensure your presence at your poster during the first hour to qualify. Learn more about  [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/)."
-
-
-
-
-
-
 
   - time: 16h30 - 19h30
     columns:
@@ -786,7 +633,7 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
 
 
 - title: Day 3
-  date: 2025-07-10
+  date: 2024-07-12
   content: ''
   sessions:
   - time: '08h00 - 08h55'
@@ -966,7 +813,7 @@ We encourage you to find a mentor, mentee or research collaborator and book a 1-
       location: The Living Room, Maboneng
       content: "Final act: Gather for our grand closure! 🚀 Reflect, rejoice, and roll out with your packs loaded with fresh ideas and new connections.
       
-      **Transportation Information**: Buses will depart from Stellenbosch University immediately after the closing ceremony. Return buses will be available from Maboneng back to Wits at 10:00 PM.<br>
+      **Transportation Information**: Buses will depart from Wits University immediately after the closing ceremony. Return buses will be available from Maboneng back to Wits at 10:00 PM.<br>
 
       **Considering the limited parking in Maboneng, those who drive are advised to park at Wits and use the provided buses.**"
 
