@@ -202,7 +202,7 @@ people:
     link: https://www.linkedin.com/in/tim-vermeulen-261342247
 ---
 
-Yes we back with deep learning, one layer at a time, to building Africa's AI future
+Yes, we're back with deep learning, one layer at a time, to building Africa's AI future
 
 <!--more-->
 
