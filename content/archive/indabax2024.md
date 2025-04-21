@@ -9,8 +9,6 @@ title: "2024"
 decor: false
 # playlist: "https://www.youtube.com/playlist?list=PLxQIghRi8KAbqT3tsimRHCO-heRLpVKZU"
 # report: ""
-schedule_link: "https://drive.google.com/file/d/1GzvxXqZXrgP4NsCdnuIweDTYoIqlZr89/view?usp=sharing"
-album: "https://drive.google.com/drive/folders/1cud0XbSRsKGKpJY8zzVVD_xLD9MbDNFZ?usp=drive_link"
 menu:
   main:
     parent: archive
