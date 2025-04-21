@@ -32,7 +32,7 @@ Speakers have their fees waived.
 
 #### {{<icon "fa-solid fa-sack-dollar">}} &nbsp; **How much does it cost the Indaba𝕏 per person?** {.faq-item}
 
-Each person we have at the event costs the Indaba𝕏 ~R2000. Considering we have 400 people, this is a lot of money. We are very grateful to our [partners](/partners) for making this possible.
+Each person we have at the event costs the Indaba𝕏 ~R5000. Considering we have 400 people, this is a lot of money. We are very grateful to our [partners](/partners) for making this possible.
 
 As a community-orientated event, we are committed to making the Indaba𝕏 as accessible as possible. We have a number of travel grants available to help people attend the Indaba𝕏. These are allocated at **application time**. See [/register/travel-grants/](/register/travel-grants/) for more.
 
