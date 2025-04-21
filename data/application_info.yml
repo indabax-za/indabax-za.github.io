@@ -13,46 +13,46 @@ applications:
   #     basis
   #   close_date: 2023-06-09T23:00:00.000+00:00
   #   acceptance_date: see below for tips on how to [improve your application](#how-do-i-imporve-my-application)
-  - heading: "Academia  \n\U0001F52D  \nR2200"
+  - heading: "Academia  \n\U0001F52D  \nEarly Bird Ticket: R2000"
     label: Register now
-    open: false
+    open: true
     closed_message: Closed!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSemvn_iUFDXpoKl0D8xvMqXRpZgZ8wx_KRZaHJ4jaNNF9ncGg/viewform?usp=sf_link"
+    URL: "https://docs.google.com/forms/d/e/1FAIpQLSe1UQC3OuWInaezM-PFOFFjRki0YpGLRrK3nOytsvBv5NDH8Q/viewform?usp=sharing"
     color: "#9A5BD4"
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2025-07-05T23:00:00.000+02:00
+    close_date: 2025-06-13T23:00:00.000+02:00
     acceptance_date: upon payment
-  - heading: "Industry  \n\U0001F6E0  \nR5000"
+  - heading: "Industry  \n\U0001F6E0  \nEarly Bird Ticket: R3700"
     label: Register now
-    open: false
+    open: true
     closed_message: Closed!
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSfO1C0MedIIMHEVTtamPcrgA9Cc043MS3_FsUXe4LxctNoDqg/viewform?usp=sf_link"
     color: "#228EE3"
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2025-07-05T23:00:00.000+02:00
+    close_date: 2025-06-13T23:00:00.000+02:00
     acceptance_date: upon payment
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Apply to attend for free
-    open: false
+    open: true
     closed_message: Closed!
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
     open_date: April 2025
-    close_date: 2025-05-25T22:00:00.000+02:00
+    close_date: 2025-05-23T22:00:00.000+02:00
     acceptance_date: 6th June (approx.)
   - heading: "Present a talk  \n\U0001F3A4"
     label: Submit abstract
     col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)
-    open: false
+    open: true
     closed_message: Closed!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSf0ZxY__xy-qxhiRGqhtjPYOkyp8SF18VvfsZcS_Qv3meTKkg/viewform?usp=sf_link"
+    URL: "https://docs.google.com/forms/d/e/1FAIpQLSd0UQs5xMz8jlzR_m5_7c-32hrPSOO-Zruulu5ipTOEF_5APQ/viewform?usp=sharing"
     color: orange
     open_date: April 2025
-    close_date: 2025-05-25T22:00:00.000+02:00
+    close_date: 2025-05-23T22:00:00.000+02:00
     acceptance_date: 1st June (approx.)
 show_period: false
 period_text: "[Registration period](/register)"
