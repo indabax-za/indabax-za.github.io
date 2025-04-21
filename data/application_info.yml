@@ -28,7 +28,7 @@ applications:
     label: Register now
     open: true
     closed_message: Closed!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSfO1C0MedIIMHEVTtamPcrgA9Cc043MS3_FsUXe4LxctNoDqg/viewform?usp=sf_link"
+    URL: "https://docs.google.com/forms/d/e/1FAIpQLSeO3RHUGhVs8NenlhJobSCUMb0Qt81qyRz1qaWiLv0r6FIWFQ/viewform?usp=dialog"
     color: "#228EE3"
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
