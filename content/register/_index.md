@@ -26,7 +26,7 @@ Keep an eye on this page for updates.
 | Date         | Event                                                     |
 | :----------- | :-------------------------------------------------------- |
 | 2025-04-21 📝 | Applications for free attendance (e.g. for students) open |
-| 2025-04-21 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
+| 2025-04-30 🎗 | 1st wave of paid registrations (e.g. for academics) open  |
 | 2025-04-21 📜 | Abstract submissions open                                 |
 | 2025-05-23 🛑 | Applications for free attendance close                    |
 | 2025-05-23 🟠 | Abstract submissions close                                |
