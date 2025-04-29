@@ -90,9 +90,9 @@ We are excited to announce the opening event of **Indaba𝕏**  South Africa, th
 
 ### Event Details
 
-#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of Witwatersrand, Johannesburg
+#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** Stellenbosch University, Cape Town
 
-#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Tuesday 9 July 2024, 15h00 - 19h00
+#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Monday 7 July 2024, 13h00 - 17h00
 
 
 ### Event Highlights
