@@ -109,7 +109,7 @@ This is a unique opportunity to showcase your AI innovations, connect with like-
 Join us and share how you are using AI to benefit South Africa’s society and economy. We look forward to seeing you there!
 
 {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[AI FEST RSVP](https://docs.google.com/forms/d/1a2fqyplMFctYTprIi0rlrUCdLjDT9ytJtDylyETIoxs/viewform?edit_requested=true)
+[AI FEST RSVP](https://docs.google.com/forms/d/1ZVZJo1JbJ26dfwwW1zuuT_3QPD7qo4NCAzyE31CmIfM/edit)
 {{< /class >}}
 
 
