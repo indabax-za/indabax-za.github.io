@@ -22,7 +22,7 @@ Abstract submissions are **open**.
 
 {{<rawhtml>}}
 <!-- ADD "disabled" class if you want to disable the button -->
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd0UQs5xMz8jlzR_m5_7c-32hrPSOO-Zruulu5ipTOEF_5APQ/viewform?usp=sharing" class="disabled btn btn-warning btn-lg text-white col-4 offset-4 col-xs-10 offset-xs-1" target="_blank" title="apply now">Applications are now open</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd0UQs5xMz8jlzR_m5_7c-32hrPSOO-Zruulu5ipTOEF_5APQ/viewform?usp=sharing" class="enabled btn btn-warning btn-lg text-white col-4 offset-4 col-xs-10 offset-xs-1" target="_blank" title="apply now">Applications are now open</a>
 {{</rawhtml>}}
 
 ## Talks
