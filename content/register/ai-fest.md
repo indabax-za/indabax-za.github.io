@@ -43,6 +43,48 @@ weight = 2
 </div>
 {{< /rawhtml >}}
 
+## Booths and Exhibitions
+
+We are excited to announce the opening event of **Indaba𝕏**  South Africa, the **AI Fest**, and we would love for your organisations and research labs to be a part of it!
+
+### Event Details
+
+#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** Stellenbosch University, Cape Town
+
+#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Monday 7 July 2025, 13h00 - 17h00
+
+#### &nbsp;&nbsp; {{<icon "ti-info">}} &nbsp;&nbsp;&nbsp;&nbsp;**More Info:** [Click here to view the poster](https://www.canva.com/design/DAGivha3VnI/QRQBTJ0dmVY0GGrqjzTWDw/view?utm_content=DAGivha3VnI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he170623f26)
+
+
+### Event Highlights
+
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Celebrate the achievements of the South African AI community.  
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Discover how AI is driving societal benefits and economic growth.  
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Network with South Africa’s brightest postgraduates, young professionals, peers, and research and industry leaders.  
+&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Enjoy a festive atmosphere celebrating South African culture with music, food, and art.  
+
+**Reserve a Booth:** We recommend two persons per booth. Sponsors are reserved a spot by default
+
+This is a unique opportunity to showcase your AI innovations, connect with like-minded professionals, and contribute to the growth of AI in South Africa.
+
+Join us and share how you are using AI to benefit South Africa’s society and economy. We look forward to seeing you there!
+
+{{< rawhtml >}}
+<div style="display: flex; justify-content: space-between; padding: 20px; align-items: center;">
+  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/IndabaX_2023-43.jpg" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/IndabaX_2023-62.jpg" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="/images/register/IndabaX_2023-104.jpg" style="height: 200px; width: 100%; object-fit: cover;">
+  </div>
+
+</div>
+{{< /rawhtml >}}
+
+
 ## Posters
 {{< rawhtml >}}
 
@@ -84,47 +126,11 @@ weight = 2
 </div>
 {{< /rawhtml >}}
 
-## Booths and Exhibitions
-
-We are excited to announce the opening event of **Indaba𝕏**  South Africa, the **AI Fest**, and we would love for your organisations and research labs to be a part of it!
-
-### Event Details
-
-#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** Stellenbosch University, Cape Town
-
-#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Monday 7 July 2025, 13h00 - 17h00
-
-
-### Event Highlights
-
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Celebrate the achievements of the South African AI community.  
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Discover how AI is driving societal benefits and economic growth.  
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Network with South Africa’s brightest postgraduates, young professionals, peers, and research and industry leaders.  
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Enjoy a festive atmosphere celebrating South African culture with music, food, and art.  
-
-**Reserve a Booth:** We recommend two persons per booth.
-
-This is a unique opportunity to showcase your AI innovations, connect with like-minded professionals, and contribute to the growth of AI in South Africa.
-
-Join us and share how you are using AI to benefit South Africa’s society and economy. We look forward to seeing you there!
 
 {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[AI FEST RSVP](https://docs.google.com/forms/d/1ZVZJo1JbJ26dfwwW1zuuT_3QPD7qo4NCAzyE31CmIfM/edit)
+[AI FEST RSVP](https://forms.gle/GQ3uvGEjqVDmtCN58)
 {{< /class >}}
 
 
-{{< rawhtml >}}
-<div style="display: flex; justify-content: space-between; padding: 20px; align-items: center;">
-  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/IndabaX_2023-43.jpg" style="height: 200px; width: 100%; object-fit: cover;">
-  </div>
-  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/IndabaX_2023-62.jpg" style="height: 200px; width: 100%; object-fit: cover;">
-  </div>
-  <div style="width: 30%; overflow: hidden; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="/images/register/IndabaX_2023-104.jpg" style="height: 200px; width: 100%; object-fit: cover;">
-  </div>
 
-</div>
-{{< /rawhtml >}}
 
