@@ -53,7 +53,7 @@ We are excited to announce the opening event of **Indaba𝕏**  South Africa, th
 
 #### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Monday 7 July 2025, 13h00 - 17h00
 
-#### &nbsp;&nbsp; {{<icon "ti-info">}} &nbsp;&nbsp;&nbsp;&nbsp;**More Info:** [Click here to view the poster](https://www.canva.com/design/DAGivha3VnI/QRQBTJ0dmVY0GGrqjzTWDw/view?utm_content=DAGivha3VnI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he170623f26)
+#### &nbsp;&nbsp; {{<icon "ti-info">}} &nbsp;&nbsp;&nbsp;&nbsp;**More Info:** [Click here](https://www.canva.com/design/DAGivha3VnI/QRQBTJ0dmVY0GGrqjzTWDw/view?utm_content=DAGivha3VnI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he170623f26)
 
 
 ### Event Highlights
@@ -84,6 +84,9 @@ Join us and share how you are using AI to benefit South Africa’s society and e
 </div>
 {{< /rawhtml >}}
 
+{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[RESERVE A BOOTH ](https://forms.gle/GQ3uvGEjqVDmtCN58)
+{{< /class >}}
 
 ## Posters
 {{< rawhtml >}}
@@ -127,9 +130,7 @@ Join us and share how you are using AI to benefit South Africa’s society and e
 {{< /rawhtml >}}
 
 
-{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[AI FEST RSVP](https://forms.gle/GQ3uvGEjqVDmtCN58)
-{{< /class >}}
+
 
 
 
