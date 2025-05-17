@@ -49,7 +49,7 @@ We are excited to announce the opening event of **Indaba𝕏**  South Africa, th
 
 ### Event Details
 
-#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** Stellenbosch University, Cape Town
+#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** Stellenbosch University, Western Cape
 
 #### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Monday 7 July 2025, 13h00 - 17h00
 
