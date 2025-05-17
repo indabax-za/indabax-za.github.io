@@ -53,7 +53,7 @@ applications:
     color: orange
     open_date: April 2025
     close_date: 2025-05-23T22:00:00.000+02:00
-    acceptance_date: 1st June (approx.)
+    acceptance_date: 11th June (approx.)
 show_period: false
 period_text: "[Registration period](/register)"
 applications_open_date: May 2023
