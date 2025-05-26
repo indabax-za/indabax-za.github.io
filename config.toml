@@ -19,15 +19,15 @@ URL = "register"
 identifier = "register"
 name = "Register"
 weight = 2
-#[[menu.main]]
-#URL = "register/ai-fest"
-#name = "AI Fest"
-#weight = 3
-#[[menu.main]]
-#URL = "speakers"
-#identifier = "speakers"
-#name = "Speakers"
-#weight = 3
+[[menu.main]]
+URL = "register/ai-fest"
+name = "AI Fest"
+weight = 3
+[[menu.main]]
+URL = "speakers"
+identifier = "speakers"
+name = "Speakers"
+weight = 3
 [[menu.main]]
 URL = "partners"
 identifier = "partners"
