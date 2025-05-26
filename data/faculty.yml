@@ -1,1120 +1,161 @@
 ---
 people:
-  - name: Zubeida Dawood
+  - name: Arnu Pretorius
     years:
-      - Deep Learning
-      - Research
-    talk_description:
-      "This talk would explore how ontology engineering can enhance a cybersecurity learning factory built with deep learning techniques."
-    bio:
-      Dr Zubeida Dawood (Khan) is a researcher who holds a PhD from the University of Cape Town. She is currently working at the Council for Scientific and Industrial Research (CSIR) within the Information and Cyber Security Centre (ICSC) as a Research Group Leader. She enjoys research and writing and is passionate about knowledge transfer and human capital development for the advancement of science amongst the youth. She has been involved in several cyber security awareness campaigns and projects, and aims to uplift the cyber security posture of the communities. She is also an award winner for the Mail and Guardian's Top 200 South Africans for the year 2023, among other achievements. Dr Dawood has published over 25 peer-reviewed publications. Her research interests lie in cyber security, governance in cyber security, semantic web technologies and ontologies. Simply put, Zubeida is passionate about bridging the gap between scientists and citizens.
-    topic: "Real-world Applications of Ontology Engineering in Deep Learning : A Cybersecurity Learning Factory Use Case"
-    affiliation: CSIR/ TUT/ WITS Business School
-    link: modal
-    image: "/images/people/zubeida_dawood.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/zubeida-casmod-dawood-7b9a3815/
-        icon: ""
-  - name: Terence Van Zyl
-    years:
-      - Foundations
-      - Deep Learning
-    talk_description:
-      "The talk will explore the evolution of machine learning and explain the background of the impact of deep learning in modern artificial intelligence. The talk will start by introducing basic 'linear/shallow' approaches to machine learning. The discussion will begin with the traditional reliance on carefully hand-engineered features. We will then delve into the power of deep learning's representation learning. Attendees will discover how deep learning models automatically extract and optimise the most relevant features from raw data, revolutionising fields like computer vision, natural language processing, and beyond. We will end our talk by exploring the persistent challenges and what cutting-edge research is needed to overcome these."
-    bio:
-      Dr Terence van Zyl holds the Nedbank Research and Innovation Chair at the University of Johannesburg where he is a Professor in the Institute for Intelligent Systems. He is an NRF rated scientist who received his PhD and MSc in Computer Science from the University of Johannesburg for his thesis on agent-based complex adaptive systems. He has over 15 years of experience researching and innovating large scale streaming analytics systems for government and industry. He has previously served South Africa as a sub-chair within the committee on earth observation satellites and as part of the South African delegation to the GEO Ministerial. He has received numerous awards including the Meraka Institute innovation excellence award, Council for Scientific and Industrial Research (CSIR) Einstein special award and IEEE committee on earth observation medal for meritorious service. His research interests include data-driven science and engineering, prescriptive analytics, machine learning, meta-heuristic optimisation, complex adaptive systems, high-performance computing, and artificial intelligence.    
-    topic: "Deep Learning : The Journey from Feature Engineering to Representation Learning"
-    affiliation: University of Johannesburg
-    link: modal
-    image: "/images/people/terence_van_zyl.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/terence-van-zyl-b9b00b4/
-        icon: ""
-      - title: Github
-        link: https://github.com/tvanzyl
-        icon: ""
-  - name: Mpho Raborife
-    years:
-      - Language
       - Keynote
-      - AI in Africa
-    talk_description:
-      "An exploration on the intersection of linguistics, computer science and AI technologies and their dynamic landscape in African NLP. Potential for the African continent, offering opportunities for innovation, development, and socio-economic growth. The current state of NLP R&D and adoption in Africa, highlighting both the progress made and the challenges faced. We examine how NLP technologies are being leveraged across various sectors, including healthcare, education, finance, agriculture, and governance, to address unique African challenges and empower local communities. 
-       \ \n Mpho Raborife will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGIs implications for Africa and humanity, offering perspectives from top AI experts."
-    bio:
-      NRF-rated researcher focusing on African NLP. Co-director of the Institute for Intelligent Systems, University of Johannesburg. Founder of Primus Tech Hub, a boutique firm focusing on data strategies. Board trustee of the IDEMIA Black Women's Trust and advisory board member of the PAICTA organisation.
-    topic: "NLP for Africa: Trends and Perspectives"
-    affiliation: "Institute for Intelligent Systems, Primus Tech Hub"
+    talk_description: ""
+    bio: ""
+    topic: "AI For Good"
+    affiliation: InstaDeep
     link: modal
-    image: "/images/people/mpho_primus.png"
-    social_media:
-      - title: Twitter
-        link: https://twitter.com/mphoraborife
-        icon: ""
-      - title: LinkedIn
-        link: https://za.linkedin.com/in/mpho-primus-3a274116
-        icon: ""
-      - title: Facebook
-        link: https://www.facebook.com/profile.php?id=100087560526350
-        icon: ""
-  - name: Pelonomi Moiloa
-    years:
-      - Language
-      - AI in Africa
-      - Keynote
-    talk_description:
-      "We'll explore how leveraging African talent and expertise in NLP can revolutionise communication and accessibility as we embark on a journey to unlock new possibilities and shape the future of language technology in Africa and beyond. We will touch on a range of subjects, from navigating linguistic diversity and cultural nuances to addressing infrastructure limitations and access barriers. We will share insights, experiences, and strategies for overcoming these hurdles in building a startup that caters to the specific needs and realities of the African context."
-    bio:
-      Pelonomi is CEO of Lelapa AI - A socially grounded research and product lab developing language technology for African languages. Lelapa AI has a mission to enable a noticeable uptick in the quality of life on the African continent. It aspires to do so through expanding the capacity of the African digital economy with resource-efficient language AI. Pelonomi is also a trustee of a girl scholarship fund and director of a community-based NPC. Pelonomi is drawn to the curiosities of community and connection in how they can inform imaginings of a better future, such that we can assist that future in arriving well. An electrical and biomedical engineer by training. TIME 100 most influential people in AI. TED speaker. Bloomberg Catalyst 2023.
-    topic: "Organizing African Talent to Move Humanity Forward: Language Technology for Africa"
-    affiliation: "Lelapa AI"
-    link: modal
-    image: "/images/people/pelonomi.jpg"
-    social_media:
-      - title: Twitter
-        link: https://twitter.com/tamati_biskit
-        icon: ""
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/pelonomi-moiloa/
-        icon: ""
-      - title: Instagram
-        link: https://www.instagram.com/tamati_biskit
-        icon: ""
-  - name: Emmanuel Dufourq
-    years:
-      - BioAI
-      - Keynote
-      - Deep Learning
-    talk_description:
-      "A recent report issued by the WWF states that there has been a catastrophic decline in wildlife population in recent years. A large number of species are threatened with extinction due to a number of factors such as over-exploitation of resources, deforestation and climate change. Certain species have been placed on the IUCN Red List for several years, but further conservation efforts are still urgently required to ensure the survival of the remaining individuals. While it is true that the number of individuals in threatened populations is decreasing, there have been considerable conservation efforts to put a halt to this. Ecologists, researchers, and rangers closely monitor the populations, in certain cases by placing microphones, camera-traps, and other sensors into the environment and searching through the recorded data for the species of interest. These data collection methodologies comes with a cost, in that huge datasets (audio, image, accelerometery) are produced and are difficult to manually process. This keynote will discuss our group's efforts in using deep learning to monitor critically endangered species in Africa and around our planet, and hopefully encourage you to do the same."
-    bio:
-      Emmanuel Dufourq leads the Machine Learning for Ecology Research Group at the African Institute for Mathematical Sciences South Africa (AIMS) and is a senior lecturer in Applied Mathematics at Stellenbosch University, South Africa. The group focuses on the development of artificial intelligence algorithms to conservation ecology problems. He is the AIMS-Carnegie junior research chair jointly with the AIMS Research and Innovation Centre in Rwanda. He focuses on the development of modern machine learning algorithms applied to bioacoustics research. He is an associate editor for Ecological Informatics and an academic editor for PLOS Computational Biology. He has supervised 18 postgraduate students who worked on projects related to machine learning for wildlife monitoring.
-    topic: "Deep Learning and Wildlife Monitoring"
-    affiliation: "African Institute for Mathematical Sciences (AIMS)"
-    link: modal
-    image: "/images/people/emmauel_dufourq.jpg"
-    social_media:
-      - title: Twitter
-        link: https://twitter.com/EmmanuelDufourq
-        icon: ""
-  - name: Jonathan Shock
-    years:
-      - RL
-      - Research
-    talk_description:
-      "In this talk I will cover some of the avenues in Reinforcement Learning that I think are particular interesting and important and are currently being undertaken by my lab."
-    bio:
-      I am an associate professor in the Department of Maths and Applied Maths at the University of Cape Town and an adjunct professor at the INRS Montreal. Originally from Oxford, England, I completed my PhD at the University of Southampton in 2005, in applications of string theory to understanding quantum chromodynamics. I then had postdoctoral research positions in Beijing, Santiago de Compostela and Munich before becoming a lecturer at the University of Cape Town in the Department of Mathematics and Applied Mathematics in 2013. I have a wide array of research interests and spend a lot of my time supervising students. My research interests cover machine learning (in particular reinforcement learning), theoretical physics, and neuroscience.I also love to teach! When not working, I can be found in the kitchen, with my camera, trying to get some exercise or attempting to improve my Mandarin.
-    topic: "Reinforcement Learning: Meta, Offline, Multi-agent and more"
-    affiliation: "University of Cape Town"
-    link: modal
-    image: "/images/people/jonathan_shock.jpg"
-    social_media:
-      - title: Website
-        link: https://shocklab.net
-        icon: ""
-  - name: Chijioke Okorie
-    years:
-      - Legal 
-      - AI in Africa
-    talk_description:
-      "Details Coming Soon."
-    bio:
-      "Chijioke Okorie founded and leads the Data Science Law Lab - a research group at the University of Pretoria that deploys research in law and produces independent and authoritative evidence and policy advice to support the growth of all aspects of data science research, development and application across Africa. Before becoming a full time researcher and policy consultant, Dr Okorie was a Senior Associate in the law firm of CLP Legal, Lagos Nigeria. She is also the Lead Advisor at Penguide Advisory, a firm that provides research, educational, legal and regulatory advisory services in various fields including copyright and (emerging) technologies. At Penguide, she has the responsibility of leading research, training and legal advisory services for a range of clients including government and government agencies, companies and non-profit organisations, entrepreneurs within Nigeria, across Africa and internationally. Dr Okorie is 'Africa Correspondent' at award-winning intellectual property law blog, The IPKat, and an associate editor of the South African Intellectual Property Law Journal."
-    topic: "Intellectual Property, Data, and Technology, in terms of Governance"
-    affiliation: "University of Pretoria"
-    link: modal
-    image: "/images/people/chijioke_okorie.png"
-    social_media:
-      - title: Website
-        link: https://chijiokeo.com/
-        icon: ""
-      - title: Website
-        link: https://datasciencelawlab.africa
-        icon: ""
-      - title: Twitter
-        link: https://twitter.com/chythepenguide
-        icon: ""
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/penguide/
-        icon: ""
-  - name: Steven James
-    years:
-      - RL 
-      - Research
-    talk_description:
-      "While reinforcement learning has achieved recent success in many challenging domains, these methods generally require millions of samples from the environment to learn optimal behaviours, limiting their real-world applicability. A major challenge is thus in designing sample-efficient agents that can transfer their existing knowledge to solve new tasks quickly. This is particularly important for agents in a multitask or lifelong setting, since learning to solve complex tasks from scratch is typically impractical. This talk discusses how an agent can autonomously learn a particular family of goal-oriented value functions, which can then be used to solve new tasks through composition. First, for goal-reaching tasks expressible as Boolean sentences, we show how these value functions can be combined to solve these new tasks optimally. We further demonstrate how an agent can combine these value functions to produce near-optimal behaviours given complex temporal task specifications, such as regular fragments of linear temporal logic, without further learning."
-    bio:
-      "Steven James is a senior lecturer at the University of the Witwatersrand, South Africa. He received his PhD from the same institute in 2021, where he was also the first African recipient of a Google PhD fellowship in machine learning. As deputy director of the RAIL lab, his interests revolve around reinforcement learning and planning, with a specific focus on creating agents capable of learning and reusing knowledge over their lifetimes to solve as many tasks as possible."
-    topic: "Concurrent and Temporal Composition for Zero-shot Transfer in Reinforcement Learning"
-    affiliation: "University of the Witwatersrand"
-    link: modal
-    image: "/images/people/steven_james.png"
-    social_media:
-      - title: Website
-        link: https://sdjames.me/
-        icon: ""
-  - name: Jabu Mtsweni
-    years:
-      - AI Ethics
-      - Research
-    talk_description:
-      "This talk will discuss case studies on how AI can be good and not so good for cybersecurity and also how cybersecurity can be good for AI."
-    bio:
-      "Dr Jabu Mtsweni is the Head of Information and Cyber Security Centre and Chief Researcher at the Council for Scientific and Industrial Research (CSIR), NRF-Rated Researcher (C2), Certified Cybersecurity Manager, and Technical Leader of the National Policy Data Observatory supporting NATJOINTS and other government departments on data-driven decision making on diverse socio-economic interventions. Dr Mtsweni is also a Research Fellow at University of South Africa and Stellenbosch University, Information Warfare Board Member at the Department of Defence, and participated in several government ministerial task teams including leading the development of the digital transformation strategy for the Department of International Relations and Cooperation (DIRCO). His research interests are in cyber defence, cyber security, socially relevant computing, and digital transformation. Dr Jabu Mtsweni regularly speaks at various local and international conferences on cybersecurity and technology issues and has 20 years academic and industry experience working with different local, regional, and international industries and partners on various ICT projects. He has published over 80 peer-reviewed conference and journal articles with several collaborators. He also supervises Master’s and PhD Students from different universities in South Africa. He is passionate about leadership, youth development, mentoring, and positive living. He has completed four Comrade Marathons since 2019."
-    topic: "The Good and not so Good of Cybersecurity for AI & AI for Cybersecurity"
-    affiliation: "Council for Scientific and Industrial Research (CSIR)"
-    link: modal
-    image: "/images/people/jabu_mtsweni.jpg"
+    image: "/migrate/2018/assets/organiser_data/arnu_pretorius/image.jpg"
     social_media:
       - title: LinkedIn
-        link: https://www.linkedin.com/in/jabu-mtsweni-04526720/
+        link: https://www.linkedin.com/in/arnupretorius/
         icon: ""
 
-  - name: Neelan Pather
+  - name: Joan Byamugisha
     years:
-      - ML
-      - Applied ML & Industry
-    talk_description:
-      "Creating tangible business value across the customer lifecycle."
-    bio:
-      "Neelan Pather, FIA, CERA, MSc CS, is a Data Science Manager at Analytix Engine, a financial data science consultancy. He is passionate about using modern data-intensive techniques in financial risk management applications. He is a member of the Actuarial Society of South Africa's Data Science Committee and is actively involved in efforts to modernise the actuarial profession."
-    topic: "The Antidote to ML Hype"
-    affiliation: 'Analytix Engine'
+      - Fundamentals
+    talk_description: ""
+    bio: ""
+    topic: "NLP"
+    affiliation: "IBM Research - Africa"
     link: modal
-    image: "/images/people/neelan_pather.jpg"
+    image: "/images/people/byamugisha.jpg"
     social_media:
       - title: LinkedIn
-        link: https://www.linkedin.com/in/neelanpather/
+        link: https://www.linkedin.com/in/joan-byamugisha-5b643625/
         icon: ""
-      - title: Twitter
-        link: https://x.com/neelanpather
-        icon: ""
-      - title: Website
-        link: https://www.analytixengine.com/
-        icon: ""       
-  - name: Kayode Adetunji
-    years:
-      - Healthcare
-      - Explainable AI
-    talk_description:
-      "We will discuss the practical applications of AI and ML in addressing healthcare challenges in Africa. Focusing on multimorbidity risk prediction, we will discuss when and how to effectively use AI/ML in research and innovation, with an emphasis on explainability and building user-friendly human-machine interfaces. The presentation will highlight strategies for optimizing limited resources and improving patient outcomes, using real-world examples and case studies relevant to the African context."
-    bio:
-      "Kayode Adetunji obtained his Master's degree in Electrical Engineering in 2018 from the University of Johannesburg, South Africa, and went on to earn his PhD in 2022 from the School of Electrical and Information Engineering at the University of the Witwatersrand. During his studies, he focused on developing optimization algorithms and advanced machine learning techniques to improve power systems networks by integrating renewable energy sources, battery systems, and electric vehicles. In addition, he has worked on monitoring systems for health and agriculture applications. Kayode is currently a member of the Multimorbidity in Africa, Digital Innovation, Visualisation and Application (MADIVA) team at the Sydney Brenner Institute for Molecular Bioscience where he is working on innovative machine learning and stratification techniques for single-disease and multimorbidity risk. His research interests include intuitive machine learning models, optimization algorithms, decision theory & preference aggregation, and exploring the health-energy nexus."
-    topic: "Leveraging AI and ML for Innovations in African Healthcare."
-    affiliation: "MADIVA Research Hub"
-    link: modal
-    image: "/images/people/kayode_adetunji.jpg"
-  - name: Michelle Skelton
-    years:
-      - Healthcare
-      - Research
-    talk_description:
-      "Overview of the network, collaborations and outputs."
-    bio:
-      "Dr. Michelle Skelton: Pan-African Research Coordination in biomedical and data sciences
 
-      Dr. Michelle Skelton is a seasoned professional managing the H3Africa and DS-I Africa Administrative Coordinating Centre (H3ACC & DS-I Africa CC) with a wealth of experience in project management, coordination, fiscal management, and communications. She excels in fostering transparency, fairness, and timely exchange of critical information while balancing the diverse needs of multiple stakeholders within budget constraints. Dr. Skelton plays a pivotal role in the adaptability and pressure-handling capabilities of the coordinating center, ensuring seamless operations as the consortium's requirements evolve.
+  - name: Dr Sebonkile Thaba
+    years:
+      - Lecture
+    talk_description: ""
+    bio: ""
+    topic: "Cyber Security"
+    affiliation: "University of Johannesburg"
+    link: modal
+    image: "/images/people/sebonkile_thaba.jpeg"
+    social_media: []
 
-      Key Responsibilities and Achievements
-      Manages and organizes activities for the Steering Committee, executing joint decisions effectively. Served as DS-I Africa SC Chair.
-      Instrumental in establishing the H3Africa DBAC committee, coordinating  with data and biorepository teams.
-      Facilitates strategic communication within the H3Africa and DS-I Africa network, coordinating virtual and face-to-face meetings with NIH,  Wellcome and SFA collaboration.
-      Actively engages in outreach and sustainability efforts, securing support from influential organizations and advocating for African science and research sustainability.
-      Successfully facilitated high-profile engagements with dignitaries like Her Excellency Dr. Ameenah Gurib-Fakim and other esteemed guests at consortium meetings.
-      Leads the H3Africa Sustainability efforts, by targeting regional and global organizations to strengthen scientific connections across Africa and funding applications
-      Initiates collaborations with pan-African networks like AfSHG, Africa Pharmacogenomics Network (APN), Data Science Africa (DSA), Deep Learning Indaba/Indaba X, fostering partnerships for research and development initiatives.
-      Drives career development through the H3Africa and DS-I Africa Early Career Researches Initiatives, administering student travel fellowships and organizing workshops on critical skills development.
-
-      Dr. Skelton's dedication to advancing African science, fostering collaborations, and promoting sustainability in medical health research and data science exemplifies her commitment to the  African Health agenda. Her multifaceted role in coordinating key activities, engaging stakeholders, and driving strategic initiatives underscores her invaluable contributions to the field of genomics and data science and pan-African research coordination.
-      "
-    topic: "DS-I Africa - Harnessing Data Science for Health Discovery and Innovation in Africa"
-    affiliation: "UCT"
-    link: modal
-    image: "/images/people/michelle_skelton.jpeg"
-    social_media:
-      - title: LinkedIn
-        link: http://linkedin.com/in/michelle-s-6747b6154
-        icon: ""
-      - title: Website
-        link: https://dsi-africa.org/project/14
-        icon: ""
-  - name: Siphiwe Thwala
+  - name: Antoine Bagula
     years:
-      - Data Science
-      - BioAI
-    talk_description:
-      "The biomedical domain has a plethora of unstructured data in different forms (clinical notes, image scans, laboratory data, and electrical impulse scans). We present an overview of how to automate the extraction of biomedical text insights from unstructured text."
-    bio:
-      "Siphiwe Thwala is a research scientist in the AI team at IBM Research Africa’s South African Lab. He has a research background in computational astrophysics, specifically in applying unsupervised learning to identify signals from plasma produced by non-thermal diffuse emission in extended radio sources. At IBM, he is responsible for doing semantic-based sentiment analysis on Twitter data, creating interactive data visualisations, and performing semantic-based insights extraction and knowledge modelling on biomedical text."
-    topic: "Biomedical Text Insights Extraction"
-    affiliation: "IBM Research"
-    link: modal
-    image: "/images/people/siphiwe_thwala.jpg"    
-  - name: Charl Van Heerden
-    years:
-      - Language
-      - AI in Africa
-    talk_description:
-      "This talk explores the transformative potential of speech recognition technology tailored for the diverse linguistic landscape of Africa. It delves into the unique challenges and opportunities in developing accurate and inclusive speech recognition systems for the continent's myriad languages and dialects. The discussion will cover current advancements, innovative research, and the significant impact this technology can have on education, accessibility, and economic growth across Africa."
-    bio:
-      "Charl van Heerden is Saigen's co-founder and CEO. He is a former research associate in the NWU MuST research group and a seasoned developer in the speech technologies domain. He interned with Google in 2007 (language modeling for GOOG-411), 2008 (language
-modeling for Voice Search) and 2010 (Voice Search for Afrikaans, English and
-isiZulu). He holds a PhD in Computer Engineering (thesis: “Efficient training of
-Support Vector Machines and their hyperparameters”) and has co-authored 40+
-peer-reviewed papers on speech recognition and general pattern recognition."
-    topic: "Speech Recognition for Africa"
-    affiliation: "Saigen"
-    link: modal
-    image: "/images/people/charles_vheerden.png"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/charl-van-heerden-b4a7625/?originalSubdomain=za
-        icon: ""
-      - title: Website
-        link: https://www.saigen.co.za/
-        icon: ""       
-  - name: Frans Meyer
-    years:
-      - Workshop
-      - Applied ML & Industry
-    talk_description:
-      "This is a workshop. An introduction will be given to the basic entrepreneurship concepts applicable to startups in the technology space. Attendees will be guided through the process of applying these concepts to their own startup idea. This will be done using short, impactful lectures, followed by practical work the attendees must perform. The practical work will be done in a small-group format. At the end of the workshop attendees should understand how technology-based business ideas can be evaluated, before implementation, in a structured way."
-    bio:
-      "Frans Meyer co-founded EMSS, a technology company based in Stellenbosch, in 1995. Multiple tech startups evolved out of EMSS that was rebranded as Alphawave in 2017. Frans currently serves as the Alphawave Group CEO. 
-
-Alphawave has evolved into a technology investment firm, that boasts 17 innovative companies, with nearly 400 employees, active in the fields of electronics, software and data. Many of these companies compete internationally. The Group has a unique investment approach, focused on aligning and supporting the right people to find commercial ideas based on their individual fields of expertise. 
-
-Aside from his corporate role, Frans holds an Adjunct Professorship at the Electrical & Electronic Engineering faculty of Stellenbosch University, lecturing Tech Entrepreneurship since 2014."
-    topic: "Disciplined Entrepreneurship for AI Startups"
-    affiliation: "Alphawave"
-    link: modal
-    image: "/images/people/frans_meyer.png"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/frans-meyer-48166469?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=za
-        icon: ""
-      - title: Website
-        link: https://alphawave.co.za/
-        icon: ""  
-      - title: Website
-        link: https://www.linkedin.com/company/alphawave.co.za/mycompany/
-        icon: ""  
-  - name: Henrica Makulu Kadira
-    years:
-      - Data Science
-      - Keynote
-      - AI in Africa
-    talk_description:
-      "In this talk, Henrica walks you through her journey as one of Africa's first female data scientists including some career advice tips and how she has used data to inform and inspire action both at work and in her community!"
-    bio:
-      "A Microsoft Certified Data Scientist passionate about leveraging data for better decision making. Experienced in delivering advanced data products in telecoms, fintech and healthcare. Tools: Azure Machine Learning, Azure Databricks, SQL, Python, Qlik Sense, PowerBI. Currently serving as a Senior Business Intelligence Specialist Consultant at South Africa's largest health risk management services provider, Medscheme Holdings. Also a LinkedIn Learning Instructor, Technical Trainer, Mentor and Speaker."
-    topic: "Using Data to Inform and Inspire Action"
-    affiliation: "Medscheme Holdings"
-    link: modal
-    image: "/images/people/henrica_makulu.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/henrica-makulu/
-        icon: ""
-      - title: Website
-        link: https://henricamakulu.wixsite.com/website
-        icon: ""  
-  - name: Asad Jeewa
-    years:
-      - Research
-      - RL
-    talk_description:
-      "From MDPs to offline learning, reward engineering to intrinsic motivation, this talk will introduce you to the booming field of reinforcement learning."
-    bio:
-      "Asad Jeewa is a lecturer in the department of Computer Science at the University of KwaZulu-Natal. His research group investigates fundamental reinforcement learning problems, with particular interest in social ineractions between RL agents. He previously served as a researcher at IBM and InstaDeep, before returning to academia."
-    topic: "Fundamentals of Reinforcement Learning"
-    affiliation: "University of KwaZulu-Natal"
-    link: modal
-    image: "/images/people/asad_jeewa.png"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/asadjeewa/
-        icon: ""
-      - title: Website
-        link: https://smscs.ukzn.ac.za/asad-jeewa/
-        icon: ""      
-      - title: Github
-        link: https://github.com/AsadJeewa
-        icon: "" 
-  - name: Athandiwe Saba
-    years:
-      - AI in Africa
-      - AI Ethics
-      - Language 
-    talk_description:
-      "How OSINT leverages on AI and ML to investigate the 'digital mercenaries' who work on behalf of lobbyists or malign foreign states to secretly polarise African societies by seeding hate speech, conspiracist disinformation and extremist content that is designed to undermine public trust in democratic institutions or smear human rights defenders. And how advances in AI can strengthen this work especially in language deficit societies."
-    bio:
-      "Athandiwe Saba is a pioneering multi-award winning investigative data journalist. She established the award-winning data desk at Africa's oldest online newspaper, the Mail & Guardian, and currently leads the continent's largest forensic data team, the iLAB, at Code for Africa (CfA).
-CfA's iLAB uses investigative data analysis, open source intelligence (OSINT) and AI-driven tools to investigate actors and entities bent on undermining public trust in democratic institutions and tarnish human rights defences. The iLAB has in-country analysts in 26 African nations.
-Alongside her CfA role, Athandiwe served as a research associate at the University of Pretoria's Data Department of Computer Science, advising on the South African focused Data Commons project to enable local decision-making. Prior to joining CfA, Athandiwe was deputy editor at the Mail & Guardian. She established its investigative data desk, which produced award-winning investigative journalism cited internationally by the Global Editors Network, amongst others. Athandiwe has also worked as a senior investigative journalist at other major South African media, including the Sunday Times and City Press.
-"
-    topic: "The Power of AI to Fight Information Manipulation"
-    affiliation: "Code for Africa"
-    link: modal
-    image: "/images/people/athandiwe_saba.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/athandiwe-saba-56645b11/
-        icon: ""
-      - title: Twitter
-        link: https://x.com/Athi_Saba
-        icon: ""    
-      - title: Website
-        link: https://disinfo.africa/
-        icon: ""    
-  - name: Bigomokero Antoine Bagula
-    years:
-      - AI in Africa
-      - MLOps
-    talk_description:
-      "The Internet has evolved into a universal platform for all forms of modern communication. Initially, it was constructed on the principle of an intelligent edge and a core dump, utilizing a best-effort routing model that enabled it to scale massively and support hundreds of millions of nodes. The shift towards a more intelligent Internet began with the introduction of virtualization and the Software-Defined Networking (SDN) paradigm, which successfully separated the control and data planes. A major advancement was achieved with the incorporation of Artificial Intelligence (AI) into networking through the Knowledge-Defined Networking (KDN) paradigm, allowing networks to extract valuable insights from data process
-Building on this foundation, Knowledge-Aware Networking (KAN) introduces a ground-breaking paradigm that utilizes multi-controller SDN architectures to create innovative learning models for cooperative, competitive, and diverse environments. This approach aims to significantly enhance security, resilience, and intelligence within the network. In KAN, cooperative learning employs the Federated Learning model, where multiple clients collaboratively train machine learning models. Competitive learning involves choosing the most suitable model for a particular use case from a pool of models. Diversity learning replicates the same model across different servers and uses a voting mechanism to ensure fault tolerance.
-Knowledge-Aware Networking holds the potential to redefine the landscape of networking, embedding intelligence, efficiency, and robustness into the core of our communication infrastructure. This keynote is dedicated to elucidating the transformative impact of artificial intelligence on networking, emphasizing the transition from traditional best-effort approaches to the more sophisticated realm of knowledge-aware networking. Throughout this presentation, we will delve into the intricacies of the KAN architecture, unravelling its layers and exploring the myriad learning models it accommodates. Moreover, we will examine how KAN empowers networks to operate with greater intelligence and autonomy, facilitated by collaborative, competitive, and diversity learning.
-"
-    bio:
-      "Bigomokero Antoine Bagula, holds a Ph.D. in Communication Systems from the Royal Institute of Technology (KTH) in Stockholm, Sweden. He also obtained two MSc degrees: one in Computer Engineering from the Université Catholique de Louvain (UCL) in Belgium, and another in Computer Science from the University of Stellenbosch (SUN) in South Africa. Presently, Dr. Bagula serves as a full professor in the Department of Computer Science at the University of the Western Cape (UWC) in South Africa, where he leads the Intelligent Systems and Advanced Telecommunication (ISAT) laboratory. Additionally, he holds a professorial position at Université Nouveaux Horizons (UNH) in the Democratic Republic of the Congo (DRC), where he is responsible for driving the institution's faculty of Informatics research agenda and enhancing its teaching curriculum. Dr. Bagula's research interests encompass various areas such as Data Engineering with a focus on Big Data Technologies, Cloud/Fog Computing, and Network Softwarization, including concepts like NFV and SDN. He actively explores the potential of the Internet of Things (IoT), covering both the Internet-of-Things and Tactile Internet-of-Things. Moreover, he delves into Data Science, particularly Artificial Intelligence, Machine Learning, and their applications in Big Data Analytics. Dr. Bagula's expertise extends to Next Generation Networks (NGN), including 5G/6G. Through his academic accomplishments and research pursuits, Dr. Bagula significantly contributes to the fields of computer science, data engineering, and telecommunications."
-    topic: "Transforming Networking Through Artificial Intelligence: From Best Effort to Knowledge Aware Networking"
-    affiliation: "University of the Western Cape "
+      - Lecture
+    talk_description: ""
+    bio: ""
+    topic: "Federated"
+    affiliation: "University of the Western Cape (UWC)"
     link: modal
     image: "/images/people/antoine_bagula.jpg"
     social_media:
-      - title: Website
-        link: https://cs.uwc.ac.za/anttoine-bagula/
-        icon: 
-  - name: Benjamin Rosman
-    years:
-      - Applied ML & Industry
-    talk_description: "Benjamin Rosman will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGI’s implications for Africa and humanity, offering perspectives from top AI experts."
-    bio: "Benjamin Rosman is a Professor in the School of Computer Science and Applied Mathematics at Wits University, where he runs the Robotics, Autonomous Intelligence and Learning (RAIL) Laboratory and is the Director of the National E-Science Postgraduate Teaching and Training Platform. He is also the Chief Science Officer for Lelapa AI. 
-He received his Ph.D. in Informatics from the University of Edinburgh in the UK in 2014. He was a founder of the Deep Learning Indaba machine learning summer school. He was made a 2024 National Geographic Explorer, a 2022 CIFAR Azrieli Global Scholar by the Canadian Institute for Advanced Research, was a 2017 recipient of a Google Faculty Research Award in machine learning, and a 2021 recipient of a Google Africa Research Award. In 2020, he was made a Senior Member of the IEEE. 
-He is an Advisory Committee member of the Reinforcement Learning Conference, a member of the AAAI Membership Committee, a member of the IEEE Cognitive and Developmental Systems Technical Committee, and a member of the Scientific Committee of the Association of AI Ethicists. He has over 110 publications in the area of machine learning, and has supervised over 70 MSc and PhD students. "
-    topic: "Panelist"
-    affiliation: "University of the Witwatersrand"
-    link: modal
-    image: "/images/people/benjamin_rosman.jpg"
-    social_media:
       - title: LinkedIn
-        link: https://www.linkedin.com/in/benjamin-rosman-a734792b/
-        icon: 
-      - title: Website
-        link: https://www.benjaminrosman.com/
-        icon: 
-  - name: Benjamin Sturgeon
+        link: https://za.linkedin.com/in/antoine-bagula-2075305
+        icon: ""
+
+  - name: Pius Owolawi
     years:
-      - AI Ethics
-      - AI Safety and Governance in Africa Workshop
-    talk_description: "AI capabilities are rapidly improving and seem likely to cause foundational changes in our society in the short and medium term. However, relatively few people are working on the problem of making sure that AI is safe and beneficial for individual users and humanity collectively. In this talk we provide an overview of some of the key considerations and motivations for why this may be the most important problem of our time."
-    bio: "Coming from a background of computer science and philosophy, I approach AI from a big picture perspective and try to determine the trajectory of the technology. "
-    topic: "An Introduction to AI Safety"
-    affiliation: "University of Cape Town"
-    link: modal
-    image: "/images/people/Benjamin_Sturgeon.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/benjamin-sturgeon-41221241/
-        icon: 
-      - title: Website
-        link: https://www.benjaminsturgeon.com
-        icon: 
-      - title: Twitter
-        link: https://twitter.com/ben_sturgeon
-        icon: 
-  - name: Avashlin Moodley
-    years:
-      - Applied ML & Industry
+      - Keynote
     talk_description: ""
     bio: ""
-    topic: "Retrieval-Augmented Generation (RAG)"
-    affiliation: "CSIR"
+    topic: "Agriculture, and whatever he want to impress the masses"
+    affiliation: "Tshwane University of Technology"
     link: modal
-    image: "/images/people/avashlin_moodley.jpg"
+    image: "/images/people/pius_owolawi.jpeg"
     social_media:
       - title: LinkedIn
-        link: https://www.linkedin.com/in/avashlinmoodley/
-        icon: 
-  - name: Jocelyn Mazarura
+        link: https://za.linkedin.com/in/owolawi-pius-97b61375
+        icon: ""
+
+  - name: Hossein Masoumi-Karakani
     years:
-      - Deep Learning
-      - Language
-    talk_description: "This is lecture is for those who are interested in getting started in NLP. "
-    bio: "Jocelyn Mazarura is a data scientist at Discovery, working in the exciting field of generative AI with a focus on large language models. She was first introduced to the field of NLP during her master's studies, and she enjoyed it so much that she pursued a PhD in statistics specializing in topic modeling. Now, she is privileged to be part of an amazing team dedicated to exploring applications of NLP and large language models in the customer service space."
-    topic: "Introduction to Natural Language Processing"
-    affiliation: "Discovery"
-    link: modal
-    image: "/images/people/jocelyn_mazarura.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/jocelyn-mazarura/
-        icon: 
-  - name: Jessica Rees
-    years:
-      - Applied ML & Industry
+      - Fundamentals
     talk_description: ""
     bio: ""
-    topic: "Retrieval-Augmented Generation (RAG)"
-    affiliation: "Discovery"
-    link: modal
-    image: "/images/people/jessica_rees.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/jessicarees/
-        icon: 
-  - name: Bruce Bassett
-    years:
-      - ML
-      - Astronomy
-      - Research
-    talk_description: "Bruce Bassett will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGI’s implications for Africa and humanity, offering perspectives from top AI experts."
-    bio: ""
-    topic: "Panelist"
-    affiliation: "AIMS"
-    link: modal
-    image: "/images/people/bruce_bassett.jpg"
-    social_media:
-      - title: LinkedIn
-        link:
-        icon:    
-  - name: Hossein Masoumi Karakani
-    years:
-      - Data Science
-    talk_description: "In today's data-driven world, being literate in data is as fundamental as reading and writing. The rapid growth of data, currently at 2.5 quintillion bytes per day, underpins the operations of organisations and fuels Artificial Intelligence (AI). Data Literacy (DL) has evolved from a mere skill to a basic necessity, critical for navigating and making sense of the vast amounts of data generated every second. This talk will delve into the essence of DL, highlighting its vital importance in the AI era and exploring practical strategies to foster this essential skill across various societal layers, from individual empowerment to systemic educational reforms. By the end of this talk, attendees will understand the critical role of DL in the AI era and be equipped with actionable insights to promote and enhance DL within their organizations and communities. Embracing Data Literacy is not just about staying relevant in a data-rich world; it's about unlocking the full potential of AI technologies, ensuring ethical use, and making informed decisions that drive progress and innovation."
-    bio: "Dr. Hossein Masoumi Karakani is a statistician who currently works as a Senior Institutional Researcher at the Department of Institutional Planning, Monitoring, and Evaluation (DIP) at the University of Pretoria (UP). Hossein holds a Ph.D. degree in Mathematical Statistics from UP. He also has a verified certificate in Statistical Learning from Stanford University. In his current role, he is using data to make a positive difference in the lives of students and staff, as well as building interpretable, efficient, ethical, and productionable predictive models that could solve practical challenges in higher education. Prior to joining UP in 2021, he had spent four years in the industry with a primary goal of closing the communication divide that frequently arose within organisations, particularly between data scientists and decision-makers. His primary areas of research focus encompass, among other subjects, Advanced Analytics, Time Series, Statistical Process Control, and Bayesian Statistics. His research findings have been featured in esteemed academic journals, and he has showcased his work at renowned international conferences. In 2023, he was selected to serve as a mentor in the Kaggle BIPOC Mentorship Program, where he assists mentees in enhancing their data science abilities and tackling real-world problems. In addition to his academic and industry work, he won two Silver Medals in Kaggle competitions. Kaggle is the world’s largest data science community and most well-known competition platform for data analytics, with at least one million registered users across the globe. In 2021, Dr. Masoumi Karakani became the first person from UP to enter the global rankings in Kaggle and ranked among the top 1% of data scientists in the world. He holds the belief that data science has the potential to significantly contribute to solving numerous global challenges, and typically, a robust educational foundation is essential for cultivating a profound understanding of the data science domain. "
-    topic: "Data Literacy: The New Alphabet of the AI Era"
-    affiliation: "University of Pretoria"
+    topic: "Data Literacy Foundations"
+    affiliation: University of Pretoria
     link: modal
     image: "/images/people/Hossein_Masoumi_Karakani.jpg"
     social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/hossein-masoumi-karakani/
-        icon: 
+        icon: ""
 
-  - name: Kgomotso Moretsele
+  - name: Stuart Reid
     years:
-      - Education
-      - Workshop
-    talk_description: "Part 1: Soft Skills Development
-
-Gain key work readiness skills through interactive mock interviews.
-Learn how to optimise your LinkedIn profile and manage your social media presence to attract potential employers.
-
-Part 2: Technical Preparation
-
-Receive valuable insights on acing technical interviews and effective preparation strategies.
-Get advice on the most sought-after certifications to enhance your technical expertise and stand out in the job market.
-Prepare yourself for success in your professional journey with practical tips and expert guidance!"
-
-    bio: "Kgomotso Moretsele is a passionate and dynamic youth leader making significant strides as a Placements Coordinator at WeThinkCode_ since May 2023. In this role, she ensures a seamless placement process from student readiness to final placement, collaborating with various teams to enhance the existing system.
-
-Before joining WeThinkCode_, Kgomotso served with distinction as a Youth Stream Project Coordinator at the Youth Employment Service (YES) South Africa for over four years. During her tenure, she managed logistics and event planning, and had the privilege of meeting notable figures such as the President of South Africa and Meghan, Duchess of Sussex.
-Kgomotso Moretsele is an inspiring example of dedication, leadership, and positive impact on young people
-
-"
-    topic: "Insights on Preparing for the Workplace"
-    affiliation: "WeThinkCode_"
+      - Keynote
+    talk_description: ""
+    bio: ""
+    topic: "Indexing the whole web"
+    affiliation: ""
     link: modal
-    image: "/images/people/Kgomotso.jpg"
+    image: "/images/people/reid.jpg"
+    social_media: []
+
+  - name: Dr. Sibusisiwe Makhanya
+    years:
+      - Keynote
+    talk_description: ""
+    bio: ""
+    topic: "AI 4 Good"
+    affiliation: IBM Research Africa
+    link: modal
+    image: "/images/people/sibusisiwe_makhanya.jpeg"
+    social_media: []
+
+  - name: Naweed Khan
+    years:
+      - Lecture
+    talk_description: ""
+    bio: ""
+    topic: "Fundamentals of ML or symbolic AI"
+    affiliation: IBM Research Africa
+    link: modal
+    image: "/images/people/khan.jpg"
     social_media:
       - title: LinkedIn
-        link: https://www.linkedin.com/in/kgomotso-moretsele-40b128146
-        icon: 
+        link: https://www.linkedin.com/in/naweedaghmad/
+        icon: ""
 
-  - name: Mpho Dipitso
+  - name: Aiden Helmbold
     years:
-      - Education
-      - Workshop
-    talk_description: "Join us for a comprehensive workshop designed to equip university graduates with essential skills for entering the workforce.
-
-Part 1: Soft Skills Development
-
-Gain key work readiness skills through interactive mock interviews.
-Learn how to optimise your LinkedIn profile and manage your social media presence to attract potential employers.
-
-Part 2: Technical Preparation
-
-Receive valuable insights on acing technical interviews and effective preparation strategies.
-Get advice on the most sought-after certifications to enhance your technical expertise and stand out in the job market.
-Prepare yourself for success in your professional journey with practical tips and expert guidance!"
-
-    bio: ""
-    topic: "Insights on preparing for the workplace"
-    affiliation: "WeThinkCode_"
-    link: modal
-    image: "/images/people/mpho.jpg"
-    social_media:
-
-  - name: Privolin Naidoo
-    years:
-      - Applied ML & Industry
-    talk_description: "A dive into utilizing RAG for LLM generation, from beginner to intermediate level understanding."
-    bio: "Privolin is a senior researcher at the CSIR focusing on Natural Language Processing and Automatic Speech Recognition."
-    topic: "Leveraging RAG to Improve LLM Generation"
-    affiliation: "CSIR"
-    link: modal
-    image: "/images/people/privolin_naidoo.jpg"
-    social_media:
-
-  - name: Adele Botha
-    years:
-      - Healthcare
-    talk_description: "**AI - The Ethics of IT**
-
-In an era where artificial intelligence (AI) is rapidly advancing, the ethical considerations surrounding its use in information technology (IT) are paramount. This talk explores the moral implications of AI-driven decisions and the responsibilities of those who develop and deploy these technologies. Addressing these issues ensures that AI advancements benefit humanity while mitigating risks and fostering trust in AI systems."
-    bio: "Prof Adele Botha is a Chief Researcher in the Next Generation Mobile and ICT systems Group with a specialisation in Mobile Information systems at CSIR Meraka. Her research interests include the goal orientated use of Mobile Cellular Technology in techno social context and has examined the application and use of Mobile Technologies for Health, Education and Innovation. 
-Prof Botha has been active and received both national and international recognition in the Technology enhanced learning domain. She has been able to influence many international research agendas by incorporating the specific constraints of the developing countries. She has been invited to serve on the Global Learning XPRIZE Advisory Board hosted by the XPrize foundation and is currently active in shaping the adjudication and evaluation criteria of the $15 million prize to be awarded. Prof Botha heads the CTI College Senate as it moves towards amalgamating with the MGI to become a flagship Pearson Higher Education institution and currently serves on the Executive Advisor on HP Advisory Council strategic education initiatives. She is appointed Professor Extraordinaire at UNISA School of Computing and is currently supervising PhD and Master degree students. In addition she serves on 4 Editorial Committees and acts as reviewer for both National and International journals. Her work is well published in peer reviewed forums and she has co-authored 2 books.
-She was the lead author of the Health Normative Standards and am currently working on Interoperability in Health Information Systems."
-    topic: "AI - The Ethics of IT"
-    affiliation: "CSIR, University of Stellenbosch (Dep of Industrial Engineering) & UNISA, (School of Engineering)"
-    link: modal
-    image: "/images/people/adele_botha.jpg"
-    social_media:
-
-  - name: Dr Laticha EM Walters
-    years:
-      - Healthcare
-    talk_description: "What are the trends and opportunities for AI in Digital Health Governance in Public and Global Health"
-    bio: "Chief Executive Officer and Country Director of IRD South Africa NPC an affiliate of IRD Global. PhD in Telehealth from University of KwaZulu-Natal. Laticha is passionate about the adoption of digital solutions to meet the health needs of vulnerable communities."
-    topic: "AI in Digital Health Governance"
-    affiliation: "IRD South Africa NPC"
-    link: modal
-    image: "/images/people/Laticha_Walters.jpg"
-    social_media:
-
-  - name: Leo John Hyams
-    years:
-      - AI Ethics
-      - AI Safety and Governance in Africa Workshop
-    talk_description: "Leo John Hyams will participate in the panel 'AGI Horizons: Utopia, Dystopia, and everything in-between.' This session will address the transformative and disruptive potentials of AI, discussing AGI's impact on society and the risks involved. The panel will provide insights into AGIs implications for Africa and humanity, offering perspectives from top AI experts."
-    bio: "Co-founder of AI Safety Cape Town, an AI Safety field-building and research organization. I am also a lead organizer at the Deep Learning IndabaX South Africa, an annual conference that brings together AI researchers, practitioners, and enthusiasts in Africa. Other than this, I'm a regular meditator, as well as a big trail runner, both activities I enjoy doing with others."
-    topic: "An Introduction to AI Safety"
-    affiliation: "AI Safety Cape Town"
-    link: modal
-    image: "/images/people/leo.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/leo-hyams-63960a163/
-      icon:
-
-  - name: Jeroen van Goey
-    years:
-      - Hackathon
+      - Lecture
+      - Keynote
     talk_description: ""
-    bio: "Jeroen Van Goey is a Senior BioAI Software Engineer at InstaDeep, based in Cape Town, South Africa. He uses machine learning to create personalized cancer vaccines."
-    affiliation: "InstaDeep"
+    bio: ""
+    topic: "Health"
+    affiliation: Sand Technologies
     link: modal
-    image: "/images/people/jeroen.jpg"
+    image: "/images/people/aidan_helmbold.jpeg"
     social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/jeroenvangoey
-      icon:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/aidan-helmbold-037b0534/
+        icon: ""
 
-
-  # SHORT TALK SPEAKERS
-
-  - name: Tsapang Mashego
+  - name: Gavin Rens
     years:
-    - Deep Learning
-    talk_description: "This talk will explore cutting-edge object detection techniques critical for the advancement of autonomous driving systems. We will delve into the challenges and innovations within deep learning frameworks that enhance the safety and reliability of self-driving cars. The discussion will include a review of various network architectures, benchmark datasets, and evaluation metrics pivotal in refining object detection capabilities. Additionally, the talk will highlight unique challenges posed by self-driving environments and discuss future research directions that could shape the development of autonomous vehicles. This insightful analysis aims to equip researchers, practitioners, and policymakers with the knowledge to drive the next wave of transportation technology."
-    bio: "I am Tsapang Mashego, an aspiring data scientist currently pursuing a Master's in Data Science at the University of Cape Town. With a strong background in mathematics and computer science from North-West University, I am passionate about using data to uncover insights and drive innovation. Beyond the academics, I enjoy outdoors activities, where hiking in diverse landscapes offers me a refreshing escape and a way to reconnect with nature. This balance between analytical rigor and outdoor adventures shapes my approach to problem-solving—meticulous, energetic, and always curious."
-    topic: "Enhancing Autonomous Driving: An In-depth Analysis of Deep Learning-based Object Detection Techniques"
-    affiliation: 
+      - Fundamentals
+    talk_description: ""
+    bio: ""
+    topic: "Artificial Intelligence"
+    affiliation: Stellenbosch University
     link: modal
-    image: "/images/people/short_talk_photos/tsapang.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/tshepang-mashego-1a9147245
-      icon:
-        
-  - name: Mayur Ranchod
+    image: "/images/people/gavin_rens.jpeg"
+    social_media: []
+
+  - name: Axel Tideman
     years:
-    - Vision
-    talk_description: "In this talk, we will explore the fascinating and evolving world of image manipulation, tracing its journey from Soviet propaganda in the 1920s to its widespread use on today's social media. While many manipulated images are harmless, the potential for deception necessitates increased public awareness about the authenticity of visual content online. This is especially crucial in sensitive areas like document fraud and facial biometrics. We'll discuss the rapid advancement of manipulation tools, from traditional software like Photoshop to cutting-edge AI technologies such as CNNs, GANs, and generative models like DALL-E and Midjourney. The talk will highlight the importance of ethical use and the development of countermeasures to detect and prevent misuse. Through engaging visuals and demonstrations, attendees will gain insight into both the capabilities and responsibilities associated with these powerful tools, encouraging the development of techniques to verify digital content and promote mindful media consumption."
-    bio: "Mayur holds an MSc degree in Computer Science with a specialization in Computer Vision from Wits University. Currently, he is a machine learning engineer at Sybrin, where he develops numerous computer vision solutions, including document fraud detection and facial liveness detection. Mayur frequently works on multidisciplinary projects that lie at the intersection of digital forensics, image processing, and computer vision. His broader research interests include cybersecurity, digital forensics, digital image processing, and high-performance computing. Mayur is dedicated to harnessing the power of AI to create meaningful, positive changes and is committed to ensuring its ethical and responsible application."
-    topic: "Is Seeing Really Believing Anymore? 👀"
-    affiliation: Sybrin
+      - Lecture
+    talk_description: ""
+    bio: ""
+    topic: "Recommender systems, running a large ML team"
+    affiliation: "Takealot"
     link: modal
-    image: "/images/people/short_talk_photos/mayur_ranchod.jpg"
+    image: "/images/people/axel_tideman.jpeg"
     social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/mayur-ranchod/
-      icon:
+      - title: LinkedIn
+        link: https://no.linkedin.com/in/axel-tidemann
+        icon: ""
 
-        
-  - name: Takura Wekwete
-    years:
-    - RL
-    - Research
-    talk_description: "Asset Liability Management (ALM) is a cornerstone risk management technique in Quantitative Finance and Actuarial Science. This talk delves into the transformative potential of Reinforcement Learning to revolutionise this critical aspect of financial risk management, with wide-reaching benefits for companies and clients in domains such as insurance, banking, investments, and asset management. Furthermore, this innovative approach holds promise for application in any environment that demands vigilant handling of financial risks."
-    bio: "Takura Wekwete is an award-winning actuary with a strong background in actuarial analytics, modelling, and strategic product development. He has made an impact at companies such as Rand Mutual Assurance, Discovery, Deloitte, and Afrocentric, where he has innovatively solved various complex financial services problems using data science.
-
-Takura has received research awards from the Actuarial Society of South Africa (ASSA) and academic excellence awards from the University of Pretoria and the University of Cape Town. His work has been published in renowned publications.
-
-Takura holds a Master's in Big Data Science from the University of Pretoria (UP). He is pursuing his PhD in Computer Science, focusing on Reinforcement Learning. Takura is a qualified Fellow Actuary of the Actuarial Society of South Africa (ASSA) and the UK's Institute and Faculty of Actuaries (IFoA)."
-    topic: "Reinforcement Learning in Financial Risk Management"
-    affiliation: Rand Mutual Assurance / University of Pretoria
-    link: modal
-    image: "/images/people/short_talk_photos/takura_wekwete.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/takura-wekwete-asael/
-      icon:
-
-        
-  - name: Edward Khomotso Nkadimeng
-    years:
-    - Applied ML & Industry
-    talk_description: "This talk explores the application of deep learning techniques to optimize the dynamic aperture of the C70 cyclotron at iThemba LABS, crucial for radioisotope production in the South African Isotope Facility (SAIF) project. We present innovative surrogate models using convolutional and recurrent neural networks to predict and maximize the stable region of particle motion in the accelerator. Our approach significantly reduces computational time compared to traditional particle tracking simulations, enabling real-time optimization and rapid prototyping of accelerator configurations. This research not only enhances the efficiency of radioisotope production at iThemba LABS but also contributes to the broader field of accelerator physics, with potential applications in facilities worldwide."
-    bio: "Dr. Edward Nkadimeng is a Researcher in the Research Development and Technical Support (RDTS) Division at NRF-iThemba LABS. He holds a PhD in Experimental Particle Physics from the University of the Witwatersrand. Dr. Nkadimeng's research focuses on the application of artificial intelligence and machine learning techniques in experimental particle physics, with a particular emphasis on developing deep learning algorithms for particle identification and implementing ML-driven optimization of detector systems. He is passionate about responsible AI and ethics in scientific research. As a board member of the BRICS+ Youth Energy Agency, Dr. Nkadimeng contributes to advancing sustainable energy solutions and promoting global scientific collaboration. His innovative work has earned him recognition as one of Mail & Guardian's Top 200 Young South Africans in 2023."
-    topic: "Enhancing Dynamic Aperture Estimations in the C70 Cyclotron Using Deep Learning Techniques"
-    affiliation: NRF-iThemba LABS
-    link: modal
-    image: "/images/people/short_talk_photos/Edward_Nkadimeng.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/edward-khomotso-nkadimeng-770a1b108/   
-      icon:
-
-        
-  - name: Verosha Pillay
-    years:
-    - Applied ML & Industry
-    talk_description: "This talk will provide insight into the dynamic world of MLOps, focusing on the innovative Highwind platform developed by Melio AI. Highwind offers a convenient Marketplace designed to revolutionize the MLOps journey for data scientists by providing easy access to AI solutions. Additionally, it allows users to buy and sell AI solutions seamlessly on the platform. We'll also explore the collaboration between Zindi and Melio AI. Specifically, we'll discuss the ongoing Zindi MLOPs competition hosted on Highwind, which offers participants a real-world context for learning and prepares them for industry-specific challenges. Throughout the talk, we'll highlight some of the cool tech features of Highwind, showcasing how they enhance the competition experience and facilitate hands-on learning. The goal of this talk is to provide students with valuable insights and explore cutting-edge technology in the field of MLOps."
-    bio: "I'm Verosha Pillay, a Data Scientist at Melio AI. I have a rich background in both business and technology, thanks to my previous experience as a Business Analyst. I earned my Master's degree in Computer Science, focusing on Computer Vision and Image Processing. I love working at Melio AI and am especially proud of my work on exciting projects like Highwind."
-    topic: "Exploring MLOps with Melio AI and Zindi"
-    affiliation: Melio.ai
-    link: modal
-    image: "/images/people/short_talk_photos/verosha_pillay.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/verosha-pillay-49b447115/
-      icon: 
-
-        
-  - name: Tawanda Ewing
-    years:
-    - Applied ML & Industry
-    talk_description: "A critical look at how graph database technology could be a key component to unlocking true AGI."
-    bio: "Tawanda Ewing is an Electrical and electronic engineer turned Machine learning engineer with over 5 years of experience in the field and A.I. He's implemented A.I powered systems for multiple industries such as Legal, Oil & Gas, Retail and Education. Tawanda is passionate about doing his part to advance Africa and share his insights with anyone willing to listen."
-    topic: "Bridging the Gap to AGI - The Thinking Graph"
-    affiliation: Legal Interact
-    link: modal
-    image: "/images/people/short_talk_photos/tawanda_ewing.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/tawanda-ewing-988672109
-      icon:
-        
-  # TODO: add website link
-  - name: Simon Rosen
-    years:
-    - RL
-    - Research
-    talk_description: "In this talk I will present our workshop paper “Optimal Task Generalisation in Multi-Agent Reinforcement Learning” which will be appearing at the CoCoMARL workshop being held at RLC 2024. In this paper we present a method for provably optimal task generalisation in multi-agent reinforcement learning, which to the best of our knowledge is the first work to do so.
-Multi-agent systems where multiple agents must collaborate to achieve multiple tasks are ubiquitous in real world applications. A notable example of this is automated warehouse where multiple autonomous robots must navigate to, and transport assigned shelves. In many situations there are common properties across tasks leading to the possibility of shared knowledge, such as in automated warehouses where the layout of the warehouse and robots do not change but the desired shelves do. In this work we consider goal-oriented tasks where each agent has a set of goals (terminal states) they wish to reach, and each goal has an associated terminal reward.  We propose a method Goal-Oriented Learning for Multi-Agent Reinforcement Learning (GOLeMM) that explicitly learns a goal-oriented value function that provably encodes how each agent can optimally achieve every goal. This goal-oriented value function is learnt from a single arbitrary task and afterwards this information is used to optimally infer without further learning any other task in the distribution given only knowledge of the terminal rewards. 
-Empirically we demonstrate that given a fixed step quota our method is able to optimally generalise over a full task distribution while representative methods can only learn a small fraction with the gap between our method and those increasing exponentially as the number of goals in the environment increases.
-"
-    bio: "I am a PhD candidate in Computer Science at the University of the Witwatersrand and a part of the RAIL Lab. Cooperative multi-agent problems are ubiquitous in real-world applications, and cooperative multi-agent reinforcement learning is a popular solution to this class of problems. MARL is hampered by a myriad of problems such as poor sample efficiency and poor agent scaling. In my work I wish to address these problems in a mathematically grounded manner along with rigorous empirical experiments. I believe that MARL has the possibility to revolutionise entire industries and improve the world for the better and I believe my research is taking important steps towards that goal."
-    topic: "Optimal Task Generalisation in Multi-Agent Reinforcement Learning"
-    affiliation: University of the Witwatersrand
-    link: modal
-    image: "/images/people/short_talk_photos/simon_rosen.jpg"
-    social_media:
-    - title: LinkedIn
-      link: linkedin.com/in/simon-rosen-4367001b5
-      icon:
-
-        
-  - name: Tariq Blecher
-    years:
-    - Vision
-    talk_description: "I will explore upcoming Machine Learning approaches to tackle the ill-posed inverse-imaging problem in radio interferometry. "
-    bio: "I am a Data Scientist at the South African Radio Astronomical Observatory (SARAO) based in Cape Town. I completed my PhD in Radio Astronomy at Rhodes University in 2021. My current research interests include machine learning approaches to inverse imaging problems, data pipeline optimisation using reinforcement learning, and the detection of neutral gas in distant galaxies."
-    topic: "ML Approaches to Radio Interferometric Imaging"
-    affiliation: South African Radio Astronomical Observatory
-    link: modal
-    image: "/images/people/short_talk_photos/tariq_blecher.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/tariq-blecher-phd-ab64b9114/
-      icon:
-
-        
-  - name: Jimoh Saheed Tunji
-    years:
-    - Applied ML & Industry
-    talk_description: "Title: Comparative Analysis of Wind Speed Probability Distributions for Wind Energy Potential in Nigeria
-Abstract: This study aims to compare the performance of various probability density functions, including the conventional Weibull, normal, log-normal, and gamma distributions, with the mixture Weibull distribution, in assessing the wind energy potential across different locations in Nigeria. Utilizing 20 years (1995-2015) of wind speed data from 12 meteorological stations—two from each of the six geopolitical zones—the analysis reveals significant findings.
-Key Findings:
-•	The mixture Weibull distribution demonstrated superior fitting accuracy for wind speed data in most stations, outperforming other distributions based on statistical error metrics such as Kolmogorov-Smirnov and Root Mean Square Error (RMSE).
-•	The mixture Weibull distribution effectively captured the bimodal nature of wind speed distributions in several locations, a feature inadequately represented by the conventional Weibull function.
-•	Northern regions of Nigeria generally exhibited higher wind speeds compared to southern regions, with Lagos displaying the highest average monthly wind speed of 12.71 m/s, and Owerri, also in the southern part, showing the lowest at 2.68 m/s.
-•	The spatial variability of wind resources across Nigeria was highlighted by the mixture Weibull parameters, with the shape parameter (α) ranging from 3.98 to 15.71 and the scale parameter (β) from 3.00 to 12.29 m/s.
-Conclusion: The findings from this study provide valuable insights for wind energy resource assessment and the development of appropriate wind energy technologies in Nigeria, accounting for the unique wind regimes across different regions. This comprehensive analysis not only advances the understanding of wind energy potential but also informs strategic planning for sustainable energy development in Nigeria.
-
-"
-    bio: "Saheed is a distinguished Radiophysicist turned Renewable energy expert due to his dream for Africa with sufficient energy supply. He is currently PhD research student at the University of KwaZulu-Natal (UKZN) in South Africa. His research focuses on the “Comparative Analysis of Density Functions for Assessing Wind Energy Potential in Africa”. He started from Nigeria and extending his research to other Africa Countries in due time. This groundbreaking work leverages the power of the R and Python programming languages to enhance the accuracy and reliability of wind energy assessments.
-With a deep passion for renewable energy and a strong foundation in statistical analysis, Saheed is at the forefront of integrating machine learning with physics and renewable energy development in Africa. His innovative approach aims to identify optimal locations for wind energy generation by analyzing wind speed data using advanced probabilistic models, including the bimodal mixture Weibull function.
-Saheed's research holds significant promise for advancing sustainable energy solutions in Africa, contributing to the region's energy independence and environmental sustainability. By incorporating state-of-the-art machine learning techniques, his work not only addresses current challenges in wind energy potential assessment but also paves the way for future advancements in the field.
-Through his dedication and expertise, Saheed is poised to make a lasting impact on the renewable energy landscape, demonstrating the potential of interdisciplinary approaches to solving critical energy challenges in Africa and beyond.
-"
-    topic: "Comparative Analysis of Density Functions for Assessing Wind Energy Potential in Africa"
-    affiliation: University Of Kwazulu Nata
-    link: modal
-    image: "/images/people/short_talk_photos/jimoh_tunji.jpg"
-    social_media:
-    - title: LinkedIn
-      link: www.linkedin.com/in/jimoh-saheed-tunji-a2a792151
-      icon:
-
-        
-  - name: Karabo Madibela
-    years:
-    - Applied ML & Industry
-    talk_description: "A short talk that explores how the world of  AI and neuroscience can merge together to create solutions for issues of brain health and treatment of neurodevelopmental disorders. This talk will give a short description of how these technologies can revolutionize approaches to mental health matters."
-    bio: "As a student at the University of the Western Cape,  majoring in psychology, I have developed a keen interest in artificial intelligence and neuroscience, through exploring the intersections of Technology, mental health and brain function, I have developed a newfound dedication to uncovering new ways to harness the power of AI to solve brain health issues."
-    topic: "Decoding the Brain: The Role of AI in Neurodevelopmental Health Optimization"
-    affiliation: University of the Western Cape
-    link: modal
-    image: "/images/people/short_talk_photos/karabo_madibela.jpg"
-    social_media:
-    - title: LinkedIn
-      link: 
-      icon:
-
-        
-  - name: Peter Ochieng
-    years:
-    - Data Science
-    talk_description: "We describe how we can use similarities in African languages to perform S2ST"
-    bio: "Peter is NLP researcher focusing in low-resource languages with bias towards speech"
-    topic: "Exploiting Phonological Similarities between African Languages to achieve Speech to Speech Translation"
-    affiliation: University of Cambridge
-    link: modal
-    image: "/images/people/short_talk_photos/peter_ochieng.jpg"
-    social_media:
-    - title: LinkedIn
-      link:
-      icon:
-
-        
-  - name: Batsi Ziki
-    years:
-    - RL
-    - Research
-    talk_description: "Curiosity algorithms have been shown to efficiently aid reinforcement learning agents in exploring environments with sparse rewards. However, these algorithms are typically hand-designed. In this talk, I will explore the unique approach of meta-learning interpretable curiosity algorithms as introduced in the 2020 paper, Meta-learning curiosity algorithms. We will focus on two algorithms discovered through this approach: Fast Action Space Transition (FAST) and Cycle-Consistency Intrinsic Motivation (CCIM). I'll discuss how these algorithms were developed, their limitations, and the lessons they offer for advancing curiosity-driven exploration."
-    bio: "Batsi Ziki is an MSc student at the University of Cape Town and a member of the ShockLab research group. His research focuses on meta-reinforcement learning. Outside of academia, Batsi enjoys watching films, running, and playing video games, blending his academic pursuits with a variety of personal interests."
-    topic: "Exploring Meta-learned Curiosity Algorithms"
-    affiliation: University of Cape Town
-    link: modal
-    image: "/images/people/short_talk_photos/batsi_ziki.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/batsi-ziki-0b8117202
-      icon:
-
-        
-  - name: Joel Leonard
-    years:
-    - Applied ML & Industry
-    talk_description: "The modern mining industrial sector greatly depends on an efficient maintenance plan to achieve maximum failure prevention, and a plethora of innovative solutions have been developed to enhance and optimize this endeavor. However, newer plants with complex technologies are built every day and the experience or failure history needed to predict equipment performance, reliability, availability, and maintainability (RAM) especially at the infant stage of their operation is predominantly scarce. To curtail this challenge, an early life RAM study can be adopted, serving a proactive maintenance strategy implemented to optimize the overall lifespan of the system by addressing and resolving early failures and potential future threats. In this research, a discrete event(failure)-based Monte Carlo simulation is used to model a Sulphur dioxide (SO2) abatement plant as a case study in South Africa. The result of the simulation predicts the worst case and best-case scenario of the plant’s condition, number of failures, downtime contributors, reliability and availability for the next 6 years. Furthermore, reliability centered maintenance is implemented on the most critical identified subcomponents and a task list is developed and packaged to form part of the maintenance plan needed to improve the SO2 abatement plant’s health condition. The research shows that numerous complex maintenance challenges of various plants including mining, oil and gas, aviation etc. can be solved using an effective simulation tool which leads to high business productivity, safety and profitability."
-    bio: "
-Joel Leonard is researcher at the Centre for Asset Integrity and Management, department of Mechanical and Aeronautical Engineering at the University of Pretoria and a Lecturer at Terotechnica Asset Management College where he teaches Reliability Engineering. He is a member of the SA Institution of Mechanical Engineering (SAIMechE) and the Institution of Engineering and Technology (IET), staying up to date with the latest developments in the industry, especially in the field of Physical Asset Management.  As an engineer, Joel has experience in developing and implementing effective strategies for maintaining and improving the reliability of critical equipment. In addition to his professional pursuits, Joel has a keen interest in grassroot education activism, and enjoys travelling, hiking, and trying new delicacies. He is a dedicated individual with a strong work ethic and a commitment to excellence in all aspects of life.
-"
-    topic: "Application of A Discrete Event- Based Monte Carlo Simulation for Improving Reliability, Availability and Maintainability (RAM) Of an SO2 Abatement Plant"
-    affiliation: University of Pretoria
-    link: modal
-    image: "/images/people/short_talk_photos/joel_leonard.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/joel-leonard-50820285/
-      icon:
-
-        
-  - name: Mortda Adam
-    years:
-    - Vision
-    talk_description: "We will delve into the foundational principles of vehicle detection, from sensor fusion techniques to deep learning advancements tailored for real-time application. Discover how these technologies enable autonomous vehicles to perceive and respond to their surroundings with accuracy and efficiency.
-From overcoming challenges like occlusion and varying environmental conditions to optimizing computational resources for onboard processing, we will examine the practical considerations shaping the future of autonomous vehicle safety and performance. "
-    bio: "Mortda Adam specializes in computer vision and machine learning. His research is dedicated to advancing vehicle detection systems for autonomous driving applications. Mortda explores innovative approaches to enhance vehicle detection algorithms' accuracy, efficiency, and robustness, contributing to the development of safer and more reliable autonomous driving technologies."
-    topic: "Advancements in Vehicle Detection for Autonomous Drivin"
-    affiliation: University of KwaZulu-Natal (UKZN)
-    link: modal
-    image: "/images/people/short_talk_photos/mortda_adam.png"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/mortda-adam/
-      icon:
-
-        
-  - name: Heinrich van Deventer
-    years:
-    - Deep Learning
-    talk_description: "Continual learning using differentiable models with parameter geometries that guarantee memory retention and avoid catastrophic interference must be exponentially large models. Advanced training procedures and augmentation might be necessary for continual learning."
-    bio: "Google PhD Fellow supervised by Dr Anna Bosman at the University of Pretoria. Physics graduate adapting ideas from mathematics and physics to improve machine learning systems. "
-    topic: "Limits of ANNs in Continual Learning"
-    affiliation: University of Pretoria
-    link: modal
-    image: "/images/people/short_talk_photos/heinrich_van_devente.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://za.linkedin.com/in/hpdeventer
-      icon:
-
-        
-  - name: Mandlenkosi Zwane 
-    years:
-    - Applied ML & Industry
-    talk_description: "Basic discussing on how artificial intelligence is assisting in medical imaging, focusing on the segmentation of heart images from CT scans. I'll cover various algorithms that enhance accuracy in identifying and understanding different parts of the heart."
-    bio: "I work as a developer at Acumen Software (Pty) Ltd in Stellenbosch. Additionally, I am researcher, focusing specifically on medicine. I've had the privilege of conducting research at various hospitals. I have been coding in C++ for nearly a decade and recently had the honor of winning the IITPSA SIGCyber Hackathon. However, my journey into computer science at UCT exposed me to deeper aspects of CS and included ML classes. This sparked my interest and motivated me to leverage my technical skills. I collaborated with cardiologists to use AI for impactful change."
-    topic: "Introduction and Demonstration of AI-Based Segmentation for Medical Images"
-    affiliation: 
-    link: modal
-    image: "/images/people/short_talk_photos/mandlenkosi_zwane.jpg"
-    social_media:
-    - title: LinkedIn
-      link: 
-      icon:
-
-        
-  - name: Jason Chalom
-    years:
-    - Vision
-    talk_description: "My master's research focused on explaining several convolutional neural networks using a novel scheme called GradSUM to explain models trained to predict steering angle in a self-driving vehicle from forward facing images. This scheme makes use of a gradient map generated using the GradCAM algorithm and a ground truth dataset which contains semantic segmentations that can be used to correlate the gradient maps to relevant parts of the input data.
-
-Our results show that different trained CNN architectures perform differently and that GradSUM is an effective tool for discerning points of interest from the input data which can help determine those behaviours.
-
-The cutting edge research focuses on transformers as a replacement for more traditional neural network architectures. These transformers make use of attribution maps which can be treated in a similar manner as a gradient map. This opens up multiple ways to apply GradSUM with generated gradient maps and the already existing attribution maps to attempt to describe the behaviours of these AI architectures.
-
-Expanding this work beyond computer vision problems is also possible. However this requires generating new ground truth datasets and also handling the interpolation steps normally done with image problems slightly differently to handle the dimensional structures present in those other areas of study.
-
-This proposed analysis scheme shows promise in helping to explain AI architectures. However it does come with some trade-offs including added complexity, the requirement for a new high quality ground truth dataset, and added computation. Our hope is to publish our expanded results and expand the work further into new domains to determine how extensible we can make this scheme. "
-    bio: "I am a senior engineer with ten years experience working for a financial tech company which was recently acquired. I am also a masters' candidate awaiting my examination results. My research focus is on explainable AI and computer vision problems. I also have a keen interest in all things computing."
-    topic: "GradSUM a Method to Quantitatively Characterise and Explain Deep Learning Model Behaviour in Several Domains (Unpublished)"
-    affiliation: University of the Witwatersrand, and nCino, Inc (Formally DocFox Inc)
-    link: modal
-    image: "/images/people/short_talk_photos/jason_chalom.png"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/jasonchalom/
-      icon:
-
-        
-  - name: Arné Schreuder
-    years:
-    - Deep Learning
-    talk_description: "In the pursuit of more efficient and brain-like artificial intelligence, Spiking Neural Networks (SNNs) offer a promising avenue. Unlike traditional Artificial Neural Networks (ANNs), which rely on continuous activation values, SNNs mimic the spiking behavior of neurons in the human brain. This talk explores how SNNs, as a cornerstone of Biologically Plausible Machine Learning (BPML), aim to replicate the energy-efficient and adaptive nature of biological systems. We'll delve into the foundational principles of SNNs, contrasting their operation with conventional ANNs, and examine current research frontiers. Insights will be shared on how SNNs could potentially revolutionize AI by offering sustainable and cost-effective solutions, aligning with the efficiency standards set by the human brain."
-    bio: "Arné leads the EPI-USE AI Services division within EPI-USE Global Services. He joined the company in January of 2020 and has served in
-various client-facing roles, leading software engineering and machine learning projects from conception to production. Arné's expertise lies in
-big data, image and video processing, predictive analytics, recommender systems, neural entity recognition, and translation. He holds a
-master's degree in computer science, specializing in AI, and is currently pursuing his Ph.D. in computer science, with a focus on artificial neural
-networks. With over 12 years of professional experience, Arné has spent the last 7 years specializing in machine learning. He is also a lecturer
-of Software Engineering and AI at the University of Pretoria, where his focus area is at the intersection of software engineering, data science,
-and machine learning. Arné describes himself as a futurist, AI prophet, nerd, loving husband, and father to two beautiful daughters"
-    topic: "An Introduction to Spiking Neural Networks and Biologically Plausible Machine Learning"
-    affiliation: EPI-USE/University of Pretoria
-    link: modal
-    image: "/images/people/short_talk_photos/Arne_Schreuder.jpg"
-    social_media:
-    - title: LinkedIn
-      link:
-      icon:
-
-        
-  - name: Gloria Pucoe
-    years:
-    - BioAI
-    - Data Science
-    talk_description: "Parkinson's disease is a neurodegenerative disorder that significantly impacts the elderly, impairing motor functions and quality of life. Early detection is crucial for managing symptoms. This talk presents a study aimed at developing an ensemble clustering algorithm to assist in the diagnosis of Parkinson's disease using data from Parkinson Disease Spiral Drawings (PDSD) captured via digitized graphics tablets. The algorithm combines multiple clustering techniques to improve diagnosis accuracy and robustness. By classifying individuals into PD and non-PD groups, this research aims to provide a reliable tool for early detection, potentially improving patient outcomes."
-    bio: "An MSC student with a passionate for machine learning. Gloria has an appreciation for entrepreneurship and the founder of the tech consultancy Mandelite. Mandelite, a company that helps companies with software development, cybersecurity and technological innovation. Before transitioning into a multifaceted career, Gloria spent two years working in government sectors. This experience provided a deep understanding of governance, policy, and regulation, as well as the ability to communicate effectively with diverse audiences.
-
-Gloria is proficient in various technical languages, including Java, JavaScript, HTML, CSS, and Python. They have a passion for researching problems related to cybersecurity, machine learning, and data analytics. Utilizing the React framework, she develops reliable and scalable software solutions. Additionally, they possess skills in digital marketing and SEO, further enhancing their comprehensive technical and analytical expertise."
-    topic: "Utilising Ensemble Cluster for Parkinson's Disease Detection."
-    affiliation: University of the Witwatersrand and Sol Plaatje University
-    link: modal
-    image: "/images/people/short_talk_photos/gloria_pucoe.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/gloria-pucoe/ 
-      icon:
-
-        
-  - name: Sthembiso Mkhwanazi
-    years:
-    - Applied ML & Industry
-    talk_description: "isiZulu, like many Bantu languages, is a low-resourced language with limited digital tools. Its complex morphology and conjunctive orthography contribute to data sparsity and out-of-vocabulary issues in language modeling. To tackle this challenge, we employ a supervised machine learning approach to morphological segmentation. Utilizing isiZulu computational grammar, we create segmented data from the Ukwabelana corpus. Through training segmenters on fine-grained, well-grained, and coarse-grained data, we achieve good accuracy.
-
-Furthermore, we explore the impact of these models in a downstream task, specifically Machine Translation (isiZulu-English), extrinsically evaluating their effectiveness. Our research underscores the critical role of morphological segmentation in the development of robust NLP tools for low-resource languages characterized by complex morphology, such as isiZulu."
-    bio: "I am a junior NLP researcher and developer at CSIR, currently pursuing my second year in MSc in Computer Science with a focus on NLP for low-resourced languages at North West University. I obtained my BSc and Honors degrees in Data Science and Computer Science from the University of KwaZulu-Natal. With a deep interest in technology, I am passionate about exploring new advancements in NLP and applying them to solve real-world challenges. Beyond my research, I find fulfillment in reading and sharing knowledge through teaching and tutoring."
-    topic: "Breaking Down isiZulu texts: Supervised Segmentation for Better Language Modeling and Translation"
-    affiliation: CSIR and NWU
-    link: modal
-    image: "/images/people/short_talk_photos/sthembiso_mkhwanazi.png"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/sthesh/
-      icon:
-
-        
-  - name: Philip Sterne
-    years:
-    - Applied ML & Industry
-    talk_description: "This talk summarizes my findings from teaching software engineering at an American university over the past two semesters. As part of the course I gave students free rein to use any and all generative models (eg ChatGPT, Copilot) for any aspect of the course (answering in-class polls, assignments, and their final project). I also experimented with automated grading of the work that students produced (with mixed results).
-
-I will provide concrete recommendations on what aspects of software engineering can be supercharged with generative AI (testing, documentation), and which aspects are less amenable (solution decomposition). Productive strategies that students followed to learn a new topic will also be shared.
-
-From this foundation, I will also provide insights on how higher education should broadly respond to generative AI such that teachers and students benefit. I aim for this talk to be useful for both software engineers and academics."
-    bio: "Philip Sterne received his PhD in Machine Learning from Cambridge University in 2011. He built credit models at Nedbank before leaving to start and lead the machine learning team at Takealot. After which he joined a newly formed university (Minerva University) to develop the computer science department where he wrote courses on algorithms, machine learning and software development. He has also consulted for various industries (banking, supply chain, R&D robotics)."
-    topic: "Teaching Computer Science in the age of LLMs"
-    affiliation: Minerva University 
-    link: modal
-    image: "/images/people/short_talk_photos/philip_sterne.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/sterne
-      icon:
-
-
-  - name: Mixo Ngoveni
-    years:
-    - Education
-    - Social
-    talk_description: "I will be talking about the Red Bull Basement University challenge and focus on how technology can be used by students to create positive social impact."
-    bio: "Mixo Fortune Ngoveni is the Co-Founder of Geekulcha, a Tech
-Advocate & Techpreneur, Connector, Social Media Geek, and Amateur Chef. He was
-recognized as a Mail & Guardian Top 200 Young South Africans in 2015
-and a finalist for the IITPSA IT Personality of the Year in 2017. Mixo is a
-former Red Bull Basement Brand Manager & Global Mentor, and Microsoft
-Student Partner."
-    topic: "Red Bull Basement University - Empowering Young Minds to use Technology for Positive Impact"
-    affiliation: 
-    link: modal
-    image: "/images/people/mixo_ngoveni.jpg"
-    social_media:
-    - title: Twitter
-      link: https://x.com/4otune
-      icon:
-    - title: Instagram
-      link: https://instagram.com/4otune
-      icon:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/mixo-ngoveni/
-      icon:
-
-  - name: Tam Ogubai
-    years:
-    - Data Science
-    - Applied ML & Industry
-    talk_description: "I will explain why an ecosystem is important for data science to succeed. From business to varsity, governments and non profits. "
-    bio: "Partnership lead at Zindi connecting organisations to our Zindi eco system and forging strategic partnerships with governments, leading companies and help young talents getting upskilled and working with them on real world problems to solve with AI and ML. 
-
-Also have worked for Google and Microsoft and sold an AR/VR startup in the USA for the engineering industry. "
-    topic: "It Takes a Ecosystem for Data Science to Succeed."
-    affiliation: Zindi 
-    link: modal
-    image: "/images/people/tam_ogubai.jpg"
-    social_media:
-
-  - name: Kevin Colville
-    years:
-    - Research 
-    - Applied ML & Industry
-    talk_description: "The CHPC supports research in the computational sciences from simulation to machine learning. This talk will provide an overview of our facilities and services."
-    bio: "A graduate of the University of Cape Town, Kevin Colville has been a support scientist at the CHPC since 2008. His research interests are in scientific computing, computational methods, numerical analysis, finite element method, applied mathematics, mathematical modelling, computational mathematics, applied & computational number theory."
-    topic: "Centre for High Performance Computing"
-    affiliation: NICIS CHPC (CSIR)
-    link: modal
-    image: "/images/people/kevin_colville.png"
-    social_media:
-
-  - name: Shane Acton
-    years:
-    - BioAI
-    - Research
-    talk_description: "A deeper dive into molecular biology and an update on SOTA Ai methods used to model DNA, RNA, and proteins."
-    bio: "I am a BioAi Research Engineer focusing on applying modern Deep Learning techniques to immunology."
-    topic: "Exploring SOTA methods in BioAi"
-    affiliation: Instadeep
-    link: modal
-    image: "/images/people/shane_acton.jpg"
-    social_media:
-    - title: LinkedIn
-      link: www.linkedin.com/in/shane-acton-86994a273
-      icon:
-
-  - name: Kirsten Taneall Smith
-    years:
-    - Healthcare 
-    - Applied ML & Industry
-    talk_description: "Join me as I walk through the journey of developing an AI product in medical imaging, including the design and deployment considerations in a multi-platform multi-member project which has real world constraints for bringing research into reality."
-    bio: "At Opti-Num, Kirsten blends strategy and creative exploration to discover future business opportunities. Kirsten’s role includes the communication of technology to make it accessible and impactful. She likes to unpack the connections and motivations between what businesses need, what research is capable of, as well as how to build people up so that they’re capable of making great things happen. She aspires to bridge the gap between innovation, technology, and learning. Kirsten works hard to bring different disciplines together to improve the world we live in."
-    topic: "Design and Deployment of AI for Innovation in Medical Imaging, Leveraging MATLAB and C++"
-    affiliation: Opti-Num Solutions
-    link: modal
-    image: "/images/people/kirsten_taneal_smith.jpg"
-    social_media:
-    - title: Website
-      link: https://www.optinum.co.za/
-      icon:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/kirstentsmith/
-      icon:
-
-
-  - name: Asif Aziz
-    years:
-    - Education
-    talk_description: "The pace of change has exceeded our rate of learning."
-    bio: "Asif Aziz, the Head of Professional Services at Pink Elephant South Africa, is a pivotal figure in IT Service Management (ITSM) across South Africa. With a rich history of roles at IBM, Altron Group, and T-Systems, Aziz has expertly merged technological innovation with business transformation. His leadership is instrumental in developing Pink Elephant's cutting-edge curriculum, addressing the sector's current and future demands. Aziz's proficiency in emerging technologies places Pink Elephant at the forefront of advanced training. His advocacy for micro-credentials and agile learning promotes education being more accessible and pertinent. Aziz's strategic approach and dedication to professional growth is a key component that drives the innovative approach to education, equipping professionals for the digital future."
-    topic: "Education"
-    affiliation: AMBA
-    link: modal
-    image: "/images/people/asif_aziz.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/asif-aziz-27600276/
-      icon:
-
-  - name: Gabrielle Immelman
-    years:
-    - Education
-    talk_description: "Sub-Saharan Africa needs 2.5 million new engineers to meet its development challenges. To bridge this gap, we must enhance STEM education. By integrating AI tutors and innovative teaching methods, we'll boost student engagement and improve learning outcomes. Can we leverage Large Language Models to help students tackle critical subjects like math and build confidence through intelligent tutoring systems?"
-    bio: "Gabi Immelman is the founder and CEO of Mindjoy, an innovative EdTech startup dedicated to accelerating STEM education through AI. Recognized by Mail & Guardian as one of the 200 Young South Africans in 2022, Gabi's journey from a Reggio educator to a EdTech entrepreneur working with educators and students across the globe."
-    topic: "Accelerating STEM Education with AI"
-    affiliation: MindJoy
-    link: modal
-    image: "/images/people/gabrielle.jpg"
-    social_media:
-    - title: LinkedIn
-      link: https://www.linkedin.com/in/gabi-immelman/
-      icon:
-    - title: Twitter
-      link: https://x.com/GabiImmelman
-      icon:
-
-  # - name: 
-  #   years:
-  #   - 
-  #   - 
-  #   talk_description: ""
-  #   bio: ""
-  #   topic: ""
-  #   affiliation: 
-  #   link: modal
-  #   image: "/images/people/.jpg"
-  #   social_media:
-  #   - title: Twitter
-  #     link: 
-  #     icon:
-  #   - title: Instagram
-  #     link: 
-  #     icon:
-  #   - title: LinkedIn
-  #     link: 
-  #     icon:
+# Note: The placeholder.jpg image will be used for speakers without specific images.
+# Please replace with actual speaker images as they become available.
