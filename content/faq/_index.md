@@ -58,14 +58,14 @@ Yes, there will be tea and coffee available at certain times throughout the day!
 
 #### {{<icon "fa-solid fa-utensils">}} &nbsp; **Will there be food?** {.faq-item}
 
-Yes, we will provide **lunch** on the 8th, 9th, 10th, and 11th July. We will also provide some snacks throughout the day. Dietary requirements are collected in the registration form.
+Yes, we will provide **lunch** on the 7th, 8th, 9th, and 10th July. We will also provide some snacks throughout the day. Dietary requirements are collected in the registration form.
 
 <!-- If you have an "Accommodation" travel grant (you will know this explicitly), we provide breakfast for you on the 12th, 13th, 14th, and 15th of July. -->
 
-Each **evening** will have an activity with some food and drinks provided, but in limited quantities and not intended as a full dinner experience. We **strongly** encourage you to make friends and go explore the city for dinner.
+Each **evening** will have an activity with some food and drinks provided, but in limited quantities and not intended as a full dinner experience. We **strongly** encourage you to make friends and go explore the town for dinner.
 
 #### {{<icon "fa-solid fa-mug-saucer">}} &nbsp; **I'm still hungry - where can I get food on campus?** {.faq-item}
-There is a shopping centre on campus, Die [Neeslie](https://neelsiesa.co.za/) which includes:
+There are a couple of shops around the campus area. There is also Die [Neeslie](https://neelsiesa.co.za/), a shopping centre on campus that has some of the follow restaurants:
 * [Free Bird](https://freebird.co.za/)
 * [Kwikspar](http://www.spar.co.za)
 * [Roman's Pizza](http://www.romanspizza.co.za)
@@ -80,7 +80,7 @@ Stellenbosch is a beautiful town, but like any town, it has its problems. We rec
 Stellenbosch University (Stellies) has security guards on campus and 24/7 CCTV footage.
 
 Security contacts on campus:
-* Stellenbosch University Campus Security (Campus, Parking, Res): [021 808 2330](tel:0218082330)
+* Stellenbosch University Campus Security (Campus, Parking, Res): [021 808 2333](tel:0218082333)
 
 ## Time
 
@@ -100,7 +100,7 @@ Very. We have an awesome selection of speakers and activities to fill up the tim
 
 The 8th edition of Indaba𝕏 will take place at Stellenbosch University in Western Cape, South Africa.
 
-We will be on the [Stellenbosch Main Campus](https://maps.app.goo.gl/dHwn1J2jnVbfvbNF8) which is located on the North Eastern side of [Eikestad Mall](https://maps.app.goo.gl/ApNsvqAntE8GnsqE7).
+We will be at the [Civil Engineering building](https://maps.app.goo.gl/ZXYsQtye3rY4urNx6) on the Stellenbosch Engineering Campus close to Academia residence (student accommodation).
 
 <!--Wits provides a mobile app with information about campus and additional maps. The app is available for both [Android](https://play.google.com/store/apps/details?id=ac.za.wits.mobile.apps&hl=en&gl=US) and [iOS](https://apps.apple.com/in/app/wits-mobile/id1638185219) devices. -->
 
@@ -108,11 +108,11 @@ For more information, see also [ABOUT](/about).
 
 #### {{<icon "ti-car">}} &nbsp; **Is there parking on campus?** {.faq-item}
 
-Yes, there is parking on campus. We will provide more information via email closer to the time.
+Yes, there is parking on campus. You will be able to park on the civil engineering parking lot. There should also be available parking lots around campus. 
 
 #### {{<icon "fa-solid fa-plane">}} &nbsp; **How do I get to the venue from Cape Town International Airport?** {.faq-item}
 
-The venue is a 34 minute drive from the airport. 
+The venue is a 40 minute drive from the airport. 
 
 If you are driving, from the airport:
 * Leave the airport and get on the N2 from Ring Rd and Airport Approach Rd.
@@ -121,22 +121,21 @@ If you are driving, from the airport:
 * Continue on R310 (Baden Powell Dr) for ~13km.
 * Take a short right for Polkadraai Rd and continue into Adam Tas Rd.
 * Stay on Adam Tas Rd for ~ 5km. 
-* Exit on the right for Merriman Ave.
-* Continue on Merriman Ave for ~ 700m.
-* Turn right into Andringa St.
-* In ~100m, you will see the Stellenbosch University Law Clinic on your left (which is located on Stellenbosch Main Campus).
-* Parking locations on Stellenbosch campus TBC!
-
+* Exit on the right for Molteno Rd.
+* Continue on Molteno Rd for ~ 500m until you join Jan Celliers Rd ahead.
+* After about 200m, enter the circle, take the 2nd exit to continue into the next circle.
+* Take the 3rd exit into the engineering parking. 
 
 #### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do in Stellenbosch?** {.faq-item}
 
 Stellenbosch has a lot to offer, it’s one of the most beautiful and vibey towns in South Africa. There is plenty to see and do close to Stellies and further afar if you have the time and are able.
 
 **🍇 Wine & 🥙Food**
+* [Lanzerac Wine Estate](https://maps.app.goo.gl/cuzbmvwqEqxH1Uza9) - Ultimate experience in the Cape Winelands, closest wine estate to the venue
 * [Bartinney Wine Estate](https://www.bartinney.co.za/) - Boutique winery nestled in the picturesque Banhoek Valley
 * [Spier Wine Farm](https://www.spier.co.za/) - Stunning views, luxury wine, and top-tier food.
-* [Java Bistro](https://www.javabistro.net/) - Beloved eatery located in the heart of Stellies
-
+* [Java Bistro](https://www.javabistro.net/) - Beloved eatery located in the heart of Stellies.
+* [De Vrije Burger](https://maps.app.goo.gl/x5ActjxezKjJGaRS7) - 100% Free range beef, double cheese, home made bun and all the trimmings.
 
 **🏛️ History & Culture**
 * [Stellenbosch Village Museum](https://stelmus.co.za/village-museum/) - Walk through historic homes from the 1700s.
@@ -150,6 +149,7 @@ Stellenbosch has a lot to offer, it’s one of the most beautiful and vibey town
 
 **☕ Town Vibes**
 * [Church Street](https://g.co/kgs/d6dio8Y) – Boutique shops, cafes, art galleries, live music spots.
+* [Moro Stellenbosch](https://maps.app.goo.gl/3jppWT4kzuNw4E7k6) - One of the best ice cream gelateria in town
 * [Blue Crane & The Butterfly](https://meraki-living.co.za/) – Trendy coffee shops to chill or work from.
 * [Root44 Market (weekends)](hhttps://root44.co.za/) – Craft food, live music, local creators, great energy.
 
@@ -159,7 +159,7 @@ Stellenbosch has a lot to offer, it’s one of the most beautiful and vibey town
 
 We are pleased to invite attendees to apply to stay in accommodation in a residence on campus. Accommodation is limited and not guaranteed until payment is received.
 
-A form will be provided soon.
+More information will be provided once everythig is confirmed.
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
