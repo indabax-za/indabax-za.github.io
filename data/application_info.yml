@@ -15,7 +15,7 @@ applications:
   #   acceptance_date: see below for tips on how to [improve your application](#how-do-i-imporve-my-application)
   - heading: "Academia  \n\U0001F52D  \nEarly Bird Ticket: R2000"
     label: Register now
-    open: true
+    open: false
     closed_message: Closed!
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSe1UQC3OuWInaezM-PFOFFjRki0YpGLRrK3nOytsvBv5NDH8Q/viewform?usp=sharing"
     color: "#9A5BD4"
@@ -26,7 +26,7 @@ applications:
     acceptance_date: upon payment
   - heading: "Industry  \n\U0001F6E0  \nEarly Bird Ticket: R3700"
     label: Register now
-    open: true
+    open: false
     closed_message: Closed!
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSeO3RHUGhVs8NenlhJobSCUMb0Qt81qyRz1qaWiLv0r6FIWFQ/viewform?usp=dialog"
     color: "#228EE3"
