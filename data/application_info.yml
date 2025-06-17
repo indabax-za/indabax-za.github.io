@@ -13,27 +13,27 @@ applications:
   #     basis
   #   close_date: 2023-06-09T23:00:00.000+00:00
   #   acceptance_date: see below for tips on how to [improve your application](#how-do-i-imporve-my-application)
-  - heading: "Academia  \n\U0001F52D  \nEarly Bird Ticket: R2000"
+  - heading: "Academia  \n\U0001F52D  \nTicket: R2000"
     label: Register now
-    open: false
+    open: true
     closed_message: Closed!
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSe1UQC3OuWInaezM-PFOFFjRki0YpGLRrK3nOytsvBv5NDH8Q/viewform?usp=sharing"
     color: "#9A5BD4"
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2025-06-13T23:00:00.000+02:00
+    close_date: 2025-06-27T23:00:00.000+02:00
     acceptance_date: upon payment
-  - heading: "Industry  \n\U0001F6E0  \nEarly Bird Ticket: R3700"
+  - heading: "Industry  \n\U0001F6E0  \nTicket: R3700"
     label: Register now
-    open: false
+    open: true
     closed_message: Closed!
     URL: "https://docs.google.com/forms/d/e/1FAIpQLSeO3RHUGhVs8NenlhJobSCUMb0Qt81qyRz1qaWiLv0r6FIWFQ/viewform?usp=dialog"
     color: "#228EE3"
     open_date:
       again soon. Tickets released in multiple waves on a first come, first serve
       basis
-    close_date: 2025-06-13T23:00:00.000+02:00
+    close_date: 2025-06-27T23:00:00.000+02:00
     acceptance_date: upon payment
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Apply to attend for free
