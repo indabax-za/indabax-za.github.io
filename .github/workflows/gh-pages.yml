@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04 #Use ubuntu 22 runner
     steps:
       - uses: actions/checkout@v2
         with:
