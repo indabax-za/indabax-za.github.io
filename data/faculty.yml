@@ -1,25 +1,11 @@
 ---
 people:
-  - name: Arnu Pretorius
-    years:
-      - Keynote
-    talk_description: ""
-    bio: ""
-    topic: "AI For Good"
-    affiliation: InstaDeep
-    link: modal
-    image: "/migrate/2018/assets/organiser_data/arnu_pretorius/image.jpg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/arnupretorius/
-        icon: ""
-
-  - name: Joan Byamugisha
+  - name: Dr. Joan Byamugisha
     years:
       - Fundamentals
-    talk_description: ""
-    bio: ""
-    topic: "NLP"
+    talk_description: "In this talk, I'll discuss the beginnings of work aimed to capture human language computationally, which led ultimately to the field of computational linguistics. I'll focus on the four main categories of methodologies: syntactic, grammar, knowledge, and corpus. Through examples of various scenarios, I'll explain these methodologies as well as real-world impediments or benefits to applying them appropriately."
+    bio: "Joan Byamugisha is a research scientist at IBM Research Africa in Johannesburg, South Africa. She has a PhD in Computer Science, an MSc in Software Engineering, and a BSc in Computer Science and Economics. Her areas of research include: knowledge-based biomedical text processing; Bantu language text generation and resource development; and linguistic computational formalisms to augment corpus-based NLP."
+    topic: "Evolution of NLP Methods, and their Fit-for-purpose"
     affiliation: "IBM Research - Africa"
     link: modal
     image: "/images/people/byamugisha.jpg"
@@ -31,26 +17,26 @@ people:
   - name: Dr Sebonkile Thaba
     years:
       - Lecture
-    talk_description: ""
-    bio: ""
-    topic: "Cyber Security"
+    talk_description: "This talk explores how non-technical students, particularly in supply chain and logistics, are empowered to build blockchain-based solutions addressing real-world challenges. By blending classroom learning with innovation, students develop startups that drive impact in underserved sectors such as automotive services and textile trade."
+    bio: "Dr Sebonkile Thaba is a lecturer in the Department of Supply Chain Management at the University of Johannesburg. She holds a PhD in Operations Management and has extensive experience in sustainable logistics, blockchain innovation, and social enterprise development. As the Director of the IEOM Society in the SADC region and a Blockchain technical expert for the BRICS Business Council, she champions entrepreneurial education and the commercialization of student-led innovations. Dr Thaba has empowered diploma-level students to create blockchain-based startups in the automotive and textile industries, showcasing the transformative potential of interdisciplinary learning. Her work has been recognized through several national and international awards for excellence in teaching, innovation, and academic leadership."
+    topic: "From Supply Chains to Smart Solutions: Empowering Non-Technical Students with Blockchain Innovation"
     affiliation: "University of Johannesburg"
     link: modal
     image: "/images/people/sebonkile_thaba.jpeg"
     social_media: []
 
-  - name: Antoine Bagula
+  - name: Bigomokero Antoine Bagula
     years:
       - Lecture
-    talk_description: ""
-    bio: ""
-    topic: "Federated"
+    talk_description: "As Artificial Intelligence continues to progress, the underlying architectures that support learning across distributed, privacy-sensitive environments must also evolve. “Federated Learning (FL)” has emerged as a powerful framework for privacy-preserving, decentralized model training. However, its conventional implementation assumes homogeneous data distributions and identical model architectures across all clients—assumptions that rarely hold in real-world scenarios. This talk introduces the concept of “Diversity Learning” within federated architectures. In this approach, clients are grouped into clusters based on the nature of their data and operational roles. Each cluster is trained using a model architecture best suited to its specific context—whether temporal, spatial, or multi-modal—giving rise to the “Federated Diversity Learning (FedDivL)” paradigm. FedDivL embraces both data and model heterogeneity, enabling more flexible and context-aware learning. However, this diversity introduces new challenges in aggregating knowledge across heterogeneous clusters. To overcome these, FedDivL requires the development of “adaptive fusion strategies” that move beyond conventional averaging techniques. These strategies enable more informed and reliable global decision-making. Selected fusion strategies will be presented in this talk. Through use cases in network intrusion detection (e.g., SDN-based DDoS attacks) and smart infrastructure systems, the talk will demonstrate how diversity-aware federated learning enhances system robustness, adaptability, and generalization—particularly in dynamic and resource-constrained environments. Participants will gain insight into the limitations of traditional FL and explore how embracing diversity in both data and model design can unlock the next generation of collaborative, intelligent systems."
+    bio: "Prof. Bigomokero Antoine Bagula is a professor of Computer Science at the University of the Western Cape (UWC), South Africa, where he leads the Intelligent Systems and Advanced Telecommunications (ISAT) Lab. He also holds a professorial role at Université Nouveaux Horizons (UNH) in the DRC. He holds a Ph.D. in Communication Systems from KTH (Sweden), and MSc degrees from UCL (Belgium) and Stellenbosch University (South Africa). His research spans Artificial Intelligence, Federated Learning, Big Data, Cloud/Fog Computing, High-Performance Computing, IoT, and Network Softwarization (NFV/SDN). With a strong focus on applying machine learning to distributed and resource-constrained environments, he contributes to advancing digital infrastructure in the Global South."
+    topic: "Artificial Learning: From Federated Learning to Diversity Learning"
     affiliation: "University of the Western Cape (UWC)"
     link: modal
     image: "/images/people/antoine_bagula.jpg"
     social_media:
       - title: LinkedIn
-        link: https://za.linkedin.com/in/antoine-bagula-2075305
+        link: https://scholar.google.com/citations?hl=en&user=7RjFNjIAAAAJ
         icon: ""
 
   - name: Pius Owolawi
@@ -67,15 +53,15 @@ people:
         link: https://za.linkedin.com/in/owolawi-pius-97b61375
         icon: ""
 
-  - name: Hossein Masoumi-Karakani
+  - name: Dr. Hossein Masoumi-Karakani
     years:
       - Fundamentals
-    talk_description: ""
-    bio: ""
-    topic: "Data Literacy Foundations"
+    talk_description: "In a world overflowing with information, data is the new language of power - and literacy is no longer just about reading and writing. This talk explores how we can build a thriving data culture that empowers students, educators, and institutions to confidently navigate, question, and use data in meaningful ways. Across Africa, data is being generated at an unprecedented rate - from mobile usage to education and health systems - but much of it remains underutilised or misunderstood. This is not about tools or platforms - it is about cultivating data thinking: the mindset to ask the right questions, spot patterns, and make informed decisions. Join us for an interactive and engaging session packed with real-world examples, bold ideas, and practical ways to turn data into meaningful impact."
+    bio: "Dr. Hossein Masoumi Karakani is a statistician and Senior Institutional Researcher at the University of Pretoria’s Department of Institutional Planning, Monitoring, and Evaluation. He holds a Ph.D. in Mathematical Statistics and a certificate in Statistical Learning from Stanford. Specialising in Advanced Analytics, Time Series, and Bayesian techniques, he builds interpretable and ethical models to solve higher education challenges. Hossein is a 2024 fellow of the Tuks Young Research Leadership Programme (TYRLP), a top 1% Kaggle data scientist, and has presented at global conferences such as the Computational and Methodological Statistics and the International Conference on Sustainable Development (ICSD). He serves on scientific committees like the African Computer Vision School and mentors in the Kaggle BIPOC programme. As an EXCO member of the Southern African Association for Institutional Research (SAAIR) and advisory board member for the Sub-Saharan Africa University Rankings, he advocates for an African voice in global academia. Rooted in Ubuntu, he champions data literacy as a force for equity, inclusion, and transformation."
+    topic: "Data Culture Rising: Literacy for the Next Generation"
     affiliation: University of Pretoria
     link: modal
-    image: "/images/people/Hossein_Masoumi_Karakani.jpg"
+    image: "/images/people/Hossein.jpg"
     social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/hossein-masoumi-karakani/
@@ -103,12 +89,12 @@ people:
     image: "/images/people/sibusisiwe_makhanya.jpeg"
     social_media: []
 
-  - name: Naweed Khan
+  - name: Mr. Naweed Khan
     years:
       - Lecture
-    talk_description: ""
-    bio: ""
-    topic: "Fundamentals of ML or symbolic AI"
+    talk_description: "In this talk, we will journey through the evolution of Artificial Intelligence, from its foundational underpinnings to its current transformative state. We'll explore key historical milestones and pivotal breakthroughs that have shaped the AI landscape, leading us to the contemporary dominance of LLMs and the burgeoning field of Agentic AI. The discussion will particularly focus on how recent advancements, such as sophisticated LLM roles and tool calling are enabling AI to tackle increasingly complex tasks within industry. While maintaining an industry-centric perspective on the practical applications and strategic implications of these technologies, the content will provide insights into how research and engineering is bridging the gap between theoretical knowledge and real-world impact."
+    bio: "Naweed Khan is a Master Inventor and Staff Research Scientist in the AI Science team at IBM Research - Africa. He is a recipient of IBM’s Research Accomplishment award, with work focusing on enhancing core machine learning algorithms, computational framework implementation and infrastructure development in projects that look beyond today’s advancements. He develops tools that push the boundaries in AI for Data, making machines that reason with knowledge, learn with noisy data and compute in an efficient and symbolically interpretable way. Naweed obtained his MEng in Robotics and Image processing at the University of Johannesburg, where he also holds a BSc in Computer Science."
+    topic: "The state of AI"
     affiliation: IBM Research Africa
     link: modal
     image: "/images/people/khan.jpg"
@@ -132,29 +118,369 @@ people:
         link: https://www.linkedin.com/in/aidan-helmbold-037b0534/
         icon: ""
 
-  - name: Gavin Rens
+  - name: Dr. Gavin Rens
     years:
       - Fundamentals
-    talk_description: ""
-    bio: ""
-    topic: "Artificial Intelligence"
+    talk_description: "The historical foundations of artificial intelligence (AI) are strongly based on formal symbolic logics, especially first-order logic. Although statistical, sub-symbolic methods have gained prominence in the last two decades, research in symbolic method have continued and there have been many significant contributions based on symbolic methods. There has also been much progress in applying machine learning (ML) techniques to symbolically represented knowledge. In recent years, neuro-symbolic (NeSy) methods have gained much research interest. NeSy attempts to combine the power of ML, especially neural networks, with the precision, compactness and the power of logical reasoning. In this talk, I'll discuss these themes and related topics, like inductive logic programming, dynamic Bayesian networks and symbolic reinforcement learning."
+    bio: "Gavin Rens received his Doctoral degree from the University of KwaZulu-Natal in 2015. He then took post-doctoral fellowships at UKZN, the University of Cape Town and the KU Leuven university in Belgium, before joining the academic staff of the Computer Science division of Stellenbosch University. For his doctoral research, Gavin developed a logical language for representing and reasoning about partially observable Markov decision processes. Much of his early postdoc work involved probabilistic and logic-based belief-change theory. Later, as a postdoc and more recently, Gavin has done research in probabilistic planning and reinforcement learning. He also has an interest in agent architectures and has a few publications on the topic."
+    topic: "Symbolic Methods in Artificial Intelligence and Machine Learning"
     affiliation: Stellenbosch University
     link: modal
     image: "/images/people/gavin_rens.jpeg"
-    social_media: []
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/gavin-rens/
+        icon: ""
 
-  - name: Axel Tideman
+  - name: Dr. Axel Tideman
     years:
       - Lecture
-    talk_description: ""
-    bio: ""
-    topic: "Recommender systems, running a large ML team"
+    talk_description: "Machine learning is crucial to enable Takealot to grow at scale by making operations more efficient, as well as providing search results and recommendations to customers. Takealot handles millions of search requests per day, generating a treasure trove of data. Model development and deployment happens on Vertex AI on the Google Cloud Platform, using the TensorFlow ecosystem for predictive AI, as well as generative AI APIs. The talk will present the teams, machine learning models, the frameworks and the data that make up the Takealot machine learning environment."
+    bio: "Axel Tidemann holds a doctorate in machine learning from the Norwegian University of Science and Technology (2009). He has since been working in both academia and industry on various applications of machine learning. In 2020, he moved from Norway to Cape Town to start working as a machine learning manager at Takealot, supervising the machine learning teams."
+    topic: "Machine learning at Takealot"
     affiliation: "Takealot"
     link: modal
     image: "/images/people/axel_tideman.jpeg"
     social_media:
+      - title: GitHub
+        link: https://github.com/axeltidemann.png
+        icon: ""
+
+  - name: Stefan Dominicus
+    years:
+      - Lecture
+    talk_description: "On-platform recommendations are one of the core product discovery mechanisms helping Takealot.com customers “shop anything they can imagine”. In this talk, I'll draw back the curtain on some of our more interesting recommender systems, and the cutting edge technologies we use to build them."
+    bio: "I completed my degree in Mechatronics Engineering at the University of Cape Town in 2019. I joined Takealot.com in 2020, just ahead of the COVID boom in South African eCommerce. As a machine learning software engineer I focus on the development and application of ML and generative AI solutions that help our customers discover the products they want. My path from graduate to senior engineer has been full of interesting challenges, and many opportunities to grow my understanding of this exciting field. For the past two years I've worked predominantly on our recommendations domain architecture, with an emphasis on experimentation, robustness, and observability. Building on this platform, I look forward to working on personalisation and conversion rate optimisation projects in the near future."
+    topic: "Recommender Systems at Takealot.com"
+    affiliation: "Takealot"
+    link: modal
+    image: "/images/people/stefan_dominicus.jpg"
+    social_media: 
+      - title: Website
+        link: https://stefandominicus.info/
+        icon: ""
+
+  - name: Ms Ntshuxeko Confidence Mathebula    
+    years:
+      - Lecture
+    talk_description: "Intelligent Systems Engineering: Bridging AI and Simulation"
+    bio: "A Consultant at a software-agnostic consulting services company. With an engineering background by way of the University of the Witwatersrand and a strong foundation in analytics and software engineering. I support lecturers, researchers, and industry professionals with the use of MATLAB and Simulink."
+    topic: "Consultant"
+    affiliation: "Opti-Num Solutions"
+    link: modal
+    image: "/images/people/Ntshuxeko_Mathebula.jpg"
+    social_media: 
       - title: LinkedIn
-        link: https://no.linkedin.com/in/axel-tidemann
+        link: https://www.linkedin.com/in/ntshuxeko-mathebula/
+        icon: ""
+
+  - name: Tegan Green
+    years:
+      - Lecture
+    talk_description: ""
+    bio: "UX designer exploring the implications of AI for human well-being. Fascinated by the intersection of interaction design and multi-agent systems. Aiming to design for cooperative outcomes that support human agency."
+    topic: "UX designer exploring the implications of AI for human well-being"
+    affiliation: ""
+    link: modal
+    image: "/images/people/tegan_green.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/tegan-green/
+        icon: ""
+
+  - name: Tony Onazi Oche
+    years:
+      - Lecture
+    talk_description: "This article examines the viability of current South African AI laws and policies in addressing AI risks using prevalent AI incidents from databases as a baseline. It leverages a qualitative research method to analyse how current South African laws respond to case studies from AI incidents data bases. "
+    bio: "Tony Onazi Oche is a legal professional and technical researcher specializing in Artificial Intelligence (AI) governance. He holds a Bachelor of Laws (LL.B) and a Master’s degree in Security Studies and is currently pursuing a Ph.D. in International Relations at the University of Pretoria. Tony’s research interests lie at the intersection of technology, international security, and policy. He has published both an academic journal article and an opinion piece on autonomous weapon systems and is currently conducting research on the viability of South Africa’s AI policies in mitigating AI risks. He is a member of the 2024 UCDP Doctoral Research Cohort and serves as a researcher at the African Centre for the Study of the United States (ACSUS) at the University of Pretoria. The Centre is a policy-oriented unit that promotes scholarly engagement with American politics, culture, and foreign relations. With a multidisciplinary academic background and a dynamic professional trajectory, Tony brings informed insight into global affairs, geopolitics, and emerging fields in AI governance."
+    topic: "Real-Life AI Incidents as a Testing Tool for AI Safety Policies in South Africa"
+    affiliation: "University of Pretoria/ AI Safety South Africa"
+    link: modal
+    image: "/images/people/Tony_Oche_PPX.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/tonyonazioche/
+        icon: ""
+
+  - name: Charl Botha
+    years:
+      - Lecture
+    talk_description: "The rapid pace of AI Progress presents both massive opportunities, and massive risks. I will be discussing some of the current risks that AI pose, and contrast that with the current benefits of AI. We'll also consider future risks in light of the rapid development."
+    bio: "Charl Botha is transitioning into Technical AI Safety, bringing a background in Software Development and a BSc in Computer Science & Applied Statistics from UCT. He is currently exploring agent evaluations and multi-agent simulations. Charl is also a writer and facilitator at AI Safety Cape Town."
+    topic: "AI Progress: Promise or Peril"
+    affiliation: "AI Safety"
+    link: modal
+    image: "/images/people/charlbotha.jpg"
+    social_media:
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/botha-charl/
+        icon: ""
+
+  - name: Mr Francois Naude
+    years:
+      - Lecture
+    talk_description: "IMS research Hackathon / This study presents a novel deep learning framework for seismic wave identification in noisy, complex mining environments using targeted training strategies. The results show improved accuracy, noise handling, and generalizability in real-world seismological applications."
+    bio: "I enjoy doing meaningful work that serves others and enjoy being in collaborative environments. I hold an MSc in Applied Mathematics from Stellenbosch University and currently work at the Institute of Mine Seismology (IMS), the world’s leading microseismic monitoring company. At IMS, I focus on developing advanced seismological processing models that combine physics, mathematics, and machine learning to improve the real-time analysis and interpretation of seismic data. My work involves designing neural network architectures and applying statistical techniques to enhance the accuracy and speed of seismic phase picking and event detection. IMS records over 70,000 seismic events daily, primarily in mines where timely analysis can help save lives. With machine learning still an emerging field in this industry, I’m excited by the opportunities to innovate and contribute to safer, data-driven mining operations. I’m passionate about building solutions that are not only technically strong but also impactful and practical in the field."
+    topic: "Hackathon / Augmentation and Training Strategies for Improved Phase Arrival Picking in Microseismic Monitoring"
+    affiliation: "Institute of Mine Seismology"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/francois-naude-fn/
+        icon: ""  
+
+  - name: Wiida Fourie-Basson
+    years:
+      - Workshop
+    talk_description: "In these two talks I will address the difference between science communication and science journalism, how we are building science communication capacity in Africa, and engage with practical tools to craft your message for different audiences."
+    bio: "I am an experienced science writer and communicator, currently working as science writer for the Faculty of Science at Stellenbosch University. I cover research-related outputs across the physical, mathematical and life sciences, in the process translating highly scientific and technical content into a final product that the public can relate to - be it a media release, video, images or diving deep with in-depth features. I also work part-time as a freelance science journalist, writing primarily for Nature Africa, as well as making use of every opportunity to build science communication and science journalism capacity in Africa."
+    topic: "Workshop: Building Science Communication Capacity in Africa"
+    affiliation: "Stellenbosch University"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/wiida-fourie-bassonn-8362647b/
+        icon: ""
+
+  - name: Mr Boyd Robert Kane
+    years:
+      - Lecture
+    talk_description: "How does the global economy work if a handful of companies have automated white-collar labour? People talk about UBI, but why would America fund a citizen's stipend for South Africans? This talk will motivate why large-scale white-collar job automation is coming, and explores both the dangers of this upheaval and how we can guide the world towards prosperity."
+    bio: "Boyd Kane received his Master's in Computer Science from Stellenbosch University in 2023, specialising in Machine Learning and Robotics. After interning with Amazon Web Services in Cape Town, he joined CubeSpace satellite systems to write software that controls satellites in orbit. He does independent research with a focus on mechanistic interpretability and reinforcement learning, and frequently attends discussions hosted by AI Safety Cape Town. Boyd reads and writes obsessively, and is focused on the second-order effects that powerful AI systems will have on the world. His writing on experts and novices has been read over a hundred thousand times, and currently is investigating how people, companies, and countries can best situate themselves to be in charge of their future."
+    topic: "Employment after AGI: Paths, Dangers, Strategies"
+    affiliation: "AI Safety"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://boydkane.com/
+        icon: ""
+    
+  - name: Mbalenhle Ntuli
+    years:
+      - Workshop
+    talk_description: "Giving a hands-on session on how to improve science communication."
+    bio: "Mbalenhle is a Master of Science student in the Department of Physiological Sciences at Stellenbosch University, where she is part of the Neuro Research Group. Her research focuses on the characterization of spatiotemporal autophagosome flux and its impact on the cognitive-motor function of a fly model. She is a dedicated and innovative individual with a strong passion for learning, problem-solving, and scientific discovery. Known for her diligent nature and proactive approach, Mbalenhle is committed to personal development and making a positive impact in her community. Her long-term ambition is to drive change through research and education, contributing meaningfully to the advancement of science and society."
+    topic: "Workshop: Building Science Communication Capacity in Africa"
+    affiliation: "Stellenbosch University"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/mbalenhle-ntuli/
+        icon: ""
+    
+  - name: Dr. Sara Andreotti
+    years:
+      - Workshop
+    talk_description: "Dr Sara Andreotti has been working on white sharks since 2007. Following her first scientific publications, she had to learn how to effectively use the university’s resources to communicate her findings and steer public debate toward shark conservation. In this talk, Dr Andreotti reflects on a decade of science communication and her learning curve in engaging with the public, media, and policymakers about marine conservation. Drawing from personal experience, she shares what works, what doesn’t, and why clear, honest storytelling is more important than ever for bridging the gap between science and society."
+    bio: "Dr Sara Andreotti is a marine biologist and extraordinary lecturer at Stellenbosch University, specializes in global shark management and conservation. Her pioneering research, including genetic analysis and population assessments, led to the first national evaluation of South African white shark population. As a supervisor and researcher, Sara fosters academic growth, overseeing multiple postgraduate projects. In 2022 she co-founded the SharkWise Project Marine Internship program, to provide the needed platform and logistics to her students. Passionate about shark conservation, she also co-founded SharkSafe Barriers (Pty) Ltd. The company's flagship product, the SharkSafe BarrierTM, employs eco-friendly technology mimicking kelp forests to deter large predatory sharks. Sara, one of the co-inventors, envisions the barrier promoting peaceful coexistence between humans and sharks, revitalizing coastal ecology and tourism. Currently, she serves as the Chief Operating Officer and a Founding Director, driving the company's mission forward."
+    topic: "Workshop: Building Science Communication Capacity in Africa"
+    affiliation: "Stellenbosch University / SharkSafe Barrier Pty / SharkWise Pty / SCAR Trust"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/sara-andreotti-b044106/
+        icon: ""
+
+  - name: Dr. Werner Janse van Rensburg
+    years:
+      - Lecture
+    talk_description: "Introduction to NICIS: Your Compute (CHPC), Data (DIRISA) and Network (SANReN) Infrastructure Services Partner"
+    bio: "Dr Werner Janse van Rensburg is the Research Manager at the Centre for High Performance Computing (CHPC) where he has fulfilled this role for more than a decade. He is responsible for supporting the broad and diverse user base of the CHPC to ensure optimal use of its high performance computing resources. An important and growing section of the CHPC user base utilises the CHPC for Machine Learning model developments for application in diverse research domain areas. He is also responsible for the CHPC human capital development and training programmes offered to users."
+    topic: "Introduction to NICIS: Your Compute (CHPC), Data (DIRISA) and Network (SANReN) Infrastructure Services Partner"
+    affiliation: "Centre for High Performance Computing"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/werner-janse-van-rensburg-82235738/
+        icon: ""
+
+  - name: Mr. Thapelo Maupa
+    years:
+      - Lecture
+    talk_description: "A friendly introduction to the Mathematical Basics for Machine Learning."
+    bio: "BSc. Biochemistry. ACM Member. IEEE P3430 'Recommended Practice for A Holistic Framework for AI Foundation Models' Working Group contributing member. IEEE P3429 'Recommended practices for levels of artificial intelligence generated content technologies' Working Group contributing member. IEEE 11073 Standard Committee Member."
+    topic: "A friendly Introduction to the Mathematical Basics for Machine Learning."
+    affiliation: "Independent Researcher."
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/tp-maupa
+        icon: ""
+
+  - name: Mzwandile Mhlongo
+    years:
+      - Workshop
+    talk_description: "This hands-on workshop explores how to build agentic AI workflows from scratch using Retrieval Augmented Generation (RAG), custom tools, and Text2SQL. You’ll learn to design systems that can reason, retrieve information, and generate structured queries, enabling more autonomous and intelligent behaviour. The workshop also covers how to implement evaluation strategies and monitoring systems to measure performance, ensure reliability, and maintain oversight of agent behaviour in real world applications."
+    bio: "Mzwandile Mhlongo is a Senior AI/ML Engineer at Standard Bank, bringing years of experience as a Data Scientist to his role. He specialises in developing agentic workflows, optimising AI driven systems, and crafting personalised solutions for targeted campaigns. Mzwandile excels in leveraging machine learning to enhance system efficiency and deliver tailored, data-driven outcomes that align with business objectives. His expertise spans designing scalable AI models and implementing innovative solutions to address complex challenges in the financial sector. Passionate about advancing AI applications, Mzwandile leads transformative projects at Standard Bank, driving operational excellence and strategic impact through cutting-edge machine learning techniques."
+    topic: "Building AI Agentic Workflows from Scratch: A Hands-On Tutorial on RAG, Text2SQL, & Tools"
+    affiliation: "Standard Bank"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/mzwamoj
+        icon: ""
+
+  - name: Avi Moodley
+    years:
+      - Lecture
+    talk_description: "Generative AI and NLP solutions are quickly becoming line items in technology roadmaps across the private sector. This talk aims to provide insights of CSIR's NLP capabilities that can aid industry adoption of generative AI and NLP solutions across various sectors and domains to gain operational efficiencies and localized AI solutions."
+    bio: "Avi Moodley is a Principal AI Specialist and Research Group Leader: Natural Language Processing at the CSIR with over a decade of experience leading multidisciplinary teams to successfully deliver value-driven software, data, NLP and AI solutions across industries such as research, mining, consulting and telecommunications. His current focus is on leveraging a strong NLP R&D team to aid private sector adoption of generative AI and NLP solutions."
+    topic: "NLP Solutions for Practical Industry Use Cases"
+    affiliation: "Council for Scientific and Industrial Research (CSIR)"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/avashlinmoodley/
+        icon: ""
+
+  - name: Ruan de Kock
+    years:
+      - Workshop
+    talk_description: "It is a workshop with basics on linear algebra for machine learning."
+    bio: "Ruan works as a research engineer at InstaDeep. His research focuses on developing cutting edge multi-agent reinforcement learning algorithms for solving challenging problems at scale."
+    topic: "A friendly introduction to the Mathematical Basics for Machine Learning."
+    affiliation: "InstaDeep"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/ruan-de-kock/
+        icon: ""
+
+
+  - name: Mr. Ndivhuwo Nyase
+    years:
+      - Workshop
+    talk_description: "This workshop provides a technical introduction to quantum mechanics and its application in quantum computing, with a focus on foundational concepts such as superposition, entanglement, and measurement.  We’ll clarify foundational ideas through famous thought experiments like Schrödinger’s cat and explore how qubits differ fundamentally from classical bits. Finally, we will introduce quantum machine learning (QML) and variational quantum classifiers (VQCs), highlight difference between QML and classical Machine Learning. The session concludes with a hands-on implementation using the Qiskit SDK for cancer classification from histopathology images, emphasizing hybrid workflows and the role of high-performance computing in quantum pipelines."
+    bio: "Ndivhuwo Nyase is a Research Scientist at IBM Research Africa, where he develops hybrid quantum-classical models for cancer research and biomarker discovery. His work bridges Quantum Computing, Topological Data Analysis, and Machine Learning to improve clinical outcome prediction. With a background in Data Science and AI, he also leads quantum advocacy efforts across Africa, organizing workshops, meet-ups, and collaborations to grow the continent’s quantum ecosystem."
+    topic: "Quantum Machine Learning 4 Africa"
+    affiliation: "IBM Research Africa"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/ndivhuwo-nyase/
+        icon: ""
+
+  - name: Amy Bray
+    years:
+      - Lecture
+    talk_description: "Competitive machine learning isn't just for fun. My practicing on fields outside your occupations field you can improve your CV and potentially find a new passion."
+    bio: "I am a data scientist and project manager, enjoying working in the dynamic space of AI in Africa. I pride myself on my critical thinking, quick problem solving, and empathy. I enjoy connecting with people in their industries, sharing my experiences and learning from theirs. My background is in theoretical physics and applied mathematics. All my AI skills have been learnt through competitive ML."
+    topic: "Competitive Machine Learning to Improving your CV"
+    affiliation: "Zindi"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: []
+
+
+  - name: John Matogo
+    years:
+      - Lecture
+    talk_description: "I will introduce IBM SkillsBuild, a free, comprehensive digital learning platform designed to equip learners with in-demand skills for the modern workforce. Tailored for students, educators, and job seekers, SkillsBuild offers curated learning paths in areas such as artificial intelligence, cybersecurity, data science, and professional skills. I will showcase how educators and learners can access high-quality content, earn industry-recognized badges, and leverage resources for both classroom and self-paced learning. Additionally, I’ll share practical tips on integrating SkillsBuild into academic and training environments to support career readiness and lifelong learning."
+    bio: "John Matogo is the Corporate Social Responsibility Leader for Africa and the Middle East at IBM. Since 2014, he has led IBM’s social impact programs across the region, focusing on digital skills development, volunteerism, and sustainability. His work has enabled the training of tens of thousands of students and faculty in emerging technologies such as AI, cloud computing, and cybersecurity, resulting in over 5,000 certifications.Previously, John was the founding manager of @iBizAfrica at Strathmore University and a faculty member in its IT department. He coordinated East Africa’s first university e-readiness survey and has been a strong advocate for technology in education. John is a Senior IEEE member, former Chair of the IEEE Kenya Section, and has served in leadership roles with AfriLabs and FOSSFA. His work reflects a deep commitment to innovation, open-source technology, and empowering youth through digital transformation."
+    topic: "Skills Build Resources"
+    affiliation: "IBM"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/johnmatogo/
+        icon: ""
+
+
+  - name: Jeroen Van Goey
+    years:
+      - Lecture
+    talk_description: "Imagine combining the precision of quantum chemistry with the speed of classic simulations—without sacrificing either. MLIP (Machine Learning Interatomic Potentials) uses neural networks to predict how atoms interact, bridging the gap between density functional theory and traditional force fields In this talk, I’ll demystify how the mlip library lets anyone train and fine-tune state-of-the-art models and run full molecular dynamics simulations in JAX with just a few lines of code."
+    bio: "Jeroen Van Goey is a BioAI Staff Software Engineer at InstaDeep where he leads a dynamic team in developing and maintaining tools for personalized cancer vaccine workflows."
+    topic: "Machine Learning Interatomic Potentials (MLIP)"
+    affiliation: "InstaDeep"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/jeroenvangoey/
+        icon: ""
+
+
+  - name: Samuel Oladejo
+    years:
+      - Lecture
+    talk_description: "This research introduces ForecastRL, a novel deep learning framework that integrates neural time series forecasting with risk-aware reinforcement learning for financial trading. Our key contribution is a unified architecture that enables bidirectional information flow between predictive and decision-making components through a custom ForecastAugmentedRLEnv that injects forecasting outputs directly into the RL state space. We implement multiple neural forecasting models (NBEATSx, NHITS, LSTM, RNN, MLP) combined with policy gradient methods (PPO) and value-based approaches (DQN, A2C), enhanced by a risk preference system that implements different investor utility functions through parameterized reward shaping. This work contributes to deep learning research by demonstrating how to effectively combine temporal prediction models with sequential decision-making systems, with practical applications in quantitative finance and algorithmic trading."
+    bio: "I am a Software Engineer and graduate researcher with experience designing and deploying enterprise-grade fintech applications. My research focuses on the intersection of behavioral finance, neural forecasting, and reinforcement learning, developing novel frameworks for risk-aware autonomous trading systems that integrate investor risk preferences (risk-averse, risk-neutral, risk-loving) into reinforcement learning algorithms through sophisticated utility functions and risk-adjusted reward mechanisms. I'm passionate about translating cutting-edge research into real-world impact, particularly in developing autonomous decision-making systems that can model human behavioral biases and preferences. My work bridges the gap between behavioral finance theory and practical algorithmic trading, contributing to both academic understanding and industry applications in quantitative finance, portfolio optimization, and risk management."
+    topic: "ForecastRL: Neural Time Series Forecasting Integration with Risk-Aware Deep Reinforcement Learning for Financial Trading"
+    affiliation: "University of Johannesburg / Xero"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/saol/
+        icon: ""
+
+  - name: Prof Marlene Holmner
+    years:
+      - Lecture
+    talk_description: "Title: Ethics in the Age of AI: Balancing Privacy, Accuracy, and Access\nSpeaker: Prof. Marlene Holmner, Department of Information Science, University of Pretoria\n\nAs Artificial Intelligence becomes increasingly embedded in everyday life—shaping decisions, driving innovation, and redefining information systems—it also brings forth complex ethical dilemmas. This keynote explores the critical ethical dimensions of AI with a specific focus on privacy, accuracy, intellectual property, access, and security in the context of generative AI tools and large language models.\n\nDrawing from real-world examples, pending global lawsuits, and emerging African AI policy frameworks, Prof. Holmner unpacks the dangers of data misuse, algorithmic bias, and information inequality. She highlights how AI systems, while powerful, can replicate societal prejudices, leak sensitive data, and exacerbate digital divides.\n\nThrough the lens of ubuntu and African values of fairness and transparency, this talk calls for a responsible, context-sensitive approach to AI development and usage. Attendees will walk away with a deeper understanding of ethical risks, practical recommendations for researchers, and the urgent need for policies that protect both individual rights and collective societal good in the AI era."
+    bio: "Marlene Holmner holds a DPhil in Information Science from the University of Pretoria, South\nAfrica, and is an Associate Professor and the current Head of the Department of the Department of Information Science at the University of Pretoria. Her research interests lie in the field of Information Ethics, Indigenous Knowledge, ICT for Development, Information and Knowledge Society, Institutional Repositories, Digitization, Mobile Technologies and Curriculum Development. Her work has been published in various academic journals including the South African Journal of Libraries and Information Science, Information Development, Innovation and Mousaion. Furthermore, she has published in internationally accredited journals such as Library Hi-Tech, Library Philosophy and Practice and Information Technology for Development, to mention a few. She has presented various papers and led panel discussions at national and international conferences such as ProLISSA,\nSCECSAL, IFLA, IATUL, ALA, iConference, ASIST and pre-ECIS and AMCIS SIG GlobDev workshops. She has also been the programme chair and co-chair at SIG GlobDev workshops and mini-tracks. She teaches courses related but not limited to these fields at undergraduate and postgraduate level and as the study leader and supervisor of several Masters and PhD students. Marlene is a  member of various national and international organisations including, the Library and Information Association of South Africa (LIASA), the African Centre of Excellence for Information Ethics (ACEIE), the Association of Information Systems (AIS), the Association for Information Science and Technology (ASIST), and iSchool member to mention a few."
+    topic: "Ethics in the Age of AI: Balancing Privacy, Accuracy, and Access"
+    affiliation: "University of Pretoria"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/marleneholmner/
+        icon: ""
+                                   
+  - name: Ms Katherine Rabik
+    years:
+      - Lecture
+    talk_description: "This interactive workshop will help participants develop their presentation skills by learning how to simplify complex ideas, adapt their message to different audiences, and pitch their research confidently and concisely. It’s hands-on, practical, and designed so you can apply what you learn immediately in the poster session later that day."
+    bio: "Katherine Rabik is an MSCA Doctoral Candidate and Senior Research Assistant at the Public Engagement Lab at the Centre for Research on Evaluation, Science and Technology (CREST) under the supervision of Prof Marina Joubert, and she holds an MSc. in Science Communication and Public Engagement from the University of Edinburgh. Katherine’s research focuses on science communication and knowledge transfer in the wine industry and is part of the Horizon Europe project Eco2Wine, which is exploring how to develop more sustainable and eco-friendly wine. Her research involves identifying the most effective ways to support productive dialogue between wine industry stakeholders. With a background including additional degrees in engineering and education, Katherine approaches her research with a transdisciplinary perspective and is always looking for opportunities for collaboration and co-creation both within and outside academia."
+    topic: "Beyond the Poster: Practical Presentation Skills for Researchers"
+    affiliation: ""
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/marleneholmner/
+        icon: ""
+
+  - name: Dr. Lili Rademan
+    years:
+      - Workshop
+    talk_description: "Beyond the Poster: Practical Presentation Skills for Researchers is a dynamic and practical workshop designed to build confidence and clarity in science communication. Participants will explore strategies for delivering their message effectively—whether in formal presentations, poster sessions, or informal conversations. The session combines guidance from science communication researchers with interactive elements, including short pitch exercises, peer feedback, and audience role-play, to help researchers tailor their message, avoid jargon, and tell a compelling story about their work. Ideal for those looking to sharpen their presentation skills and connect more meaningfully with diverse audiences."
+    bio: "Lili Rademan is a postdoctoral fellow with the Public Engagement Exchange (PEX) at Stellenbosch University, focusing on leadership in public engagement with science. Her research strand examines how science and funding policies shape public engagement with science—tracing their evolution, measuring their impact, and exploring how key players perceive their ongoing significance. She recently completed her PhD at the Centre for Research on Evaluation, Science and Technology (CREST), specialising in science communication. Her research examined cancer pseudoscience in South African online news media and explored cancer researchers’ perspectives on combatting misinformation. With a background in physiology and journalism, Lili brings an interdisciplinary approach to her work, driven by a passion for bridging science and art. She collaborates on research projects exploring expert voices in media, online science engagement platforms, and public engagement strategies. She also presents science communication courses and workshops, empowering researchers to make science more accessible and engaging. Her motto is: mind of a scientist, heart of an artist."
+    topic: "Beyond the Poster: Practical Presentation Skills for Researchers"
+    affiliation: "Centre for Research on Evaluation, Science and Technology (CREST), Stellenbosch University"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/lili-rademan-058058149/
+        icon: ""
+
+  - name: Mr. Luther Chipembere
+    years:
+      - Workshop
+    talk_description: "Brilliant ideas mean nothing if no one understands them. In this fast-paced talk, we will explore the role of storytelling in science and how your voice and framing shape what people hear, remember, and act on. In a world shaped by algorithms and automation, the human voice is what brings meaning. Whether you are a researcher, student, or simply curious, this talk will shift how you think about communication and leave you with new ways to make your message matter. Most importantly, you will leave knowing why being heard and understood is just as important as being right."
+    bio: "Brings experience in project management, science communication, and internationalisation in the higher education, and NGO sectors. Skilled in supporting multidisciplinary programmes and strategic initiatives involving global stakeholders. Currently pursuing a PhD in Agricultural Economics at Stellenbosch University, working at the intersection of science communication, R&D, and science diplomacy. Passionate about bridging the gap between science, society, and policy. Proven ability to translate complex ideas into accessible content across platforms, formats, and audiences. Eager to bring this blend of experience, creativity, and curiosity to projects that turn research into stories, data into dialogue, and ideas into impact."
+    topic: "Workshop: Building Science Communication Capacity in Africa"
+    affiliation: "Stellenbosch University"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/luther-chipembere-234a21109/
         icon: ""
 
 # Note: The placeholder.jpg image will be used for speakers without specific images.
