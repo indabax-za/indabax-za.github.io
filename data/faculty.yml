@@ -216,7 +216,7 @@ people:
         link: https://www.linkedin.com/in/botha-charl/
         icon: ""
 
-  - name: Mr Francois Naude
+  - name: Mr. Francois Naude
     years:
       - Lecture
     talk_description: "IMS research Hackathon / This study presents a novel deep learning framework for seismic wave identification in noisy, complex mining environments using targeted training strategies. The results show improved accuracy, noise handling, and generalizability in real-world seismological applications."
@@ -224,7 +224,7 @@ people:
     topic: "Hackathon / Augmentation and Training Strategies for Improved Phase Arrival Picking in Microseismic Monitoring"
     affiliation: "Institute of Mine Seismology"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/francois_naude.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/francois-naude-fn/
@@ -238,13 +238,13 @@ people:
     topic: "Workshop: Building Science Communication Capacity in Africa"
     affiliation: "Stellenbosch University"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/wiida_fourie_basson.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/wiida-fourie-bassonn-8362647b/
         icon: ""
 
-  - name: Mr Boyd Robert Kane
+  - name: Mr. Boyd Robert Kane
     years:
       - Lecture
     talk_description: "How does the global economy work if a handful of companies have automated white-collar labour? People talk about UBI, but why would America fund a citizen's stipend for South Africans? This talk will motivate why large-scale white-collar job automation is coming, and explores both the dangers of this upheaval and how we can guide the world towards prosperity."
@@ -252,7 +252,7 @@ people:
     topic: "Employment after AGI: Paths, Dangers, Strategies"
     affiliation: "AI Safety"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/boyd.jpg"
     social_media: 
       - title: LinkedIn
         link: https://boydkane.com/
@@ -266,7 +266,7 @@ people:
     topic: "Workshop: Building Science Communication Capacity in Africa"
     affiliation: "Stellenbosch University"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/mbali.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/mbalenhle-ntuli/
@@ -280,7 +280,7 @@ people:
     topic: "Workshop: Building Science Communication Capacity in Africa"
     affiliation: "Stellenbosch University / SharkSafe Barrier Pty / SharkWise Pty / SCAR Trust"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/Sara_Andreotti.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/sara-andreotti-b044106/
@@ -294,7 +294,7 @@ people:
     topic: "Introduction to NICIS: Your Compute (CHPC), Data (DIRISA) and Network (SANReN) Infrastructure Services Partner"
     affiliation: "Centre for High Performance Computing"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/WernerJvRensburg-Photo.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/werner-janse-van-rensburg-82235738/
@@ -308,7 +308,7 @@ people:
     topic: "A friendly Introduction to the Mathematical Basics for Machine Learning."
     affiliation: "Independent Researcher."
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/maupa.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/tp-maupa
@@ -322,7 +322,7 @@ people:
     topic: "Building AI Agentic Workflows from Scratch: A Hands-On Tutorial on RAG, Text2SQL, & Tools"
     affiliation: "Standard Bank"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/mzwandile_mhlongo.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/mzwamoj
@@ -336,7 +336,7 @@ people:
     topic: "NLP Solutions for Practical Industry Use Cases"
     affiliation: "Council for Scientific and Industrial Research (CSIR)"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/avashlin_moodley.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/avashlinmoodley/
@@ -350,7 +350,7 @@ people:
     topic: "A friendly introduction to the Mathematical Basics for Machine Learning."
     affiliation: "InstaDeep"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/dekock2024.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/ruan-de-kock/
@@ -365,7 +365,7 @@ people:
     topic: "Quantum Machine Learning 4 Africa"
     affiliation: "IBM Research Africa"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/NdivhuwoNyase_photo.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/ndivhuwo-nyase/
@@ -379,7 +379,7 @@ people:
     topic: "Competitive Machine Learning to Improving your CV"
     affiliation: "Zindi"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/amy_bray.png"
     social_media: []
 
 
@@ -391,7 +391,7 @@ people:
     topic: "Skills Build Resources"
     affiliation: "IBM"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/john_matogo.jpeg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/johnmatogo/
@@ -406,7 +406,7 @@ people:
     topic: "Machine Learning Interatomic Potentials (MLIP)"
     affiliation: "InstaDeep"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/jeroen.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/jeroenvangoey/
@@ -421,7 +421,7 @@ people:
     topic: "ForecastRL: Neural Time Series Forecasting Integration with Risk-Aware Deep Reinforcement Learning for Financial Trading"
     affiliation: "University of Johannesburg / Xero"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/Samuel_Oladejo.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/saol/
@@ -435,7 +435,7 @@ people:
     topic: "Ethics in the Age of AI: Balancing Privacy, Accuracy, and Access"
     affiliation: "University of Pretoria"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/marlene_holmner.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/marleneholmner/
@@ -449,7 +449,7 @@ people:
     topic: "Beyond the Poster: Practical Presentation Skills for Researchers"
     affiliation: ""
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/Katherine_Rabik.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/marleneholmner/
@@ -463,7 +463,7 @@ people:
     topic: "Beyond the Poster: Practical Presentation Skills for Researchers"
     affiliation: "Centre for Research on Evaluation, Science and Technology (CREST), Stellenbosch University"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/lili_rademan.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/lili-rademan-058058149/
@@ -477,11 +477,24 @@ people:
     topic: "Workshop: Building Science Communication Capacity in Africa"
     affiliation: "Stellenbosch University"
     link: modal
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/Luther.jpg"
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/luther-chipembere-234a21109/
         icon: ""
 
+  - name: Prof Francesco Petruccione
+    years:
+      - Keynote
+    talk_description: "2025 marks the centenary of modern quantum mechanics—and has been officially declared the International Year of Quantum Science and Technology (IYQ) by the United Nations. This prestigious designation underscores the global imperative to raise awareness and cultivate quantum capacity, with a special emphasis on inclusive growth in the Global South.This keynote will introduce fundamental quantum concepts and articulate their transformational potential within machine learning. Through  illustrative examples of hybrid quantum-classical models in the NISQ (noisy intermediate-scale quantum) era, attendees will grasp both the promising opportunities and the current limitations of quantum-enhanced algorithms. The talk will balance visionary perspective with responsible realism: why quantum matters for ML today, what is feasible right now, and how practitioners can thoughtfully prepare for a quantum‑augmented future."
+    bio: "Francesco Petruccione is Professor of Quantum Computing at Stellenbosch University and Director of the National Institute for Theoretical and Computational Sciences (NITheCS). He holds a PhD and Habilitation in Physics from the University of Freiburg and previously served as Pro-Vice-Chancellor for Big Data and Informatics at the University of KwaZulu-Natal. He co-leads the Africa-Europe Cluster of Research Excellence in AI and Data Science (CoRE-AI) and held the South African Research Chair in Quantum Information Processing. He is a Fellow of several academies, including the Academy of Sciences South Africa and the African Academy of Sciences. His widely cited work includes the monographs The Theory of Open Quantum Systems and Machine Learning with Quantum Computers. In 2023, he was awarded the Stella d’Italia by the Italian government. He serves on editorial boards including Open Systems & Information Dynamics and Quantum Machine Intelligence."
+    topic: "Quantum Foundations: From Qubits to Intelligent Algorithms"
+    affiliation: "National Institute for Theoretical and Computational Sciences (NITheCS), Stellenbosch University"
+    link: modal
+    image: "/images/people/Francesco_Petruccione_blazer.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/francescopetruccione/
+        icon: ""
 # Note: The placeholder.jpg image will be used for speakers without specific images.
 # Please replace with actual speaker images as they become available.
