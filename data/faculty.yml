@@ -71,23 +71,13 @@ people:
     years:
       - Keynote
     talk_description: ""
-    bio: ""
+    bio: "He is a Computer Scientist and Quantitative Analyst with nearly 15 years of professional experience. His career began in the back office as a quant, where he developed statistical models for pricing embedded and exotic derivatives for banks and insurance companies. Later, he transitioned to the front office, where he built systematic trading strategies using deep learning techniques at a hedge fund. He leads NOSIBLE, a US venture-backed AI search engine. At NOSIBLE, they index millions of webpages daily, making them searchable in real-time. Their clients include asset managers, technology firms, and media companies that depend on immediate access to up-to-date web data."
     topic: "Indexing the whole web"
-    affiliation: ""
+    affiliation: "NOSIBLE"
     link: modal
     image: "/images/people/reid.jpg"
     social_media: []
 
-  - name: Dr. Sibusisiwe Makhanya
-    years:
-      - Keynote
-    talk_description: ""
-    bio: ""
-    topic: "AI 4 Good"
-    affiliation: IBM Research Africa
-    link: modal
-    image: "/images/people/sibusisiwe_makhanya.jpeg"
-    social_media: []
 
   - name: Mr. Naweed Khan
     years:
@@ -103,20 +93,6 @@ people:
         link: https://www.linkedin.com/in/naweedaghmad/
         icon: ""
 
-  - name: Aiden Helmbold
-    years:
-      - Lecture
-      - Keynote
-    talk_description: ""
-    bio: ""
-    topic: "Health"
-    affiliation: Sand Technologies
-    link: modal
-    image: "/images/people/aidan_helmbold.jpeg"
-    social_media:
-      - title: LinkedIn
-        link: https://www.linkedin.com/in/aidan-helmbold-037b0534/
-        icon: ""
 
   - name: Dr. Gavin Rens
     years:
@@ -302,7 +278,7 @@ people:
 
   - name: Mr. Thapelo Maupa
     years:
-      - Lecture
+      - Workshop
     talk_description: "A friendly introduction to the Mathematical Basics for Machine Learning."
     bio: "BSc. Biochemistry. ACM Member. IEEE P3430 'Recommended Practice for A Holistic Framework for AI Foundation Models' Working Group contributing member. IEEE P3429 'Recommended practices for levels of artificial intelligence generated content technologies' Working Group contributing member. IEEE 11073 Standard Committee Member."
     topic: "A friendly Introduction to the Mathematical Basics for Machine Learning."
@@ -429,7 +405,7 @@ people:
 
   - name: Prof Marlene Holmner
     years:
-      - Lecture
+      - Keynote
     talk_description: "Title: Ethics in the Age of AI: Balancing Privacy, Accuracy, and Access\nSpeaker: Prof. Marlene Holmner, Department of Information Science, University of Pretoria\n\nAs Artificial Intelligence becomes increasingly embedded in everyday life—shaping decisions, driving innovation, and redefining information systems—it also brings forth complex ethical dilemmas. This keynote explores the critical ethical dimensions of AI with a specific focus on privacy, accuracy, intellectual property, access, and security in the context of generative AI tools and large language models.\n\nDrawing from real-world examples, pending global lawsuits, and emerging African AI policy frameworks, Prof. Holmner unpacks the dangers of data misuse, algorithmic bias, and information inequality. She highlights how AI systems, while powerful, can replicate societal prejudices, leak sensitive data, and exacerbate digital divides.\n\nThrough the lens of ubuntu and African values of fairness and transparency, this talk calls for a responsible, context-sensitive approach to AI development and usage. Attendees will walk away with a deeper understanding of ethical risks, practical recommendations for researchers, and the urgent need for policies that protect both individual rights and collective societal good in the AI era."
     bio: "Marlene Holmner holds a DPhil in Information Science from the University of Pretoria, South\nAfrica, and is an Associate Professor and the current Head of the Department of the Department of Information Science at the University of Pretoria. Her research interests lie in the field of Information Ethics, Indigenous Knowledge, ICT for Development, Information and Knowledge Society, Institutional Repositories, Digitization, Mobile Technologies and Curriculum Development. Her work has been published in various academic journals including the South African Journal of Libraries and Information Science, Information Development, Innovation and Mousaion. Furthermore, she has published in internationally accredited journals such as Library Hi-Tech, Library Philosophy and Practice and Information Technology for Development, to mention a few. She has presented various papers and led panel discussions at national and international conferences such as ProLISSA,\nSCECSAL, IFLA, IATUL, ALA, iConference, ASIST and pre-ECIS and AMCIS SIG GlobDev workshops. She has also been the programme chair and co-chair at SIG GlobDev workshops and mini-tracks. She teaches courses related but not limited to these fields at undergraduate and postgraduate level and as the study leader and supervisor of several Masters and PhD students. Marlene is a  member of various national and international organisations including, the Library and Information Association of South Africa (LIASA), the African Centre of Excellence for Information Ethics (ACEIE), the Association of Information Systems (AIS), the Association for Information Science and Technology (ASIST), and iSchool member to mention a few."
     topic: "Ethics in the Age of AI: Balancing Privacy, Accuracy, and Access"
@@ -443,7 +419,7 @@ people:
                                    
   - name: Ms Katherine Rabik
     years:
-      - Lecture
+      - Workshop
     talk_description: "This interactive workshop will help participants develop their presentation skills by learning how to simplify complex ideas, adapt their message to different audiences, and pitch their research confidently and concisely. It’s hands-on, practical, and designed so you can apply what you learn immediately in the poster session later that day."
     bio: "Katherine Rabik is an MSCA Doctoral Candidate and Senior Research Assistant at the Public Engagement Lab at the Centre for Research on Evaluation, Science and Technology (CREST) under the supervision of Prof Marina Joubert, and she holds an MSc. in Science Communication and Public Engagement from the University of Edinburgh. Katherine’s research focuses on science communication and knowledge transfer in the wine industry and is part of the Horizon Europe project Eco2Wine, which is exploring how to develop more sustainable and eco-friendly wine. Her research involves identifying the most effective ways to support productive dialogue between wine industry stakeholders. With a background including additional degrees in engineering and education, Katherine approaches her research with a transdisciplinary perspective and is always looking for opportunities for collaboration and co-creation both within and outside academia."
     topic: "Beyond the Poster: Practical Presentation Skills for Researchers"

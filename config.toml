@@ -4,11 +4,11 @@ summaryLength = "10"
 theme = "indabax-website-base"
 timeZone = "Africa/Johannesburg"
 title = "Deep Learning Indaba𝕏 South Africa"
-#[[menu.main]]
-#URL = "schedule"
-#identifier = "schedule"
-#name = "Schedule"
-#weight = 1
+[[menu.main]]
+URL = "schedule"
+identifier = "schedule"
+name = "Schedule"
+weight = 1
 [[menu.main]]
 URL = "faq"
 identifier = "faq"
