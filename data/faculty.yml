@@ -39,12 +39,12 @@ people:
         link: https://scholar.google.com/citations?hl=en&user=7RjFNjIAAAAJ
         icon: ""
 
-  - name: Pius Owolawi
+  - name: Prof. Pius Owolawi
     years:
       - Keynote
-    talk_description: ""
-    bio: ""
-    topic: "Agriculture, and whatever he want to impress the masses"
+    talk_description: "Real-life applications and implementation"
+    bio: "Prof. Pius A. Owolawi is a seasoned academic, engineer, and industry strategist currently serving as Assistant Dean: Industry Liaison, Special Projects, and Work-Integrated Learning at Tshwane University of Technology. He holds a PhD in Electronic Engineering and multiple advanced qualifications in Artificial Intelligence, Machine Learning, Cloud Computing, and Mechatronics. Prof. Owolawi has led numerous interdisciplinary research projects spanning energy systems, wireless and optical communication, image processing, and the Industrial Internet of Things (IIoT). He has published over 200 scientific papers and was ranked among Africa’s top 500 researchers (2015–2020). A certified expert in Cisco, wireless networks, and fibre-optic systems, he is affiliated with IEEE, SAIEE, ECSA, and SARL. With deep industry collaboration experience—including with SETAs, Eskom, and GIZ. Prof. Owolawi bridges academia and innovation through smart partnerships, accredited programme design, and 4IR-driven solutions that empower communities and drive national development agendas."
+    topic: "Edge AI for Agriculture: Towards a Cognitive Farming"
     affiliation: "Tshwane University of Technology"
     link: modal
     image: "/images/people/pius_owolawi.jpeg"
@@ -471,6 +471,20 @@ people:
     social_media: 
       - title: LinkedIn
         link: https://www.linkedin.com/in/francescopetruccione/
+        icon: ""
+
+  - name: Prof. Mandla Gwetu
+    years:
+      - Fundamentals
+    talk_description: ""
+    bio: ""
+    topic: "Fundamentals of ML"
+    affiliation: ""
+    link: modal
+    image: "/images/people/Mandla-Gwetu_2023-150x150.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: https://ie.sun.ac.za/staff/full-time-lecturers-and-researchers/
         icon: ""
 # Note: The placeholder.jpg image will be used for speakers without specific images.
 # Please replace with actual speaker images as they become available.
