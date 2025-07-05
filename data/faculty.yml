@@ -42,7 +42,8 @@ people:
   - name: Prof. Pius Owolawi
     years:
       - Keynote
-    talk_description: "Real-life applications and implementation"
+    talk_description: "This talk explores how Edge AI technologies ranging from lightweight deep learning models to real-time drone-based computer vision are reshaping the agricultural landscape in Africa. Prof. Pius A. Owolawi presents a suite of deployed solutions that power cognitive farming systems, including AI-driven tomato grading, maize yield estimation using point segmentation, weed-targeting drones, smart egg and poultry monitoring, energy-forecasting biogas digesters, and LoRa-enabled irrigation control. The session highlights a unified platform integrating sensors, edge devices, analytics, and multilingual chatbots to deliver actionable, real-time feedback to farmers. Designed with open-source tools and scalable architectures, the initiative exemplifies inclusive, locally adapted agricultural innovation for resource-constrained environments.
+                      “From farm fields to real-time feedback, the age of cognitive farming has begun."
     bio: "Prof. Pius A. Owolawi is a seasoned academic, engineer, and industry strategist currently serving as Assistant Dean: Industry Liaison, Special Projects, and Work-Integrated Learning at Tshwane University of Technology. He holds a PhD in Electronic Engineering and multiple advanced qualifications in Artificial Intelligence, Machine Learning, Cloud Computing, and Mechatronics. Prof. Owolawi has led numerous interdisciplinary research projects spanning energy systems, wireless and optical communication, image processing, and the Industrial Internet of Things (IIoT). He has published over 200 scientific papers and was ranked among Africa’s top 500 researchers (2015–2020). A certified expert in Cisco, wireless networks, and fibre-optic systems, he is affiliated with IEEE, SAIEE, ECSA, and SARL. With deep industry collaboration experience—including with SETAs, Eskom, and GIZ. Prof. Owolawi bridges academia and innovation through smart partnerships, accredited programme design, and 4IR-driven solutions that empower communities and drive national development agendas."
     topic: "Edge AI for Agriculture: Towards a Cognitive Farming"
     affiliation: "Tshwane University of Technology"
@@ -459,7 +460,7 @@ people:
         link: https://www.linkedin.com/in/luther-chipembere-234a21109/
         icon: ""
 
-  - name: Prof Francesco Petruccione
+  - name: Prof. Francesco Petruccione
     years:
       - Keynote
     talk_description: "2025 marks the centenary of modern quantum mechanics—and has been officially declared the International Year of Quantum Science and Technology (IYQ) by the United Nations. This prestigious designation underscores the global imperative to raise awareness and cultivate quantum capacity, with a special emphasis on inclusive growth in the Global South.This keynote will introduce fundamental quantum concepts and articulate their transformational potential within machine learning. Through  illustrative examples of hybrid quantum-classical models in the NISQ (noisy intermediate-scale quantum) era, attendees will grasp both the promising opportunities and the current limitations of quantum-enhanced algorithms. The talk will balance visionary perspective with responsible realism: why quantum matters for ML today, what is feasible right now, and how practitioners can thoughtfully prepare for a quantum‑augmented future."
@@ -479,12 +480,57 @@ people:
     talk_description: ""
     bio: ""
     topic: "Fundamentals of ML"
-    affiliation: ""
+    affiliation: "Stellenbosch University"
     link: modal
-    image: "/images/people/Mandla-Gwetu_2023-150x150.jpg"
+    image: "/images/people/prof_mandla_gwetu.jpeg"
     social_media: 
       - title: LinkedIn
-        link: https://ie.sun.ac.za/staff/full-time-lecturers-and-researchers/
+        link: https://ie-datascience.sun.ac.za/staff/#Prof-Mandla-V-Gwetu
         icon: ""
+
+  - name: Shane Josias
+    years:
+      - Lecture
+    talk_description: "In this talk, I’ll discuss the reliability of likelihood estimates in continuous normalising flows trained with the conditional flow matching objective. Despite avoiding some pitfalls of maximum likelihood training, we find that these models still assign high likelihoods to out-of-distribution data. I’ll then explore whether the use of multimodal base distributions, specifically Gaussian mixtures aligned with data modes, can improve likelihood estimates. Finally, I’ll present preliminary results suggesting that training flows on autoencoder-derived features can mitigate overreliance on low-level pixel structure and improve likelihood reliability."
+    bio: "I am a lecturer in Applied Mathematics at Stellenbosch University, South Africa, where I have the privilege of teaching enthusiastic and curious students. I recently completed my PhD in Applied Mathematics, where I focused on computational efficiency and likelihood reliability in continuous-time normalising flows. My research interests lie in deep generative models, focusing on flow matching. I also have an interest in computer vision."
+    topic: "Multimodal base distributions in conditional flow matching generative models"
+    affiliation: "Stellenbosch University"
+    link: modal
+    image: "/images/people/shane_josias.jpeg"
+    social_media: 
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/shane-josias/
+        icon: ""
+
+
+  - name: Alaa Aldein Mohamed Suliman Ibrahim
+    years:
+      - Lecture
+    talk_description: "This work is part of my PhD study, which is a method used to improve classification accuracy by integrating transfer learning with the XGBoost algorithm. Specifically, a pre-trained VGG16 deep convolutional neural network is utilized as a feature extractor to capture high-level representations from steel surface images, while the XGBoost algorithm serves as the classifier to distinguish among six common types of surface defects."
+    bio: "I hold a BSc and MSc in Computer Science, and I just completed my PhD in Computer Engineering. I am a researcher with peer-reviewed journal articles and conference papers."
+    topic: "Transfer Learning-Based Method with Extreme Gradient Boost Classifier for Surface Defect Classification of Hot-Rolled Steel Strips"
+    affiliation: "University of Kwazulu-Natal"
+    link: modal
+    image: "/images/people/alee_mohamed.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: www.linkedin.com/in/alaa-aldein-ibrahim
+        icon: ""
+
+  - name: Besman Guesmi
+    years:
+      - Lecture
+    talk_description: "The escalation of climate change, population growth, and urbanisation have amplified the frequency and severity of natural hazards such as landslides. These events cause devastating impacts, such as loss of life, destruction of infrastructure, and environmental damage (e.g., loss of soil, habitat destruction). By leveraging deep learning approaches and their capabilities with remote sensing data, natural hazard events can be effectively detected and monitored. This could provide key information for early warning systems, allowing for better management and assessment of hazard risks. However, detecting and monitoring natural hazards such as landslides remains crucial but challenging. To effectively mitigate landslide risks, we propose a landslide detection network based on the integration of a pure transformer network with a Siamese U-shaped structure and an intermediate multilevel fusion strategy, called DETSlideNet (Dual-Encoder based Transformer for LandSlide), to detect landslide-affected regions accurately. Our proposed approach achieves state-of-theart (SOTA) performance by leveraging satellite and Unmanned Aerial Vehicle (UAV) imagery fusion through multilevel fusion, achieving a mean dice score exceeding 90%."
+    bio: ""
+    topic: "DETSlideNet: Dual-Encoder SwinTransformer for Scalable Landslides Detection and Monitoring"
+    affiliation: ""
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: 
+      - title: LinkedIn
+        link: ""
+        icon: ""
+
+    
 # Note: The placeholder.jpg image will be used for speakers without specific images.
 # Please replace with actual speaker images as they become available.
