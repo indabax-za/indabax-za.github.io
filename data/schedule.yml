@@ -1,223 +1,214 @@
 ---
 title: Schedule outline
 days:
-- title: Day 1
-  date: 2025-07-07
-  content:
-  sessions:
-  - time: 08h00 - 09h00
-    columns:
-      - title: Registration
-        track: ''
-        content: "Check in, collect conference materials, and prepare for an engaging day ahead! Once you've checked in, take a stroll around campus and grab some breakfast from one of the vendors."
-        location: Civil Engineering Building
-  - time: 09h00 - 11h00
-    columns:
-    - title: Machine Learning Maths
-      track: Workshop
-      content: ""
-      location: M2002
-      number: 
-      sessions:
-        - name: Mr. Thapelo Maupa
-        - name: Ruan de Kock
-    - title: Building Science Communication Capacity in Africa
-      track: Workshop
-      content: ""
-      location: M2002
-      number: 
-      sessions:
-        - name: Wiida Fourie-Basson
-        - name: Mbalenhle Ntuli
-        - name: Mr. Luther Chipembere
-    - title: Practical Presentation Skills for Researchers
-      track: Workshop
-      content: ""
-      location: E1025
-      number: 
-      sessions:
-        - name: Ms Katherine Rabik
-        - name: Dr. Lili Rademan
-  - time: 11h00 - 11h30
-    columns:
-    - title: Debate
-      track: Debate
-      content: ""
-      location: S1018
-      
-        
-  - time: 11h30 - 12h30
-    columns:
-    - title: 🍽️ Lunch
-      track: ''
-      content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
-      location: Civil Engineering Cafeteria
-      number: 
-      sessions: []   
+  - title: Day 1
+    date: 2025-07-07
+    content:
+    sessions:
+      - time: 08h00 - 09h00
+        columns:
+          - title: Registration
+            track: ""
+            content: "Check in, collect conference materials, and prepare for an engaging day ahead! Once you've checked in, take a stroll around campus and grab some breakfast from one of the vendors."
+            location: Civil Engineering Building
+      - time: 09h00 - 11h00
+        columns:
+          - title: Machine Learning Maths
+            track: Workshop
+            content: ""
+            location: M2002
+            number:
+            sessions:
+              - name: Mr. Thapelo Maupa
+              - name: Ruan de Kock
+          - title: Building Science Communication Capacity in Africa
+            track: Workshop
+            content: ""
+            location: S1018
+            number:
+            sessions:
+              - name: Wiida Fourie-Basson
+              - name: Mbalenhle Ntuli
+              - name: Mr. Luther Chipembere
+          - title: Practical Presentation Skills for Researchers
+            track: Workshop
+            content: ""
+            location: E1025
+            number:
+            sessions:
+              - name: Ms Katherine Rabik
+              - name: Dr. Lili Rademan
+      - time: 11h00 - 11h30
+        columns:
+          - title: Debate
+            track: Debate
+            content: ""
+            location: S1018
 
-  - time: 12h30 - 13h00
-    columns:
-    - title: Opening Address - Stellenbosch University and Committee
-      track: ''
-      content: " 🎉 Join Stellenbosch University representatives and organising committee for opening remarks, setting the stage for a sensational conference!"
-      location: S1018
-      number: 
-      sessions:
-        - title:
-          panel:
-          - name: "Stellenbosch University, Western Cape"
-            image: images/partners/Stellies_Uni.jpeg
-            link: https://www.sun.ac.za
-            title: ''
-            time: ''
-          - name: "Deep Learning Indaba\U0001D54F South Africa 2025 Organising Committee"
-            image: "/images/indabax2025_logo_white.png"
-            link: http://localhost:1313/news/2025-04-19-meet-the-team/
-            title: ''
-            time: ''
+      - time: 11h30 - 12h30
+        columns:
+          - title: 🍽️ Lunch
+            track: ""
+            content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
+            location: Civil Engineering Cafeteria
+            number:
+            sessions: []
 
-  - time: 13h00 - 14h00
-    columns:
-    - title:  Keynote
-      track: 'Keynote'
-      content: 
-      location: S1018
-      number: 
-      sessions:
-        - name: Stuart Reid
-  
-  - time: 14h00 - 14h30
-    columns:
-      - title: "Welcoming: AI Fest"
-        track: AI Fest
-        location: Civil Engineering S1018
-        sessions:
-          - title:
-            panel:
-              #- name: Altoria AI
-              #  image: 
-              #  link: 
-              - name: NOSIBLE
-                image: /images/partners/nosible_square.jpeg
-                link: 
+      - time: 12h30 - 13h00
+        columns:
+          - title: Opening Address - Stellenbosch University and Committee
+            track: ""
+            content: " 🎉 Join Stellenbosch University representatives and organising committee for opening remarks, setting the stage for a sensational conference!"
+            location: S1018
+            number:
+            sessions:
+              - title:
+                panel:
+                  - name: "Stellenbosch University, Western Cape"
+                    image: images/partners/Stellies_Uni.jpeg
+                    link: https://www.sun.ac.za
+                    title: ""
+                    time: ""
+                  - name: "Deep Learning Indaba\U0001D54F South Africa 2025 Organising Committee"
+                    image: "/images/indabax2025_logo_white.png"
+                    link: http://localhost:1313/news/2025-04-19-meet-the-team/
+                    title: ""
+                    time: ""
 
-  - time: 14h30 - 15h00
-    columns:
-    - title: Capture the Moment
-      track: 
-      content: "Group photo time! 📸 Gather around and freeze this moment in time together! ❤️"
-      location: 
-      number: 
-      sessions: []
+      - time: 13h00 - 14h00
+        columns:
+          - title: Keynote
+            track: "Keynote"
+            content:
+            location: S1018
+            number:
+            sessions:
+              - name: Stuart Reid
 
+      - time: 14h00 - 14h30
+        columns:
+          - title: "Welcoming: AI Fest"
+            track: AI Fest
+            location: Civil Engineering S1018
+            sessions:
+              - title:
+                panel:
+                  #- name: Altoria AI
+                  #  image:
+                  #  link:
+                  - name: NOSIBLE
+                    image: /images/partners/nosible_square.jpeg
+                    link:
 
-  - time: 15h00 - 16h30
-    columns:
-      - title: "AI Fest :  Poster Session"
-        track: AI Fest
-        sessions:
-          - title:
+      - time: 14h30 - 15h00
+        columns:
+          - title: Capture the Moment
+            track:
+            content: "Group photo time! 📸 Gather around and freeze this moment in time together! ❤️"
+            location:
+            number:
+            sessions: []
 
+      - time: 15h00 - 16h30
+        columns:
+          - title: "AI Fest :  Poster Session"
+            track: AI Fest
+            sessions:
+              - title:
 
-  
-  - time: 16h30 - 17h00
-    columns:
-      - title: "Music, Welcome drinks"
-        track: AI Fest
-        sessions:
-          - title:
+      - time: 16h30 - 17h00
+        columns:
+          - title: "Music, Welcome drinks"
+            track: AI Fest
+            sessions:
+              - title:
 
+      - time: 17h00 - 18h30
+        columns:
+          - title: "AI Fest :  Exhibition Booth Session"
+            track: AI Fest
+            sessions:
+              - title:
 
-  
-  - time: 17h00 - 18h30
-    columns:
-      - title: "AI Fest :  Exhibition Booth Session"
-        track: AI Fest
-        sessions:
-          - title:
+          #- title: Poster Session
+          #  track: AI Fest
+          #  content:
+          #    "Discover up-and-coming research and inventive projects in our poster session and compete for prizes! Ensure your presence at your poster during the first hour to qualify. Learn more about  [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/)."
 
+      - time: 18h30 - 21h30
+        columns:
+          - title: Movie Night 🎬
+            image: ""
+            location: ""
+            content: ""
 
+  - title: Day 2
+    date: 2025-07-08
+    content: ""
+    sessions:
+      - time: "08h00 - 09h00"
+        columns:
+          - title: ☕️🍵 & Registration
+            track: ""
+            content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅  and last-minute sign-ups! ☕"
+            location: Civil Engineering Building
+            number:
+            sessions: []
 
+      - time: 09h00 - 10h00
+        columns:
+          - title: "Keynote: AI in Agricultural"
+            track: Keynote
+            location: S1018
+            sessions:
+              - name: Prof. Pius Owolawi
 
-      #- title: Poster Session
-      #  track: AI Fest
-      #  content:
-      #    "Discover up-and-coming research and inventive projects in our poster session and compete for prizes! Ensure your presence at your poster during the first hour to qualify. Learn more about  [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/)."
+      - time: 10h00 - 10h30
+        columns:
+          - title: ☕️🍵
+            track: ""
+            content: Coffee break
 
-  - time: 18h30 - 21h30
-    columns:
-    - title: Movie Night 🎬
-      image: ''
-      location: ''
-      content: '' 
+      - time: 10h30 - 11h30
+        columns:
+          - title: "Fundamentals: Foundations of Machine Learning"
+            track: Fundamentals
+            sessions:
+              - name: Prof. Mandla Gwetu
 
-- title: Day 2
-  date: 2025-07-08
-  content: ''
-  sessions:
-  - time: '08h00 - 09h00'
-    columns:
-    - title: ☕️🍵 & Registration
-      track: ''
-      content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅  and last-minute sign-ups! ☕"
-      location: Civil Engineering Building
-      number: 
-      sessions: []
+          - title: Computer Vision
+            track: Lecture
+            content: ""
+            location: E1025
+            number:
+            sessions:
+              - name: Shane Josias
+              - name: Alaa Aldein Mohamed Suliman Ibrahim
+              - name: Besman Guesmi
 
-  
-  - time: 09h00 - 10h00
-    columns:
-      - title: "Keynote: AI in Agricultural"
-        track: Keynote
-        location: S1018
-        sessions:
-          - name: Prof. Pius Owolawi
+          - title: Ethics
+            track: Lecture
+            content: ""
+            location: S2002
+            number:
+            sessions:
+              - name: Zara Schroeder
+              - name: Stephan Middleton
+              - name: Dr Sebonkile Thaba
 
-  - time: 10h00 - 10h30
-    columns:
-    - title: ☕️🍵
-      track: ""
-      content: Coffee break
+      - time: 11h30 - 12h30
+        columns:
+          - title: Debate
+            track: Debate
+            content: ""
+            location: S1018
 
-  - time: 10h30 - 11h30
-    columns:
-      - title: "Fundamentals: Foundations of Machine Learning"
-        track: Fundamentals
-        sessions:
-          - name: Prof. Mandla Gwetu
-  
-      - title: Computer Vision
-        track: Lecture
-        content: ""
-        location: E1025
-        number: 
-        sessions:
-          - name: Shane Josias
-          - name: Alaa Aldein Mohamed Suliman Ibrahim
-          - name: Besman Guesmi
+      - time: 11h30 - 12h30
+        columns:
+          - title: 🍽️ Lunch
+            track: ""
+            content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
+            location: Civil Engineering Cafeteria
+            number:
+            sessions: []
 
-      - title: Ethics
-        track: Lecture
-        content: ""
-        location: S2002
-        number:
-        sessions:
-          - name: Zara Schroeder
-          - name: Stephan Middleton
-          - name: Dr Sebonkile Thaba
-
-  - time: 11h30 - 12h30
-    columns:
-    - title: Debate
-      track: Debate
-      content: ""
-      location: S1018
-  
-  - time: 11h30 - 12h30
-    columns:
-    - title: 🍽️ Lunch
-      track: ''
-      content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
-      location: Civil Engineering Cafeteria
-      number: 
-      sessions: []
