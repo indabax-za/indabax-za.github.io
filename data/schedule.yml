@@ -40,10 +40,10 @@ days:
         - name: Dr. Lili Rademan
   - time: 11h00 - 11h30
     columns:
-    - title: Debate
-      track: Debate
-      content: ""
-      location: S1018
+    - title: ☕️🍵
+      track: ""
+      content: Coffee break
+
       
         
   - time: 11h30 - 12h30
