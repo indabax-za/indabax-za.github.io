@@ -531,6 +531,34 @@ people:
         link: ""
         icon: ""
 
+  - name: Zara Schroeder
+    years:
+      - Lecture
+    talk_description: "As generative AI becomes increasingly embedded in social media, it also brings new risks, particularly for women who already face disproportionate digital harms. This talk explores how GenAI technologies intersect with online gender-based violence, focusing on the non-consensual sharing of intimate images. Grounded in the Just AI framework, the talk critiques prevailing ethics models like “Responsible AI” and “AI for Good,” arguing they often fail to address deeper structural injustices.
+      Drawing on interviews with South African women, the presentation highlights how platform algorithms can not only overlook but also exacerbate gendered abuse. By centering lived experience, the talk challenges technocentric narratives and calls for AI systems that are justice-driven, context-aware, and protective of marginalized communities. This session is relevant for researchers, policymakers, and technologists interested in equitable AI, digital governance, and feminist technology studies."
+    bio: "Zara Schroeder is a dynamic professional with a Master’s degree in Public Sociology and Anthropology from Stellenbosch University. Her work specialises in AI ethics, social impact and gender equality. With a strong background in research, project coordination and stakeholder engagement, Zara's work explores the intersection of technology and social issues, particularly in the Global South. Her current research focuses on AI’s role in the spread of information disorders and strategies to mitigate related risks and inform policy. She is also involved in the Africa Just AI project, examining gender and AI harms in Africa.  She has developed expertise in research, advocacy, policy development and risk assessment, driving impactful social change through cross-sector collaborations."
+    topic: "Unconsented: The Gendered Cost of Generative AI in the Digital Age"
+    affiliation: "Research ICT Africa"
+    link: modal
+    image: "/images/people/zara_schroeder.jpeg"
+    social_media: 
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/zara-schroeder-a2818320b/"
+        icon: ""
+
+  - name: Stephan Middleton
+    years:
+      - Lecture
+    talk_description: "Patent applications for inventions relating to artificial intelligence (AI) have soared, with about 71,000 publications in 2022 for inventions relating to neural networks, compared to less than 500 a decade earlier. However, such applications push the bounds of patent law because the inventions they describe often relate to mathematical methods, scientific theories and computer programs – subject matter which is excluded from patentability in a number of territories. In this work, we explore select decisions on the patentability of AI-related inventions from the US and Europe and the emerging requirements for patenting AI-related inventions."
+    bio: "I am a patent attorney specialising in protecting electrical, electronic and computer-implemented inventions. I enjoy the challenges encountered in protecting software inventions in territories like the US and Europe. I also work on intellectual property (IP) due diligences and the formulation of IP strategies. I have an interest in copyright matters."
+    topic: "The Patent Landscape for Inventions relating to Artificial Intelligence"
+    affiliation: "Von Seidels"
+    link: modal
+    image: "/images/people/stephen_middleton.jpeg"
+    social_media: 
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/sfmiddleton/"
+        icon: ""
     
 # Note: The placeholder.jpg image will be used for speakers without specific images.
 # Please replace with actual speaker images as they become available.
