@@ -205,3 +205,19 @@ days:
           - name: Zara Schroeder
           - name: Stephan Middleton
           - name: Dr Sebonkile Thaba
+
+  - time: 11h30 - 12h30
+    columns:
+    - title: Debate
+      track: Debate
+      content: ""
+      location: S1018
+  
+  - time: 11h30 - 12h30
+    columns:
+    - title: 🍽️ Lunch
+      track: ''
+      content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
+      location: Civil Engineering Cafeteria
+      number: 
+      sessions: []
