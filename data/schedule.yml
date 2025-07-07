@@ -105,41 +105,39 @@ days:
           - title: Capture the Moment
             track:
             content: "Group photo time! 📸 Gather around and freeze this moment in time together! ❤️"
-            location:
+            location: Civil Engineering (outside)
             number:
             sessions: []
 
       - time: 15h00 - 16h30
         columns:
-          - title: "AI Fest :  Poster Session"
+          - title: "AI Fest: Student Poster Session"
             track: AI Fest
+            location: Engineering Building Skywalk (3rd and 4th floors)
             sessions:
               - title:
 
       - time: 16h30 - 17h00
         columns:
-          - title: "Music, Welcome drinks"
-            track: AI Fest
-            sessions:
-              - title:
+          - title: "Music and welcome drinks"
+            track:
+            content: "Let the music play and the drinks pour! 🎶🥂 Kick off the good vibes with tunes, toasts, and new connections!"
+            location: Civil Engineering Entrance Hall
+            sessions: []
 
       - time: 17h00 - 18h30
         columns:
           - title: "AI Fest :  Exhibition Booth Session"
             track: AI Fest
+            location: Civil Engineering Entrance Hall
             sessions:
               - title:
-
-          #- title: Poster Session
-          #  track: AI Fest
-          #  content:
-          #    "Discover up-and-coming research and inventive projects in our poster session and compete for prizes! Ensure your presence at your poster during the first hour to qualify. Learn more about  [Poster Guidelines and Requirements](http://localhost:1313/register/ai-fest/)."
 
       - time: 18h30 - 21h30
         columns:
           - title: Movie Night 🎬
             image: ""
-            location: ""
+            location: Pulp Cinema, Neelsie
             content: ""
 
   - title: Day 2
@@ -169,25 +167,27 @@ days:
             track: ""
             content: Coffee break
 
-      - time: 10h30 - 11h30
+      - time: 10h30 - 12h00
         columns:
           - title: "Fundamentals: Foundations of Machine Learning"
             track: Fundamentals
+            location: S1018
             sessions:
               - name: Prof. Mandla Gwetu
 
           - title: Computer Vision
-            track: Lecture
+            track: "Track 1"
             content: ""
             location: E1025
             number:
             sessions:
+              - name: Ntshuxeko Confidence Mathebula
               - name: Shane Josias
               - name: Alaa Aldein Mohamed Suliman Ibrahim
               - name: Besman Guesmi
 
           - title: Ethics
-            track: Lecture
+            track: "Track 2"
             content: ""
             location: S2002
             number:
@@ -196,14 +196,14 @@ days:
               - name: Stephan Middleton
               - name: Dr Sebonkile Thaba
 
-      - time: 11h30 - 12h30
+      - time: 12h00 - 12h30
         columns:
           - title: Debate
             track: Debate
             content: ""
             location: S1018
 
-      - time: 11h30 - 12h30
+      - time: 12h30 - 13h30
         columns:
           - title: 🍽️ Lunch
             track: ""
@@ -212,3 +212,54 @@ days:
             number:
             sessions: []
 
+      - time: 13h30 - 14h30
+        columns:
+          - title: Keynote
+            track: "Keynote"
+            content:
+            location: S1018
+            number:
+            sessions:
+              - name: Prof Marlene Holmner
+
+      - time: 14h30 - 15h00
+        columns:
+          - title: ☕️🍵
+            track: ""
+            content: Coffee break
+
+      - time: 15h00 - 16h30
+        columns:
+          - title: "Fundamentals: Foundations of Natural Language Processing"
+            track: Fundamentals
+            location: S1018
+            sessions:
+              - name: Dr. Joan Byamugisha
+
+          - title: Algorithms
+            track: "Track 1"
+            content: ""
+            location: E1025
+            number:
+            sessions:
+              - name: Bigomokero Antoine Bagula
+              - name: Francois Naude
+              - name: Ahmed Mohammed Ahmed
+              - name: Saheed Jimoh
+              - name: Thato Angelo Serage
+
+          - title: NLP
+            track: "Track 2"
+            content: ""
+            location: S2002
+            number:
+            sessions:
+              - name: Francois Meyer
+              - name: Stefan Strydom
+              - name: Samuel Oladejo
+
+      - time: 16h30 - 17h00
+        columns:
+          - title: ☕️🍵
+            track: ""
+            content: Snack break
