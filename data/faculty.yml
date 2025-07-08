@@ -109,7 +109,7 @@ people:
         link: https://www.linkedin.com/in/gavin-rens/
         icon: ""
 
-  - name: Dr. Axel Tideman
+  - name: Dr. Axel Tidemann
     years:
       - Lecture
     talk_description: "Machine learning is crucial to enable Takealot to grow at scale by making operations more efficient, as well as providing search results and recommendations to customers. Takealot handles millions of search requests per day, generating a treasure trove of data. Model development and deployment happens on Vertex AI on the Google Cloud Platform, using the TensorFlow ecosystem for predictive AI, as well as generative AI APIs. The talk will present the teams, machine learning models, the frameworks and the data that make up the Takealot machine learning environment."
@@ -559,6 +559,35 @@ people:
       - title: LinkedIn
         link: "https://www.linkedin.com/in/sfmiddleton/"
         icon: ""
+
+  - name: Jason Max Chalom
+    years:
+      - Lecture
+    talk_description: "Implementing AI solutions into production poses several challenges. It can be difficult to take an AI model from the experimental phase to production where results need to be predictable and reliable. The stochastic behaviour of AI models can make them unpredictable in real-world applications where safety bounds and acceptable predictions are a requirement. When deploying AI models for production applications existing software development techniques are still relevant. Having continuous integration and continuous deployment systems are a must. Having uptime monitoring and exception handling is also needed. AI does add another dimension of complexity due to data drift over time. This is a new problem which needs to be monitored and new solutions need to be implemented to tackle. I present my own experiences in deploying software augmented by AI and also deploying production AI models. I have found that techniques from traditional software development lifecycles and developer operations can be used in this new realm of AI Operations. I will go through some example system architectures as well as some examples built using containerisation showing how I make AI models production ready, bounded and monitored. This is a fast changing landscape but quality of the solutions built is important in making long-lasting solutions that provide value long-term. AI in general helps us be more efficient in solving complex problems but many production requirements include the need for strict guard-rails due to governmental regulation, oversight, or proposed value of a specific solution in the market. It can be tricky balancing these two ideals, going fast, and also providing a reliable solution to difficult problems. Luckily there are a lot of existing solutions we can retro-fit and extend to the AI era."
+    bio: ""
+    topic: "Building out a sustainable and production ready AI software solution"
+    affiliation: ""
+    link: modal
+    image: "/images/people/jason_chalom.jpeg"
+    social_media: 
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/jasonchalom/"
+        icon: ""
     
+  - name: Luke Taylor
+    years:
+      - Lecture
+    talk_description: "Artificial intelligence has made remarkable strides, yet it remains fundamentally distinct from biological intelligence - particularly in energy efficiency. While the human brain operates at approximately 20 watts, modern AI systems consume vastly more power. Rather than scaling AI with ever-increasing energy demands, we should explore alternative computational frameworks inspired by biological intelligence. This talk will highlight the fundamental energy challenge AI faces and explore how rethinking learning algorithms and AI hardware can lead to more efficient systems."
+    bio: "Luke Taylor is the founder of DeepGate, a deep-tech startup tackling energy-efficient AI using logic-gated neural networks. He holds a PhD in computational neuroscience from Oxford and has previously worked at AWS and Citadel Securities. His work bridges machine learning, neuroscience, and digital logic design, with a focus on building scalable, hardware-friendly AI models."
+    topic: "Why AI is Power-Hungry - Lessons from the Brain and How We Can Fix It"
+    affiliation: "DeepGate"
+    link: modal
+    image: "/images/people/luke_taylor.jpeg"
+    social_media: 
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/luke-t-7963078a"
+        icon: ""
+
+# This file contains the list of speakers for the event, including their names, years of participation, talk descriptions, bios, topics, affiliations, and social media links.
 # Note: The placeholder.jpg image will be used for speakers without specific images.
 # Please replace with actual speaker images as they become available.
