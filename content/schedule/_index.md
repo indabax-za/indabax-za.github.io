@@ -9,9 +9,16 @@ args:
     collapsed: false
 ---
 
-3.5 days of machine learning content and community!
+4 days of machine learning content and community!
 
-The schedule will be updated regularly and made available here closer to the time.
+The schedule will be updated regularly.
+
+
+{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[Download Schedule here ](https://drive.google.com/file/d/1jfURgocxzT6NfiP_ho0Cp1_i5-b_-bMr/view?usp=drive_link)
+{{< /class >}}
+
+We're streaming all keynotes, foundational lectures, and selected workshops and talks live from our main venue available [here](https://lnkd.in/dQ3BxAcK) 
 
  <!-- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
 [Download Schedule here ](https://drive.google.com/file/d/1RWQJwbEpIvYA65YS9_Rb8invjHLZPtkh/view?usp=sharing)
