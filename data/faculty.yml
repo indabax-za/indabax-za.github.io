@@ -42,8 +42,9 @@ people:
   - name: Prof. Pius Owolawi
     years:
       - Keynote
-    talk_description: "This talk explores how Edge AI technologies ranging from lightweight deep learning models to real-time drone-based computer vision are reshaping the agricultural landscape in Africa. Prof. Pius A. Owolawi presents a suite of deployed solutions that power cognitive farming systems, including AI-driven tomato grading, maize yield estimation using point segmentation, weed-targeting drones, smart egg and poultry monitoring, energy-forecasting biogas digesters, and LoRa-enabled irrigation control. The session highlights a unified platform integrating sensors, edge devices, analytics, and multilingual chatbots to deliver actionable, real-time feedback to farmers. Designed with open-source tools and scalable architectures, the initiative exemplifies inclusive, locally adapted agricultural innovation for resource-constrained environments.
-                      “From farm fields to real-time feedback, the age of cognitive farming has begun."
+    talk_description:
+      "This talk explores how Edge AI technologies ranging from lightweight deep learning models to real-time drone-based computer vision are reshaping the agricultural landscape in Africa. Prof. Pius A. Owolawi presents a suite of deployed solutions that power cognitive farming systems, including AI-driven tomato grading, maize yield estimation using point segmentation, weed-targeting drones, smart egg and poultry monitoring, energy-forecasting biogas digesters, and LoRa-enabled irrigation control. The session highlights a unified platform integrating sensors, edge devices, analytics, and multilingual chatbots to deliver actionable, real-time feedback to farmers. Designed with open-source tools and scalable architectures, the initiative exemplifies inclusive, locally adapted agricultural innovation for resource-constrained environments.
+      “From farm fields to real-time feedback, the age of cognitive farming has begun."
     bio: "Prof. Pius A. Owolawi is a seasoned academic, engineer, and industry strategist currently serving as Assistant Dean: Industry Liaison, Special Projects, and Work-Integrated Learning at Tshwane University of Technology. He holds a PhD in Electronic Engineering and multiple advanced qualifications in Artificial Intelligence, Machine Learning, Cloud Computing, and Mechatronics. Prof. Owolawi has led numerous interdisciplinary research projects spanning energy systems, wireless and optical communication, image processing, and the Industrial Internet of Things (IIoT). He has published over 200 scientific papers and was ranked among Africa’s top 500 researchers (2015–2020). A certified expert in Cisco, wireless networks, and fibre-optic systems, he is affiliated with IEEE, SAIEE, ECSA, and SARL. With deep industry collaboration experience—including with SETAs, Eskom, and GIZ. Prof. Owolawi bridges academia and innovation through smart partnerships, accredited programme design, and 4IR-driven solutions that empower communities and drive national development agendas."
     topic: "Edge AI for Agriculture: Towards a Cognitive Farming"
     affiliation: "Tshwane University of Technology"
@@ -79,7 +80,6 @@ people:
     image: "/images/people/reid.jpg"
     social_media: []
 
-
   - name: Mr. Naweed Khan
     years:
       - Lecture
@@ -93,7 +93,6 @@ people:
       - title: LinkedIn
         link: https://www.linkedin.com/in/naweedaghmad/
         icon: ""
-
 
   - name: Dr. Gavin Rens
     years:
@@ -132,21 +131,21 @@ people:
     affiliation: "Takealot"
     link: modal
     image: "/images/people/stefan_dominicus.jpg"
-    social_media: 
+    social_media:
       - title: Website
         link: https://stefandominicus.info/
         icon: ""
 
-  - name: Ms Ntshuxeko Confidence Mathebula    
+  - name: Ntshuxeko Confidence Mathebula
     years:
       - Lecture
     talk_description: "Intelligent Systems Engineering: Bridging AI and Simulation"
     bio: "A Consultant at a software-agnostic consulting services company. With an engineering background by way of the University of the Witwatersrand and a strong foundation in analytics and software engineering. I support lecturers, researchers, and industry professionals with the use of MATLAB and Simulink."
-    topic: "Consultant"
+    topic: "Intelligent Systems Engineering: Bridging AI and Simulation"
     affiliation: "Opti-Num Solutions"
     link: modal
     image: "/images/people/Ntshuxeko_Mathebula.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/ntshuxeko-mathebula/
         icon: ""
@@ -160,7 +159,7 @@ people:
     affiliation: ""
     link: modal
     image: "/images/people/tegan_green.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/tegan-green/
         icon: ""
@@ -174,7 +173,7 @@ people:
     affiliation: "University of Pretoria/ AI Safety South Africa"
     link: modal
     image: "/images/people/Tony_Oche_PPX.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/tonyonazioche/
         icon: ""
@@ -193,7 +192,7 @@ people:
         link: https://www.linkedin.com/in/botha-charl/
         icon: ""
 
-  - name: Mr. Francois Naude
+  - name: Francois Naude
     years:
       - Lecture
     talk_description: "IMS research Hackathon / This study presents a novel deep learning framework for seismic wave identification in noisy, complex mining environments using targeted training strategies. The results show improved accuracy, noise handling, and generalizability in real-world seismological applications."
@@ -202,10 +201,10 @@ people:
     affiliation: "Institute of Mine Seismology"
     link: modal
     image: "/images/people/francois_naude.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/francois-naude-fn/
-        icon: ""  
+        icon: ""
 
   - name: Wiida Fourie-Basson
     years:
@@ -216,7 +215,7 @@ people:
     affiliation: "Stellenbosch University"
     link: modal
     image: "/images/people/wiida_fourie_basson.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/wiida-fourie-bassonn-8362647b/
         icon: ""
@@ -230,11 +229,11 @@ people:
     affiliation: "AI Safety"
     link: modal
     image: "/images/people/boyd.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://boydkane.com/
         icon: ""
-    
+
   - name: Mbalenhle Ntuli
     years:
       - Workshop
@@ -244,11 +243,11 @@ people:
     affiliation: "Stellenbosch University"
     link: modal
     image: "/images/people/mbali.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/mbalenhle-ntuli/
         icon: ""
-    
+
   - name: Dr. Sara Andreotti
     years:
       - Workshop
@@ -258,7 +257,7 @@ people:
     affiliation: "Stellenbosch University / SharkSafe Barrier Pty / SharkWise Pty / SCAR Trust"
     link: modal
     image: "/images/people/Sara_Andreotti.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/sara-andreotti-b044106/
         icon: ""
@@ -272,7 +271,7 @@ people:
     affiliation: "Centre for High Performance Computing"
     link: modal
     image: "/images/people/WernerJvRensburg-Photo.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/werner-janse-van-rensburg-82235738/
         icon: ""
@@ -286,7 +285,7 @@ people:
     affiliation: "Independent Researcher."
     link: modal
     image: "/images/people/maupa.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/tp-maupa
         icon: ""
@@ -300,7 +299,7 @@ people:
     affiliation: "Standard Bank"
     link: modal
     image: "/images/people/mzwandile_mhlongo.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/mzwamoj
         icon: ""
@@ -314,7 +313,7 @@ people:
     affiliation: "Council for Scientific and Industrial Research (CSIR)"
     link: modal
     image: "/images/people/avashlin_moodley.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/avashlinmoodley/
         icon: ""
@@ -328,11 +327,10 @@ people:
     affiliation: "InstaDeep"
     link: modal
     image: "/images/people/dekock2024.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/ruan-de-kock/
         icon: ""
-
 
   - name: Mr. Ndivhuwo Nyase
     years:
@@ -343,7 +341,7 @@ people:
     affiliation: "IBM Research Africa"
     link: modal
     image: "/images/people/NdivhuwoNyase_photo.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/ndivhuwo-nyase/
         icon: ""
@@ -359,7 +357,6 @@ people:
     image: "/images/people/amy_bray.png"
     social_media: []
 
-
   - name: John Matogo
     years:
       - Lecture
@@ -369,11 +366,10 @@ people:
     affiliation: "IBM"
     link: modal
     image: "/images/people/john_matogo.jpeg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/johnmatogo/
         icon: ""
-
 
   - name: Jeroen Van Goey
     years:
@@ -384,11 +380,10 @@ people:
     affiliation: "InstaDeep"
     link: modal
     image: "/images/people/jeroen.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/jeroenvangoey/
         icon: ""
-
 
   - name: Samuel Oladejo
     years:
@@ -399,7 +394,7 @@ people:
     affiliation: "University of Johannesburg / Xero"
     link: modal
     image: "/images/people/Samuel_Oladejo.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/saol/
         icon: ""
@@ -413,11 +408,11 @@ people:
     affiliation: "University of Pretoria"
     link: modal
     image: "/images/people/marlene_holmner.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/marleneholmner/
         icon: ""
-                                   
+
   - name: Ms Katherine Rabik
     years:
       - Workshop
@@ -427,7 +422,7 @@ people:
     affiliation: ""
     link: modal
     image: "/images/people/Katherine_Rabik.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/marleneholmner/
         icon: ""
@@ -441,7 +436,7 @@ people:
     affiliation: "Centre for Research on Evaluation, Science and Technology (CREST), Stellenbosch University"
     link: modal
     image: "/images/people/lili_rademan.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/lili-rademan-058058149/
         icon: ""
@@ -455,7 +450,7 @@ people:
     affiliation: "Stellenbosch University"
     link: modal
     image: "/images/people/Luther.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/luther-chipembere-234a21109/
         icon: ""
@@ -469,7 +464,7 @@ people:
     affiliation: "National Institute for Theoretical and Computational Sciences (NITheCS), Stellenbosch University"
     link: modal
     image: "/images/people/Francesco_Petruccione_blazer.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/francescopetruccione/
         icon: ""
@@ -483,7 +478,7 @@ people:
     affiliation: "Stellenbosch University"
     link: modal
     image: "/images/people/prof_mandla_gwetu.jpeg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://ie-datascience.sun.ac.za/staff/#Prof-Mandla-V-Gwetu
         icon: ""
@@ -497,11 +492,10 @@ people:
     affiliation: "Stellenbosch University"
     link: modal
     image: "/images/people/shane_josias.jpeg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: https://www.linkedin.com/in/shane-josias/
         icon: ""
-
 
   - name: Alaa Aldein Mohamed Suliman Ibrahim
     years:
@@ -512,7 +506,7 @@ people:
     affiliation: "University of Kwazulu-Natal"
     link: modal
     image: "/images/people/alee_mohamed.jpg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: www.linkedin.com/in/alaa-aldein-ibrahim
         icon: ""
@@ -526,7 +520,21 @@ people:
     affiliation: ""
     link: modal
     image: "/images/people/placeholder.jpg"
-    social_media: 
+    social_media:
+      - title: LinkedIn
+        link: ""
+        icon: ""
+
+  - name: David de Villiers
+    years:
+      - Lecture
+    talk_description: "The escalation of climate change, population growth, and urbanisation have amplified the frequency and severity of natural hazards such as landslides. These events cause devastating impacts, such as loss of life, destruction of infrastructure, and environmental damage (e.g., loss of soil, habitat destruction). By leveraging deep learning approaches and their capabilities with remote sensing data, natural hazard events can be effectively detected and monitored. This could provide key information for early warning systems, allowing for better management and assessment of hazard risks. However, detecting and monitoring natural hazards such as landslides remains crucial but challenging. To effectively mitigate landslide risks, we propose a landslide detection network based on the integration of a pure transformer network with a Siamese U-shaped structure and an intermediate multilevel fusion strategy, called DETSlideNet (Dual-Encoder based Transformer for LandSlide), to detect landslide-affected regions accurately. Our proposed approach achieves state-of-theart (SOTA) performance by leveraging satellite and Unmanned Aerial Vehicle (UAV) imagery fusion through multilevel fusion, achieving a mean dice score exceeding 90%."
+    bio: ""
+    topic: "DETSlideNet: Dual-Encoder SwinTransformer for Scalable Landslides Detection and Monitoring"
+    affiliation: ""
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media:
       - title: LinkedIn
         link: ""
         icon: ""
@@ -534,14 +542,15 @@ people:
   - name: Zara Schroeder
     years:
       - Lecture
-    talk_description: "As generative AI becomes increasingly embedded in social media, it also brings new risks, particularly for women who already face disproportionate digital harms. This talk explores how GenAI technologies intersect with online gender-based violence, focusing on the non-consensual sharing of intimate images. Grounded in the Just AI framework, the talk critiques prevailing ethics models like “Responsible AI” and “AI for Good,” arguing they often fail to address deeper structural injustices.
+    talk_description:
+      "As generative AI becomes increasingly embedded in social media, it also brings new risks, particularly for women who already face disproportionate digital harms. This talk explores how GenAI technologies intersect with online gender-based violence, focusing on the non-consensual sharing of intimate images. Grounded in the Just AI framework, the talk critiques prevailing ethics models like “Responsible AI” and “AI for Good,” arguing they often fail to address deeper structural injustices.
       Drawing on interviews with South African women, the presentation highlights how platform algorithms can not only overlook but also exacerbate gendered abuse. By centering lived experience, the talk challenges technocentric narratives and calls for AI systems that are justice-driven, context-aware, and protective of marginalized communities. This session is relevant for researchers, policymakers, and technologists interested in equitable AI, digital governance, and feminist technology studies."
     bio: "Zara Schroeder is a dynamic professional with a Master’s degree in Public Sociology and Anthropology from Stellenbosch University. Her work specialises in AI ethics, social impact and gender equality. With a strong background in research, project coordination and stakeholder engagement, Zara's work explores the intersection of technology and social issues, particularly in the Global South. Her current research focuses on AI’s role in the spread of information disorders and strategies to mitigate related risks and inform policy. She is also involved in the Africa Just AI project, examining gender and AI harms in Africa.  She has developed expertise in research, advocacy, policy development and risk assessment, driving impactful social change through cross-sector collaborations."
     topic: "Unconsented: The Gendered Cost of Generative AI in the Digital Age"
     affiliation: "Research ICT Africa"
     link: modal
     image: "/images/people/zara_schroeder.jpeg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: "https://www.linkedin.com/in/zara-schroeder-a2818320b/"
         icon: ""
@@ -555,10 +564,67 @@ people:
     affiliation: "Von Seidels"
     link: modal
     image: "/images/people/stephen_middleton.jpeg"
-    social_media: 
+    social_media:
       - title: LinkedIn
         link: "https://www.linkedin.com/in/sfmiddleton/"
         icon: ""
+
+  - name: Ahmed Mohammed Ahmed
+    years:
+      - Lecture
+    talk_description: "Typically, as a neural network's performance on training data improves, its performance on unseen validation data also improves until the network starts overfitting. However, grokking, a recently discovered phenomenon by Power et al. (2022), defies this norm by showing a sudden and dramatic improvement in validation performance long after overfitting has begun. This delayed generalization pattern has been notably observed in algorithmic tasks like modular addition. Grokking is sometimes viewed as a phase change in the network's learning process. In this project, we explore the concept of grokking in the context of modular addition, examining its occurrence in different types of neural networks and training setups. We discovered that grokking happens in many types of models and is influenced by the amount of training data used. Specifically, we conduct our experiments in recurrent neural networks (RNNs) and long short-term memory (LSTM) networks. Additionally, our results show that using regularization techniques such as weight decay can help the models generalize better. Our observations indicate that training without weight decay leads to poor generalization and that removing weight decay too early also has the same effect. Moreover, we demonstrate that weight decay is not necessary during the early phases of training. Introducing weight decay only late in training still leads to grokking, which is a novel discovery to our knowledge. These experiments aim to provide deeper insights into the factors that affect grokking."
+    topic: "Grokking in neural networks and the role of regularisation"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: []
+
+  - name: Saheed Jimoh
+    years:
+      - Lecture
+    talk_description: "This research compares three statistical models, which include the Bimodal Mixture Weibull (BMW), Modified Mixture Weibull (MMW) and Four-Component Mixture Weibull (FCMW) while using wind speed data from Abeokuta (Abk) and Lagos (Lag), Nigeria. Each model was assessed based on parameter estimates and statistical fit to determine which best captures the wind characteristics."
+    topic: "Evaluation of Wind Speed Regime Variability and Model Fit Performance Using Multi-Component Weibull Mixture Functions for Energy Potential Estimation"
+    bio: "Saheed is a distinguished Radiophysicist turned Renewable energy expert due to his dream for Africa with sufficient energy supply. He is currently PhD research student at the University of Kwazulu-Natal (UKZN) in South Africa. His research focuses on the “Evaluation of Wind Speed Regime Variability and Model Fit Performance Using Multi-Component Weibull Mixture Functions for Energy Potential Estimation”. He started from Nigeria and extending his research to other Africa Countries in due time. This groundbreaking work leverages the power of the R and Python programming languages to enhance the accuracy and reliability of wind energy assessments."
+    affiliation: University of Kwazulu Natal
+    link: modal
+    image: "/images/people/saheed_jimoh.jpg"
+    social_media: []
+
+  - name: Thato Angelo Serage
+    years:
+      - Lecture
+    talk_description: "Consumer price inflation influences both economic policy and business strategy decisions in South Africa. Accurate forecasting models are essential for effectively managing inflation risk. This study aims to enhance the accuracy of Consumer Price Index (CPI) forecasting in South Africa by applying ensemble learning techniques. Specifically, the study forecasts the long-term CPI component and assesses the forecasting performance of several statistical learning models, including the Random Walk (RW), Autoregressive Integrated Moving Average (ARIMA), Autoregressive Integrated Moving Average with Exogenous Variables (ARIMAX), Random Forest (RF), Multilayer Perceptron (MLP), and Gradient Boosting (GB) models. To improve forecast accuracy, stacked ensemble techniques were proposed, combining multiple models into hybrid frameworks: RF-GB, MLP-GB, and MLP-RF-GB. Additionally, lasso regression was employed for variable selection, identifying key predictors of CPI, namely the Food Index, Housing Index, Transportation Index, and Core Consumer Price. Forecasting was conducted using an expanding window approach across 24 forecasting horizons, with model performance evaluated using Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE). The results indicate that stacked ensemble models consistently outperform individual models over extended periods, with the MLP-RF-GB model achieving the lowest RMSE ratio, ranging from 0.413 to 0.379 for forecasts 12 months ahead and beyond."
+    topic: "Forecasting South African consumer price index using statistical learning models"
+    link: modal
+    image: "/images/people/placeholder.jpg"
+    social_media: []
+
+  - name: Francois Meyer
+    years:
+      - Lecture
+    talk_description: "Deep learning models for text generation rely on large-scale data availability. As a result, recent advances in LLMs are not directly applicable to most of the world’s languages, including the Nguni languages of South Africa. Besides lacking sufficiently large-scale training datasets, the linguistic properties of the Nguni languages pose an additional challenge to NLP practitioners. In this talk, I will discuss the problem of subword segmentation in NLP and present our approach to improving subword modelling for the Nguni languages. We have developed neural network models tailored to the linguistic properties of the Nguni languages. Our techniques lead to more sample-efficient learning and produce subword units more aligned with linguistic annotations."
+    topic: "Improving Text Generation for Low-Resource South African Languages"
+    bio: "Francois Meyer is a PhD candidate and Lecturer in the Department of Computer Science at the University of Cape Town. His research aims to improve language modelling and machine translation for low-resource South African languages. Previously he completed his masters in AI at the University of Amsterdam and his undergraduate degrees in Computer Science and Mathematical Statistics at Stellenbosch University."
+    affiliation: "University of Cape Town"
+    link: modal
+    image: "/images/people/francois_meyer.jpg"
+    social_media:
+      - title: GitHub
+        link: https://francois-meyer.github.io/
+        icon: ""
+
+  - name: Stefan Strydom
+    years:
+      - Lecture
+    talk_description: "This talk discusses approaches to train small, focused machine translation models for ‘lower-resource’ languages that can be deployed on edge devices. We present a 50M parameter version of the NLLB-200 model trained on South African languages. The small model retains more than 90% of the accuracy of the 600M parameter version while requiring 92% less memory for inference. While the talk focuses on machine translation, the findings can be applied to other transformer-based language models."
+    topic: "Pocket Polyglot Mzansi: Machine Translation for Local Languages on the Edge"
+    bio: "Stefan is a machine learning researcher with a special interest in small language models. He spent the last seven years helping healthcare organisations solve complex problems with Mast Analytics, the consultancy that he co-founded and which sunsetted in June 2025. He holds an MSc in Computer Science and is a Fellow of the Actuarial Society of South Africa."
+    link: modal
+    image: "/images/people/stefan_strydom.jpg"
+    social_media:
+      - title: GitHub
+        link: https://github.com/stefan027
+      - title: LinkedIn
+        link: https://www.linkedin.com/in/stefan-strydom-9a50a656,
 
   - name: Jason Max Chalom
     years:
