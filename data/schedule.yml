@@ -175,16 +175,15 @@ days:
             sessions:
               - name: Prof. Mandla Gwetu
 
-          - title: Computer Vision
+          - title: Machine Learning
             track: "Track 1"
             content: ""
             location: E1025
             number:
             sessions:
-              - name: Ntshuxeko Confidence Mathebula
+              - name: David de Villiers
               - name: Shane Josias
               - name: Alaa Aldein Mohamed Suliman Ibrahim
-              - name: Besman Guesmi
 
           - title: Ethics
             track: "Track 2"
