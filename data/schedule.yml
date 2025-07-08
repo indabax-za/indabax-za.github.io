@@ -264,96 +264,96 @@ days:
             track: ""
             content: Snack break
 
-- title: Day 3
-  date: 2025-07-09
-  content: ''
-  sessions:
-  - time: '08h00 - 09h00'
-    columns:
-    - title: ☕️🍵 & Registration
-      track: ''
-      content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅  and last-minute sign-ups! ☕"
-      location: Civil Engineering Building
-      number: 
-      sessions: []
+  - title: Day 3
+    date: 2025-07-09
+    content: ''
+    sessions:
+    - time: '08h00 - 09h00'
+      columns:
+      - title: ☕️🍵 & Registration
+        track: ''
+        content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅  and last-minute sign-ups! ☕"
+        location: Civil Engineering Building
+        number: 
+        sessions: []
 
-  - time: 09h00 - 10h00
-    columns:
-      - title: "Keynote: AI in Agricultural"
-        track: Keynote
+    - time: 09h00 - 10h00
+      columns:
+        - title: "Keynote: AI in Agricultural"
+          track: Keynote
+          location: S1018
+          sessions:
+            - name: Dr. Axel Tidemann
+
+    - time: 10h00 - 10h30
+      columns:
+      - title: ☕️🍵
+        track: ""
+        content: Coffee break
+
+    
+    - time: 10h30 - 12h00
+      columns:
+      - title: Fundamentals of Computer Vision
+        track: Fundamentals
+        content: ""
         location: S1018
+        number: 
         sessions:
-          - name: Dr. Axel Tidemann
+          - name: Jeroen Van Goey
 
-  - time: 10h00 - 10h30
-    columns:
-    - title: ☕️🍵
-      track: ""
-      content: Coffee break
+      - title: MLOps + TA
+        track: Lecture
+        content: ""
+        location: E1025
+        number: 
+        sessions:
+          - name: Stefan Dominicus
+          - name: Jason Max Chalom
+          - name: Samuel Oladejo
+      - title: Neural Networks, Real-life applications and implementation
+        track: Lecture
+        content: ""
+        location: S2002
+        number: 
+        sessions:
+          - name: Mr. Naweed Khan
+          - name: Luke Taylor
+          - name: Dr. Gavin Rens
 
-  
-  - time: 10h30 - 12h00
-    columns:
-    - title: Fundamentals of Computer Vision
-      track: Fundamentals
-      content: ""
-      location: S1018
-      number: 
-      sessions:
-        - name: Jeroen Van Goey
+    - time: 12h00 - 12h30
+      columns:
+      - title: Debate
+        track: Debate
+        content: ""
+        location: S1018
+    
+    - time: 12h30 - 13h30
+      columns:
+      - title: 🍽️ Lunch
+        track: ''
+        content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
+        location: Civil Engineering Cafeteria
+        number: 
+        sessions: [] 
 
-    - title: MLOps + TA
-      track: Lecture
-      content: ""
-      location: E1025
-      number: 
-      sessions:
-        - name: Stefan Dominicus
-        - name: Jason Max Chalom
-        - name: Samuel Oladejo
-    - title: Neural Networks, Real-life applications and implementation
-      track: Lecture
-      content: ""
-      location: S2002
-      number: 
-      sessions:
-        - name: Mr. Naweed Khan
-        - name: Luke Taylor
-        - name: Dr. Gavin Rens
-
-  - time: 12h00 - 12h30
-    columns:
-    - title: Debate
-      track: Debate
-      content: ""
-      location: S1018
-  
-  - time: 12h30 - 13h30
-    columns:
-    - title: 🍽️ Lunch
-      track: ''
-      content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
-      location: Civil Engineering Cafeteria
-      number: 
-      sessions: [] 
-
-  - time: 13h30 - 14h30
-    columns:
-    - title: "IBM Skills Building: Workshop"
-      track: Workshop
-      content: ""
-      location: M3002
-      number: 
-      sessions:
-        - name: John Matogo
-    - title: "Eyes in the sky: Applied Deep Learning with MATLAB and Minidrones - Optinum Solutions"
-      track: Workshop
-      content: ""
-      location: M2002
-      number: 
-      sessions:
-        - name: Optinum Solutions
-          image: images/partners/optinum_solutions_sq.png
-          link: https://www.optinum.co.za/
-          title: '' 
+    - time: 13h30 - 14h30
+      columns:
+      - title: "IBM Skills Building: Workshop"
+        track: Workshop
+        content: ""
+        location: M3002
+        number: 
+        sessions:
+          - name: John Matogo
+      - title: "Eyes in the sky: Applied Deep Learning with MATLAB and Minidrones - Optinum Solutions"
+        track: Workshop
+        content: ""
+        location: M2002
+        number: 
+        sessions:
+          - name: Optinum Solutions
+            image: images/partners/optinum_solutions_sq.png
+            link: https://www.optinum.co.za/
+            title: '' 
 
