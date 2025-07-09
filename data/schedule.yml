@@ -356,3 +356,189 @@ days:
             link: https://www.optinum.co.za/
             title: '' 
 
+
+  - title: Day 4
+    date: 2025-07-10
+    content: ''
+    sessions:
+    - time: '08h00 - 09h00'
+      columns:
+      - title: ☕️🍵 & Registration
+        track: ''
+        content: "Rise and shine: your morning coffee & tea are ready! ☕️🌅  and last-minute sign-ups! ☕"
+        location: Civil Engineering Building
+        number: 
+        sessions: []
+
+    - time: 09h00 - 10h00
+      columns:
+        - title: "Keynote: Quantum Foundations - From Qubits to Intelligent Algorithms"
+          track: Keynote
+          location: S1018
+          sessions:
+            - name: Prof. Francesco Petruccione
+
+    - time: 10h00 - 10h30
+      columns:
+      - title: ☕️🍵
+        track: ""
+        content: Coffee break
+
+    
+    - time: 10h30 - 12h00
+      columns:
+      - title: Foundations of Data Literacy
+        track: Fundamentals
+        content: ""
+        location: S1018
+        number: 
+        sessions:
+          - name: Dr. Hossein Masoumi-Karakani
+
+      - title: Quantum Machine Learning 4 Africa
+        track: Workshop
+        content: ""
+        location: M2002
+        number: 
+        sessions:
+          - name: IBM Research
+            image: "images/partners/ibm.png"
+            link: https://research.ibm.com/
+            title: '' 
+      - title: "Building AI Agentic Workflows from scratch: A Hands-On Tutorial on RAG, Text2SQL & Tools"
+        track: Workshop
+        content: ""
+        location: M3002
+        number: 
+        sessions:
+          - name: IBM Research
+            image: "images/partners/ibm.png"
+            link: https://research.ibm.com/
+            title: '' 
+
+    
+    - time: 12h00 - 13h00
+      columns:
+      - title: 🍽️ Lunch
+        track: ''
+        content: "Lunch is served! Fuel up and energize for the afternoon! 🍽️"
+        location: Civil Engineering Cafeteria
+        number: 
+        sessions: [] 
+
+    - time: 13h00 - 14h00
+      columns:
+      - title: Lecture
+        track: Lecture
+        content: ""
+        location: S1018
+        number: 
+        sessions:
+          - name: Dr. Werner Janse van Rensburg
+            title: "Introduction to NICIS: Your Compute (CHPC), Data (DIRISA) and Network (SANReN) Infrastructure Service Partner"
+          - name: Avi Moodley
+            title: "NPL Solutions for Practical Industry Use Cases"
+
+      - title: Quantum Machine Learning 4 Africa
+        track: Workshop
+        content: ""
+        location: M2002
+        number: 
+        sessions:
+          - name: IBM Research
+            image: "images/partners/ibm.png"
+            link: https://research.ibm.com/
+            title: '' 
+      - title: "Building AI Agentic Workflows from scratch: A Hands-On Tutorial on RAG, Text2SQL & Tools"
+        track: Workshop
+        content: ""
+        location: M3002
+        number: 
+        sessions:
+          - name: IBM Research
+            image: "images/partners/ibm.png"
+            link: https://research.ibm.com/
+            title: '' 
+    
+    - time: 14h00 - 14h30
+      columns:
+      - title: ☕️🍵
+        track: ""
+        content: Coffee break
+
+    - time: 14h30 - 15h30
+      columns:
+      - title: Ethics, Health and Applications
+        track: Lecture
+        content: ""
+        location: S1018
+        number: 
+        sessions:
+          - name: Dr. Karen Walstra
+          - name: Gabriela Penelopé Carolus
+          - name: Craig Parker
+          - name: Dylan Geldenhuys
+
+      - title: Quantum Machine Learning 4 Africa
+        track: Workshop
+        content: ""
+        location: M2002
+        number: 
+        sessions:
+          - name: IBM Research
+            image: "images/partners/ibm.png"
+            link: https://research.ibm.com/
+            title: '' 
+      - title: "Building AI Agentic Workflows from scratch: A Hands-On Tutorial on RAG, Text2SQL & Tools"
+        track: Workshop
+        content: ""
+        location: M3002
+        number: 
+        sessions:
+          - name: IBM Research
+            image: "images/partners/ibm.png"
+            link: https://research.ibm.com/
+            title: '' 
+    
+    - time: 15h30 - 16h00
+      columns:
+      - title: ☕️🍵
+        track: ""
+        content: Coffee and Snacks
+
+    - time: 16h00 - 17h00
+      columns:
+      - title: "Panel Discussion: 70 Years of AI"
+        track: ""
+        content: ""
+        location: S1018
+        number:
+        sessions:
+          - name: Panel Discussion
+
+    - time: 17h00 - 17h30
+      columns:
+      - title: 
+        location: 'S1018'
+        content: 'Prize giving 🏅 and closing ceremony 🏆🏁'
+        number: 
+        sessions: []
+
+    - time: 17h30 - 18h00
+      columns:
+      - title: 
+        location: ''
+        content: 'Travel 🎒'
+        number: 
+        sessions: []
+
+
+    - time: 18h00 to late
+      columns:
+      - title: "Closing Event"
+        track: ""
+        content: ""
+        location: Dorp, Stellenbosch
+        number:
+        sessions:
+          - name: closing event

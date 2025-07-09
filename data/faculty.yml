@@ -654,6 +654,66 @@ people:
         link: "https://www.linkedin.com/in/luke-t-7963078a"
         icon: ""
 
+  - name: Dr. Karen Walstra
+    years:
+      - Lecture
+    talk_description: "As AI technologies rapidly integrate into education, comprehensive AI policies are crucial for schools. This presentation emphasizes the importance of establishing AI policies to ensure ethical integration, responsible AI use, and address privacy concerns. While AI offers benefits like enhanced pedagogy and personalized learning, potential risks such as data privacy violations and academic integrity infringements must be mitigated. Effective policies should align AI use with educational goals, promote equity, and follow data security regulations. Promoting AI literacy and ensuring human decision-making remains central are also essential. An awareness of bias, particularly African bias, transparency, fairness, and continuous evaluation are vital for fostering a safe, ethical, and innovative learning environment."
+    bio: "Dr. Karen Walstra, a passionate, independent educational consultant, is an EduChangeMaker and EduDisruptor. Specializes in promoting meaningful technology integration to transform learning through problem-solving, creative, and critical thinking. She consults to EdTech companies, works with schools and higher education organisations, conducting training across Sub-Saharan Africa and globally. Dr. Walstra is a member of the South African Artificial Intelligence Association, and is the Western Cape SAAIA Ambassador. She conducts school-based PD AI sessions about responsible and ethical AI use, prompting, hitl, and AI bias in Africa. She developed a tool to assess schools’ AI-readiness. She holds PhD in Computer-integrated Education (University of Pretoria) researching the influence of Virtual Reality on teachers' pedagogy, and Master's in Education focusing on Educational Technology (University of the Witwatersrand). Dr. Walstra worked at Google from 2014 to 2017, in “Education Go Digital” engaging SSA governments’ Departments of Education, and Chrome OS. The Online Safety Curriculum Guide she developed with Google and WCED, and her “demystifying coding” workshop are used for teacher PD across the country. She has extensive teaching experience (Gr. R to Gr. 11), lectured at universities, and presented at numerous local and international conferences on Educational Technology, Design and Technology, and Artificial Intelligence."
+    topic: "AI School Policy: An Urgent Need"
+    affiliation: ""
+    link: modal
+    image: "/images/people/KarenWalstra.png"
+    social_media:
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/karen-walstra-she-her-phd-31435531/"
+        icon: ""
+
+
+  - name: Gabriela Penelopé Carolus
+    years:
+      - Lecture
+    talk_description: "This presentation introduces StoryRx, an innovative, AI-driven digital storytelling health communication tool designed to support Type II diabetes management in diverse South African contexts. Due to the historical underrepresentation of African languages, cultures, and environments in generative AI (GenAI) training, many existing models struggle to effectively address content relevant to Africa. StoryRx employs advanced training and prompting strategies tailored to the unique linguistic and cultural landscape of the Western Cape, thereby addressing significant gaps in current AI capabilities.
+      We will explore both the limitations and opportunities within GenAI, highlighting ongoing initiatives in the African ecosystem, such as InkubaLM, UlizaLlama, and AfriCOMET, while also acknowledging persisting challenges in image and speech models. Through our collaborative project, which leverages advanced retrieval-augmented generation (RAG) pipelines alongside structured clinical evidence and culturally nuanced narratives, we demonstrate improved evaluation methods, including human-centered and expert-in-the-loop approaches.
+      Our findings highlight the importance of critical cultural and contextual considerations for creating AI-driven stories that resonate with their intended audiences. Ultimately, StoryRx exemplifies how integrating structured, evidence-based medical guidelines with culturally responsive, unstructured narrative data can lead to ethically sound, clinically accurate, and contextually relevant AI health applications, paving the way for equitable and scalable GenAI solutions worldwide."
+    bio: "I am a Research Fellow and Research Project Manager at Stellenbosch University, specialising in the intersection of artificial intelligence, software architecture, design, public health innovation, and human-computer interaction. My research focuses on the co-design process for culturally sensitive, AI-driven digital storytelling health interventions and developing digital health solutions to support Type 2 diabetes management in low—and middle-income African contexts. I am cultivating dual expertise in Health Data Analytics, utilising Python, R, and machine learning methods, alongside Software Engineering and AI Architecture. I also pay particular attention to the ethical dimensions of digital health systems in resource-constrained environments. My work is dedicated to designing, evaluating, and scaling digital health solutions through participatory approaches and digital randomised controlled trials (RCTS). In the short term, I aim to publish in peer-reviewed journals, present at international conferences, and prepare for early-career grants and postdoctoral fellowships. Ultimately, I aspire to lead initiatives within organisations such as UNESCO, WHO, UNU, or the CDC, advancing digital public health innovation across Africa."
+    topic: "Ground Truth: Blending Clinical Evidence and Unstructured Deep Learning for a Culturally Responsive AI Health Innovation"
+    affiliation: "Division of Health Systems and Public Health, Department of Global Health, Stellenbosch University"
+    link: modal
+    image: "/images/people/Gabriela_Carolus.jpeg"
+    social_media:
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/gabrielacarolus-health-services-public-health/"
+        icon: ""
+  
+  - name: Craig Parker
+    years:
+      - Lecture
+    talk_description: "This presentation reveals insights from a machine learning analysis of climate-health relationships in predicting heat vulnerability. Using advanced feature engineering and temporal analysis, we uncovered five novel findings that challenge conventional understanding: (1) metabolic biomarkers (HbA1c, glucose) emerged as stronger predictors than traditional risk factors, (2) climate impacts peak at a surprising 14-day lag period, (3) multi-domain interactions between metabolic, anthropometric, and climate factors create vulnerability synergies, (4) historical climate exposure influences current health responses, and (5) individual biomarker profiles enable personalized risk prediction. These discoveries open new research directions for precision climate health interventions and suggest that the biological mechanisms of heat vulnerability operate on timescales not previously recognized in public health practice."
+    bio: "Craig is a data scientist focused on the intersection of climate change and public health in Africa. He leads research in quantifying the health impacts of extreme heat and designing predictive, data-driven interventions. Craig contributes to the HEAT Centre, developing systems like early warning models, health monitoring dashboards, and spatial risk assessments to support vulnerable communities. His code and analyses are available on GitHub: https://github.com/Logic06183/Min_repo_heat_analysis."
+    topic: "Beyond Weather Warnings: Machine Learning Reveals the Hidden Biology of Climate Health Vulnerability"
+    affiliation: "Wits Planetary Health Research"
+    link: modal
+    image: "/images/people/craig_parker.jpg"
+    social_media:
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/craig-parker06182/"
+        icon: ""
+
+  - name: Dylan Geldenhuys
+    years:
+      - Lecture
+    talk_description: "In this talk, we will show how we used Causal Machine Learning to build a digital twin of the telco network, focused on optimizing Net Promoter Score (NPS). By modeling individual user responses to network quality metrics like RSRQ and throughput, we estimate the causal impact of potential interventions — allowing us to simulate changes, predict customer satisfaction shifts, and guide investment decisions. This framework helps telcos prioritize upgrades by expected NPS uplift, quantify return on investment (ROI), and make smarter, data-driven decisions at scale."
+    bio: "Dylan Geldenhuys is a machine learning engineer currently leading causal‑ML initiatives in telecom to build a digital twin of network performance—enabling simulation of interventions, NPS optimization, and ROI-informed decision making at scale. Previously, he helped develop digital twins in the healthcare space using wearable-device data for patient monitoring and simulated interventions. With a strong foundation in mathematics, ML, MLOps, and system-level modeling across domains, Dylan bridges advanced technical methods and real-world impact."
+    topic: "Building a Digital Twin for Telco: Optimizing Customer Satisfaction with Causal ML - Simulating interventions, predicting customer impact, and guiding network decisions at scale"
+    affiliation: "Sand Technologies"
+    link: modal
+    image: "/images/people/dylan_geldenhuys.jpeg"
+    social_media:
+      - title: LinkedIn
+        link: "https://www.linkedin.com/in/dylan-g-001480179/"
+        icon: ""
+
+
 # This file contains the list of speakers for the event, including their names, years of participation, talk descriptions, bios, topics, affiliations, and social media links.
 # Note: The placeholder.jpg image will be used for speakers without specific images.
 # Please replace with actual speaker images as they become available.
