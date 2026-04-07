@@ -11,18 +11,10 @@ args:
 
 4 days of machine learning content and community!
 
-The schedule will be updated regularly.
+The schedule will be updated as the event approaches.
 
-
-{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[Download Schedule here ](https://drive.google.com/file/d/1jfURgocxzT6NfiP_ho0Cp1_i5-b_-bMr/view?usp=drive_link)
-{{< /class >}}
-
-We're streaming all keynotes, foundational lectures, and selected workshops and talks live from our main venue available [here](https://lnkd.in/dQ3BxAcK) 
-
- <!-- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[Download Schedule here ](https://drive.google.com/file/d/1RWQJwbEpIvYA65YS9_Rb8invjHLZPtkh/view?usp=sharing)
+<!-- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[Download Schedule here ](link)
 {{< /class >}} -->
-
 
 {{< partial "schedule" "args" >}}

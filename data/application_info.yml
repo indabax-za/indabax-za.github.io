@@ -2,62 +2,47 @@
 link: "/register"
 info_link_label: Registration info
 applications:
-  # - heading: "Registrations and Applications  \n\U0001F52D \U0001F6E0 \U0001F393"
-  #   label: Register
-  #   open: false
-  #   closed_message: Opening March 2024!
-  #   URL: ""
-  #   color: "#9A5BD4"
-  #   open_date:
-  #     soon! Tickets released in multiple waves on a first come, first serve
-  #     basis
-  #   close_date: 2023-06-09T23:00:00.000+00:00
-  #   acceptance_date: see below for tips on how to [improve your application](#how-do-i-imporve-my-application)
-  - heading: "Academia  \n\U0001F52D  \nTicket: R2000"
-    label: Register now
+  - heading: "Academia  \n\U0001F52D  \nTicket: TBA"
+    label: Coming soon
     open: false
-    closed_message: Closed!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSe1UQC3OuWInaezM-PFOFFjRki0YpGLRrK3nOytsvBv5NDH8Q/viewform?usp=sharing"
+    closed_message: Coming soon!
+    URL: ""
     color: "#9A5BD4"
-    open_date:
-      again soon. Tickets released in multiple waves on a first come, first serve
-      basis
-    close_date: 2025-06-27T23:00:00.000+02:00
-    acceptance_date: upon payment
-  - heading: "Industry  \n\U0001F6E0  \nTicket: R3700"
-    label: Register now
+    open_date: TBA 2026
+    close_date: 2026-12-31T23:00:00.000+02:00
+    acceptance_date: TBA
+  - heading: "Industry  \n\U0001F6E0  \nTicket: TBA"
+    label: Coming soon
     open: false
-    closed_message: Closed!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSeO3RHUGhVs8NenlhJobSCUMb0Qt81qyRz1qaWiLv0r6FIWFQ/viewform?usp=dialog"
+    closed_message: Coming soon!
+    URL: ""
     color: "#228EE3"
-    open_date:
-      again soon. Tickets released in multiple waves on a first come, first serve
-      basis
-    close_date: 2025-06-27T23:00:00.000+02:00
-    acceptance_date: upon payment
+    open_date: TBA 2026
+    close_date: 2026-12-31T23:00:00.000+02:00
+    acceptance_date: TBA
   - heading: "Studying  \n\U0001F393  \nFree!"
-    label: Apply to attend for free
+    label: Coming soon
     open: false
-    closed_message: Closed!
-    URL: "https://apply.indabax.co.za"
+    closed_message: Coming soon!
+    URL: ""
     color: "#5AA136"
-    open_date: April 2025
-    close_date: 2025-05-23T22:00:00.000+02:00
-    acceptance_date: 6th June (approx.)
+    open_date: TBA 2026
+    close_date: 2026-12-31T23:00:00.000+02:00
+    acceptance_date: TBA
   - heading: "Present a talk  \n\U0001F3A4"
-    label: Submit abstract
-    col_size: 8 # 12 is full width, default is between 4 and 6 (calculated automatically from number of items)
+    label: Coming soon
+    col_size: 8
     open: false
-    closed_message: Closed!
-    URL: "https://docs.google.com/forms/d/e/1FAIpQLSd0UQs5xMz8jlzR_m5_7c-32hrPSOO-Zruulu5ipTOEF_5APQ/viewform?usp=sharing"
+    closed_message: Coming soon!
+    URL: ""
     color: orange
-    open_date: April 2025
-    close_date: 2025-05-23T22:00:00.000+02:00
-    acceptance_date: 11th June (approx.)
+    open_date: TBA 2026
+    close_date: 2026-12-31T23:00:00.000+02:00
+    acceptance_date: TBA
 show_period: false
 period_text: "[Registration period](/register)"
-applications_open_date: May 2023
-applications_close_date: 2025-05-25T22:00:00.000+02:00
+applications_open_date: TBA 2026
+applications_close_date: 2026-12-31T23:00:00.000+02:00
 acceptance_date: July (approx.)
 target_applicants:
   enable: true

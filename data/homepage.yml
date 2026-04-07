@@ -1,7 +1,7 @@
 ---
 banner:
   title: "Deep Learning Indaba\U0001D54F <br> <em>South Africa</em>"
-  logo: "/images/indabax2025_logo_white.png"
+  logo: "/images/indabax_logo_white.png"
   logo_size: 200rem
   min_header_height: 0vh
   opacity: 60
@@ -13,9 +13,9 @@ banner:
       # - title: Apply for the committee now
         # URL: "/news/2024-01-22-join-the-committee"
         # color: "#FD8C5D"
-      - title: Register now
-        URL: "/register"
-        color: "#228EE3"
+      # - title: Register now
+      #   URL: "/register"
+      #   color: "#228EE3"
       - title: Donate
         URL: "/partners"
         color: "#08313E"
@@ -29,9 +29,9 @@ about:
 school:
   title: Machine learning and artificial intelligence conference
   dates:
-    estimated_date: July 2025!
-    school_start_date: 2025-07-07T07:00:00.000+00:00
-    school_end_date: 2025-07-11T14:00:00.000+00:00
+    estimated_date: 2026
+    school_start_date:
+    school_end_date:
   content: The conference will be a multi-day event featuring...
   item:
     - title: 400+<br>attendees
