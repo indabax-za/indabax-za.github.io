@@ -9,7 +9,7 @@ applications:
     URL: ""
     color: "#9A5BD4"
     open_date: TBA 2026
-    close_date: 2026-12-31T23:00:00.000+02:00
+    close_date: 2026-04-30T23:00:00.000+02:00
     acceptance_date: TBA
   - heading: "Industry  \n\U0001F6E0  \nTicket: TBA"
     label: Coming soon
@@ -18,7 +18,7 @@ applications:
     URL: ""
     color: "#228EE3"
     open_date: TBA 2026
-    close_date: 2026-12-31T23:00:00.000+02:00
+    close_date: 2026-04-30T23:00:00.000+02:00
     acceptance_date: TBA
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Coming soon
@@ -27,7 +27,7 @@ applications:
     URL: ""
     color: "#5AA136"
     open_date: TBA 2026
-    close_date: 2026-12-31T23:00:00.000+02:00
+    close_date: 2026-04-30T23:00:00.000+02:00
     acceptance_date: TBA
   - heading: "Present a talk  \n\U0001F3A4"
     label: Coming soon
@@ -37,12 +37,12 @@ applications:
     URL: ""
     color: orange
     open_date: TBA 2026
-    close_date: 2026-12-31T23:00:00.000+02:00
+    close_date: 2026-04-30T23:00:00.000+02:00
     acceptance_date: TBA
 show_period: false
 period_text: "[Registration period](/register)"
 applications_open_date: TBA 2026
-applications_close_date: 2026-12-31T23:00:00.000+02:00
+applications_close_date: 2026-04-30T23:00:00.000+02:00
 acceptance_date: July (approx.)
 target_applicants:
   enable: true
