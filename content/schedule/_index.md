@@ -9,7 +9,7 @@ args:
     collapsed: false
 ---
 
-4 days of machine learning content and community!
+<!-- 4 days of machine learning content and community! -->
 
 The schedule will be updated as the event approaches.
 

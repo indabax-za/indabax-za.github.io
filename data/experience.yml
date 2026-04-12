@@ -1,3 +1,47 @@
 ---
 title: Organising committee
-item: []
+item:
+  - name: Gail Vermaak
+    position: AI Fest
+    # affiliation: University of Queensland
+    image: "/images/people/Gail-Vermaak_AIFest.jpg"
+  - name: Makhafola Lesego
+    position: Fundraising and Sponsor Relations & AI Fest and Poster Session
+    # affiliation: University of Queensland
+    image: "/images/people/Makhafola_Lesego_09.jpg"
+    link: https://www.linkedin.com/in/lesego-makhafola-65102651/
+  - name: Moyahabo Rabothata
+    position: Marketing 
+    # affiliation: University of Queensland
+    image: "/images/people/Moyahabo-Rabothata_Marketing&IndabaXS.jpg"
+  - name: Nomonde Khalo
+    position: Marketing and Communication 
+    # affiliation: University of Queensland
+    image: "/images/people/Nomonde Khalo.jpg"
+  - name: Refiloe Shabe
+    position: Not Provided 
+    # affiliation: University of Queensland
+    image: "/images/people/refiloe_shabe.jpeg"
+  - name: Tshegofatso Shabangu 
+    position: Marketing and Fundraising 
+    # affiliation: University of Queensland
+    image: "/images/people/Tshegofatso -Shabangu_Marketing&Fundraising.png"
+    
+  - name: Kessel Okinga
+    position: Marketing and Application
+    # affiliation: University of Queensland
+    image: "/images/people/kessel_okinga.jpg"
+    link: https://www.linkedin.com/in/kessel-okinga-494549127/
+
+  - name: Robert Selemani
+    position: Hackathon and AI Fest
+    # affiliation: University of Queensland
+    image: "/images/people/Robert-Selemani_Hackathon&AiFest.jpeg"
+    link: https://www.linkedin.com/in/robert-selemani/
+
+
+  - name: Elizabeth Booi 
+    position: Programme Chairs and Marketing and Communication
+    # affiliation: University of Queensland
+    image: "/images/people/booi.jpg"
+    link: https://www.linkedin.com/in/elizabeth-booi/

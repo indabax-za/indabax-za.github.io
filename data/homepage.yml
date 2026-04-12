@@ -27,12 +27,12 @@ about:
     spread more widely across the African continent."
   show_application_info: true
 school:
-  title: Machine learning and artificial intelligence conference
+  title: Machine Learning and Artificial Intelligence Conference
   dates:
     estimated_date:  06 - 10 July, 2026
-    school_start_date:
-    school_end_date:
-  content: The conference will be a multi-day event featuring...
+    school_start_date: "2026-07-06"
+    school_end_date: "2026-07-10"
+  content: The conference will be a multi-day event featuring.
   item:
     - title: 400+<br>attendees
       content: connect with other researchers and practitioners

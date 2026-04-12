@@ -2,43 +2,46 @@
 link: "/register"
 info_link_label: Registration info
 applications:
-  - heading: "Academia  \n\U0001F52D  \nTicket: TBA"
+  - heading: "Academia  \n\U0001F52D  \nTicket: R2000"
     label: Coming soon
-    open: false
-    closed_message: Coming soon!
+    col_size: 6
+    open: true
+    closed_message: Open
     URL: ""
     color: "#9A5BD4"
-    open_date: TBA 2026
-    close_date: 2026-04-30T23:00:00.000+02:00
+    open_date: on Wed, 15 April 2026
+    close_date: 2026-05-30T23:00:00.000+02:00
     acceptance_date: TBA
-  - heading: "Industry  \n\U0001F6E0  \nTicket: TBA"
+  - heading: "Industry  \n\U0001F6E0  \nTicket: R3700"
     label: Coming soon
-    open: false
-    closed_message: Coming soon!
+    col_size: 6
+    open: true
+    closed_message: Open
     URL: ""
     color: "#228EE3"
-    open_date: TBA 2026
+    open_date: on Wed, 15 April 2026
     close_date: 2026-04-30T23:00:00.000+02:00
-    acceptance_date: TBA
+    acceptance_date: 2026-05-30T23:00:00.000+02:00
   - heading: "Studying  \n\U0001F393  \nFree!"
     label: Coming soon
+    col_size: 6
     open: false
     closed_message: Coming soon!
     URL: ""
     color: "#5AA136"
-    open_date: TBA 2026
-    close_date: 2026-04-30T23:00:00.000+02:00
-    acceptance_date: TBA
-  - heading: "Present a talk  \n\U0001F3A4"
+    open_date: on Wed, 22 April 2026
+    close_date: 2026-05-06T23:00:00.000+02:00
+    acceptance_date: 2026-05-30T23:00:00.000+02:00
+  - heading: "Present a talk  \n\U0001F3A4  \nFree!" 
     label: Coming soon
-    col_size: 8
-    open: false
-    closed_message: Coming soon!
+    col_size: 6
+    open: true
+    closed_message: Open
     URL: ""
     color: orange
-    open_date: TBA 2026
+    open_date: on Wed, 15 April 2026
     close_date: 2026-04-30T23:00:00.000+02:00
-    acceptance_date: TBA
+    acceptance_date: 2026-05-30T23:00:00.000+02:00
 show_period: false
 period_text: "[Registration period](/register)"
 applications_open_date: TBA 2026
