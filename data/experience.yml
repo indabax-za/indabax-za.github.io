@@ -1,47 +1,90 @@
 ---
 title: Organising committee
 item:
-  - name: Gail Vermaak
-    position: AI Fest
+
+  - name: Anna Bosman
+    position: Executive Director
     # affiliation: University of Queensland
-    image: "/images/people/Gail-Vermaak_AIFest.jpg"
-  - name: Makhafola Lesego
-    position: Fundraising and Sponsor Relations & AI Fest and Poster Session
+    image: "/images/people/bosman.jpg"
+  - name: Christopher Currin
+    position: Board of Directors
+    # affiliation: University of Queensland
+    image: "/images/people/currin.jpg"
+  - name: Maria Schuld
+    position: Board of Directors
+    # affiliation: University of Queensland
+    image: "/images/people/schuld.jpg"
+    link: https://www.linkedin.com/in/maria-schuld-7857b070/
+  - name: Lydia de Lange
+    position: Executive Director
+    # affiliation: University of Queensland
+    image: "/images/people/delange.jpg"
+
+
+
+  - name: Elizabeth Booi 
+    position: Programme Chairs and Marketing and Communication
+    # affiliation: University of Queensland
+    image: "/images/people/booi_e.jpg"
+    link: https://www.linkedin.com/in/elizabeth-booi/
+  - name: Lesego Makhafola
+    position:  Marketing, communications and AI Fest 
     # affiliation: University of Queensland
     image: "/images/people/Makhafola_Lesego_09.jpg"
     link: https://www.linkedin.com/in/lesego-makhafola-65102651/
+
+  - name: Kwasi Darkwa
+    position: Marketing, communications and AI Fest
+    # affiliation: University of Queensland
+    image: "/images/people/kwasi.jpeg"
+
+
+  - name: Nomonde Khalo
+    position: Marketing and Communication 
+    # affiliation: University of Queensland
+    image: "/images/people/Nomonde_Khalo_.jpg"
   - name: Moyahabo Rabothata
     position: Marketing 
     # affiliation: University of Queensland
     image: "/images/people/Moyahabo-Rabothata_Marketing&IndabaXS.jpg"
-  - name: Nomonde Khalo
-    position: Marketing and Communication 
-    # affiliation: University of Queensland
-    image: "/images/people/Nomonde Khalo.jpg"
-  - name: Refiloe Shabe
-    position: Not Provided 
-    # affiliation: University of Queensland
-    image: "/images/people/refiloe_shabe.jpeg"
-  - name: Tshegofatso Shabangu 
-    position: Marketing and Fundraising 
-    # affiliation: University of Queensland
-    image: "/images/people/Tshegofatso -Shabangu_Marketing&Fundraising.png"
-    
   - name: Kessel Okinga
     position: Marketing and Application
     # affiliation: University of Queensland
     image: "/images/people/kessel_okinga.jpg"
     link: https://www.linkedin.com/in/kessel-okinga-494549127/
-
+  - name: Tshegofatso Shabangu 
+    position: Marketing and Fundraising 
+    # affiliation: University of Queensland
+    image: "/images/people/Tshegofatso -Shabangu_Marketing&Fundraising.png"
+  - name: Gail Vermaak
+    position: AI Fest
+    # affiliation: University of Queensland
+    image: "/images/people/Gail-Vermaak_AIFest.jpg"
   - name: Robert Selemani
     position: Hackathon and AI Fest
     # affiliation: University of Queensland
     image: "/images/people/Robert-Selemani_Hackathon&AiFest.jpeg"
     link: https://www.linkedin.com/in/robert-selemani/
 
-
-  - name: Elizabeth Booi 
-    position: Programme Chairs and Marketing and Communication
+  - name: Ahmed Ghoor
+    position: Programme Chairs and Hackathon 
     # affiliation: University of Queensland
-    image: "/images/people/booi.jpg"
-    link: https://www.linkedin.com/in/elizabeth-booi/
+    image: "/images/people/ghoor.jpg"
+  - name: Mandlenkosi Zwane
+    position: Hackathon and Applications
+    # affiliation: University of Queensland
+    image: "/images/people/mandlenkosi_zwane.jpeg"
+  - name: Refiloe Shabe
+    position: Hackathon 
+    # affiliation: University of Queensland
+    image: "/images/people/refiloe_shabe_.jpeg"
+  - name: Thapelo Maupa
+    position: Fundraising, Sponsor Relations and Applications 
+    # affiliation: University of Queensland
+    image: "/images/people/maupa.jpg"
+  - name: Thapelo Sindane
+    position: Fundraising, Sponsor Relations and Applications 
+    # affiliation: University of Queensland
+    image: "/images/people/sindane.jpg"
+
+
