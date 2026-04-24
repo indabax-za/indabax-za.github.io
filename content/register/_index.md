@@ -21,22 +21,23 @@ As much as we want everyone to join us, there is limited space available so we c
 
 ### {{<icon "ti-calendar">}}  Important dates {.project-meta}
 
-Dates for 2026 are to be announced. Dates for 2026 are to be announced. Keep an eye on this page for updates.
+<!-- Dates for 2026 are to be announced. Dates for 2026 are to be announced. Keep an eye on this page for updates. -->
+
+
 
 | Date | Event |
 | :--- | :---- |
-| TBA  | Applications for free attendance (e.g. for students) open |
-| TBA  | 1st wave of paid registrations (e.g. for academics) open  |
-| TBA  | Abstract submissions open                                 |
-| TBA  | Applications for free attendance close                    |
-| TBA  | Abstract submissions close                                |
-| TBA  | Notification of application acceptance                    |
-| TBA  | Notification of abstract acceptance                       |
-| TBA  | Early bird registration closes (prices increase)          |
-| TBA  | RSVP to confirm attendance after acceptance               |
-| TBA  | Final wave of paid registrations close                    |
--->
--->
+| 2026-04-15 | 1st wave of paid registrations (e.g. for academics) open  |
+| 2026-04-15 | Abstract submissions open                                 |
+| 2026-05-01 | Applications for free attendance (e.g. for students) open |
+| 2026-05-29 | Applications for free attendance close                    |
+| 2026-05-29 | Abstract submissions close                                |
+| 2026-06-10 | Notification of application acceptance                    |
+| 2026-06-11 | Notification of abstract acceptance                       |
+| 2026-06-12 | Early bird registration closes (prices increase)          |
+| 2026-06-12 | RSVP to confirm attendance after acceptance               |
+| 2026-06-26 | Final wave of paid registrations close                    |
+
 
 > [**Travel grants**](/register/travel-grants) must be applied for _during the application process_. See [Travel grants](/register/travel-grants) for more info.
 
@@ -50,7 +51,7 @@ Sponsorship prospectus: [link](https://www.canva.com/design/DAGhOjWp5g8/UWA9vZ4-
 
 ### {{<icon "ti-microphone">}}  Talks and Posters {.project-meta}
 
-We have some slots available for submitted talks 🎤 , posters 🖼️ .
+We have some slots available for submitted talks 🎤 and posters 🖼️ .
 
 **We are currently only considering in-person presentations** #
 
