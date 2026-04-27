@@ -1,0 +1,274 @@
+---
+categories: ["Stellenbosch University", "Stellenbosch"]
+date: 2025-07-07T06:00:00Z
+description: "Deep Learning Indaba𝕏 South Africa 2025"
+end_date: 2025-07-11T18:00:00Z
+image: "images/indabax_logo black text.png"
+thumbnail: "images/indabax_logo black text.png"
+title: "2025"
+decor: false
+# playlist: ""
+# report: ""
+menu:
+  main:
+    parent: archive
+
+scheduleargs:
+  collapsed: true
+  schedule: "2025-schedule"
+  faculty: "2025-faculty"
+sponsorargs:
+  sponsors: "2025-sponsors"
+
+people: 
+  title: Indaba𝕏 2025 organising committee
+  item:
+    - name: Ahmed Ghoor
+      position: Programme Chairs & Hackathon
+      affiliation: University of Queensland
+      image: "/images/people/ghoor.jpg"
+      link: https://www.linkedin.com/in/ahmedghoor
+    - name: Aldrin Ngorima
+      position: Marketing and Communication
+      affiliation: North-West University
+      image: "/images/people/ngorima2024.jpg"
+      link: http://linkedin.com/in/simbarashe-aldrin-ngorima-5ab027120/
+    - name: Anna Bosman
+      position: Executive Director
+      affiliation: University of Pretoria
+      image: "/images/people/bosman.jpg"
+      link: https://annabosman.github.io/
+    - name: Christopher Currin
+      position: Board of Directors
+      affiliation: IMBIZO
+      image: "https://indabax.co.za/images/people/currin.jpg"
+      link: https://chriscurrin.com
+    - name: Dan Masethe
+      position: Programme Chairs, Fundraising and Sponsor relations & Hackathon
+      affiliation: Tshwane University of Technology
+      image: "/images/people/masethe.jpg"
+      link: ""
+    - name: Devon Jarvis
+      position: Fundraising and Sponsor relations
+      affiliation: University of the Witwatersrand
+      image: "/images/people/jarvis.jpg"
+      link: "https://www.linkedin.com/in/devon-jarvis-6b059a139/"
+    - name: Ditiro Rampate
+      position: Fundraising and Sponsor relations & Applications
+      affiliation: IndabaX Botswana
+      image: "/images/people/rampate.jpg"
+      link: https://www.linkedin.com/in/ditiro-rampate-46a999a4/
+    - name: Eldon Burger
+      position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+      affiliation: Stellenbosch University
+      image: "/images/people/placeholder.jpg"
+      link:
+    - name: Elizabeth Booi
+      position: Programme Chairs & Marketing and Communication
+      affiliation: University of the Western Cape
+      image: "/images/people/booi.jpg"
+      link: https://www.linkedin.com/in/elizabeth-booi/
+    - name: Emily-Rose Steyn
+      position: Local Organisation + Catering and Social Events & Accounting Support
+      affiliation: University of the Witwatersrand
+      image: "/images/people/steyn.jpg"
+      link: https://www.linkedin.com/in/emilyrosesteyn/
+    - name: Emmanuel Owusu Ahenkan
+      position: Hackathon
+      affiliation: African Institute for Mathematical Sciences & Stellenbosch University
+      image: "/images/people/ahenkan.jpg"
+      link: https://www.linkedin.com/in/emmanuel-owusu-ahenkan/
+    - name: Francis E. Agamah
+      position: AI Fest and Poster Session
+      affiliation: University of Cape Town & DS-I Africa
+      image: "/images/people/agamah.jpg"
+      link: "https://www.linkedin.com/in/francis-agamah-3a5762115"
+    - name: Gabriel Asare Williams
+      position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+      affiliation: Mastercard (African Institute of Mathematical Sciences)
+      image: "/images/people/gabriel.png"
+      link: http://www.linkedin.com/in/gabriel-asare-williams-24ba24232
+    - name: Joel Leonard
+      position: Fundraising and Sponsor relations & Marketing and Communication
+      affiliation: University of Pretoria
+      image: "/images/people/leonard2024.jpg"
+      link: https://www.linkedin.com/in/joel-leonard-50820285/
+    - name: Kwasi Darkwa
+      position: Marketing and Communication & AI Fest and Poster Session
+      affiliation: IndabaX Botswana & Botho University
+      image: "/images/people/kwasi.jpeg"
+      link: "https://www.linkedin.com/in/kwasidarkwa/"
+    - name: Laing Lourens
+      position: Fundraising and Sponsor relations
+      affiliation: CSIR
+      image: "/images/people/lourens.jpg"
+      link: "https://www.linkedin.com/in/laing-lourens-561a33173/"
+    - name: Lesego Makhafola
+      position: Fundraising and Sponsor relations & AI Fest and Poster Session
+      affiliation: University of Pretoria
+      image: "/images/people/makhafola.jpg"
+      link: https://www.linkedin.com/in/lesego-makhafola-65102651/
+    - name: Louise Fourie
+      position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+      affiliation: Stellenbosch University
+      image: "/images/people/louise.jpg"
+      link: https://www.linkedin.com/in/louise-fourie-23a2101b2
+    - name: Lucy van der Meulen
+      position: Local Organisation + Catering and Social Events & Marketing and Communication
+      affiliation: Stellenbosch University
+      image: "/images/people/lucy.jpeg"
+      link: https://www.linkedin.com/in/lucy-van-der-meulen-98097b267/
+    - name: Lydia de Lange
+      position: Executive Director, Accounting Support & Fundraising and Sponsor relations
+      affiliation: SocioTech
+      image: "https://indabax.co.za/images/people/delange.jpg"
+      link: www.linkedin.com/in/lydia-de-lange
+    - name: Mahlatse Mbooi
+      position: Marketing and Communication
+      affiliation: CSIR
+      image: "/images/people/mahlatse.jpeg"
+      link: https://www.linkedin.com/in/mahlatse-mbooi-28853265/
+    - name: Mandlenkosi Zwane
+      position: Hackathon & Applications
+      affiliation: Acumen Software
+      image: "images/people/mandlenkosi_zwane.jpeg"
+      link: https://thumihub.github.io/profile/mandlenkosi.html
+    - name: Marcel Dunaiski
+      position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+      affiliation: Stellenbosch University
+      image: "/images/people/placeholder.jpg"
+      link:
+    - name: Maria Schuld
+      position: Board of Directors
+      affiliation: Xanadu
+      image: "https://indabax.co.za/images/people/schuld.jpg"
+      link: https://www.linkedin.com/in/maria-schuld-7857b070/
+    - name: Matimba Shingange
+      position: Programme Chairs & Applications
+      affiliation: University of Pretoria
+      image: "/images/people/shingange.jpg"
+      link: https://www.linkedin.com/in/matimba-shingange-a2587b55/
+    - name: Ndivhuwo Makondo
+      position: Programme Chairs
+      affiliation: IBM
+      image: "/images/people/makondo.jpg"
+      link: "https://www.linkedin.com/in/makondond/"
+    - name: Nomonde Khalo
+      position: Marketing and Communication
+      affiliation: University of Cape Town
+      image: "/images/people/khalo.jpg"
+      link: https://www.linkedin.com/in/nomonde-katlego-khalo-4a6a40256/
+    - name: Yeshalen Naicker
+      position: Hackathon
+      affiliation: CSIR
+      image: "/images/people/naicker.jpg"
+      link: https://www.linkedin.com/in/yeshalen-naicker/
+    - name: Qiulin Li
+      position: Programme Chairs & Hackathon
+      affiliation: Sand Technologies
+      image: "/images/people/li.jpg"
+      link: "https://www.linkedin.com/in/qiulin-li-800a6117b/"
+    - name: Refiloe Motsoeneng
+      position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+      affiliation: Stellenbosch University
+      image: "/images/people/refiloe.jpeg"
+      link: https://www.linkedin.com/in/refiloe-motsoeneng-b15439160/
+    - name: Robert Selemani
+      position: Hackathon & AI Fest and Poster Session
+      affiliation: Zindi Africa
+      image: "/images/people/selemani.png"
+      link: http://linkedin.com/in/robert-selemani
+    - name: Ruan de Kock
+      position: Fundraising and Sponsor relations
+      affiliation: InstaDeep Ltd & University of Cape Town
+      image: "/images/people/dekock2024.jpg"
+      link: https://www.linkedin.com/in/ruan-de-kock/
+    - name: Samuel Oladejo
+      position: Fundraising and Sponsor relations & Hackathon
+      affiliation: Xero & University of Johannesburg
+      image: "/images/people/oladejo.jpg"
+      link: https://www.linkedin.com/in/saol/
+    - name: Sthembiso Mkhwanazi
+      position: Programme Chairs, Hackathon & AI Fest and Poster Session
+      affiliation: CSIR
+      image: "/images/people/sthembiso_mkhwanazi.png"
+      link: https://www.linkedin.com/in/sthesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    - name: Stephanie Müller
+      position: Local Organisation + Catering and Social Events & Programme Chairs
+      affiliation: IBM & University of the Witwatersrand 
+      image: "/images/people/muller.jpg"
+      link: https://www.linkedin.com/in/stephanie-muller-352b48a6/
+    - name: Thapelo Maupa
+      position: Fundraising and Sponsor relations & Applications
+      affiliation: Independent Researcher
+      image: "/images/people/maupa.jpg"
+      link: https://www.linkedin.com/in/tp-maupa
+    - name: Thapelo Sindane
+      position: Fundraising and Sponsor relations & Applications
+      affiliation: University of Pretoria
+      image: "/images/people/sindane.jpg"
+      link: https://www.linkedin.com/in/thapelo-sindane-a8907b1b2
+    - name: Tim Vermeulen
+      position: Local Organisation + Catering and Social Events & AI Fest and Poster Session
+      affiliation: Stellenbosch University
+      image: "/images/people/tim.jpeg"
+      link: https://www.linkedin.com/in/tim-vermeulen-261342247
+---
+
+## {{<icon "ti-info">}} About
+
+#### {{<icon "fa-solid fa-people-carry-box">}} &nbsp; 400+ attendees {.faq-item}
+
+connect with other researchers and practitioners
+
+#### {{<icon "fa-solid fa-ranking-star">}} &nbsp; 50+ speakers {.faq-item}
+
+attend a showcase of cutting-edge research and applied AI
+
+#### {{<icon "fa-solid fa-person-chalkboard">}} &nbsp; 4+ tutorials {.faq-item}
+
+receive a practical introduction to machine learning for beginners
+
+#### {{<icon "fa-solid fa-chalkboard-user">}} &nbsp; 50+ posters {.faq-item}
+
+share your work and get feedback from experts
+
+#### {{<icon "fa-solid fa-laptop-code">}} &nbsp; 2+ hackathon problems {.faq-item}
+
+get your hands dirty and learn from the best
+
+
+### {{<icon "fa-solid fa-people-group">}} &nbsp; Demographics {.faq-item}
+
+<!-- TODO: Add 2025 demographics images when available
+{{< rawhtml >}}
+
+<div class="row">
+
+{{< figure src="/images/archive/indabax2025 - Current position.png" class="col-6">}}
+{{< figure src="/images/archive/indabax2025 - Gender.png" class="col-6">}}
+{{< figure src="/images/archive/indabax2025 - Ethnicity.png" class="col-6">}}
+{{< figure src="/images/archive/indabax2025 - Nationality.png" class="col-6">}}
+
+</div>
+
+{{< /rawhtml >}}
+-->
+
+---
+
+### 🎤 **AI FEST 2025** 🖼️
+
+The opening event of Indaba𝕏 South Africa 2025, held at Stellenbosch University. A festive celebration of South African AI innovation, featuring poster sessions, company exhibitions, research showcases, activities, art, music, and food vendors.
+
+---
+
+## {{<icon "ti-time">}} Schedule
+
+{{< partial "schedule" "scheduleargs">}}
+
+---
+
+## {{<icon "ti-user">}} Organising committee
+
+{{< people >}}

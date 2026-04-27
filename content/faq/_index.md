@@ -2,7 +2,7 @@
 title: FAQ - Frequently Asked Questions
 date: 2019-05-12T12:14:34.000+06:00
 description: Frequently Asked question
-image: "/images/Stellenbosch_Ou_Hoofgebou.jpeg"
+image: "/images/indabax_logo black text.png"
 min_header_height: 40em
 
 ---
@@ -58,35 +58,44 @@ Yes, there will be tea and coffee available at certain times throughout the day!
 
 #### {{<icon "fa-solid fa-utensils">}} &nbsp; **Will there be food?** {.faq-item}
 
-Yes, we will provide **lunch** on the 7th, 8th, 9th, and 10th July. We will also provide some snacks throughout the day. Dietary requirements are collected in the registration form.
+Yes, we will provide **lunch** on conference days. We will also provide some snacks throughout the day. Dietary requirements are collected in the registration form.
 
 <!-- If you have an "Accommodation" travel grant (you will know this explicitly), we provide breakfast for you on the 12th, 13th, 14th, and 15th of July. -->
 
 Each **evening** will have an activity with some food and drinks provided, but in limited quantities and not intended as a full dinner experience. We **strongly** encourage you to make friends and go explore the town for dinner.
 
 #### {{<icon "fa-solid fa-mug-saucer">}} &nbsp; **I'm still hungry - where can I get food on campus?** {.faq-item}
+
+Details about nearby food options will be updated once the 2026 venue is confirmed.
+
+<!-- Stellenbosch 2025 options kept for reference
 There are a couple of shops around the campus area. There is also Die [Neeslie](https://neelsiesa.co.za/), a shopping centre on campus that has some of the follow restaurants:
 * [Free Bird](https://freebird.co.za/)
 * [Kwikspar](http://www.spar.co.za)
 * [Roman's Pizza](http://www.romanspizza.co.za)
 * [Panda Box](https://pandaboxtakeaway.co.za/menu/)
+-->
 
 ## Safety
 
-#### {{<icon "ti-alert">}} &nbsp; **Is Stellenbosch safe?** {.faq-item}
+#### {{<icon "ti-alert">}} &nbsp; **Is the venue safe?** {.faq-item}
 
-Stellenbosch is a beautiful town, but like any town, it has its problems. We recommend that you take the same precautions as you would in any other town.
+Safety information will be updated once the 2026 venue is confirmed. We recommend that you take the same precautions as you would in any other town.
+
+<!-- Stellenbosch 2025 safety info kept for reference
+Stellenbosch is a beautiful town, but like any town, it has its problems.
 
 Stellenbosch University (Stellies) has security guards on campus and 24/7 CCTV footage.
 
 Security contacts on campus:
 * Stellenbosch University Campus Security (Campus, Parking, Res): [021 808 2333](tel:0218082333)
+-->
 
 ## Time
 
-#### {{<icon "fa-solid fa-clock">}} &nbsp; **When should I arrive/leave Stellenbosch for the Indaba𝕏?** {.faq-item}
+#### {{<icon "fa-solid fa-clock">}} &nbsp; **When should I arrive/leave for the Indaba𝕏?** {.faq-item}
 
-We suggest arriving the day before the Indaba𝕏 starts (i.e. the 6th of July) and leaving the day after the Indaba𝕏 ends (i.e. the 12th of July).
+We suggest arriving the day before the Indaba𝕏 starts and leaving the day after it ends. Exact dates will be confirmed for 2026.
 
 #### {{<icon "ti-bag">}} &nbsp; **How packed is the schedule?** {.faq-item}
 
@@ -98,71 +107,34 @@ Very. We have an awesome selection of speakers and activities to fill up the tim
 
 #### {{<icon "ti-pin">}} &nbsp; **Where is the Indaba𝕏 exactly?** {.faq-item}
 
+The 2026 venue will be announced soon. Stay tuned!
+
+<!-- Stellenbosch 2025 location info kept for reference
 The 8th edition of Indaba𝕏 will take place at Stellenbosch University in Western Cape, South Africa.
 
 We will be at the [Civil Engineering building](https://maps.app.goo.gl/ZXYsQtye3rY4urNx6) on the Stellenbosch Engineering Campus close to Academia residence (student accommodation).
-
-<!--Wits provides a mobile app with information about campus and additional maps. The app is available for both [Android](https://play.google.com/store/apps/details?id=ac.za.wits.mobile.apps&hl=en&gl=US) and [iOS](https://apps.apple.com/in/app/wits-mobile/id1638185219) devices. -->
+-->
 
 For more information, see also [ABOUT](/about).
 
 #### {{<icon "ti-car">}} &nbsp; **Is there parking on campus?** {.faq-item}
 
-Yes, there is parking on campus. You will be able to park on the civil engineering parking lot. There should also be available parking lots around campus. 
+Parking details will be updated once the 2026 venue is confirmed.
 
-#### {{<icon "fa-solid fa-plane">}} &nbsp; **How do I get to the venue from Cape Town International Airport?** {.faq-item}
+#### {{<icon "fa-solid fa-plane">}} &nbsp; **How do I get to the venue from the airport?** {.faq-item}
 
-The venue is a 40 minute drive from the airport. 
+Directions will be updated once the 2026 venue is confirmed.
 
-If you are driving, from the airport:
-* Leave the airport and get on the N2 from Ring Rd and Airport Approach Rd.
-* Travel on the N2 for ~19km.
-* Use the left exit for R310 (Baden Powell Dr).
-* Continue on R310 (Baden Powell Dr) for ~13km.
-* Take a short right for Polkadraai Rd and continue into Adam Tas Rd.
-* Stay on Adam Tas Rd for ~ 5km. 
-* Exit on the right for Molteno Rd.
-* Continue on Molteno Rd for ~ 500m until you join Jan Celliers Rd ahead.
-* After about 200m, enter the circle, take the 2nd exit to continue into the next circle.
-* Take the 3rd exit into the engineering parking. 
+#### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do near the venue?** {.faq-item}
 
-#### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do in Stellenbosch?** {.faq-item}
-
-Stellenbosch has a lot to offer, it’s one of the most beautiful and vibey towns in South Africa. There is plenty to see and do close to Stellies and further afar if you have the time and are able.
-
-**🍇 Wine & 🥙Food**
-* [Lanzerac Wine Estate](https://maps.app.goo.gl/cuzbmvwqEqxH1Uza9) - Ultimate experience in the Cape Winelands, closest wine estate to the venue
-* [Bartinney Wine Estate](https://www.bartinney.co.za/) - Boutique winery nestled in the picturesque Banhoek Valley
-* [Spier Wine Farm](https://www.spier.co.za/) - Stunning views, luxury wine, and top-tier food.
-* [Java Bistro](https://www.javabistro.net/) - Beloved eatery located in the heart of Stellies.
-* [De Vrije Burger](https://maps.app.goo.gl/x5ActjxezKjJGaRS7) - 100% Free range beef, double cheese, home made bun and all the trimmings.
-
-**🏛️ History & Culture**
-* [Stellenbosch Village Museum](https://stelmus.co.za/village-museum/) - Walk through historic homes from the 1700s.
-* [Rupert Museuml](https://rupertmuseum.org/) - South African art in a beautiful setting.
-* [Moederkerk](https://moederkerk.co.za/) - The iconic church in town, great architecture.
-
-**🥾 Nature & Outdoor**
-* [Jonkershoek Nature Reserve](https://www.capenature.co.za/reserves/jonkershoek-nature-reserve/?utm_source=googlemybusiness) - Hike, bike, or just take in the mountains and waterfalls.
-* [Botanical Gardens (Stellenbosch University)](https://www.sun.ac.za/english/entities/botanical-garden) - Peaceful, green, and great for a slow walk.
-* [Horseback wine tasting](https://horseridingcapetown.com/franschhoek-outrides/) - Yep, it’s a thing!
-
-**☕ Town Vibes**
-* [Church Street](https://g.co/kgs/d6dio8Y) – Boutique shops, cafes, art galleries, live music spots.
-* [Moro Stellenbosch](https://maps.app.goo.gl/3jppWT4kzuNw4E7k6) - One of the best ice cream gelateria in town
-* [Blue Crane & The Butterfly](https://meraki-living.co.za/) – Trendy coffee shops to chill or work from.
-* [Root44 Market (weekends)](hhttps://root44.co.za/) – Craft food, live music, local creators, great energy.
+Local attractions and activities will be updated once the 2026 venue is confirmed.
 
 ## Accommodation
 
-#### {{<icon "ti-home">}} &nbsp; **Can I stay at Stellies?** {.faq-item}
+#### {{<icon "ti-home">}} &nbsp; **Can I stay on campus?** {.faq-item}
 
-We are pleased to invite attendees to apply to stay in accommodation in a residence on campus. Accommodation is limited and not guaranteed until payment is received.
-
-More information will be provided once everythig is confirmed.
+Accommodation details will be updated once the 2026 venue is confirmed.
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
-* [Stumble Inn Backpackers](https://www.agoda.com/en-za/stumble-inn-backpackers-lodge/hotel/stellenbosch-za.html) - 3 minutes away from campus
-* [107 Dorpstraat Boutique Hotel](https://maps.app.goo.gl/tCXq4Gd29gqaCND87) - Nice, small hotel also 3 minutes away from campus
-* [Stellenbosch Manor](https://maps.app.goo.gl/5gfFgGx5DssewFA28) - If you looking for some luxury and comfort, this is a nice option. Only a minute away from campus
+Nearby accommodation options will be updated once the 2026 venue is confirmed.
