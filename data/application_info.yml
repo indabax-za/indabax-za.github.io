@@ -2,22 +2,33 @@
 link: "/register"
 info_link_label: Registration info
 applications:
+  # - heading: "Registrations and Applications  \n\U0001F52D \U0001F6E0 \U0001F393"
+  #   label: Register
+  #   open: false
+  #   closed_message: Opening March 2024!
+  #   URL: ""
+  #   color: "#9A5BD4"
+  #   open_date:
+  #     soon! Tickets released in multiple waves on a first come, first serve
+  #     basis
+  #   close_date: 2023-06-09T23:00:00.000+00:00
+  #   acceptance_date: see below for tips on how to [improve your application](#how-do-i-imporve-my-application)
   - heading: "Academia  \n\U0001F52D  \nTicket: R2000"
-    label: Open
+    label: Register now
     col_size: 6
     open: true
     closed_message: Open
-    URL: ""
+    URL: "https://docs.google.com/forms/d/1CQCIB8fbgcZkRr6vW-mh_V4y9z_NW3KkeZgrdOy6KmE/edit?usp=drivesdk&ouid=116653377666852828746&chromeless=1"
     color: "#9A5BD4"
     open_date: on Wed, 15 April 2026
     close_date: 2026-05-30T23:00:00.000+02:00
     acceptance_date: 2026-06-12T23:00:00.000+02:00
   - heading: "Industry  \n\U0001F6E0  \nTicket: R3700"
-    label: Coming soon
+    label: Register now
     col_size: 6
     open: true
     closed_message: Open
-    URL: ""
+    URL: "https://docs.google.com/forms/d/1r5hCwX2kc53GbAQ-n7wjriNMyHzuqwpby8Qm7OSCKRU/edit?usp=drivesdk&ouid=116653377666852828746&chromeless=1"
     color: "#228EE3"
     open_date: on Wed, 15 April 2026
     close_date: 2026-05-30T23:00:00.000+02:00
