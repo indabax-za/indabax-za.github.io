@@ -5,11 +5,11 @@ item:
   - name: Anna Bosman
     position: Executive Director
     # affiliation: University of Queensland
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/committee_2026/bosman.jpg"
   - name: Christopher Currin
     position: Board of Directors
     # affiliation: University of Queensland
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/committee_2026/currin.jpg"
   - name: Maria Schuld
     position: Board of Directors
     # affiliation: University of Queensland
@@ -18,14 +18,14 @@ item:
   - name: Lydia de Lange
     position: Executive Director
     # affiliation: University of Queensland
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/committee_2026/delange.jpg"
 
 
 
   - name: Elizabeth Booi 
     position: Programme Chairs and Marketing and Communication
     # affiliation: University of Queensland
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/committee_2026/booi.jpg"
     link: https://www.linkedin.com/in/elizabeth-booi/
   - name: Lesego Makhafola
     position:  Marketing, communications and AI Fest 
@@ -36,7 +36,7 @@ item:
   - name: Kwasi Darkwa
     position: Marketing, communications and AI Fest
     # affiliation: University of Queensland
-    image: "/images/people/placeholder.jpg"
+    image: "/images/people/committee_2026/kwasi.jpeg"
 
 
   - name: Nomonde Khalo
@@ -71,9 +71,10 @@ item:
     # affiliation: University of Queensland
     image: "/images/people/committee_2026/ahmed_ghoor_programmechair.jpg"
   - name: Mandlenkosi Zwane
-    position: Hackathon and Applications
+    position: Website and Marketing
     # affiliation: University of Queensland
     image: "/images/people/committee_2026/Mandlenkosi_Zwane.jpg"
+    link: https://thumihub.github.io/profile/mandlenkosi
   - name: Refiloe Shabe
     position: Hackathon 
     # affiliation: University of Queensland
@@ -87,4 +88,24 @@ item:
     # affiliation: University of Queensland
     image: "/images/people/committee_2026/Thapelo-Sindane_Fundraising-and-Sponsor-Relations & Applications & Local-Org.jpg"
 
+  - name: Aviwe Kohlakala
+    position: Programme Chairs and AI Fest
+    # affiliation: University of Queensland
+    image: "/images/people/committee_2026/Aviwe-Kohlakala_Programme&AIFest.jpg"
 
+  - name: Ditebogo Masha
+    position: Fundraising and Programme Chairs
+    # affiliation: University of Queensland
+    image: "/images/people/committee_2026/Ditebogo-Masha_Fundraising&Programme-Chair.png"
+
+  - name: Keamogecoe Modise
+    position: Marketing
+    # affiliation: University of Queensland
+    image: "/images/people/committee_2026/Keamogecoe Modise_Marketing.jpeg"
+
+  - name: Munenyashaishe Hove
+    position: AI Fest
+    # affiliation: University of Queensland
+    image: "/images/people/committee_2026/Munenyashaishe Hove_AIFest.jpg"
+
+  - name:
