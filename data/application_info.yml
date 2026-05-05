@@ -40,7 +40,7 @@ applications:
     closed_message: Coming soon!
     URL: ""
     color: "#5AA136"
-    open_date: on Mon, 04 May 2026
+    open_date: on Wed, 06 May 2026
     close_date: 2026-05-29T23:00:00.000+02:00
     acceptance_date: 2026-06-10T23:00:00.000+02:00
   - heading: "Present a talk  \n\U0001F3A4  \nFree!" 
@@ -50,7 +50,7 @@ applications:
     closed_message: Coming soon!
     URL: ""
     color: orange
-    open_date: on Mon, 04 May 2026
+    open_date: on Wed, 06 May 2026
     close_date: 2026-05-29T23:00:00.000+02:00
     acceptance_date: 2026-05-30T23:00:00.000+02:00
 show_period: false
