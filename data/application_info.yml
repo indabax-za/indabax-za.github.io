@@ -34,11 +34,11 @@ applications:
     close_date: 2026-05-30T23:00:00.000+02:00
     acceptance_date: 2026-06-12T23:00:00.000+02:00
   - heading: "Student  \n\U0001F393  \nFree!"
-    label: Open
+    label: Apply to attend for free
     col_size: 6
-    open: false
+    open: true
     closed_message: Coming soon!
-    URL: ""
+    URL: "https://apply.indabax.co.za"
     color: "#5AA136"
     open_date: on Wed, 06 May 2026
     close_date: 2026-05-29T23:00:00.000+02:00
