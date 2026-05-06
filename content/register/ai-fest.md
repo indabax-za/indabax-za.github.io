@@ -85,7 +85,7 @@ Join us and share how you are using AI to benefit South Africa’s society and e
 {{< /rawhtml >}}
 
 {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[RESERVE A BOOTH ](https://forms.gle/GQ3uvGEjqVDmtCN58)
+[RESERVE A BOOTH ](https://forms.gle/pT8uyqQ4vs7CVH1v5)
 {{< /class >}}
 
 ## Posters
