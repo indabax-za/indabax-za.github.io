@@ -41,7 +41,7 @@ applications:
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
     open_date: on Wed, 06 May 2026
-    close_date: 2026-05-29T23:00:00.000+02:00
+    close_date: 2026-05-22T23:00:00.000+02:00
     acceptance_date: 2026-06-10T23:00:00.000+02:00
   - heading: "Present a talk  \n\U0001F3A4  \nFree!" 
     label: Submit abstract
@@ -51,7 +51,7 @@ applications:
     URL: ""
     color: orange
     open_date: on Fri, 08 May 2026
-    close_date: 2026-05-29T23:00:00.000+02:00
+    close_date: 2026-05-22T23:00:00.000+02:00
     acceptance_date: 2026-05-30T23:00:00.000+02:00
 show_period: false
 period_text: "[Registration period](/register)"

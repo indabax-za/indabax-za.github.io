@@ -30,8 +30,8 @@ As much as we want everyone to join us, there is limited space available so we c
 | 2026-04-15 | 1st wave of paid registrations (e.g. for academics) open  |
 | 2026-05-08 | Abstract submissions open                                 |
 | 2026-05-06 | Applications for free attendance (e.g. for students) open |
-| 2026-05-29 | Applications for free attendance close                    |
-| 2026-05-29 | Abstract submissions close                                |
+| 2026-05-22 | Applications for free attendance close                    |
+| 2026-05-22 | Abstract submissions close                                |
 | 2026-06-10 | Notification of application acceptance                    |
 | 2026-06-11 | Notification of abstract acceptance                       |
 | 2026-06-12 | Early bird registration closes (prices increase)          |
