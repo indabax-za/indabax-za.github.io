@@ -49,9 +49,9 @@ We are excited to announce the opening event of **Indaba𝕏**  South Africa, th
 
 ### Event Details
 
-#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** TBA
+#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of KwaZulu-Natal, Westville Campus
 
-#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** TBA
+#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** 06 July 2026
 
 <!-- #### &nbsp;&nbsp; {{<icon "ti-info">}} &nbsp;&nbsp;&nbsp;&nbsp;**More Info:** [Click here](link) -->
 
