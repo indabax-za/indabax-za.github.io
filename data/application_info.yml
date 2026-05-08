@@ -46,9 +46,9 @@ applications:
   - heading: "Present a talk  \n\U0001F3A4  \nFree!" 
     label: Submit abstract
     col_size: 6
-    open: false
+    open: true
     closed_message: Coming soon!
-    URL: ""
+    URL: "https://forms.gle/nbjz3p2vuPA5CcE57"
     color: orange
     open_date: on Fri, 08 May 2026
     close_date: 2026-05-22T23:00:00.000+02:00
