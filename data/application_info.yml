@@ -21,7 +21,7 @@ applications:
     URL: "https://docs.google.com/forms/d/1CQCIB8fbgcZkRr6vW-mh_V4y9z_NW3KkeZgrdOy6KmE/edit?usp=drivesdk&ouid=116653377666852828746&chromeless=1"
     color: "#9A5BD4"
     open_date: on Wed, 15 April 2026
-    close_date: 2026-05-30T23:00:00.000+02:00
+    close_date: 2026-05-31T23:00:00.000+02:00
     acceptance_date: 2026-06-12T23:00:00.000+02:00
   - heading: "Industry  \n\U0001F6E0  \nTicket: R3700"
     label: Register now
@@ -31,7 +31,7 @@ applications:
     URL: "https://docs.google.com/forms/d/1r5hCwX2kc53GbAQ-n7wjriNMyHzuqwpby8Qm7OSCKRU/edit?usp=drivesdk&ouid=116653377666852828746&chromeless=1"
     color: "#228EE3"
     open_date: on Wed, 15 April 2026
-    close_date: 2026-05-30T23:00:00.000+02:00
+    close_date: 2026-05-31T23:00:00.000+02:00
     acceptance_date: 2026-06-12T23:00:00.000+02:00
   - heading: "Student  \n\U0001F393  \nFree!"
     label: Apply to attend for free
@@ -41,7 +41,7 @@ applications:
     URL: "https://apply.indabax.co.za"
     color: "#5AA136"
     open_date: on Wed, 06 May 2026
-    close_date: 2026-05-22T23:00:00.000+02:00
+    close_date: 2026-05-31T23:00:00.000+02:00
     acceptance_date: 2026-06-10T23:00:00.000+02:00
   - heading: "Present a talk  \n\U0001F3A4  \nFree!" 
     label: Submit abstract
@@ -51,7 +51,7 @@ applications:
     URL: "https://forms.gle/nbjz3p2vuPA5CcE57"
     color: orange
     open_date: on Fri, 08 May 2026
-    close_date: 2026-05-22T23:00:00.000+02:00
+    close_date: 2026-05-31T23:00:00.000+02:00
     acceptance_date: 2026-05-30T23:00:00.000+02:00
 show_period: false
 period_text: "[Registration period](/register)"
