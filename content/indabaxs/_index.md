@@ -1,5 +1,5 @@
 ---
-title: IndabaXS South Africa 
+title: IndabaXs South Africa 
 date: 2026-05-26T12:12:12.000+02:00
 description: indabaXs
 image: https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg
