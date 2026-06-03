@@ -10,6 +10,11 @@ identifier = "schedule"
 name = "Schedule"
 weight = 1
 [[menu.main]]
+URL = "indabaxs"
+identifier = "indabaxs"
+name = "indabaxs"
+weight = 1
+[[menu.main]]
 URL = "faq"
 identifier = "faq"
 name = "FAQ"
