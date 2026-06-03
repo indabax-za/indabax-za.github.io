@@ -9,6 +9,28 @@ args:
 collapsed: false
 ---
 
+<!-- 
+
+INTERNAL NOTES FOR THE COMMITTEE
+
+TODO:
+- [ ] Add upcoming IndabaXS events as they are confirmed
+- [ ] Update the "Past Events" section with completed events
+- [ ] Consider adding a registration link when events are scheduled
+- [ ] Add photos/gallery from past IndabaXS events
+
+CONTENT REMINDERS:
+- Keep the Overview, Vision, and Mission sections updated as needed
+- Contact email for IndabaXS inquiries: outreach@indabax.co.za
+- Coordinate with Marketing & Communications team for event announcements
+
+TECHNICAL NOTES:
+- This page uses the standard content template
+- Hero image is from Pexels (free to use)
+- To add a new IndabaXS event page, create a new .md file in /content/indabaxs/
+
+-->
+
 <!-- 4 days of machine learning content and community! -->
 
 ### Overview
@@ -47,4 +69,3 @@ To grow an inclusive, grassroots data and technology community across South Afri
 
 ---
 ### Past Events
-
