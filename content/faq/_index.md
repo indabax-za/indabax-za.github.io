@@ -60,81 +60,63 @@ Yes, there will be tea and coffee available at certain times throughout the day!
 
 Yes, we will provide **lunch** on conference days. We will also provide some snacks throughout the day. Dietary requirements are collected in the registration form.
 
-<!-- If you have an "Accommodation" travel grant (you will know this explicitly), we provide breakfast for you on the 12th, 13th, 14th, and 15th of July. -->
+Most **evenings** will host an activity with some food and drinks provided, but in limited quantities and not intended as a full dinner experience. We strongly encourage you to make friends and go explore town for dinner. 
 
-Each **evening** will have an activity with some food and drinks provided, but in limited quantities and not intended as a full dinner experience. We **strongly** encourage you to make friends and go explore the town for dinner.
+If you have an "accommodation" travel grant and are booked by us to stay in the student residence, you will have access to the kitchens to prepare your own meals. 
 
 #### {{<icon "fa-solid fa-mug-saucer">}} &nbsp; **I'm still hungry - where can I get food on campus?** {.faq-item}
 
-Details about nearby food options will be updated once the 2026 venue is confirmed.
-
-<!-- Stellenbosch 2025 options kept for reference
-There are a couple of shops around the campus area. There is also Die [Neeslie](https://neelsiesa.co.za/), a shopping centre on campus that has some of the follow restaurants:
-* [Free Bird](https://freebird.co.za/)
-* [Kwikspar](http://www.spar.co.za)
-* [Roman's Pizza](http://www.romanspizza.co.za)
-* [Panda Box](https://pandaboxtakeaway.co.za/menu/)
--->
+The campus food court has a limited operating schedule during recess, but there is a small grocery shop on campus, and Westwood Mall (approx. 2 kilometers outside of campus) has ample options to grab a bite. 
 
 ## Safety
 
 #### {{<icon "ti-alert">}} &nbsp; **Is the venue safe?** {.faq-item}
 
-Safety information will be updated once the 2026 venue is confirmed. We recommend that you take the same precautions as you would in any other town.
+UKZN Westville campus is accessible through three entrances based at long windy roads through a nature reserve, which are all 24h access controlled. To avoid any access issues, make sure to have your badge, invitation letter or proof of attendance at hand for the guards to check.
 
-<!-- Stellenbosch 2025 safety info kept for reference
-Stellenbosch is a beautiful town, but like any town, it has its problems.
-
-Stellenbosch University (Stellies) has security guards on campus and 24/7 CCTV footage.
-
-Security contacts on campus:
-* Stellenbosch University Campus Security (Campus, Parking, Res): [021 808 2333](tel:0218082333)
--->
+UKZN's Risk Management Service is available under 031 260 7133 or 031 260 7265. 
 
 ## Time
 
 #### {{<icon "fa-solid fa-clock">}} &nbsp; **When should I arrive/leave for the Indaba𝕏?** {.faq-item}
 
-We suggest arriving the day before the Indaba𝕏 starts and leaving the day after it ends. Exact dates will be confirmed for 2026.
+We suggest arriving on Sunday July 5th to join us for the opening on Monday morning, and leaving on Friday July 10th in the evening, or a day after. 
 
 #### {{<icon "ti-bag">}} &nbsp; **How packed is the schedule?** {.faq-item}
 
 Very. We have an awesome selection of speakers and activities to fill up the time from ~8:30 am until 5 pm and beyond each day. The evening activities are normally optional, but we highly recommend you attend them for the full experience. Remember to take time for yourself, and to explore the city and surrounds.
 
-<!--See more on the [schedule](/schedule) page (updated over time).-->
-
 ## Location
 
 #### {{<icon "ti-pin">}} &nbsp; **Where is the Indaba𝕏 exactly?** {.faq-item}
 
-The 2026 venue will be announced soon. Stay tuned!
+The IndabaX 2026 will take place at <a href="https://maps.app.goo.gl/Sonw4Xjc2VhFquBx8">T-Block on UKZN's Westville Campus</a>. You cannot miss it: the entrance is in the middle of the courtyard behind the pond.
 
-<!-- Stellenbosch 2025 location info kept for reference
-The 8th edition of Indaba𝕏 will take place at Stellenbosch University in Western Cape, South Africa.
-
-We will be at the [Civil Engineering building](https://maps.app.goo.gl/ZXYsQtye3rY4urNx6) on the Stellenbosch Engineering Campus close to Academia residence (student accommodation).
--->
-
-For more information, see also [ABOUT](/about).
 
 #### {{<icon "ti-car">}} &nbsp; **Is there parking on campus?** {.faq-item}
 
-Parking details will be updated once the 2026 venue is confirmed.
+You can park in the student parking spots on campus without a permit for the duration of the event. 
 
 #### {{<icon "fa-solid fa-plane">}} &nbsp; **How do I get to the venue from the airport?** {.faq-item}
 
-Directions will be updated once the 2026 venue is confirmed.
+The easiest way is to catch an Uber or Bolt. There are <a href="https://www.airports.co.za/airports/king-shaka-international-airport/transport/public-transport">hourly airport shuttles</a> for about R100, such as the Airbus Shuttle Service that can be booked by calling +27 82 340 9990. However, these usually only drop you in town, from where you would have to catch a minitaxi. Unfortunately, the use of public buses is rather cumbersome. 
+
+If funding permits, we will organise a free first-come-first-serve shuttle service from Florida Road, which is a popular location for hotels, coffee shops and airbnbs.
 
 #### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do near the venue?** {.faq-item}
 
-Local attractions and activities will be updated once the 2026 venue is confirmed.
+Durban's beachfront is a wonderful space shared by swimmers, surfers, fisher(wo)men, churches, karate clubs and general beach goers, and especially vibrant in the early mornings. <a href="https://maps.app.goo.gl/upxNVNUUhhCsHUXP7">Chartwell Drive</a> in Umhlanga village is a popular spot for party goers. Hikers will love <a href="https://kknr.org.za/">Krantzkloof Nature Reserve</a>.
 
 ## Accommodation
 
 #### {{<icon "ti-home">}} &nbsp; **Can I stay on campus?** {.faq-item}
 
-Accommodation details will be updated once the 2026 venue is confirmed.
+Students who received an "accommodation" stipend will be hosted at the student residences on campus. These are either shared rooms with two beds, or shared flats with three single rooms. Bathrooms and kitchens are shared. 
+
+Rooms in the residence may also be rented from the Residence Managers as a budget-friendly option in walking distance to the venue. Rates are between R300-R500 per night. Contact Musa Mkhwanazi through MkhwanaziM2@ukzn.ac.za or 031 260 4360. 
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
-Nearby accommodation options will be updated once the 2026 venue is confirmed.
+Westville is a residential area with many private accommodation options. However, we highly recommend finding accommodation around the Florida Road area in Musgrave, as there are many coffee shops and restaurants, and it is generally safe to walk. It is a ~15-20 minute car ride to campus.
+
+We are currently trying to secure funding for a free shuttle that runs from a collection point at the center of Florida Road to campus in the mornings and evenings.
