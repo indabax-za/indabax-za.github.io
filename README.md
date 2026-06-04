@@ -1,6 +1,6 @@
 # [Deep Learning IndabaX South Africa](https://indabax.co.za)
 
-Initial design by Christopher Brian Currin [[🔗GitHub](https://github.com/ChrisCurrin) | [🌍website](https://chriscurrin.com)]
+developed by Christopher Brian Currin [[🔗GitHub](https://github.com/ChrisCurrin) | [🌍website](https://chriscurrin.com)]
 
 ## Getting started with development
 
