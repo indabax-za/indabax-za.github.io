@@ -117,6 +117,6 @@ Rooms in the residence may also be rented from the Residence Managers as a budge
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
-Westville is a residential area with many private accommodation options. However, we highly recommend finding accommodation around the Florida Road area in Musgrave, as there are many coffee shops and restaurants, and it is generally safe to walk. It is a ~15-20 minute car ride to campus.
+Westville is a residential area with many private accommodation options set in lush nature. 
 
-We are currently trying to secure funding for a free shuttle that runs from a collection point at the center of Florida Road to campus in the mornings and evenings.
+For those that want to be around coffee shops and restaurants, we recommend finding accommodation around the Florida Road area in Musgrave. It is generally safe to walk, and a ~15-20 minute car ride to campus, and 10 minutes to the beach. We are currently trying to secure funding for a free shuttle that runs from a collection point at the center of Florida Road to campus in the mornings and evenings--stay tuned!
