@@ -10,7 +10,7 @@ args:
 ---
 
 
-We are busy putting the finishing touches to the schedule. Expect it to be packed!
+We are busy putting the finishing touches to the schedule. Expect it to be packed with fantastic speakers!
 
 <!-- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
 [Download Schedule here ](link)
