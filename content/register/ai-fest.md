@@ -1,14 +1,14 @@
 +++
-date = 2023-05-17T06:14:34Z
+date = 2026-05-17T06:14:34Z
 description = "AI Fest"
-image = "https://images.unsplash.com/photo-1513151233558-d860c5398176?q=80&w=1920&h=900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image = /images/backgrounds/fest.jpg
 min_header_height = "30em"
 opacity = 80
 summary = "A one-night-only affair to showcase the present and future of AI from students, companies, and research labs..."
 title = "AI Fest 🖼️ "
 link_text = "find out more"
 type = "apply"
-lastmod = 2025-04-29T00:00:00Z
+lastmod = 2026-04-29T00:00:00Z
 colWidth = 4
 colOffset = 0
 weight = 2 # for ordering on the registration page
