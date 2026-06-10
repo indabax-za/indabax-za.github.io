@@ -16,23 +16,23 @@ banner:
       - title: Register now
         URL: "/register"
         color: "#228EE3"
-      - title:  Donate
+      - title:  Become a partner
         URL: "/partners"
         color: "#08313E"
 about:
   enable: true
   content:
-    "A Deep Learning Indaba\U0001D54F is a locally-organised \"Indaba\" or
-    conference that helps ensure that knowledge and capacity in machine learning are
-    spread more widely across the African continent."
+    "The Deep Learning IndabaX is an annual conference that brings together South Africa's machine learning researchers, practitioners and enthusiasts. It is an off-shoot of the [Deep Learning Indaba](https://deeplearningindaba.com), one of the most wonderful AI grassroots movements worldwide.
+    
+  Organised by the community, for the community."
+  
   show_application_info: true
 school:
-  title: Machine Learning and Artificial Intelligence Conference
   dates:
     estimated_date:  06 - 10 July, 2026
     school_start_date: "2026-07-06"
     school_end_date: "2026-07-10"
-  content: The conference will be a multi-day event featuring.
+  content: The conference will be a multi-day event featuring...
   item:
     - title: 400+<br>attendees
       content: connect with other researchers and practitioners
@@ -71,9 +71,6 @@ schedule:
   enable: false
   link: "/schedule"
   link_text: "expand all"
-news:
-  enable: true
-  title: ""
 experience:
   enable: true
 testimonials:
