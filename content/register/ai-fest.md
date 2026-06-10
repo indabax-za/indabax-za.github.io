@@ -20,47 +20,50 @@ weight = 2
 
 <!-- If you would like to **register** just for the AI Fest, use the link below &darr; -->
 
-
 {{< rawhtml >}}
 
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; ">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 10px; ">
  
-  <div style="flex: 2; padding: 10px; font-family: var(--bs-font-sans-serif); font-size: 16px; line-height: 1.8; color: #4c4c4c; font-weight: 400;">
+  <div style="flex: 2; padding: 1px; font-family: var(--bs-font-sans-serif); font-size: 16px; line-height: 1.8; color: #4c4c4c; font-weight: 400;">
     
-    Join us in celebrating South African innovation and discovery in the field of AI at our opening event, the <strong> AI Fest </strong>. 
-     Expect a festive atmosphere, activities, art, music, and food!
-    <br/>
+    <p>
+    Join us in celebrating South African innovation and discovery in the field of AI at our opening event, the <strong> AI Fest </strong>: 
+
+    <ul>
+      <li>- Celebrate the achievements of the South African AI community. </li>
+      <li>- Discover how AI is driving societal benefits and economic growth.</li>
+      <li>⁠- Network with South Africa’s brightest postgraduates, young professionals, peers, and research and industry leaders.</li>
+      <li>- Enjoy a festive atmosphere celebrating South African culture with music, food, and art.
+    </ul>
+    </p>
     
-    We’re calling for engaging posters from students, interactive booths from companies and groundbreaking research demonstrations from labs.
+    We’re calling for <strong>engaging posters</strong> from students,  <strong>interactive booths</strong> from companies and groundbreaking  <strong>research demonstrations</strong> from labs.
+    
   </div>
 </div>
 {{< /rawhtml >}}
 
-## Booths and Exhibitions
-
-We are excited to announce the opening event of **Indaba𝕏**  South Africa, the **AI Fest**, and we would love for your organisations and research labs to be a part of it!
-
 ### Event Details
 
-#### &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of KwaZulu-Natal, Westville Campus
+&nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of KwaZulu-Natal, Westville Campus
 
-#### &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** 06 July 2026
-
-<!-- #### &nbsp;&nbsp; {{<icon "ti-info">}} &nbsp;&nbsp;&nbsp;&nbsp;**More Info:** [Click here](link) -->
+&nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** 06 July 2026
 
 
-### Event Highlights
+### Exhibitor booths
 
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Celebrate the achievements of the South African AI community.  
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Discover how AI is driving societal benefits and economic growth.  
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Network with South Africa’s brightest postgraduates, young professionals, peers, and research and industry leaders.  
-&nbsp;&nbsp;&nbsp;&nbsp;•⁠  ⁠Enjoy a festive atmosphere celebrating South African culture with music, food, and art.  
+We would love for your *organisation or research lab* to be part of AI Fest - the opening event at Indaba𝕏 South Africa. This is a unique opportunity to showcase your AI innovations, connect with like-minded professionals, and contribute to the growth of AI in South Africa. Join us and share how you are using AI to benefit South Africa’s society and economy. We look forward to seeing you there!
 
-**Reserve a Booth:** We recommend two persons per booth. Sponsors are reserved a spot by default
+**Reserve a Booth:** 
 
-This is a unique opportunity to showcase your AI innovations, connect with like-minded professionals, and contribute to the growth of AI in South Africa.
+Sponsors of Indaba𝕏 South Africa can exhibit at AI Fest at no extra cost.
+For all others, a nominal fee is charged to cover administrative expenses: R6000 for industry exhibitors, and R3000 for research labs and new startups. This fee allows for two persons per booth. Additional attendees are welcome at R500 per person (to cover catering and logistics for those not registered for the main Indaba𝕏 conference). A maximum of 5 persons are allowed per booth.
 
-Join us and share how you are using AI to benefit South Africa’s society and economy. We look forward to seeing you there!
+**Registration deadline: Monday, 15 June 2026**
+
+{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[RESERVE A BOOTH ](https://forms.gle/pT8uyqQ4vs7CVH1v5)
+{{< /class >}}
 
 {{< rawhtml >}}
 <div style="display: flex; justify-content: space-between; padding: 20px; align-items: center;">
@@ -77,22 +80,19 @@ Join us and share how you are using AI to benefit South Africa’s society and e
 </div>
 {{< /rawhtml >}}
 
-{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[RESERVE A BOOTH ](https://forms.gle/pT8uyqQ4vs7CVH1v5)
-{{< /class >}}
 
-## Posters
+### Posters
+
 {{< rawhtml >}}
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 2; padding-right: 20px; font-family: var(--bs-font-sans-serif); font-size: 16px; line-height: 1.8; color: #4c4c4c; font-weight: 400;">
-    <p><strong>Every attendee can bring a poster to the Indaba𝕏!</strong> It is a good idea to indicate you will be bringing one during the application/registration process so we can provide adequate space.</p>
+    <p><strong>Every attendee can bring a poster to the AI Fest at the Indaba𝕏!</strong> It will, however, help us if you indicate that you will be bringing one during the application/registration process so we can provide adequate space.</p>
     <p>Posters are a great way to learn, share, and get feedback on your work in a helpful and friendly environment.
     The project does not have to be "done", in fact, it's probably more beneficial that your poster is on a work-in-progress project for something that you would like expert advice on.
     For posters, we also welcome submissions on a topic or interest that you are passionate about but may not have results on.</p>
     <p>Take the opportunity. You can also win prizes 🏆!</p>
-    <p>We recommend preparing an A1 landscape poster. Download a template <a href="https://osf.io/6ua4k" title="https://osf.io/6ua4k">here</a>.</p>
-    <p>Please view this video for an example on how to improve your poster design: <a href="https://www.youtube.com/watch?v=1RwJbhkCA58" title="https://www.youtube.com/watch?v=1RwJbhkCA58">How to Improve Your Poster Design</a> (adjust the template to your own needs!).</p>
+    
+    <p><strong>Guidelines:</strong> We recommend preparing an A1 landscape poster. If you don't know where to start, you can download a template <a href="https://osf.io/6ua4k" title="https://osf.io/6ua4k">here</a> and view <a href="https://www.youtube.com/watch?v=1RwJbhkCA58" title="https://www.youtube.com/watch?v=1RwJbhkCA58">this video</a>. Note that unfortunately we do not have any facilities to print posters for you.  </p>
   </div>
   <div style="flex: 1;">
     <img src="/images/register/ai-fest-image1.png" style="max-width: 100%; height: auto; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
