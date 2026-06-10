@@ -45,10 +45,11 @@ weight = 2
 
 ### Event Details
 
-&nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of KwaZulu-Natal, Westville Campus
+&nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of KwaZulu-Natal, Westville Campus, Main Hall
 
 &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** 06 July 2026
 
+&nbsp;&nbsp; {{<icon "ti-comments">}} &nbsp;&nbsp;&nbsp;&nbsp;**Who:** All IndabaX attendees
 
 ### Exhibitor booths
 
