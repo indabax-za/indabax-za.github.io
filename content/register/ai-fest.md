@@ -1,7 +1,7 @@
 +++
 date = 2026-05-17T06:14:34Z
 description = "AI Fest"
-image = /images/backgrounds/fest.jpg
+image = "/images/backgrounds/fest.jpg"
 min_header_height = "30em"
 opacity = 80
 summary = "A one-night-only affair to showcase the present and future of AI from students, companies, and research labs..."

@@ -1,7 +1,7 @@
 +++
 date = 2023-05-17T06:14:34Z
 description = "Submitted talks"
-image = /images/backgrounds/submitted.jpg
+image = "/images/backgrounds/submitted.jpg"
 min_header_height = "30em"
 opacity = 80
 title = "Submitted talks 🎤"
