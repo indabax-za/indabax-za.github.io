@@ -1,5 +1,5 @@
 +++
-date = 2023-05-17T06:14:34Z
+date = 2026-05-17T06:14:34Z
 description = "AI Fest"
 image = "/images/backgrounds/poster.jpg"
 min_header_height = "30em"
@@ -8,7 +8,7 @@ summary = "A one-night-only affair to showcase the present and future of AI from
 title = "AI Fest"
 link_text = "find out more"
 type = "apply"
-lastmod = 2025-04-29T00:00:00Z
+lastmod = 2026-04-29T00:00:00Z
 colWidth = 4
 colOffset = 0
 weight = 2 # for ordering on the registration page
@@ -47,7 +47,7 @@ weight = 2
 
 &nbsp;&nbsp; {{<icon "ti-pin">}} &nbsp;&nbsp;&nbsp;&nbsp;**Where:** University of KwaZulu-Natal, Westville Campus, Main Hall
 
-&nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** 06 July 2026
+&nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** Monday, 06 July 2026
 
 &nbsp;&nbsp; {{<icon "ti-comments">}} &nbsp;&nbsp;&nbsp;&nbsp;**Who:** All IndabaX attendees 
 
@@ -93,7 +93,9 @@ For all others, a nominal fee is charged to cover administrative expenses: R6000
     For posters, we also welcome submissions on a topic or interest that you are passionate about but may not have results on.</p>
     <p>Take the opportunity. You can also win prizes 🏆!</p>
     
-    <p><strong>Guidelines:</strong> We recommend preparing an A1 landscape poster. If you don't know where to start, you can download a template <a href="https://osf.io/6ua4k" title="https://osf.io/6ua4k">here</a> and view <a href="https://www.youtube.com/watch?v=1RwJbhkCA58" title="https://www.youtube.com/watch?v=1RwJbhkCA58">this video</a>. Note that unfortunately we do not have any facilities to print posters for you.  </p>
+    <p><strong>Guidelines:</strong> We recommend preparing an A0 portrait poster. Follow our guidelines <href="https://docs.google.com/document/d/1feb3JlqxFm0ciago6SrqQWqSXDTyCW7cpvKNRmGCeog/edit?usp=sharing">here</href>. If you don't know where to start, you can use <href="https://docs.google.com/presentation/d/1k_45mz-Q_61xR8gxHii5uN2iouvu-Qm1/edit?usp=drive_link&ouid=103678822311973816854&rtpof=true&sd=true">these</href> <href="https://docs.google.com/presentation/d/1kzea9axjVFCpYY1-ETCqswu8Z6jM2ROJ/edit?usp=drive_link&ouid=103678822311973816854&rtpof=true&sd=true">templates</href>, and some <href="https://www.imperial.ac.uk/robot-intelligence/research/posters/">inspiration</href>. Useful tips are in this <href="https://www.youtube.com/watch?v=1RwJbhkCA58">video</href>.
+    
+    </p>
   </div>
   <div style="flex: 1;">
     <img src="/images/register/ai-fest-image1.png" style="max-width: 100%; height: auto; border: 2px solid #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
