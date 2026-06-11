@@ -8,4 +8,3 @@ type: people
 ---
 
 You will find a list of our amazing 2026 speakers here shortly.
-
