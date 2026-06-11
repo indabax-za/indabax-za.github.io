@@ -2,7 +2,7 @@
 title: Registration info
 date: 2019-05-12T12:14:34.000+06:00
 description: Registration info
-image: /images/indabax2024._group_photo.jpg
+image: "/images/backgrounds/register.jpg"
 opacity: "80"
 min_header_height: 30em
 type: apply
@@ -11,13 +11,9 @@ decor: false
 ---
 We welcome students, academics, and industry professionals to attend the Deep Learning Indaba𝕏 South Africa - one of South Africa's premier Machine Learning gatherings and community-building spaces 🤝.
 
-_"Indaba" is a Zulu and Xhosa word meaning "discussion" or "conference"_
+However, as much as we want everyone to join us, there is limited space available so we can only allow **\~400 attendees** in order to maximise their experience 🏫.
 
-The aim of the conference is to provide a practical introduction to machine learning for beginners, to exchange scientific knowledge amongst researchers, and showcase cutting-edge applications from industry partners.
-
-As much as we want everyone to join us, there is limited space available so we can only allow **\~400 attendees** in order to maximise their experience 🏫.
-
-> **Note:** we will have videographers and photographers at the event 📷, smiles encouraged 😃.
+> **Note:** we will have videographers and photographers at the event, let us know if you do not wish to appear in pictures.
 
 ### {{<icon "ti-calendar">}}  Important dates {.project-meta}
 
