@@ -49,7 +49,7 @@ weight = 2
 
 &nbsp;&nbsp; {{<icon "ti-calendar">}} &nbsp;&nbsp;&nbsp;&nbsp;**When:** 06 July 2026
 
-&nbsp;&nbsp; {{<icon "ti-comments">}} &nbsp;&nbsp;&nbsp;&nbsp;**Who:** All IndabaX attendees
+&nbsp;&nbsp; {{<icon "ti-comments">}} &nbsp;&nbsp;&nbsp;&nbsp;**Who:** All IndabaX attendees 
 
 ### Exhibitor booths
 
