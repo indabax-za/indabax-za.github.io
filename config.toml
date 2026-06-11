@@ -39,11 +39,6 @@ identifier = "partners"
 name = "Partners"
 weight = 4
 [[menu.main]]
-URL = "news"
-identifier = "news"
-name = "News"
-weight = 2
-[[menu.main]]
 URL = "archive"
 identifier = "archive"
 name = "Archive"
