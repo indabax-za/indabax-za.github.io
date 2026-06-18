@@ -21,8 +21,8 @@ applications:
     URL: "https://docs.google.com/forms/d/1CQCIB8fbgcZkRr6vW-mh_V4y9z_NW3KkeZgrdOy6KmE/edit?usp=drivesdk&ouid=116653377666852828746&chromeless=1"
     color: "#9A5BD4"
     open_date: on Wed, 15 April 2026
-    close_date: 2026-06-12T23:00:00.000+02:00
-    acceptance_date: 2026-06-12T23:00:00.000+02:00
+    close_date: 2026-06-19T23:00:00.000+02:00
+    acceptance_date: 2026-06-19T23:00:00.000+02:00
   - heading: "Industry  \n\U0001F6E0  \nTicket: R3700"
     label: Register now
     col_size: 6
@@ -31,8 +31,8 @@ applications:
     URL: "https://docs.google.com/forms/d/1r5hCwX2kc53GbAQ-n7wjriNMyHzuqwpby8Qm7OSCKRU/edit?usp=drivesdk&ouid=116653377666852828746&chromeless=1"
     color: "#228EE3"
     open_date: on Wed, 15 April 2026
-    close_date: 2026-06-12T23:00:00.000+02:00
-    acceptance_date: 2026-06-12T23:00:00.000+02:00
+    close_date: 2026-06-19T23:00:00.000+02:00
+    acceptance_date: 2026-06-19T23:00:00.000+02:00
   - heading: "Student  \n\U0001F393  \nFree!"
     label: Apply to attend for free
     col_size: 6
