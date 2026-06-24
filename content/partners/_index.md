@@ -14,7 +14,7 @@ They are the startups pushing boundaries and expanding local expertise. They are
 to do more. They are institutions that share our vision. Our partners help to grow the IndabaX year-on-year. 
 
 {{<rawhtml>}}
-<a href="https://www.canva.com/design/DAGhOjWp5g8/UWA9vZ4-8PWMpwWFlBD6Iw/view?utm_content=DAGhOjWp5g8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5896a6be6f" class="btn btn-lg btn-secondary col-12 col-md-6 offset-md-3 text-white mb-3">Read our partner prospectus</a>
+<a href="https://drive.google.com/file/d/1Z6EEHwRx8PBAfFV8oIjWHple2AdTJCM5/view?usp=drive_link" class="btn btn-lg btn-secondary col-12 col-md-6 offset-md-3 text-white mb-3">Read our partner prospectus</a>
 {{</rawhtml>}}
 
 To learn more about opportunities for partnerships, reach out to fundraising@indabax.co.za. 
