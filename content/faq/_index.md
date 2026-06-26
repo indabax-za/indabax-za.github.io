@@ -76,6 +76,13 @@ UKZN Westville campus is accessible through three entrances based at long windy 
 
 UKZN's Risk Management Service is available under 031 260 7133 or 031 260 7265. 
 
+#### {{<icon "ti-alert">}} &nbsp; **What is the risk of xenophobic disruptions?** {.faq-item}
+
+The Deep Learning Indaba, as well as its local offspring, is a pan-African movement based on inclusivity, and we take a firm stance against any intimidation, violence or polemic against foreign nationals. We are monitoring the current tensions closely, and take the safety of our non-South African delegates very seriously. 
+
+Luckily, Westville campus is located in a residential area and far from protest hotspots, and also our recommended area for off-campus accommodation is generally safe. We encourage delegates to reach out to us if they have any concerns. 
+
+
 ## Time
 
 #### {{<icon "fa-solid fa-clock">}} &nbsp; **When should I arrive/leave for the Indaba𝕏?** {.faq-item}
