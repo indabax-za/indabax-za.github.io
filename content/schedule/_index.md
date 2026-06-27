@@ -9,11 +9,12 @@ args:
     collapsed: false
 ---
 
+While we are still busy putting the finishing touches, you can find the preliminary schedule below. Note that we may still make changes to the programme.
 
-We are busy putting the finishing touches to the schedule. Expect it to be packed!
+{{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
+[Download the draft schedule here ](https://drive.google.com/file/d/1g1l-axb_WFfNFBheYB-QDbMV-cTIOPTx/view?usp=sharing)
+{{< /class >}}
 
-<!-- {{< class "btn btn-lg btn-primary col-12 col-md-6 offset-md-3 text-white mb-3" >}}
-[Download Schedule here ](link)
-{{< /class >}} -->
+
 
 {{< partial "schedule" "args" >}}
