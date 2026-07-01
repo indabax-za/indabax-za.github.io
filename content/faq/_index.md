@@ -120,6 +120,7 @@ Durban's beachfront is a wonderful space shared by swimmers, surfers, fisher(wo)
 
 Students who received an "accommodation" stipend will be hosted at the student residences on campus. Please note the following:
 
+* Arrival time is from Sunday July 5th onwards, and departure on Friday, July 10th. 
 * Rooms are either single rooms or shared rooms with two beds, and all bathrooms are shared. Female and male residents are hosted on different corridors. We allocate them on a first-come-first-serve basis. Tell us ahead of time if you have special requirements. 
 * The security will have a list of everyone who has been explicitly given an accommodation grant, or who has made a separate booking through us. They are instructed to not let in anyone who is not on the list. If in doubt, just ask us whether you are included. 
 * Delegates are free to use microwaves, stoves and fridges in the kitchen areas. There are no cutlery, pots or dishes at the residence - bring your own if you want to cook meals. 
@@ -129,10 +130,12 @@ Students who received an "accommodation" stipend will be hosted at the student r
 * The residence does not provide breakfast. There is a little tuck shop that sells muffins, coffee and snacks from 7:30 onwards, and the first break with snacks is around 10. Food stores are a short car drive away. 
 * You can easily order food to campus, including Checkers60.
 
-Rooms in the residence may also be rented from the Residence Managers as a budget-friendly option in walking distance to the venue. Rates are R370 per night. To book a room, you need to pay the full amount (R370 x number of nights) into our account until Friday July 3rd. Our account details are:
+Rooms in the residence may also be rented from the Residence Managers as a budget-friendly option in walking distance to the venue. Rates are R370 per night. To book a room, or to extend your sponsored stay, you need to pay the full amount (R370 x number of nights) into our account until Friday July 3rd. Our account details are:
 
-Deep Learning IndabaX South Africa
-FNB 62910659575
+Account Holder: DEEP LEARNING INDABAX SOUTH AFRICA NPC
+Account Type: GOLD BUSINESS ACCOUNT
+Account Number: 62910659575
+Branch Code: 220526 
 
 Don't forget to send proof of payment, together with your name and gender, to accounting@indabax.co.za - this will secure your bed.
 
