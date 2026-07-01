@@ -118,17 +118,30 @@ Durban's beachfront is a wonderful space shared by swimmers, surfers, fisher(wo)
 
 #### {{<icon "ti-home">}} &nbsp; **Can I stay on campus?** {.faq-item}
 
-Students who received an "accommodation" stipend will be hosted at the student residences on campus. These are either shared rooms with two beds, or shared flats with three single rooms. Bathrooms and kitchens are shared. 
+Students who received an "accommodation" stipend will be hosted at the student residences on campus. Please note the following:
 
-Rooms in the residence may also be rented from the Residence Managers as a budget-friendly option in walking distance to the venue. Rates are between R300-R500 per night. Contact Musa Mkhwanazi through MkhwanaziM2@ukzn.ac.za or 031 260 4360. 
+* Rooms are either single rooms or shared rooms with two beds, and all bathrooms are shared. Female and male residents are hosted on different corridors. We allocate them on a first-come-first-serve basis. Tell us ahead of time if you have special requirements. 
+* The security will have a list of everyone who has been explicitly given an accommodation grant, or who has made a separate booking through us. They are instructed to not let in anyone who is not on the list. If in doubt, just ask us whether you are included. 
+* Delegates are free to use microwaves, stoves and fridges in the kitchen areas. There are no cutlery, pots or dishes at the residence - bring your own if you want to cook meals. 
+* Kindly bring your own towels and soap.
+* To lock your belongings, you will need to bring a lock.
+* Linen will be provided, however, bring a warm blanket or sleeping bag against the crisp Durban winter nights
+* The residence does not provide breakfast. There is a little tuck shop that sells muffins, coffee and snacks from 7:30 onwards, and the first break with snacks is around 10. Food stores are a short car drive away. 
+* You can easily order food to campus, including Checkers60.
+
+Rooms in the residence may also be rented from the Residence Managers as a budget-friendly option in walking distance to the venue. Rates are R370 per night. To book a room, you need to pay the full amount (R370 x number of nights) into our account until Friday July 3rd. Our account details are:
+
+Deep Learning IndabaX South Africa
+FNB 62910659575
+
+Don't forget to send proof of payment, together with your name and gender, to accounting@indabax.co.za - this will secure your bed.
 
 #### {{<icon "ti-pin">}} &nbsp; **Other places to stay?** {.faq-item}
 
 Westville is a residential area with many private accommodation options set in lush nature. 
 
 For those that want to be around coffee shops and restaurants, we recommend finding accommodation around the Florida Road area in Musgrave. 
-It is generally safe to walk, and a ~15-20 minute car ride to campus, and 10 minutes to the beach. We are currently trying to secure funding for a free shuttle 
-that runs from a collection point at the center of Florida Road to campus in the mornings and evenings--stay tuned!
+It is generally safe to walk, and a ~15-20 minute car ride to campus, and 10 minutes to the beach. You can organise shared rides using the conference WhatsApp group!
 
 Here is a list of hotels suggested by the local organising committee:
 
