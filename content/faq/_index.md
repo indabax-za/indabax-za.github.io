@@ -129,6 +129,7 @@ Please note the following:
 - The security will have a list of everyone who has been explicitly given an accommodation grant, or who has made a separate booking through us. They are instructed to not let in anyone who is not on the list. If in doubt, just ask us whether you are included. 
 
 - Delegates are free to use microwaves, stoves and fridges in the kitchen areas. There are no cutlery, pots or dishes at the residence - bring your own if you want to cook meals. 
+
 - Kindly bring your own towels and soap.
 
 - To lock your belongings, you will need to bring a lock.
