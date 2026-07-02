@@ -13,14 +13,6 @@ min_header_height: 40em
 
 Yes! Come early (8am) to register on the Tuesday morning.
 
-<!-- 
-#### {{<icon "ti-home">}} &nbsp; **I have a travel grant or have booked accommodation through the IndabaX to stay at Wits, where is it?** {.faq-item}
-
-The accommodation is at [Fuller Hall](https://stayandconnect.uct.ac.za/album/fuller-hall), which is a 5 minute walk from the venue.
-
-Directions can be found [here](https://goo.gl/maps/muCMEK64Sbo165Kn9).
-
-Check-in is 24/7. Please bring your IndabaX name badge, ID or passport to check-in. -->
 
 ## Funding
 
@@ -60,9 +52,9 @@ Yes, there will be tea and coffee available at certain times throughout the day!
 
 Yes, we will provide **lunch** on conference days. We will also provide some snacks throughout the day. Dietary requirements are collected in the registration form.
 
-Most **evenings** will host an activity with some food and drinks provided, but in limited quantities and not intended as a full dinner experience. We strongly encourage you to make friends and go explore town for dinner. 
+Most **evenings** will host an activity with some snacks and drinks provided, but in limited quantities and not intended as a full dinner experience. We strongly encourage you to make friends and get dinner. 
 
-If you have an "accommodation" travel grant and are booked by us to stay in the student residence, you will have access to the kitchens to prepare your own meals. 
+If you have an "accommodation" travel grant and are booked by us to stay in the student residence, you will have access to the kitchens to prepare your own meals, but there is no cutlery.
 
 #### {{<icon "fa-solid fa-mug-saucer">}} &nbsp; **I'm still hungry - where can I get food on campus?** {.faq-item}
 
@@ -87,18 +79,19 @@ Luckily, Westville campus is located in a residential area and far from protest 
 
 #### {{<icon "fa-solid fa-clock">}} &nbsp; **When should I arrive/leave for the Indaba𝕏?** {.faq-item}
 
-We suggest arriving on Sunday July 5th to join us for the opening on Monday morning, and leaving on Friday July 10th in the evening, or a day after. 
+We suggest arriving on Sunday July 5th to join us for the opening on Monday morning, and leaving on Friday July 10th. 
 
 #### {{<icon "ti-bag">}} &nbsp; **How packed is the schedule?** {.faq-item}
 
-Very. We have an awesome selection of speakers and activities to fill up the time from ~8:30 am until 5 pm and beyond each day. The evening activities are normally optional, but we highly recommend you attend them for the full experience. Remember to take time for yourself, and to explore the city and surrounds.
+Very. We have an awesome selection of speakers and activities to fill up the time from ~8:30 am until 5 pm and beyond each day. The evening activities are normally optional, but we highly recommend you attend them for the full experience. Remember to also take time for yourself, and to explore the city and surrounds.
 
 ## Location
 
 #### {{<icon "ti-pin">}} &nbsp; **Where is the Indaba𝕏 exactly?** {.faq-item}
 
-The IndabaX 2026 will take place at <a href="https://maps.app.goo.gl/Sonw4Xjc2VhFquBx8">T-Block on UKZN's Westville Campus</a>. You cannot miss it: the entrance is in the middle of the courtyard behind the pond.
+The IndabaX 2026 will take place at [T-Block on UKZN's Westville Campus](https://maps.app.goo.gl/Sonw4Xjc2VhFquBx8). You cannot miss it: the entrance is in the middle of the courtyard behind the pond.
 
+Hackathons will be held at H1 block, 200m from the main conference venue. The AI Fest is in the Main Hall, 50m across the courtyard.
 
 #### {{<icon "ti-car">}} &nbsp; **Is there parking on campus?** {.faq-item}
 
@@ -108,17 +101,15 @@ You can park in the student parking spots on campus without a permit for the dur
 
 The easiest way is to catch an Uber or Bolt. There are <a href="https://www.airports.co.za/airports/king-shaka-international-airport/transport/public-transport">hourly airport shuttles</a> for about R100, such as the Airbus Shuttle Service that can be booked by calling +27 82 340 9990. However, these usually only drop you in town, from where you would have to catch a minitaxi. Unfortunately, the use of public buses is rather cumbersome. 
 
-If funding permits, we will organise a free first-come-first-serve shuttle service from Florida Road, which is a popular location for hotels, coffee shops and airbnbs.
-
 #### {{<icon "ti-layout-list-thumb">}} &nbsp; **What are some things to do near the venue?** {.faq-item}
 
-Durban's beachfront is a wonderful space shared by swimmers, surfers, fisher(wo)men, churches, karate clubs and general beach goers, and especially vibrant in the early mornings. <a href="https://maps.app.goo.gl/upxNVNUUhhCsHUXP7">Chartwell Drive</a> in Umhlanga village is a popular spot for party goers. Hikers will love <a href="https://kknr.org.za/">Krantzkloof Nature Reserve</a>.
+Durban's beachfront is a wonderful space shared by swimmers, surfers, fisher(wo)men, churches, karate clubs and general beach goers, and especially vibrant in the early mornings. [Chartwell Drive](https://maps.app.goo.gl/upxNVNUUhhCsHUXP7) in Umhlanga village is a popular spot for party goers. Hikers will love [Krantzkloof Nature Reserve](https://kknr.org.za/).
 
 ## Accommodation
 
 #### {{<icon "ti-home">}} &nbsp; **Can I stay on campus?** {.faq-item}
 
-Students who received an "accommodation" stipend will be hosted at the student residences on campus. 
+Students who received an "accommodation" stipend will be hosted at the [S-Block](https://maps.app.goo.gl/adEnLa9AV1n8tmLP9) or [Forest Hills](https://maps.app.goo.gl/8nTv9W7hZXkgW6UD6) student residences on campus. 
 
 Please note the following:
 
