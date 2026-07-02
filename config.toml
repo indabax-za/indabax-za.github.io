@@ -28,11 +28,11 @@ weight = 2
 URL = "register/ai-fest"
 name = "AI Fest"
 weight = 3
-[[menu.main]]
-URL = "speakers"
-identifier = "speakers"
-name = "Speakers"
-weight = 3
+#[[menu.main]]
+#URL = "speakers"
+#identifier = "speakers"
+#name = "Speakers"
+#weight = 3
 [[menu.main]]
 URL = "partners"
 identifier = "partners"
