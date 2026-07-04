@@ -5,7 +5,6 @@ description: partners
 image: images/backgrounds/partners.jpg
 opacity: 60
 min_header_height: 50vh
-type: sponsors
 
 ---
 
@@ -20,3 +19,88 @@ to do more. They are institutions that share our vision. Our partners help to gr
 To learn more about opportunities for partnerships, reach out to fundraising@indabax.co.za. 
 
 *The Deep Learning IndabaX is a Section 18A Non Profit Company. All donations are tax-deductible.*
+
+{{< rawhtml >}}
+<div class="text-center my-5">
+  <h3>All our partners</h3>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="container-fluid">
+  <div class="row g-4 justify-content-center">
+    <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/DLI.png"
+             alt="IndabaX 2026"
+             style="width:60%; height:auto">
+      </div>
+    </div>
+
+  <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/Google.png"
+             alt="IndabaX 2026"
+             style="width:50%; height:auto">
+      </div>
+    </div>
+    <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/AfASlogo.png"
+             alt="IndabaX 2026"
+             style="width:50%; height:auto">
+      </div>
+    </div>
+
+  <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/afrobotic l-03_green.avif"
+             alt="IndabaX 2026"
+             style="width:50%; height:auto">
+      </div>
+    </div>
+
+  <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/chpc_logo.png"
+             alt="IndabaX 2026"
+             style="width:60%; height:auto">
+      </div>
+    </div>
+
+
+  <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/DSFSI_logo_transparent_expanded.png"
+             alt="IndabaX 2026"
+             style="width:80%; height:auto">
+      </div>
+    </div>
+
+  <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/NITheCS_ogo_.png"
+             alt="IndabaX 2026"
+             style="width:80%; height:auto">
+      </div>
+    </div>
+
+
+  <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/SAAIA_Logo_Full_Colour.png"
+             alt="IndabaX 2026"
+             style="width:80%; height:auto">
+      </div>
+    </div>
+      <div class="col-12 col-md-6 col-lg-4">
+      <div style="overflow: hidden;">
+        <img src="/images/partner_2026/University-of-Free-State.png"
+             alt="IndabaX 2026"
+             style="width:40%; height:auto">
+      </div>
+    </div>
+
+  </div>
+</div>
+{{< /rawhtml >}}
