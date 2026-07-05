@@ -22,7 +22,7 @@ To learn more about opportunities for partnerships, reach out to fundraising@ind
 
 {{< rawhtml >}}
 <div class="text-center my-5">
-  <h3>All our partners</h3>
+  <h3>Our 2026 partners</h3>
 </div>
 {{< /rawhtml >}}
 
