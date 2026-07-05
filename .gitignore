@@ -3,3 +3,5 @@ public/
 archetypes/
 resources/_gen/
 .vscode/settings.json
+.idea/
+*~
