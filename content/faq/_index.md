@@ -109,7 +109,7 @@ Durban's beachfront is a wonderful space shared by swimmers, surfers, fisher(wo)
 
 #### {{<icon "ti-home">}} &nbsp; **Can I stay on campus?** {.faq-item}
 
-Students who received an "accommodation" stipend will be hosted at the [S-Block](https://maps.app.goo.gl/adEnLa9AV1n8tmLP9) or [Forest Hills](https://maps.app.goo.gl/8nTv9W7hZXkgW6UD6) student residences on campus. 
+Students who received an "accommodation" stipend will be hosted at the [O-Block](https://maps.app.goo.gl/sP2M4NmPsYibXVnn8) student residence on campus. 
 
 Please note the following:
 
