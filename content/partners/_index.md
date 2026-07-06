@@ -102,5 +102,41 @@ To learn more about opportunities for partnerships, reach out to fundraising@ind
     </div>
 
   </div>
+
+  <div class="row g-4 justify-content-center align-items-center mt-4">
+    <div class="col-6 col-md-3">
+      <div style="height:180px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/partner_2026/UKZNLogoCMYK.jpg"
+             alt="University of KwaZulu-Natal"
+             style="max-width:85%; max-height:150px; height:auto;">
+      </div>
+    </div>
+
+  <div class="col-6 col-md-3">
+    <div style="height:180px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/partner_2026/blackpythondevs.png"
+             alt="Black Python Developers"
+             style="max-width:70%; max-height:150px; height:auto;">
+      </div>
+    </div>
+
+  <div class="col-6 col-md-3">
+      <div style="height:180px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/partner_2026/mastercard.jpeg"
+             alt="Mastercard"
+             style="max-width:80%; max-height:150px; height:auto;">
+      </div>
+    </div>
+
+  <div class="col-6 col-md-3">
+      <div style="height:180px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/partner_2026/coemass.jpg"
+             alt="CoE-MaSS"
+             style="max-width:90%; max-height:150px; height:auto;">
+      </div>
+    </div>
+  </div>
+
+  </div>
 </div>
 {{< /rawhtml >}}
