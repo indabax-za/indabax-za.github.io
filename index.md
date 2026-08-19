@@ -6,7 +6,7 @@ hero_image: /assets/images/landing.jpg
 The 2027 edition of the South African Deep Learning IndabaX will take place **[Month Day–Day, Year]** at **[City, Country]**.
 
 <div class="callout" markdown="1">
-<img src="/indabax-za/assets/images/indaba-logo.png" alt="Deep Learning Indaba logo" class="callout-img">
+<img src="/assets/images/indaba-logo.png" alt="Deep Learning Indaba logo" class="callout-img">
 <div class="callout-text" markdown="1">
 The IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's main AI conference and grassroots movement. It is organised by the community, for the community, to grow machine learning in South Africa.
 </div>
