@@ -1,7 +1,0 @@
-10 Real World Problems Solved with Deep Learning (with code examples)
-
-This talk will take your hand and walk you along the cutting-edge of applied deep learning. We say we turn the latest deep learning research into software solutions. When I say "we", I mean my startup - see bio below:
-
-Alex is the founder and Director of Research at NumberBoost, a startup that solves problems using deep learning. He previously worked as a quant for on the buy side and as a data scientist for Superbalist.com. He has an honours degree in actuarial science and currently writing a Statistics MSc focused on machine learning. He is one of the organizers of the Cape Town Deep Learning meet-up. 
-
-This talk will contain code samples for many of the solutions. We will go over the architecture for each real-world challenge. We build up from a simple 10 line 95% accurate on 1000 real world classes computer vision model… to complex multi-modal compound architectures to solve problems such as house price prediction, computer vision powered dent-detection and a smart email bot. Beginners welcome.

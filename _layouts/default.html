@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="site-logo" href="{{ '/' | relative_url }}">
+        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo-img">
+      </a>
+      <nav class="site-nav">
+        {% for item in site.nav %}
+          {% assign clean_url = item.url | remove: "index.html" %}
+          {% if clean_url == "" %}{% assign clean_url = "/" %}{% endif %}
+          {% assign current = page.url | remove: "index.html" %}
+          {% if current == "" %}{% assign current = "/" %}{% endif %}
+          <a href="{{ item.url | relative_url }}"
+             class="nav-link{% if current == clean_url %} nav-link-active{% endif %}">
+             {{ item.title }}
+          </a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  {% if page.hero_image %}
+    <div class="hero">
+      <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | default: page.title }}">
+    </div>
+  {% else %}
+    <div class="hero hero-fallback"></div>
+  {% endif %}
+
+  <main class="wrap page-content">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>{{ site.footer_text }}</p>
+    </div>
+  </footer>
+
+</body>
+</html>
