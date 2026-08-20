@@ -263,6 +263,14 @@ blockquote {
   color: var(--color-text);
 }
 
+.event-keynotes {
+  column-gap: 20px;
+  row-gap: 4px;
+  margin: 0 0 18px;
+  font-size: 15px;
+  color: var(--color-text);
+}
+
 .event-meta strong {
   color: var(--color-ink);
 }
