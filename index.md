@@ -42,6 +42,7 @@ hero_image: /assets/images/current_university.jpg
 <div class="callout-text" markdown="1">
 The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's premier AI conference and one of the most exciting grassroots movements on the planet. The "Indaba spirit" became known for building technology in an inclusive, kind and powerful community that puts humans first. 
 <br>
+<br>
 [Learn more →](/about.html){: .button}
 </div>
 
