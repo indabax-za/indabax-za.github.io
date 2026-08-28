@@ -161,7 +161,6 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 </div>
 
 [Schedule →](/assets/past_events/2023-schedule.pdf){: .button}
-[Event report →](/assets/past_events/2023-report.pdf){: .button}
 </div>
 
 
