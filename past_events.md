@@ -10,11 +10,11 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 ### 2026 - University of KwaZulu-Natal (Durban), 6–9 July 2026
 
 <div class="event-photos">
-<img src="{{ '/assets/images/2026-1.jpg' | relative_url }}" alt="IndabaX 2026">
-<img src="{{ '/assets/images/2026-2.jpg' | relative_url }}" alt="IndabaX 2026">
-<img src="{{ '/assets/images/2026-3.jpg' | relative_url }}" alt="IndabaX 2026">
-<img src="{{ '/assets/images/2026-4.jpg' | relative_url }}" alt="IndabaX 2026">
-<img src="{{ '/assets/images/2026-5.jpg' | relative_url }}" alt="IndabaX 2026">
+<img src="{{ '/assets/past_events/2026-1.jpg' | relative_url }}" alt="IndabaX 2026">
+<img src="{{ '/assets/past_events/2026-2.jpg' | relative_url }}" alt="IndabaX 2026">
+<img src="{{ '/assets/past_events/2026-3.jpg' | relative_url }}" alt="IndabaX 2026">
+<img src="{{ '/assets/past_events/2026-4.jpg' | relative_url }}" alt="IndabaX 2026">
+<img src="{{ '/assets/past_events/2026-5.jpg' | relative_url }}" alt="IndabaX 2026">
 </div>
 
 <div class="event-list">
@@ -39,8 +39,8 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 </div>
 
 
-[Schedule →](/assets/images/2026-schedule.pdf){: .button}
-[Event report →](/assets/images/2026-report.pdf){: .button}
+[Schedule →](/assets/past_events/2026-schedule.pdf){: .button}
+[Event report →](/assets/past_events/2026-report.pdf){: .button}
 
 </div>
 
@@ -51,11 +51,11 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 ### 2025 - Stellenbosch University, 7-11 July 2025
 
 <div class="event-photos">
-<img src="{{ '/assets/images/2025-1.jpg' | relative_url }}" alt="IndabaX 2025">
-<img src="{{ '/assets/images/2025-2.jpg' | relative_url }}" alt="IndabaX 2025">
-<img src="{{ '/assets/images/2025-3.jpg' | relative_url }}" alt="IndabaX 2025">
-<img src="{{ '/assets/images/2025-4.jpg' | relative_url }}" alt="IndabaX 2025">
-<img src="{{ '/assets/images/2025-5.jpg' | relative_url }}" alt="IndabaX 2025">
+<img src="{{ '/assets/past_events/2025-1.jpg' | relative_url }}" alt="IndabaX 2025">
+<img src="{{ '/assets/past_events/2025-2.jpg' | relative_url }}" alt="IndabaX 2025">
+<img src="{{ '/assets/past_events/2025-3.jpg' | relative_url }}" alt="IndabaX 2025">
+<img src="{{ '/assets/past_events/2025-4.jpg' | relative_url }}" alt="IndabaX 2025">
+<img src="{{ '/assets/past_events/2025-5.jpg' | relative_url }}" alt="IndabaX 2025">
 </div>
 
 
@@ -82,8 +82,8 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 </div>
 
 
-[Schedule →](/assets/images/2025-schedule.pdf){: .button}
-[Event report →](/assets/images/2025-report.pdf){: .button}
+[Schedule →](/assets/past_events/2025-schedule.pdf){: .button}
+[Event report →](/assets/past_events/2025-report.pdf){: .button}
 
 </div>
 
@@ -94,11 +94,11 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 ### 2024 - University of the Witwatersrand (Johannesburg), 9-12 July 2024
 
 <div class="event-photos">
-<img src="{{ '/assets/images/2024-1.jpg' | relative_url }}" alt="IndabaX 2024">
-<img src="{{ '/assets/images/2024-2.jpg' | relative_url }}" alt="IndabaX 2024">
-<img src="{{ '/assets/images/2024-3.jpg' | relative_url }}" alt="IndabaX 2024">
-<img src="{{ '/assets/images/2024-4.jpg' | relative_url }}" alt="IndabaX 2024">
-<img src="{{ '/assets/images/2024-5.jpg' | relative_url }}" alt="IndabaX 2024">
+<img src="{{ '/assets/past_events/2024-1.jpg' | relative_url }}" alt="IndabaX 2024">
+<img src="{{ '/assets/past_events/2024-2.jpg' | relative_url }}" alt="IndabaX 2024">
+<img src="{{ '/assets/past_events/2024-3.jpg' | relative_url }}" alt="IndabaX 2024">
+<img src="{{ '/assets/past_events/2024-4.jpg' | relative_url }}" alt="IndabaX 2024">
+<img src="{{ '/assets/past_events/2024-5.jpg' | relative_url }}" alt="IndabaX 2024">
 </div>
 
 <div class="event-list">
@@ -131,11 +131,11 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 
 
 <div class="event-photos">
-<img src="{{ '/assets/images/2023-1.jpg' | relative_url }}" alt="IndabaX 2023">
-<img src="{{ '/assets/images/2023-2.jpg' | relative_url }}" alt="IndabaX 2023">
-<img src="{{ '/assets/images/2023-3.jpg' | relative_url }}" alt="IndabaX 2023">
-<img src="{{ '/assets/images/2023-4.jpg' | relative_url }}" alt="IndabaX 2023">
-<img src="{{ '/assets/images/2023-5.jpg' | relative_url }}" alt="IndabaX 2023">
+<img src="{{ '/assets/past_events/2023-1.jpg' | relative_url }}" alt="IndabaX 2023">
+<img src="{{ '/assets/past_events/2023-2.jpg' | relative_url }}" alt="IndabaX 2023">
+<img src="{{ '/assets/past_events/2023-3.jpg' | relative_url }}" alt="IndabaX 2023">
+<img src="{{ '/assets/past_events/2023-4.jpg' | relative_url }}" alt="IndabaX 2023">
+<img src="{{ '/assets/past_events/2023-5.jpg' | relative_url }}" alt="IndabaX 2023">
 </div>
 
 <div class="event-list">
@@ -160,8 +160,8 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 </ul>
 </div>
 
-[Schedule →](/assets/images/2023-schedule.pdf){: .button}
-[Event report →](/assets/images/2023-report.pdf){: .button}
+[Schedule →](/assets/past_events/2023-schedule.pdf){: .button}
+[Event report →](/assets/past_events/2023-report.pdf){: .button}
 </div>
 
 
@@ -170,11 +170,11 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 ### 2022 - University of Pretoria, 12-15 December 2023
 
 <div class="event-photos">
-<img src="{{ '/assets/images/2022-1.jpg' | relative_url }}" alt="IndabaX 2022">
-<img src="{{ '/assets/images/2022-2.jpg' | relative_url }}" alt="IndabaX 2022">
-<img src="{{ '/assets/images/2022-3.jpg' | relative_url }}" alt="IndabaX 2022">
-<img src="{{ '/assets/images/2022-4.jpg' | relative_url }}" alt="IndabaX 2022">
-<img src="{{ '/assets/images/2022-5.jpg' | relative_url }}" alt="IndabaX 2022">
+<img src="{{ '/assets/past_events/2022-1.jpg' | relative_url }}" alt="IndabaX 2022">
+<img src="{{ '/assets/past_events/2022-2.jpg' | relative_url }}" alt="IndabaX 2022">
+<img src="{{ '/assets/past_events/2022-3.jpg' | relative_url }}" alt="IndabaX 2022">
+<img src="{{ '/assets/past_events/2022-4.jpg' | relative_url }}" alt="IndabaX 2022">
+<img src="{{ '/assets/past_events/2022-5.jpg' | relative_url }}" alt="IndabaX 2022">
 </div>
 
 <div class="event-list">
@@ -198,7 +198,7 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 </ul>
 </div>
 
-[Schedule →](/assets/images/2022-schedule.pdf){: .button}
+[Schedule →](/assets/past_events/2022-schedule.pdf){: .button}
 
 </div>
 
@@ -211,7 +211,7 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 <span>13 talks and tutorials hosted by Cape AI, Spatial Edge, Dataprophet, Instadeep, LifeQ and many others</span>
 </p>
 
-[Event report →](/assets/images/2021-report.pdf){: .button}
+[Event report →](/assets/past_events/2021-report.pdf){: .button}
 </div>
 
 
@@ -225,11 +225,11 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 ### 2019 - University of KwaZulu-Natal (Durban), 14-17 April 2019
 
 <div class="event-photos">
-<img src="{{ '/assets/images/2019-1.jpg' | relative_url }}" alt="IndabaX 2019">
-<img src="{{ '/assets/images/2019-2.jpg' | relative_url }}" alt="IndabaX 2019">
-<img src="{{ '/assets/images/2019-3.jpg' | relative_url }}" alt="IndabaX 2019">
-<img src="{{ '/assets/images/2019-4.jpg' | relative_url }}" alt="IndabaX 2019">
-<img src="{{ '/assets/images/2019-5.jpg' | relative_url }}" alt="IndabaX 2019">
+<img src="{{ '/assets/past_events/2019-1.jpg' | relative_url }}" alt="IndabaX 2019">
+<img src="{{ '/assets/past_events/2019-2.jpg' | relative_url }}" alt="IndabaX 2019">
+<img src="{{ '/assets/past_events/2019-3.jpg' | relative_url }}" alt="IndabaX 2019">
+<img src="{{ '/assets/past_events/2019-4.jpg' | relative_url }}" alt="IndabaX 2019">
+<img src="{{ '/assets/past_events/2019-5.jpg' | relative_url }}" alt="IndabaX 2019">
 </div>
 
 
@@ -251,8 +251,8 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 </ul>
 </div>
 
-[Schedule →](/assets/images/2019-schedule.pdf){: .button}
-[Event report →](/assets/images/2019-report.pdf){: .button}
+[Schedule →](/assets/past_events/2019-schedule.pdf){: .button}
+[Event report →](/assets/past_events/2019-report.pdf){: .button}
 </div>
 
 

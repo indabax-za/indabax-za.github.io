@@ -29,18 +29,42 @@
     </div>
   </header>
 
-  {% if page.hero_image %}
-    <div class="hero">
-      <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | default: page.title }}">
-    </div>
-  {% else %}
-    <div class="hero hero-fallback"></div>
-  {% endif %}
+  {% assign is_home = false %}
+  {% if page.url == "/" or page.url == "/index.html" %}{% assign is_home = true %}{% endif %}
 
-  <main class="wrap page-content">
-    <h1 class="page-title">{{ page.title }}</h1>
-    {{ content }}
-  </main>
+  {% if is_home %}
+    {% if page.hero_image %}
+      <div class="hero">
+        <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | default: page.title }}">
+        <div class="hero-overlay">
+          <h1 class="page-title">{{ page.title | default: site.title }}</h1>
+        </div>
+      </div>
+    {% else %}
+      <div class="hero hero-fallback">
+        <div class="hero-overlay">
+          <h1 class="page-title">{{ page.title | default: site.title }}</h1>
+        </div>
+      </div>
+    {% endif %}
+
+    <main class="wrap page-content">
+      {{ content }}
+    </main>
+  {% else %}
+    {% if page.hero_image %}
+      <div class="hero">
+        <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | default: page.title }}">
+      </div>
+    {% else %}
+      <div class="hero hero-fallback"></div>
+    {% endif %}
+
+    <main class="wrap page-content">
+      <h1 class="page-title">{{ page.title }}</h1>
+      {{ content }}
+    </main>
+  {% endif %}
 
   <footer class="site-footer">
     <div class="wrap">

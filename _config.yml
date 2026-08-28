@@ -38,6 +38,8 @@ nav:
     url: "/register.html"
   - title: "Get involved"
     url: "/get_involved.html"
+  - title: "About"
+    url: "/about.html"
   - title: "Past events"
     url: "/past_events.html"
 
