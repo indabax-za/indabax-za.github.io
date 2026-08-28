@@ -21,6 +21,15 @@
   --color-button-hover: #565d68; /* button background on hover, slightly darker */
   --color-rule:     #dfe1de;   /* thin dividing lines */
 
+
+  /* Brand network colors, sampled from the logo */
+  --brand-red:    #f01804;
+  --brand-green:  #1e603b;
+  --brand-gray:   #797d7e;
+  --brand-gold:   #fdac00;
+  --brand-navy:   #10066a;
+
+
   /* Type — a single elegant sans-serif, built into every major OS, so
      nothing has to load from the internet and nothing can go
      offline or disappear. Used for headings and body text alike. */
@@ -205,12 +214,12 @@ blockquote {
   padding: 24px;
   background: var(--color-panel);
   border-left: 4px solid var(--color-accent);
-  border-radius: 8px;
+  border-radius: 12px;
 }
 
 .callout-img {
   flex-shrink: 0;
-  width: 250px;
+  width: 200px;
   height: 200px;
   object-fit: cover;
   border-radius: 8px;
@@ -390,7 +399,7 @@ blockquote {
   padding: 22px 22px 24px;
   background: var(--color-panel);
   border-top: 3px solid var(--brand-gray);
-  border-radius: 4px;
+  border-radius: 8px;
 }
 
 .feature-title {
@@ -414,4 +423,81 @@ blockquote {
 .feature.c-gold  { border-top-color: var(--brand-gold); }
 .feature.c-navy  { border-top-color: var(--brand-navy); }
 
+
+
+/* ---- Standout: large centered event title / date / location ---- */
+
+.standout {
+  text-align: center;
+  margin: 48px 0;
+  padding: 8px 24px;
+}
+
+.standout-title {
+  font-family: var(--font-heading);
+  font-size: 44px;
+  font-weight: 700;
+  color: var(--color-ink);
+  line-height: 1.15;
+  margin: 0 0 14px;
+}
+
+.standout-meta {
+  font-size: 20px;
+  color: var(--color-text);
+  margin: 4px 0;
+}
+
+.standout-meta.accent {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.standout-text {
+  font-size: 18px;
+  color: var(--color-text);
+  margin: 4px 0;
+  font-weight: 500;
+}
+
+@media (max-width: 560px) {
+  .standout-title { font-size: 30px; }
+  .standout-meta  { font-size: 16px; }
+}
+
+/* ---- Sponsor logo grid ---- */
+
+.sponsors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  align-items: center;
+  gap: 32px;
+  margin: 32px 0;
+}
+
+.sponsor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+
+.sponsor-logo {
+  display: block;
+  max-width: 100%;
+  max-height: 64px;
+  width: auto;
+  height: auto;
+  transition: filter 0.2s ease, opacity 0.2s ease;
+}
+
+.sponsor:hover .sponsor-logo {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+@media (max-width: 560px) {
+  .sponsors-grid { gap: 24px; }
+  .sponsor-logo { max-height: 48px; }
+}
 
