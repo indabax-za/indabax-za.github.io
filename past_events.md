@@ -238,7 +238,7 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
   <li>30+ speakers </li>
   <li>3 programme tracks</li>
   <li>3 fundamentals</li>
-  <li>50+ posters</li> 
+  <li>40+ posters</li> 
   <li>4 hackathon challenges</li> 
   </ul>
   
@@ -260,7 +260,8 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 
 <div class="event-list">
   <ul>
-  <li>40+ attendees</li> 
+  <li>40+ attendees</li>
+  <li>1 day</li>
   </ul>
   
 

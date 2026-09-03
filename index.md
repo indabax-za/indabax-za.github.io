@@ -40,7 +40,7 @@ hero_image: /assets/images/current_university.jpg
 <div class="callout" markdown="1">
 <img src="/assets/images/dli.png" alt="Deep Learning Indaba logo" class="callout-img">
 <div class="callout-text" markdown="1">
-The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's premier AI conference and one of the most exciting grassroots movements on the planet. The "Indaba spirit" became known for building technology in an inclusive, kind and powerful community that puts humans first. 
+The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's premier AI conference and one of the most exciting grassroots movements on the planet. The "Indaba spirit" became known for building technology through an inclusive, kind and locally connected community. 
 <br>
 <br>
 [Learn more →](/about.html){: .button}
@@ -52,12 +52,12 @@ The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https
 
 | Date       | Event |
 |:-----------| :---- |
-| MONTH DAY | Early bird paid registrations open  |
-| MONTH DAY | Applications for free student attendance open |
-| MONTH DAY | Applications for free attendance close                    |
-| MONTH DAY | Notification of acceptance for free attendance sent              |
-| MONTH DAY | Early bird paid registrations close          |
-| MONTH DAY | Paid registrations close      |
+| 15 January 2027 | Early bird paid registrations open |
+| 1 March 2027 | Applications for free student attendance and travel grants open |
+| 31 April 2027 | Applications for free attendance and travel grants close  |
+| 31 April 2027 | Early bird paid registrations close  |
+| 15 May 2027 | Notification of acceptance for free attendance sent |
+| XXX 2027 | Deep Learning IndabaX |
 
 [Register now →](/register.html){: .button}
 
@@ -109,7 +109,7 @@ The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https
 
 <div class="person">
 <img src="/assets/people/lydia_delange.jpg" class="person-photo" alt="Lydia de Lange">
-<p class="person-name">Nomonde</p>
+<p class="person-name">Lydia de Lange</p>
 <p class="person-role">Executive Team</p>
 </div>
 
@@ -141,6 +141,6 @@ The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https
 
 ### Organising team
 
-We will conduct interviews for the 2027 organisers towards the end of 2026. To register your interest in joining, send us an email to info@indabax.co.za. 
+We will conduct interviews for the 2027 organising team towards the end of 2026. To register your interest in joining, send us an email to info@indabax.co.za. 
 
 

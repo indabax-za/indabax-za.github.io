@@ -28,4 +28,4 @@ The AI fest is a celebration of machine learning where delegates mingle and netw
 
 Organising the Deep Learning IndabaX is a huge effort that we all do after-hours, and we invite you to join our kind, professional and tireless organising committee. We usually assemble the team towards the end of the previous year through brief interviews, but will also consider late volunteers. You can join specific efforts, such as the local organisation, AI fest, website support, fundraising, programme, accounting or hackathon teams.
 
-To indicate your interest, send an email to info@indabax.co.za.
+To indicate your interest, send an email to **info@indabax.co.za**.

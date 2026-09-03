@@ -4,9 +4,9 @@ title: Program
 hero_image: /assets/images/programme.jpg
 ---
 
-Below is a typical IndabaX schedule for general orientation. The programme will be shared with registered delegates on the Baobab conference app closer in time.
+Below is a typical IndabaX schedule for general orientation. The programme will be shared with registered delegates on the [Baobab conference app](LINK-to-baobab) closer in time.
 
-## Day 1 — [DATE]
+## Day 1 
 
 | Time | Session |
 |---|---|
@@ -21,7 +21,7 @@ Below is a typical IndabaX schedule for general orientation. The programme will 
 | 16:00 - 19:00 | AI Fest |
 
 
-## Day 2 — [Date]
+## Day 2 
 
 | Time | Session |
 |---|---|
@@ -33,7 +33,7 @@ Below is a typical IndabaX schedule for general orientation. The programme will 
 | 15:30 - 16:00 | Coffee break |
 | 16:00 - midnight |  Hackathon I |
 
-## Day 3 — [Date]
+## Day 3 
 
 | Time | Session |
 |---|---|
@@ -45,7 +45,7 @@ Below is a typical IndabaX schedule for general orientation. The programme will 
 | 15:30 - 16:00 | Coffee break |
 | 16:00 - midnight |  Hackathon I |
 
-## Day 4 — [Date]
+## Day 4 
 
 | Time | Session |
 |---|---|

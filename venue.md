@@ -13,7 +13,17 @@ attendees should know — nearby transit, parking, accessibility info.]
 
 ## Accommodation
 
-[Explain student accommodation. List a few nearby hotel options or a note about a conference room block,
-if applicable.]
+### On-campus housing
 
-Find more information in our [local guide](LINK-to-local-doc).
+Students who received an accommodation grant will be hosted in XXX. The
+
+Limited additional rooms for delegates without an accommodation grant are available at low cost. Pleas inquire with... 
+
+### Recommended hotels
+
+Below are a few options recommended by the local organising team:
+
+
+
+
+We will update our [local guide](LINK-to-local-doc) with details about local logistics closer in time.
