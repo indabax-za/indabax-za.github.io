@@ -1,0 +1,54 @@
+# ============================================================
+# SITE SETTINGS
+# Edit the values below to change the conference name, year,
+# and the tabs shown in the navigation bar. You do not need to
+# touch anything else in this file.
+# ============================================================
+
+title: "Deep Learning IndabaX"
+logo: /assets/images/dlx_wide.png
+tagline: "One of South Africa's prime annual gatherings to advance machine learning research. Organised by the community, for the community."
+description: "Official website for the South African Deep Learning IndabaX."
+
+# The site's address once published on GitHub Pages.
+# Format: https://<org-or-username>.github.io/<repo-name>
+url: "https://indabax-za.github.io"
+baseurl: ""
+
+# ------------------------------------------------------------
+# NAVIGATION
+# This list controls the tabs in the top nav bar, in order.
+# To add a tab: copy a block below, give it a new "title" and
+# "url", and create a matching .md file for it (copy venue.md
+# as a starting point).
+# To remove a tab: delete its block below (leave the page file
+# in place, or delete it too — it just won't be linked anymore).
+# To reorder tabs: move the blocks up or down.
+# ------------------------------------------------------------
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Venue"
+    url: "/venue.html"
+  - title: "Program"
+    url: "/program.html"
+  - title: "Speakers"
+    url: "/speakers.html"
+  - title: "Register"
+    url: "/register.html"
+  - title: "Get involved"
+    url: "/get_involved.html"
+  - title: "About"
+    url: "/about.html"
+  - title: "Past events"
+    url: "/past_events.html"
+
+# Footer contact line shown on every page (edit freely)
+footer_text: "Questions? Email info@indabax.co.za"
+
+# ------------------------------------------------------------
+# Do not edit below this line
+# ------------------------------------------------------------
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
