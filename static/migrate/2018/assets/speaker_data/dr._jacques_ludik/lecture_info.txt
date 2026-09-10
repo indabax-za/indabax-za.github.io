@@ -1,3 +1,0 @@
-Deep Learning Foundations, Architectures & Applications
-
-An introduction to the mathematics of neural networks and specialist architectures for solving a range of applied problems in a variety of domains.
