@@ -10,9 +10,18 @@ hero_image: /assets/images/current_university.jpg
 <p class="standout-text">Growing machine learning and artificial intelligence in South Africa. <br> Organised by the community, for the community. </p>
 </div>
 
+<div class="callout" markdown="1">
+<img src="/assets/images/dli.png" alt="Deep Learning Indaba logo" class="callout-img">
+<div class="callout-text" markdown="1">
+The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's premier AI conference and one of the most exciting grassroots movements on the planet. The "Indaba spirit" became known for building technology through an inclusive, professional and locally embedded community. 
+<br>
+<br>
+[Learn more →](/about.html){: .button}
+</div>
+</div>
+
 
 <div class="features-grid" markdown="1">
-
 
 <div class="feature c-green">
 <p class="feature-title">South Africa's top AI researchers</p>
@@ -36,17 +45,6 @@ hero_image: /assets/images/current_university.jpg
 
 </div>
 
-
-<div class="callout" markdown="1">
-<img src="/assets/images/dli.png" alt="Deep Learning Indaba logo" class="callout-img">
-<div class="callout-text" markdown="1">
-The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's premier AI conference and one of the most exciting grassroots movements on the planet. The "Indaba spirit" became known for building technology through an inclusive, kind and locally connected community. 
-<br>
-<br>
-[Learn more →](/about.html){: .button}
-</div>
-
-</div>
 
 ## Key dates for 2027
 
