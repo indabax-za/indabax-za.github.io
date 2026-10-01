@@ -10,6 +10,8 @@ hero_image: /assets/images/current_university.jpg
 <p class="standout-text">Growing machine learning and artificial intelligence in South Africa. <br> Organised by the community, for the community. </p>
 </div>
 
+[Register now →](LINK){: .button}
+
 <div class="side-image" markdown="1">
 <img src="{{ '/assets/images/dli.png' | relative_url }}" class="side-image-photo" style="--side-image-height: 250px" alt="Deep Learning Indaba community and event photos">
 <div class="side-image-text" markdown="1">
