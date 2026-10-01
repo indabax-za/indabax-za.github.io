@@ -4,13 +4,9 @@ title: Registration
 hero_image: /assets/images/register.jpg
 ---
 
-Every delegate who joins the Deep Learning IndabaX South Africa -- from student to invited speaker and industry exhibitor -- has to register on the [Baobab platform](link-to-baobab) once registration opens. 
+Every delegate who joins the Deep Learning IndabaX South Africa -- from student to invited speaker and industry exhibitor -- has to register on the [Baobab platform](link-to-baobab) once registration opens. You can apply for financial support to attend at no cost, and/or to help with accommodation and travel expenses.
 
-[Register now →](LINK){: .button}
-
-You can apply for financial support to attend at no cost.
-
-[Apply for financial support →](LINK){: .button}
+[Register now →](LINK){: .button}  [Apply for financial support →](LINK){: .button}
 
 ## Admission categories
 
