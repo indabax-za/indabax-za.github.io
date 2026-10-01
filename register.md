@@ -18,7 +18,7 @@ You can apply for financial support to attend at no cost.
 
 <div class="feature c-green">
 <p class="feature-title">General admission <br>(R3500)</p>
-<p class="feature-text">Register on the Baobab system choosing "general admission". You will receive an invoice via email with payment options, and admission is confirmed once we receive payment. </p>
+<p class="feature-text">Once you filled in the registration form on the Baobab system, you will receive an invoice via email with payment options, and admission is confirmed when we receive payment. </p>
 </div>
 
 <div class="feature c-red">
@@ -28,7 +28,7 @@ You can apply for financial support to attend at no cost.
 
 <div class="feature c-gold">
 <p class="feature-title">Invited guests<br> (Free)</p>
-<p class="feature-text">Those who contribute to the event, such as invited speakers, workshop organisers, organisers and volunteers, do not pay a registration fee. We will share an individual link with you. </p>
+<p class="feature-text">Those who contribute to the event - such as invited speakers, workshop facilitators, organisers and volunteers - do not pay a registration fee. We will share an individual registration link with you. </p>
 </div>
 
 </div>
