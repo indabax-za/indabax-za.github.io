@@ -13,7 +13,7 @@ Conference attendance is fully handled by the [Baobab platform](https://baobab.d
 <div class="features-grid" markdown="1">
 
 <div class="feature c-green">
-<p class="feature-title">General admission <br>(R3500)</p>
+<p class="feature-title">General delegate <br>(R3500)</p>
 <p class="feature-text"> The registration fee to the conference is R3500 for the general public. </p>
 </div>
 

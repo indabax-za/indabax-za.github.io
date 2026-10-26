@@ -77,11 +77,10 @@ hero_image: /assets/images/current_university.jpg
 
 | Date       | Event |
 |:-----------| :---- |
-| 15 January 2027 | Early bird paid registrations open |
-| 1 March 2027 | Applications for free student attendance and travel grants open |
-| 31 April 2027 | Applications for free attendance and travel grants close  |
-| 31 April 2027 | Early bird paid registrations close  |
-| 15 May 2027 | Notification of acceptance for free attendance sent |
+| 1 February 2027 | Registration opens |
+| 1 February 2027 | Applications for free student attendance and travel grants open |
+| 16 April 2027 | Applications for free attendance and travel grants close  |
+| 3 May 2027 | Notification of acceptance for free attendance |
 | 22-25 June 2027 | Deep Learning IndabaX |
 
 
