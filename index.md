@@ -5,18 +5,19 @@ hero_image: /assets/images/current_university.jpg
 
 <div class="standout" markdown="1">
 <p class="standout-title">Deep Learning IndabaX 2027</p>
-<p class="standout-meta accent">[DAY] [MONTH] 2027</p>
-<p class="standout-meta">[UNIVERSITY], [CITY]</p>
+<p class="standout-meta accent">22-26 June 2027</p>
+<p class="standout-meta accent">Eden Grove, Rhodes University, Makhanda</p>
 <p class="standout-text">Growing machine learning and artificial intelligence in South Africa. <br> Organised by the community, for the community. </p>
+[Register now →](/register.html){: .button}
 </div>
 
-[Register now →](LINK){: .button}
+
+## Strengthening AI in Africa
 
 <div class="side-image" markdown="1">
-<img src="{{ '/assets/images/dli.png' | relative_url }}" class="side-image-photo" style="--side-image-height: 250px" alt="Deep Learning Indaba community and event photos">
+<img src="{{ '/assets/images/indaba-logo.png' | relative_url }}" class="side-image-photo" style="--side-image-height: 150px" alt="Deep Learning Indaba community and event photos">
 <div class="side-image-text" markdown="1">
-<p class="side-image-title">Strengthening AI in Africa</p>
-<p class="side-image-body" markdown="1">The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's premier AI conference and one of the most wonderful grassroots movements worldwide. The "Indaba spirit" became known for building technology through an inclusive, professional and locally embedded community.</p>
+<p class="side-image-body" markdown="1">The Deep Learning IndabaX is a local edition of the [Deep Learning Indaba](https://deeplearningindaba.com), Africa's premier AI conference and grassroots movement. The "Indaba spirit" became known for building technology through an inclusive, professional and locally embedded community.</p>
 
 [Learn more →](/about.html){: .button}
 
@@ -27,7 +28,7 @@ hero_image: /assets/images/current_university.jpg
 ## What to expect
 
 <div class="features-grid" markdown="1">
-
+<!--
 <div class="feature c-green">
 <p class="feature-title">South Africa's top AI researchers</p>
 <p class="feature-text">Be inspired by our keynotes and connect to the best labs in the country.</p>
@@ -47,6 +48,27 @@ hero_image: /assets/images/current_university.jpg
 <p class="feature-title">Hands-on sessions</p>
 <p class="feature-text">Workshops and hackathon challenges allow you to put what you learnt into action.</p>
 </div>
+-->
+
+<div class="feature c-red">
+<p class="feature-title">Fundamental lectures</p>
+<p class="feature-text">Dive into the technical depths of machine learning research.</p>
+</div>
+
+<div class="feature c-green">
+<p class="feature-title">South Africa's top AI researchers</p>
+<p class="feature-text">Connect to the best labs in the country.</p>
+</div>
+
+<div class="feature c-navy">
+<p class="feature-title">Hands-on sessions</p>
+<p class="feature-text">We challenge you with real-life problems to put what you learnt into action.</p>
+</div>
+
+<div class="feature c-gold">
+<p class="feature-title">Student support</p>
+<p class="feature-text">Travel grants and the chance to present your work await those whose AI journey is just beginning.</p>
+</div>
 
 </div>
 
@@ -60,9 +82,8 @@ hero_image: /assets/images/current_university.jpg
 | 31 April 2027 | Applications for free attendance and travel grants close  |
 | 31 April 2027 | Early bird paid registrations close  |
 | 15 May 2027 | Notification of acceptance for free attendance sent |
-| XXX 2027 | Deep Learning IndabaX |
+| 22-25 June 2027 | Deep Learning IndabaX |
 
-[Register now →](/register.html){: .button}
 
 ## Our partners
 

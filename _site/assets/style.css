@@ -514,3 +514,75 @@ blockquote {
   .sponsor-logo { max-height: 48px; }
 }
 
+
+/* ---- Centered image: single picture, centered, width set per use ---- */
+
+.centered-image {
+  margin: 32px 0;
+  text-align: center;
+}
+
+.centered-image img {
+  display: inline-block;
+  width: var(--image-width, 600px);
+  max-width: 100%;      /* never wider than the column, even on phones */
+  height: auto;
+}
+
+.centered-image figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: var(--color-text);
+}
+
+/* ---- Map: interactive embedded Google Map, full column width ---- */
+
+.map-embed {
+  margin: 32px 0;
+  width: 100%;
+}
+
+.map-embed iframe {
+  display: block;
+  width: 100%;
+  height: var(--map-height, 400px);
+  border: 0;
+  border-radius: 4px;
+}
+
+@media (max-width: 560px) {
+  .map-embed iframe { height: 300px; }
+}
+
+/* ---- Callout: highlighted box with a colored accent bar ---- */
+
+.callout {
+  margin: 32px 0;
+  padding: 20px 24px;
+  background: var(--color-panel);
+  border-left: 5px solid var(--callout-color, var(--color-accent));
+  border-radius: 6px;
+}
+
+.callout-title {
+  margin: 0 0 6px;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-ink);
+}
+
+.callout p {
+  margin: 0 0 10px;
+}
+
+.callout > :last-child {
+  margin-bottom: 0;
+}
+
+/* Color variants, using your brand palette */
+.callout.c-red   { --callout-color: var(--brand-red); }
+.callout.c-green { --callout-color: var(--brand-green); }
+.callout.c-gold  { --callout-color: var(--brand-gold); }
+.callout.c-navy  { --callout-color: var(--brand-navy); }
+.callout.c-gray  { --callout-color: var(--brand-gray); }
+
