@@ -5,7 +5,7 @@ hero_image: /assets/images/current_university.jpg
 
 <div class="standout" markdown="1">
 <p class="standout-title">Deep Learning IndabaX 2027</p>
-<p class="standout-meta accent">22-26 June 2027</p>
+<p class="standout-meta accent">22-25 June 2027</p>
 <p class="standout-meta accent">Eden Grove, Rhodes University, Makhanda</p>
 <p class="standout-text">Growing machine learning and artificial intelligence in South Africa. <br> Organised by the community, for the community. </p>
 [Register now →](/register.html){: .button}
