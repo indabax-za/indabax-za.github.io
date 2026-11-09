@@ -78,8 +78,8 @@ hero_image: /assets/images/current_university.jpg
 | Date       | Event |
 |:-----------| :---- |
 | 15 February 2027 | Applications open |
-| 31 March 2027 | Requests for financial support closes in the application  |
-| 26 April 2027 | Notification of financial support |
+| 31 March 2027 | Option to request financial support closes inside the application form  |
+| 26 April 2027 | Notification for financial support sent out |
 | 15 June 2027 | Applications close |
 | 22-25 June 2027 | Deep Learning IndabaX |
 
