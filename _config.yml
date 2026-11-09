@@ -42,6 +42,8 @@ nav:
     url: "/get_involved.html"
   - title: "Past events"
     url: "/past_events.html"
+  - title: "IndabaXS"
+    url: "/indabaxs.html"
 
 # Footer contact line shown on every page (edit freely)
 footer_text: "Questions? Email info@indabax.co.za"

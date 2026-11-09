@@ -5,7 +5,7 @@ hero_image: /assets/images/current_university.jpg
 
 <div class="standout" markdown="1">
 <p class="standout-title">Deep Learning IndabaX 2027</p>
-<p class="standout-meta accent">22-25 June 2027</p>
+<p class="standout-meta">22-25 June 2027</p>
 <p class="standout-meta accent">Eden Grove, Rhodes University, Makhanda</p>
 <p class="standout-text">Growing machine learning and artificial intelligence in South Africa. <br> Organised by the community, for the community. </p>
 [Register now →](/register.html){: .button}
@@ -77,10 +77,10 @@ hero_image: /assets/images/current_university.jpg
 
 | Date       | Event |
 |:-----------| :---- |
-| 1 February 2027 | Registration opens |
-| 1 February 2027 | Applications for free student attendance and travel grants open |
-| 16 April 2027 | Applications for free attendance and travel grants close  |
-| 3 May 2027 | Notification of acceptance for free attendance |
+| 15 February 2027 | Applications open |
+| 31 March 2027 | Requests for financial support closes in the application  |
+| 26 April 2027 | Notification of financial support |
+| 15 June 2027 | Applications close |
 | 22-25 June 2027 | Deep Learning IndabaX |
 
 
