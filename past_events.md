@@ -215,7 +215,7 @@ A look back at previous editions of the Deep Learning IndabaX South Africa.
 
 
 <div class="event" markdown="1">
-### 2000 - Canceled due to COVID
+### 2020 - Canceled due to COVID
 </div>
 
 
