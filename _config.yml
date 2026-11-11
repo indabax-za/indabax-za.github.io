@@ -12,7 +12,7 @@ description: "Official website for the South African Deep Learning IndabaX."
 
 # The site's address once published on GitHub Pages.
 # Format: https://<org-or-username>.github.io/<repo-name>
-url: "https://indabax-za.github.io/indabax-za"
+url: "https://indabax-za.github.io"
 baseurl: ""
 
 # ------------------------------------------------------------
