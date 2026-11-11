@@ -1,50 +1,66 @@
-# [Deep Learning IndabaX South Africa](https://indabax.co.za)
+# Conference site
 
-developed by Christopher Brian Currin [[🔗GitHub](https://github.com/ChrisCurrin) | [🌍website](https://chriscurrin.com)]
+A minimal Jekyll site, built to be maintained by non-technical volunteers
+over many years with no build tools and no external theme.
 
-## Getting started with development
+- **To edit content:** see [`CONTRIBUTING.md`](CONTRIBUTING.md) — this
+  covers everything most editors will ever need, entirely through
+  github.com in the browser.
+- **To set up hosting:** this is designed to run on GitHub Pages with zero
+  configuration beyond enabling it in the repo settings (see the bottom of
+  `CONTRIBUTING.md`).
+- **To preview locally (optional, only needed for bigger changes):** see
+  "Local preview" below.
 
-1. clone project to local directory
-    ```bash
-    git clone --recurse-submodules git@github.com:indabax-za/indabax-za.github.io.git
-    cd indabax.github.io
-    ```
+## Local preview
 
-1. install Hugo
-   https://gohugo.io/getting-started/installing/
-   
+There's no `index.html` in this repo — Jekyll builds the actual HTML
+pages from the `.md` files and the layout when you run it. To see the
+site as a real webpage before pushing changes, you run that build on
+your own computer.
 
-1. start server
-    ```bash
-    hugo server -D -d public  
-    ```
+**One-time setup**
 
-## Changing **content**
+1. Install Ruby, if you don't already have it:
+   - **Mac:** `brew install ruby` (the version macOS ships with is too
+     old). Or install [rbenv](https://github.com/rbenv/rbenv).
+   - **Windows:** install [RubyInstaller](https://rubyinstaller.org/) —
+     pick the option that includes "MSYS2 and development toolchain."
+   - **Linux:** `sudo apt install ruby-full build-essential` (Debian/
+     Ubuntu) or your distro's equivalent.
+2. Install Bundler: `gem install bundler`
+3. From inside this folder, install the site's dependencies:
+   ```
+   bundle install
+   ```
 
-Content is generally stored in `/content` directory. Each subdirectory is generally a page or collection of "posts" or "articles". The `_index.md` file in each subdirectory is the "landing page" for that section.
+**Every time you want to preview**
 
-Sometimes information is better stored in a data file. For example, the list of speakers is stored in `/data/faculty.yaml`. This is because it is easier to maintain and update than individual docs in a subfolder. The limitation is that the data has expected formats and is not as flexible as a markdown file. Thus, big changes to data needs appropriate changes to the theme.
+```
+bundle exec jekyll serve
+```
 
-## Editing the **theme**
+Then open **http://localhost:4000** in a browser. Leave the command
+running — it watches your files and rebuilds automatically when you save
+a change, so you can just refresh the browser tab to see edits. Press
+`Ctrl+C` in the terminal to stop it.
 
-The theme is based on [Imbizo website](https://imbizo.africa) and is a `git submodule` in the `/themes` directory - [imbizo-website-base](https://github.com/isicnimbizo/imbizo-website-base).
+**If you'd rather not install Ruby at all:** push your changes to a
+separate branch (e.g. `preview`) and turn on GitHub Pages for that branch
+in a scratch/test repo, or open a pull request — GitHub Pages will build
+it on their servers and give you a live preview URL, no local install
+needed. Slower feedback loop, but zero setup.
 
-Dealing with submodules can be a little tricky. The best way to work with them is to clone the project with the `--recurse-submodules` flag. This will clone the theme as well. If you forget to do this, you can run `git submodule update --init --recursive` to clone the theme.
+## File map
 
-To make changes to the theme, you need to clone the theme repo and make changes there. 
-1. Then, commit and push the changes to the **theme repo**. 
-1. Then, commit and push the changes to **this repo**.
-
-If you forget to commit and push the theme repo, the changes will not be reflected in this repo. Changes to theme in this repo will be shown as a file that references which version of the submodule to use. **Don't commit a "dirty" change**. _Some of this may only make sense once you start making changes - that's okay!_
-
-An advantage of this approach is a clean separation of concerns. The theme is a separate project and can be used in other projects. The theme is also a submodule, so it can be updated easily and the appropriate version of the theme can be explicitly used.
-
-
-## LICENSE
-based on [Imbizo website](https://imbizo.africa) and [Kross Hugo theme](https://github.com/themefisher/kross-hugo/) developed by Themefisher.
-
-licensed using [MIT](https://github.com/themefisher/kross-hugo/blob/master/LICENSE)
-
-icons by [Themify](https://themify.me/themify-icons)
-
-slideshows by [Slick](https://kenwheeler.github.io/slick/)
+```
+_config.yml         site title, nav tabs, footer text — the "settings" file
+_layouts/default.html   the one shared page template (header, nav, footer)
+assets/style.css    all colors, fonts, and spacing — the only design file
+index.md            Home page
+program.md           Program page
+speakers.md          Speakers page
+venue.md             Venue page
+register.md          Register page
+CONTRIBUTING.md      plain-language guide for editors
+```
